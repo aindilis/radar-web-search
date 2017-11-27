@@ -1,0 +1,50 @@
+$VAR1 = [
+          {
+            'Links' => [
+                         'http://nukefix.org/ftp:/www.nukefix.org/pub/STARTFIX.EXE'
+                       ],
+            'Summary' => 'With the downloadable computer program Nukefix you can simulate the consequences of proliferation, the START II treaty, deterrence, simultaneous nuclear detonations ...',
+            'URL' => 'http://nukefix.org/parkway/player/content-filtering-software-for-business'
+          },
+          {
+            'Links' => [
+                         'https://s3-us-west-2.amazonaws.com/spytech-trials/spyagent9.zip',
+                         'https://s3-us-west-2.amazonaws.com/spytech-trials/netvizor.zip',
+                         'https://s3-us-west-2.amazonaws.com/spytech-trials/spyanywhere.zip',
+                         'https://s3-us-west-2.amazonaws.com/spytech-trials/keystrokespy.zip'
+                       ],
+            'URL' => 'https://www.spytech-web.com/content-filter.shtml',
+            'Summary' => 'Filtering <b>Software</b> that records and blocks unauthorized behavior. A <b>Content Filtering</b> tool is a type of <b>software</b> that runs invisible to the user ...'
+          },
+          {
+            'Links' => [
+                         'http://windows7themes.net/download2/NetNannyInstall.exe',
+                         'mailto:support@windows7themes.net?subject=NetNannyInstall.exe',
+                         'http://windows7themes.net/download2/HomeGuard-Setup.exe',
+                         'mailto:support@windows7themes.net?subject=HomeGuard-Setup.exe'
+                       ],
+            'Summary' => 'K9 Web Protection is a great <b>content filtering</b> <b>software</b> - but what if you need something more sophisticated to protect your children online? K9 web',
+            'URL' => 'http://windows7themes.net/en-us/5-k9-web-protection-alternatives-content-filtering-software/'
+          },
+          {
+            'Links' => [
+                         'http://download.k9webprotection.com/k9-webprotection-beta.exe'
+                       ],
+            'URL' => 'http://www1.k9webprotection.com/news/highlights',
+            'Summary' => 'News Highlights. Symantec Acquires Blue Coat. ... "Somewhere along the line Blue Coat decided to put their enterprise-level <b>content filtering</b> technology to work to protect our ... The #1 free parental controls and internet filter desktop <b>software</b> is now available for Android as a safe browser ...'
+          },
+          {
+            'Summary' => '<b>Download</b> Comvigo <b>Content Filtering</b> <b>Software</b> Products - Block Websites, Parental Control',
+            'URL' => 'http://www.comvigo.com/download/',
+            'Links' => [
+                         'https://imlock.s3.amazonaws.com/IMLockSetup.zip'
+                       ]
+          },
+          {
+            'URL' => 'http://www.handycafe.com/fdownload.php',
+            'Summary' => 'Downloading HandyCafe Firewall. Free network based Firewall &amp; <b>Content Filtering</b> <b>Software</b>',
+            'Links' => [
+                         'http://cdn4.handycafe.com/filter/handycafe_filter_v4.exe'
+                       ]
+          }
+        ];

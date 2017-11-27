@@ -1,0 +1,130 @@
+$VAR1 = [
+          {
+            'Links' => [
+                         'ftp://ftp.ncbi.nih.gov/pub/taxonomy/taxdmp.zip'
+                       ],
+            'Summary' => 'Results. The TNRS, or Taxonomic <b>Name Resolution</b> Service, is an online application for automated and user-supervised standardization of plant scientific names.',
+            'URL' => 'http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-16'
+          },
+          {
+            'Summary' => 'Sometimes the Python <b>name resolution</b> is explained using a LEGB rule. ... <b>Name resolution</b> and the (wrong?) LEGB rule. Marco Buttu: Dec 08, ... <b>Download</b> ActivePerl; <b>Download</b> ActivePython; <b>Download</b> ActiveTcl; About ActiveState; Careers;',
+            'Links' => [
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.24.1.2402/ActivePerl-5.24.1.2402-MSWin32-x86-64int-401627.exe',
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.24.1.2402/ActivePerl-5.24.1.2402-MSWin32-x64-401627.exe',
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.24.1.2402/ActivePerl-5.24.1.2402-x86_64-linux-glibc-2.15-401614.tar.gz',
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.22.3.2204/ActivePerl-5.22.3.2204-MSWin32-x86-64int-401627.exe',
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.22.3.2204/ActivePerl-5.22.3.2204-MSWin32-x64-401627.exe',
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.22.3.2204/ActivePerl-5.22.3.2204-x86_64-linux-glibc-2.15-401614.tar.gz',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/2.7.13.2715/ActivePython-2.7.13.2715-win64-x64-402859.exe',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/2.7.13.2715/ActivePython-2.7.13.2715-linux-x86_64-glibc-2.12-402695.tar.gz',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.5.3.3505/ActivePython-3.5.3.3505-win64-x64-402859.exe',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.5.3.3505/ActivePython-3.5.3.3505-linux-x86_64-glibc-2.12-402696.tar.gz',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.6.0.3600/ActivePython-3.6.0.3600-win64-x64-401834.exe',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.6.0.3600/ActivePython-3.6.0.3600-linux-x86_64-glibc-2.3.6-401834.tar.gz',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.6.0.3600/ActivePython-3.6.0.3600-win32-x86-401834.exe',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.6.0.3600/ActivePython-3.6.0.3600-linux-x86-glibc-2.3.6-401834.tar.gz',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.4.1/ActiveTcl8.6.4.1.299124-win32-ix86-threaded.exe',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.4.1/ActiveTcl8.6.4.1.299124-win32-x86_64-threaded.exe',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.4.1/ActiveTcl8.6.4.1.299124-linux-ix86-threaded.tar.gz',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.4.1/ActiveTcl8.6.4.1.299124-linux-x86_64-threaded.tar.gz',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.6.8606/ActiveTcl-8.6.6.8606-MSWin32-x64-401995.exe',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.6.8606/ActiveTcl-8.6.6.8606-x86_64-linux-glibc-2.5-401948.tar.gz',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.5.18.0/ActiveTcl8.5.18.0.298892-win32-ix86-threaded.exe',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.5.18.0/ActiveTcl8.5.18.0.298892-win32-x86_64-threaded.exe',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.5.18.0/ActiveTcl8.5.18.0.298892-linux-ix86-threaded.tar.gz',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.5.18.0/ActiveTcl8.5.18.0.298892-linux-x86_64-threaded.tar.gz',
+                         'https://www.activestate.com/komodo-ide/downloads/ide/thank-you?dl=http://downloads.activestate.com/Komodo/releases/10.2.2/Komodo-IDE-10.2.2-89895-linux-x86.tar.gz',
+                         'https://www.activestate.com/komodo-ide/downloads/ide/thank-you?dl=http://downloads.activestate.com/Komodo/releases/10.2.2/Komodo-IDE-10.2.2-89895-linux-x86_64.tar.gz'
+                       ],
+            'URL' => 'http://code.activestate.com/lists/python-list/710239/'
+          },
+          {
+            'URL' => 'http://code.activestate.com/lists/python-list/710257/',
+            'Summary' => '... <b>Name resolution</b> and the (wrong?) LEGB rule. ... <b>Download</b> ActivePerl; <b>Download</b> ActivePython; <b>Download</b> ActiveTcl; About ActiveState; Careers; Privacy Policy | Contact Us | Support © 2017 ActiveState <b>Software</b> Inc. All rights reserved. ActiveState®, Komodo®, ActiveState Perl Dev Kit® ...',
+            'Links' => [
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.24.1.2402/ActivePerl-5.24.1.2402-MSWin32-x86-64int-401627.exe',
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.24.1.2402/ActivePerl-5.24.1.2402-MSWin32-x64-401627.exe',
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.24.1.2402/ActivePerl-5.24.1.2402-x86_64-linux-glibc-2.15-401614.tar.gz',
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.22.3.2204/ActivePerl-5.22.3.2204-MSWin32-x86-64int-401627.exe',
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.22.3.2204/ActivePerl-5.22.3.2204-MSWin32-x64-401627.exe',
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.22.3.2204/ActivePerl-5.22.3.2204-x86_64-linux-glibc-2.15-401614.tar.gz',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/2.7.13.2715/ActivePython-2.7.13.2715-win64-x64-402859.exe',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/2.7.13.2715/ActivePython-2.7.13.2715-linux-x86_64-glibc-2.12-402695.tar.gz',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.5.3.3505/ActivePython-3.5.3.3505-win64-x64-402859.exe',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.5.3.3505/ActivePython-3.5.3.3505-linux-x86_64-glibc-2.12-402696.tar.gz',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.6.0.3600/ActivePython-3.6.0.3600-win64-x64-401834.exe',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.6.0.3600/ActivePython-3.6.0.3600-linux-x86_64-glibc-2.3.6-401834.tar.gz',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.6.0.3600/ActivePython-3.6.0.3600-win32-x86-401834.exe',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.6.0.3600/ActivePython-3.6.0.3600-linux-x86-glibc-2.3.6-401834.tar.gz',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.4.1/ActiveTcl8.6.4.1.299124-win32-ix86-threaded.exe',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.4.1/ActiveTcl8.6.4.1.299124-win32-x86_64-threaded.exe',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.4.1/ActiveTcl8.6.4.1.299124-linux-ix86-threaded.tar.gz',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.4.1/ActiveTcl8.6.4.1.299124-linux-x86_64-threaded.tar.gz',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.6.8606/ActiveTcl-8.6.6.8606-MSWin32-x64-401995.exe',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.6.8606/ActiveTcl-8.6.6.8606-x86_64-linux-glibc-2.5-401948.tar.gz',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.5.18.0/ActiveTcl8.5.18.0.298892-win32-ix86-threaded.exe',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.5.18.0/ActiveTcl8.5.18.0.298892-win32-x86_64-threaded.exe',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.5.18.0/ActiveTcl8.5.18.0.298892-linux-ix86-threaded.tar.gz',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.5.18.0/ActiveTcl8.5.18.0.298892-linux-x86_64-threaded.tar.gz',
+                         'https://www.activestate.com/komodo-ide/downloads/ide/thank-you?dl=http://downloads.activestate.com/Komodo/releases/10.2.2/Komodo-IDE-10.2.2-89895-linux-x86.tar.gz',
+                         'https://www.activestate.com/komodo-ide/downloads/ide/thank-you?dl=http://downloads.activestate.com/Komodo/releases/10.2.2/Komodo-IDE-10.2.2-89895-linux-x86_64.tar.gz'
+                       ]
+          },
+          {
+            'Links' => [
+                         'https://docs.cfengine.com/docs/3.7/cfengine-documentation-3.7.tar.gz'
+                       ],
+            'Summary' => 'Set up <b>name resolution</b> with DNS ... # cf-agent -f unit_edit_name_resolution.cf # set up resolv.conf # cat /tmp/resolv.conf # show resolv.conf search mydomain.tld nameserver 128.39.89.8 nameserver 128.39.74.66 # echo \'nameserver 0.0.0.0\' &gt;&gt; /tmp/resolv ... <b>Download</b> all CFEngine documentation for ...',
+            'URL' => 'https://docs.cfengine.com/docs/3.7/examples-example-snippets-promise-patterns-example_edit_name_resolution.html'
+          },
+          {
+            'URL' => 'https://forums.freenas.org/index.php?threads/dns-name-resolution-for-jails.22156/',
+            'Summary' => 'DNS <b>name resolution</b> for jails? Discussion in \'Networking\' started by BottomsUp, Jul 13, 2014. BottomsUp Newbie. Joined: Jun 28, 2014 Messages: 14 Thanks Received: 0 ... <b>Software</b> Engineer. You need to add DNS entries to your router\'s hosts list.',
+            'Links' => [
+                         'https://download.freenas.org/11/RELEASE/x64/FreeNAS-11.0-RELEASE.iso'
+                       ]
+          },
+          {
+            'URL' => 'https://www.3cx.com/community/threads/name-resolution-outbound-calls.39579/',
+            'Summary' => '<b>name resolution</b> outbound calls. Discussion in \'3CX Phone System - General\' started by mirjam.nz, Jun 2, ... I\'m familiar with the process that when LDAP <b>name resolution</b> is configured, ... <b>Software</b> Based VoIP IP PBX / PABX.',
+            'Links' => [
+                         'http://downloads.3cx.com/downloads/3CXCallFlowDesigner.exe'
+                       ]
+          },
+          {
+            'Links' => [
+                         'https://www.codeproject.com/KB/IP/PeerNameResolution/PeerNameResolution_demo.zip',
+                         'https://www.codeproject.com/KB/IP/PeerNameResolution/PeerNameResolution_src.zip'
+                       ],
+            'Summary' => 'Introduction to Peer <b>Name Resolution</b> and Microsoft\'s Peer-to-Peer technology.; Author: Adrian_Moore; Updated: 27 Oct 2005; Section: Internet / Network; Chapter ...',
+            'URL' => 'https://www.codeproject.com/articles/12090/peer-name-resolution-pnrp'
+          },
+          {
+            'URL' => 'https://www.nuget.org/packages/System.Net.NameResolution/',
+            'Summary' => 'Average <b>downloads</b> per day. 2016-11-15. ... which enables developers to perform simple domain <b>name resolution</b>. ... To install System.Net.NameResolution, ...',
+            'Links' => [
+                         'https://dist.nuget.org/win-x86-commandline/latest/nuget.exe'
+                       ]
+          },
+          {
+            'Links' => [
+                         'http://download.virtualbox.org/virtualbox/5.1.22/VirtualBox-5.1.22-115126-Win.exe',
+                         'http://download.virtualbox.org/virtualbox/5.1.22/VirtualBox-5.1.22-115126-SunOS.tar.gz',
+                         'http://download.virtualbox.org/virtualbox/5.1.22/VirtualBoxSDK-5.1.22-115126.zip',
+                         'http://download.virtualbox.org/virtualbox/5.1.22/VirtualBox-5.1.22.tar.bz2'
+                       ],
+            'Summary' => '<b>Download</b> <b>Software</b>. <b>Download</b> the following <b>software</b>. Oracle Linux; VirtualBox (Must be version 4.1.14 or later); ... INFO: PRVF-4657 : <b>Name resolution</b> setup check for "rac-scan.localdomain" (IP address: 192.168.56.73) failed INFO: ERROR:',
+            'URL' => 'http://www.lab128.com/rac_installation_using_vb/article_text.html'
+          },
+          {
+            'URL' => 'http://www.starrsoft.com/software/Win500/',
+            'Links' => [
+                         'http://www.starrsoft.com/software/Win500/Win500.zip',
+                         'http://www.starrsoft.com/software/Win500/Win500Client.zip',
+                         'http://www.starrsoft.com/software/Win500/PSR-500_V-Scanner.zip',
+                         'http://www.ftdichip.com/Drivers/CDM/CDM%202.04.16.exe',
+                         'http://www.starrsoft.com/software/Win500/TCPMux.zip'
+                       ],
+            'Summary' => 'Win500: Management and Control <b>Software</b> for the PSR-500, PSR-600, ... Added <b>name resolution</b> to connection messages (server side) ... Supports upload/<b>download</b>, V-Scanner read/write, remote control and monitoring, and P96 ...'
+          }
+        ];

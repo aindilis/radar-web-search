@@ -1,0 +1,35 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html><head>
+<style type="text/css">
+<!--
+.style5 {color: #000000}
+.style6 {font-weight: bold; font-size: 16px;}
+-->
+</style>
+LucQE</head>
+
+<body>
+<h1>External Ranking Function </h1>
+<p align="left" class="style5">This module provides utilities that allow to use external ranking function for Lucene and to evaluate its performance for TREC. In this case, I used Fuzzy Logic Ranking Function, but any other function could be used instead. </p>
+<h2 align="left" class="style5">Procedure</h2>
+<h3 align="left" class="style5">Training Set Creation</h3>
+<p align="left" class="style5">In certain cases you need to create a training set for your function. I used various approaches to creation of Ranking Function, one of them was Adaptive Neuro Fuzzy Inference System (ANFIS) which required training data. </p>
+<p align="left" class="style5">execute  SearchFiles odd<br>
+{@link com.hrst.trec.FileConverter com.hrst.trec.FileConverter}  
+(creates training set) <br>
+Train your Ranking Function</p>
+<h3 align="left" class="style5">Test Set Creation</h3>
+<p class="style5">SearchFiles even<br>
+  com.hrstc.trec.ColumnExtractor (extracts data necessary for input to Ranking Function; in my case it was tf, idf, coord, boost) <br>
+  Rank data with your ranking function <br>
+com.hrstc.trec.MatlabToTREC ( format output of your ranking function so that it could be evaluated for TREC ) </p>
+<h3 align="left" class="style5">Evaluation (TREC)</h3>
+<a href="../trec/package.html">details</a>
+<p class="style5"></p>
+@author Neil O. Rouben
+<p class="style5">&nbsp;</p>
+<p class="style5">&nbsp;</p>
+<p class="style5">&nbsp;</p>
+<p class="style5">&nbsp;</p>
+<p align="justify" class="style5">&nbsp;</p>
+</body></html>

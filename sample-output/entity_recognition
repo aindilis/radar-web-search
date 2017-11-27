@@ -1,0 +1,203 @@
+$VAR1 = [
+          {
+            'URL' => 'http://nlp.stanford.edu/software/CRF-NER.shtml',
+            'Links' => [
+                         'https://nlp.stanford.edu/software/stanford-ner-2017-06-09.zip',
+                         'https://nlp.stanford.edu/software/stanford-ner-2016-10-31.zip',
+                         'https://nlp.stanford.edu/software/stanford-ner-2015-12-09.zip',
+                         'https://nlp.stanford.edu/software/stanford-ner-2015-04-20.zip',
+                         'https://nlp.stanford.edu/software/stanford-ner-2015-01-29.zip',
+                         'https://nlp.stanford.edu/software/stanford-ner-2014-10-26.zip',
+                         'https://nlp.stanford.edu/software/stanford-ner-2014-08-27.zip',
+                         'https://nlp.stanford.edu/software/stanford-ner-2014-06-16.zip',
+                         'https://nlp.stanford.edu/software/stanford-ner-2014-01-04.zip',
+                         'https://nlp.stanford.edu/software/stanford-ner-2013-11-12.zip',
+                         'https://nlp.stanford.edu/software/stanford-ner-2013-06-20.zip',
+                         'https://nlp.stanford.edu/software/stanford-ner-2013-04-04.zip',
+                         'https://nlp.stanford.edu/software/stanford-ner-2012-11-11.zip',
+                         'https://nlp.stanford.edu/software/stanford-ner-2012-07-09.tgz',
+                         'https://nlp.stanford.edu/software/stanford-ner-2012-05-22.tgz',
+                         'https://nlp.stanford.edu/software/stanford-ner-2012-04-07.tgz',
+                         'https://nlp.stanford.edu/software/stanford-ner-2012-01-06.tgz',
+                         'https://nlp.stanford.edu/software/stanford-ner-2011-09-14.tgz',
+                         'https://nlp.stanford.edu/software/stanford-ner-2011-06-19.tgz',
+                         'https://nlp.stanford.edu/software/stanford-ner-2011-05-16.tgz',
+                         'https://nlp.stanford.edu/software/stanford-ner-2009-01-16.tgz',
+                         'https://nlp.stanford.edu/software/stanford-ner-2008-05-07.tgz',
+                         'https://nlp.stanford.edu/software/stanford-ner-2006-09-18.tar.gz'
+                       ],
+            'Summary' => 'Stanford NER is a Java implementation of a Named Entity Recognizer. Named <b>Entity Recognition</b> (NER) labels sequences of words in a text which are the names of things ...'
+          },
+          {
+            'Summary' => 'Mac kit, <b>Download</b>, open, ... Named-<b>Entity Recognition</b>: With this extension, you can enrich text fields right from your workspace. It supports AlchemyAPI, ...',
+            'URL' => 'http://openrefine.org/download.html',
+            'Links' => [
+                         'https://github.com/OpenRefine/OpenRefine/releases/download/2.7/openrefine-linux-2.7.tar.gz',
+                         'https://github.com/OpenRefine/OpenRefine/releases/download/2.7/openrefine-win-2.7.zip',
+                         'https://github.com/OpenRefine/OpenRefine/archive/2.7.zip',
+                         'https://github.com/OpenRefine/OpenRefine/archive/2.7.tar.gz',
+                         'https://github.com/OpenRefine/OpenRefine/releases/download/2.7-rc.2/openrefine-linux-2.7-rc.2.tar.gz',
+                         'https://github.com/OpenRefine/OpenRefine/releases/download/2.7-rc.2/openrefine-win-2.7-rc.2.zip',
+                         'https://github.com/OpenRefine/OpenRefine/archive/2.7-rc.2.zip',
+                         'https://github.com/OpenRefine/OpenRefine/archive/2.7-rc.2.tar.gz',
+                         'https://github.com/OpenRefine/OpenRefine/releases/download/2.7-rc.1/openrefine-linux-2.7-rc.1.tar.gz',
+                         'https://github.com/OpenRefine/OpenRefine/releases/download/2.7-rc.1/openrefine-win-2.7-rc.1.zip',
+                         'https://github.com/OpenRefine/OpenRefine/archive/2.7-rc.1.zip',
+                         'https://github.com/OpenRefine/OpenRefine/archive/2.7-rc.1.tar.gz',
+                         'https://github.com/OpenRefine/OpenRefine/releases/download/2.6-rc.2/openrefine-linux-2.6-rc.2.tar.gz',
+                         'https://github.com/OpenRefine/OpenRefine/releases/download/2.6-rc.2/openrefine-win-2.6-rc.2.zip',
+                         'https://github.com/OpenRefine/OpenRefine/archive/2.6-rc.2.zip',
+                         'https://github.com/OpenRefine/OpenRefine/archive/2.6-rc.2.tar.gz',
+                         'https://github.com/OpenRefine/OpenRefine/releases/download/v2.6-rc1/openrefine-linux-2.6-rc1.tar.gz',
+                         'https://github.com/OpenRefine/OpenRefine/releases/download/v2.6-rc1/openrefine-win-2.6-rc1.zip',
+                         'https://github.com/OpenRefine/OpenRefine/archive/v2.6-rc1.zip',
+                         'https://github.com/OpenRefine/OpenRefine/archive/v2.6-rc1.tar.gz',
+                         'https://github.com/OpenRefine/OpenRefine/releases/download/2.6-beta.1/openrefine-linux-2.6-beta.1.tar.gz',
+                         'https://github.com/OpenRefine/OpenRefine/releases/download/2.6-beta.1/openrefine-win-2.6-beta.1.zip',
+                         'https://github.com/OpenRefine/OpenRefine/archive/2.6-beta.1.zip',
+                         'https://github.com/OpenRefine/OpenRefine/archive/2.6-beta.1.tar.gz',
+                         'https://github.com/OpenRefine/OpenRefine/releases/download/2.6-alpha.2/openrefine-linux-2.6-alpha.2.tar.gz',
+                         'https://github.com/OpenRefine/OpenRefine/releases/download/2.6-alpha.2/openrefine-win-2.6-alpha.2.zip',
+                         'https://github.com/OpenRefine/OpenRefine/archive/2.6-alpha.2.zip',
+                         'https://github.com/OpenRefine/OpenRefine/archive/2.6-alpha.2.tar.gz',
+                         'https://github.com/OpenRefine/OpenRefine/archive/2.6-alpha1.zip',
+                         'https://github.com/OpenRefine/OpenRefine/archive/2.6-alpha1.tar.gz',
+                         'https://github.com/OpenRefine/OpenRefine/archive/v1.0.7.zip',
+                         'https://github.com/OpenRefine/OpenRefine/archive/v1.0.7.tar.gz',
+                         'https://github.com/OpenRefine/OpenRefine/archive/v1.0.6.zip',
+                         'https://github.com/OpenRefine/OpenRefine/archive/v1.0.6.tar.gz',
+                         'https://github.com/OpenRefine/OpenRefine/releases/download/2.5/google-refine-2.5-r2407.zip',
+                         'https://github.com/OpenRefine/OpenRefine/releases/download/2.5/google-refine-2.5-r2407.tar.gz',
+                         'https://github.com/downloads/fadmaa/grefine-rdf-extension/grefine-rdf-extension-0.8.0.zip',
+                         'https://github.com/downloads/fadmaa/grefine-rdf-extension/grefine-rdf-extension-0.6.0.zip',
+                         'https://github.com/downloads/fadmaa/grefine-rdf-extension/grefine-rdf-extension-0.7.0.zip',
+                         'https://github.com/downloads/fadmaa/grefine-rdf-extension/grefine-rdf-extension-0.7.5.zip',
+                         'https://github.com/fadmaa/grefine-rdf-extension/releases/download/v0.9.0/orefine-rdf-extension-0.9.zip',
+                         'https://github.com/fadmaa/grefine-rdf-extension/archive/v0.9.0.zip',
+                         'https://github.com/fadmaa/grefine-rdf-extension/archive/v0.9.0.tar.gz'
+                       ]
+          },
+          {
+            'Summary' => 'ABNER is a <b>software</b> tool for molecular biology text ... <b>Download</b> and Legalese. ... Biomedical Named <b>Entity Recognition</b> Using Conditional Random Fields and Rich ...',
+            'URL' => 'http://pages.cs.wisc.edu/~bsettles/abner/',
+            'Links' => [
+                         'http://pages.cs.wisc.edu/~bsettles/abner/abner.jar',
+                         'http://pages.cs.wisc.edu/~bsettles/abner/abner-1.5.tar.gz'
+                       ]
+          },
+          {
+            'Summary' => 'This paper is about Name <b>Entity Recognition</b> (NER) for Punjabi Language. Lot of work has been done on English language but not much on Indian languages,...',
+            'URL' => 'https://archive.org/details/11.NameEntityRecognition.full',
+            'Links' => [
+                         'https://archive.org/download/11.NameEntityRecognition.full/11.%20Name%20entity%20recognition.full_abbyy.gz',
+                         'https://archive.org/download/11.NameEntityRecognition.full/11.%20Name%20entity%20recognition.full_daisy.zip',
+                         'https://archive.org/download/11.NameEntityRecognition.full/11.%20Name%20entity%20recognition.full_jp2.zip'
+                       ]
+          },
+          {
+            'Summary' => 'View beta <b>downloads</b>. Documentation. Get detailed documentation on how to use machine learning in your app with the latest iOS SDK. ... and named <b>entity recognition</b>. ...',
+            'Links' => [
+                         'https://docs-assets.developer.apple.com/coreml/documentation/mlmodel_specification.zip'
+                       ],
+            'URL' => 'https://developer.apple.com/machine-learning/?ref=producthunt'
+          },
+          {
+            'Links' => [
+                         'http://code.msdn.microsoft.com/Getting-Started-with-91a65652/file/114474/1/MvcMovieRTM.zip'
+                       ],
+            'URL' => 'https://forums.asp.net/t/1534950.aspx?named+entity+recognition+in+Asp+net',
+            'Summary' => '<b>Downloads</b>; Community. Overview; Community Spotlight; Articles of the Day; ... named <b>entity recognition</b> in Asp.net. Aug 10, 2010 12:44 AM | KumarHarsh | LINK. Any ...'
+          },
+          {
+            'Summary' => 'Fine-Grained Entity Recognizer ... "Fine-Grained <b>Entity Recognition</b>", in Proceedings OF THE TWENTY-SIXTH AAAI CONFERENCE ON ARTIFICIAL INTELLIGENCE (AAAI), 2012. <b>Download</b> the model file. One can test the trained model on the evaluation data or new data as they wish.',
+            'Links' => [
+                         'https://github.com/xiaoling/figer/releases/download/v0.1/figer-assembly-0.jar',
+                         'https://github.com/xiaoling/figer/releases/download/v0.1/figer_2.10-0.jar',
+                         'https://github.com/xiaoling/figer/archive/v0.1.zip',
+                         'https://github.com/xiaoling/figer/archive/v0.1.tar.gz',
+                         'https://github.com/xiaoling/figer/archive/master.zip'
+                       ],
+            'URL' => 'https://github.com/xiaoling/figer'
+          },
+          {
+            'Summary' => 'BannerIntroTutorial. Search this site. Home. ... (NLP) domain to understand and work with the Biomedical Named <b>Entity Recognition</b> tool. ... TortoiseSVN is an easy-to-use SCM / source control <b>software</b> for Microsoft Windows. (<b>download</b> page : ...',
+            'Links' => [
+                         'https://www.eclipse.org/downloads/download.php?file=/oomph/epp/neon/R3/eclipse-inst-win64.exe'
+                       ],
+            'URL' => 'https://sites.google.com/site/bannerintrotutorial/'
+          },
+          {
+            'Summary' => 'Named <b>Entity Recognition</b>; ... To <b>download</b> earlier versions of Stanford CoreNLP or language packs for ... but not its use in proprietary <b>software</b> which is distributed ...',
+            'URL' => 'https://stanfordnlp.github.io/CoreNLP/',
+            'Links' => [
+                         'http://nlp.stanford.edu/software/stanford-corenlp-full-2017-06-09.zip',
+                         'http://nlp.stanford.edu/software/stanford-arabic-corenlp-2017-06-09-models.jar',
+                         'http://nlp.stanford.edu/software/stanford-chinese-corenlp-2017-06-09-models.jar',
+                         'http://nlp.stanford.edu/software/stanford-english-corenlp-2017-06-09-models.jar',
+                         'http://nlp.stanford.edu/software/stanford-english-kbp-corenlp-2017-06-09-models.jar',
+                         'http://nlp.stanford.edu/software/stanford-french-corenlp-2017-06-09-models.jar',
+                         'http://nlp.stanford.edu/software/stanford-german-corenlp-2017-06-09-models.jar',
+                         'http://nlp.stanford.edu/software/stanford-spanish-corenlp-2017-06-09-models.jar'
+                       ]
+          },
+          {
+            'Links' => [
+                         'https://www.lt.informatik.tu-darmstadt.de/de/data/german-named-entity-recognition/fileadmin/user_upload/Group_LangTech/data/GermEval2014_complete_data.zip'
+                       ],
+            'URL' => 'https://www.lt.informatik.tu-darmstadt.de/de/data/german-named-entity-recognition/',
+            'Summary' => '<b>Software</b>. JoBimText; WebAnno; GermaNER; Dependency Collapsing; TAXI: a Taxonomy Induction System; ... TU Darmstadt » Informatik » Data » German Named <b>Entity Recognition</b>. ... The data are available for <b>download</b> below.'
+          },
+          {
+            'URL' => 'https://www.ncbi.nlm.nih.gov/bionlp/taggerone/',
+            'Links' => [
+                         'https://www.ncbi.nlm.nih.gov/research/bionlp/taggerone/TaggerOne-0.2.1.tgz'
+                       ],
+            'Summary' => 'TaggerOne: Joint Named <b>Entity Recognition</b> and Normalization with Semi-Markov Models Robert Leaman and Zhiyong Lu (PI) Research highlights. TaggerOne is a system for locating and identifying concepts such as diseases and chemicals in biomedical text, as shown in Figure 1.'
+          },
+          {
+            'Summary' => "DNorm: Disease Named <b>Entity Recognition</b> and Normalization with Pairwise Learning to Rank Robert Leaman, Rezarta Islamaj Do\x{1e7}an and Zhiyong Lu (PI)",
+            'URL' => 'https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/Demo/tmTools/DNorm.html',
+            'Links' => [
+                         'https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/Demo/tmTools/download/DNorm/DNorm-0.0.7.tgz'
+                       ]
+          },
+          {
+            'URL' => 'http://www.aomorigame.com/pypi_python_org/pypi/polyglot',
+            'Links' => [
+                         'http://www.aomorigame.com/pypi_python_org/packages/e7/98/e24e2489114c5112b083714277204d92d372f5bbe00d5507acf40370edb9/polyglot-16.7.4.tar.gz'
+                       ],
+            'Summary' => '<b>Download</b> polyglot-16 ... Polyglot is a natural language pipeline that supports massive multilingual applications. Free <b>software</b>: GPLv3 license; Documentation: IOS ... Named <b>Entity Recognition</b> (40 Languages) Part of Speech Tagging (16 Languages) Sentiment Analysis (136 Languages) Word Embeddings ...'
+          },
+          {
+            'URL' => 'http://www.chokkan.org/software/crfsuite/',
+            'Links' => [
+                         'https://github.com/downloads/chokkan/crfsuite/crfsuite-0.12.tar.gz',
+                         'https://github.com/downloads/chokkan/crfsuite/crfsuite-0.12_win32.zip',
+                         'https://github.com/downloads/chokkan/crfsuite/crfsuite-0.12-x86_64.tar.gz'
+                       ],
+            'Summary' => '<b>Download</b>. The current release ... (CRFs)}, url = {http://www.chokkan.org/<b>software</b>/crfsuite/}, year = {2007} } ... Named <b>Entity Recognition</b> (NER) using the CoNLL2003 ...'
+          },
+          {
+            'Summary' => 'Named <b>Entity Recognition</b> A Named Entity (NE) is a phrase in the text which uniquely refers to an entity of the world. It includes proper nouns, dates, identification ...',
+            'Links' => [
+                         'http://rgai.inf.u-szeged.hu/project/nlp/research/NER/ner.jar'
+                       ],
+            'URL' => 'http://www.inf.u-szeged.hu/rgai/NER'
+          },
+          {
+            'Summary' => '<b>Software</b>; Game; Movie; Music; TV Show; E-Book; Magazine; Template; Graphic; Tutorial; PAD / Mobile; Wallpaper; ... part-of-speech tagging, phrase chunking, named <b>entity recognition</b> and semantic role labeling. ... Algorithms and Applications rapidshare mediafire megaupload hotfile <b>download</b>, ...',
+            'Links' => [
+                         'http://www.istanbuleskortbayan.net/away.php?file=Entropy_Guided_Transformation_Learning_Algorithms_and_Applications.part01.zip',
+                         'http://www.istanbuleskortbayan.net/away.php?file=Entropy_Guided_Transformation_Learning_Algorithms_and_Applications.part02.zip'
+                       ],
+            'URL' => 'http://www.istanbuleskortbayan.net/ebook/556980-entropy-guided-transformation-learning-algorithms-and-applications.html'
+          },
+          {
+            'Links' => [
+                         'http://www.text-likes1.com/away.php?file=Entropy_Guided_Transformation_Learning_Algorithms_and_Applications.part01.zip',
+                         'http://www.text-likes1.com/away.php?file=Entropy_Guided_Transformation_Learning_Algorithms_and_Applications.part02.zip'
+                       ],
+            'URL' => 'http://www.text-likes1.com/ebook/556980-entropy-guided-transformation-learning-algorithms-and-applications.html',
+            'Summary' => '<b>Software</b>; Game; Movie; Music; TV Show; E-Book; Magazine; Template; Graphic; Tutorial; PAD ... part-of-speech tagging, phrase chunking, named <b>entity recognition</b> and semantic role ... megaupload hotfile <b>download</b>, Entropy Guided Transformation Learning: Algorithms and Applications torrent emule ...'
+          }
+        ];

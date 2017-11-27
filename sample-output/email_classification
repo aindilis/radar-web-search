@@ -1,0 +1,37 @@
+$VAR1 = [
+          {
+            'Summary' => 'POPFile - Automatic <b>Email Classification</b>. Search: Login; Settings; Register; Home; Timeline; Roadmap; ... (http://getpopfile.org/<b>downloads</b>/popfile-1.1.3.zip), - stop ...',
+            'URL' => 'http://getpopfile.org/discussion/1/563',
+            'Links' => [
+                         'http://getpopfile.org/downloads/popfile-1.1.3.zip'
+                       ]
+          },
+          {
+            'URL' => 'http://getpopfile.org/docs/Download',
+            'Links' => [
+                         'http://getpopfile.org/downloads/popfile-1.1.3.zip',
+                         'http://getpopfile.org/downloads/popfile-1.1.3-windows.zip',
+                         'http://getpopfile.org/downloads/POPFile-1.1.3a-macosx.dmg.gz',
+                         'http://getpopfile.org/downloads/POPFile-1.1.3a-sl-macosx.dmg.gz',
+                         'http://getpopfile.org/downloads/POPFile-1.1.3c-lion-macosx.dmg.gz',
+                         'http://getpopfile.org/downloads/POPFile-1.1.3f-yosemite-macosx.dmg.gz',
+                         'http://getpopfile.org/downloads/popfile_trunk.tgz',
+                         'http://getpopfile.org/downloads/popfile_0_22_2.tgz'
+                       ],
+            'Summary' => '... Automatic <b>Email Classification</b>. Login; Home; Timeline; Roadmap; Browse Source; View Tickets; Search; Forums; Manual; ... If you are a <b>software</b> historian, you can find old and very old releases of POPFile on our <b>Download</b> Archive page.'
+          },
+          {
+            'Summary' => 'POPFile for Mac : Free <b>Download</b> - Automatic <b>email classification</b> tool. <b>Download</b> the latest versions of the best Mac apps at MacUpdate',
+            'Links' => [
+                         'http://getpopfile.org/downloads/POPFile-1.1.3a-macosx.dmg.gz'
+                       ],
+            'URL' => 'http://www.macupdate.com/app/mac/20811/popfile'
+          },
+          {
+            'Summary' => '<b>Email Classification</b>. Papers by Keyword: ... <b>Downloads</b>; About us; Sitemap; Recent Themes. Defects and Diffusion Phenomena in Materials for Nuclear Technologies;',
+            'URL' => 'http://www.scientific.net/keyword/Email_Classification',
+            'Links' => [
+                         'https://www.scientific.net/Downloads/GetTtpFile?name=Template_LaTeX.zip'
+                       ]
+          }
+        ];

@@ -1,0 +1,120 @@
+$VAR1 = [
+          {
+            'Summary' => "Genia <b>Event Extraction</b> (GE) Task \"A shared task of literature mining for knowledge of NF\x{3ba}B pathway.\" Home: <b>Downloads</b>: ... Test set evaluation.",
+            'Links' => [
+                         'http://bionlp-st.dbcls.jp/GE/2011/downloads/BioNLP-ST_2011_genia_train_data_rev1.tar.gz',
+                         'http://bionlp-st.dbcls.jp/GE/2011/downloads/BioNLP-ST_2011_genia_devel_data_rev1.tar.gz',
+                         'http://bionlp-st.dbcls.jp/GE/2011/downloads/BioNLP-ST_2011_genia_test_data.tar.gz',
+                         'http://bionlp-st.dbcls.jp/GE/2011/downloads/BioNLP-ST_2011_genia_tools_rev1.tar.gz'
+                       ],
+            'URL' => 'http://bionlp-st.dbcls.jp/GE/2011/eval-test/'
+          },
+          {
+            'Links' => [
+                         'http://bionlp.utu.fi/static/event-extractor/TurkuEventExtractionSystem-1.01.zip',
+                         'http://bionlp.utu.fi/static/event-extractor/TurkuEventExtractionSystem-1.0.zip'
+                       ],
+            'Summary' => '<b>Event Extraction</b> <b>Software</b>. TEES 2.0. The Turku <b>Event Extraction</b> System 2.0 is the updated version of TEES used in the BioNLP\'11 Shared Task, ... <b>Downloads</b>. Feb 1 ...',
+            'URL' => 'http://bionlp.utu.fi/eventextractionsoftware.html'
+          },
+          {
+            'Links' => [
+                         'https://static-content.springer.com/esm/art%3A10.1186%2Fs13326-016-0070-4/MediaObjects/13326_2016_70_MOESM1_ESM.tar'
+                       ],
+            'Summary' => 'Biomedical <b>event extraction</b> is one of the key tasks in biomedical text mining, ... <b>Download</b> PDF. <b>Download</b> ePub. Export citations. Citations &amp; References. Papers, ... Journal of Biomedical Semantics. ISSN: 2041-1480. Contact us. Editorial email: ...',
+            'URL' => 'http://jbiomedsem.biomedcentral.com/articles/10.1186/s13326-016-0070-4'
+          },
+          {
+            'URL' => 'http://nlp.stanford.edu/software/',
+            'Links' => [
+                         'https://nlp.stanford.edu/software/stanford-manual-annotation-tool-2004-05-16.tar.gz'
+                       ],
+            'Summary' => 'The Stanford NLP Group makes some of our Natural Language Processing <b>software</b> ... Biomedical <b>Event Extraction</b> for the ... Click to <b>download</b> stanford ...'
+          },
+          {
+            'URL' => 'http://nlp.stanford.edu/software/eventparser.shtml',
+            'Links' => [
+                         'https://nlp.stanford.edu/software/stanford-eventparser-v1.tgz',
+                         'https://nlp.stanford.edu/software/bionlp2011-parses-and-tokenizations-v1.tar.gz',
+                         'https://nlp.stanford.edu/software/bionlp2011-distsim-clusters-v1.tar.gz',
+                         'https://nlp.stanford.edu/software/stanford-corenlp-v1.1.0-no-models.tgz'
+                       ],
+            'Summary' => '<b>Event Extraction</b> for the BioNLP 2009/2011 shared task. About ... This <b>software</b> is the event parser component from the Stanford and FAUST submissions to ... etc., but not in distributed proprietary <b>software</b>. The <b>download</b> requires Java 1.6. <b>Downloads</b>. <b>Download</b> Stanford Biomedical Event Parser ...'
+          },
+          {
+            'Links' => [
+                         'https://archive.org/download/pubmed-PMC3936866/PMC3936866-1472-6947-14-13_abbyy.gz',
+                         'https://archive.org/download/pubmed-PMC3936866/PMC3936866-1472-6947-14-13_daisy.zip',
+                         'https://archive.org/download/pubmed-PMC3936866/PMC3936866-1472-6947-14-13_jp2.zip'
+                       ],
+            'Summary' => '<b>software</b> All <b>Software</b> latest This Just In Old School Emulation MS-DOS Games Historical <b>Software</b> Classic PC Games ... The pipeline was tested using a set of 12 drugs representative of two previous studies of adverse <b>event extraction</b> from health-related websites and MEDLINE ... <b>download</b> 1 file',
+            'URL' => 'https://archive.org/details/pubmed-PMC3936866'
+          },
+          {
+            'Links' => [
+                         'https://bitbucket.org/tsendeemts/deeptext/get/a858ece7d4af.zip'
+                       ],
+            'Summary' => 'DeepText. DeepText is a deep learning based biomedical <b>event extraction</b> system, written in Scala and Lua (using Torch). A detailed description of the approach ...',
+            'URL' => 'https://bitbucket.org/tsendeemts/deeptext'
+          },
+          {
+            'URL' => 'https://dbs.ifi.uni-heidelberg.de/resources/load/',
+            'Summary' => '... for the efficient retrieval of relevant instances of entity co-occurrences to support traditional methods of <b>event extraction</b> ... LOAD graph <b>downloads</b>;',
+            'Links' => [
+                         'https://dbs.ifi.uni-heidelberg.de/download/LOAD_wikipedia_en_2016_05_stanfordNER.zip',
+                         'https://dbs.ifi.uni-heidelberg.de/download/sentences_wikipedia_en_2016_05_stanfordNER.zip',
+                         'https://dbs.ifi.uni-heidelberg.de/download/LOAD_wikipedia_en_2016_05_wikidata.zip',
+                         'https://dbs.ifi.uni-heidelberg.de/download/sentences_wikipedia_en_2016_05_wikidata.zip',
+                         'https://dbs.ifi.uni-heidelberg.de/download/LOAD_en_Wikipedia_2016_05_edgelist.zip',
+                         'https://dbs.ifi.uni-heidelberg.de/download/LOAD_wikipedia_en_USCivilWar.zip',
+                         'https://dbs.ifi.uni-heidelberg.de/download/LOAD_en_Wikipedia_2016_05_USCivilWar_edgelist.zip',
+                         'https://dbs.ifi.uni-heidelberg.de/fileadmin/datasets/load/LOAD_Network_v1.01.zip',
+                         'https://dbs.ifi.uni-heidelberg.de/download/loadGraph.tar.gz',
+                         'https://dbs.ifi.uni-heidelberg.de/fileadmin/datasets/load/loadQI.jar',
+                         'https://dbs.ifi.uni-heidelberg.de/fileadmin/datasets/load/load_evaluation_data.zip'
+                       ]
+          },
+          {
+            'Summary' => 'chengkun-wu / PWTEES forked from jbjorne/TEES. ... ===== Turku <b>Event Extraction</b> System 2.2 ... <b>download</b> the latest stable release from http ...',
+            'Links' => [
+                         'https://github.com/chengkun-wu/PWTEES/archive/master.zip'
+                       ],
+            'URL' => 'https://github.com/chengkun-wu/PWTEES'
+          },
+          {
+            'Summary' => 'Turku <b>Event Extraction</b> System 2.2.1 ===== Turku <b>Event Extraction</b> System (TEES) is a free and open source natural language processing system ...',
+            'Links' => [
+                         'https://github.com/jbjorne/TEES/archive/master.zip'
+                       ],
+            'URL' => 'https://github.com/jbjorne/TEES'
+          },
+          {
+            'Links' => [
+                         'https://blender04.cs.rpi.edu/~jih/software/joint_ere_release.tar.gz',
+                         'https://blender04.cs.rpi.edu/~jih/software/Linkipedia.tar.gz'
+                       ],
+            'Summary' => 'Home Publications Projects <b>Software</b> Openings Seminars People Alumni Contact KBP. ... Joint <b>Event Extraction</b> via Structured Prediction with Global Features. ... Link: <b>download</b>, demo: RPI Entity Discovery and Linking System. Currently it includes English, Chinese and Spanish Entity Discovery and ...',
+            'URL' => 'https://nlp.cs.rpi.edu/software/'
+          },
+          {
+            'URL' => 'https://omictools.com/pathway-turku-event-extraction-system-tool',
+            'Links' => [
+                         'https://github.com/chengkun-wu/PWTEES/archive/master.zip'
+                       ],
+            'Summary' => 'PathWay Turku <b>Event Extraction</b> System PWTEES ... <b>Download</b> PathWay Turku <b>Event Extraction</b> ... A text-mining <b>software</b> tool that integrates several state-of-the-art ...'
+          },
+          {
+            'URL' => 'https://tweakers.net/downloads/32117/winhex-175.html',
+            'Summary' => '<b>Downloads</b>; IT Banen; IT Pro; Profielen; Tweakblogs; ... Windows Registry report and <b>event extraction</b> revised. Ability to interpret evidence file containers larger ...',
+            'Links' => [
+                         'http://www.winhex.com/winhex.zip'
+                       ]
+          },
+          {
+            'URL' => 'https://tweakers.net/downloads/34297/winhex-181.html',
+            'Links' => [
+                         'http://www.winhex.com/winhex.zip'
+                       ],
+            'Summary' => '<b>Downloads</b>; IT Banen; IT Pro; Profielen; ... Minor fix for and improvement of <b>event extraction</b> from .evtx event logs in case events had been deleted in the event log ...'
+          }
+        ];

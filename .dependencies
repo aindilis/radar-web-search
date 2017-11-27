@@ -1,0 +1,14 @@
+$VAR1 = [
+          'Capability::WebSearch',
+          'Rival::Yahoo::Search::Result',
+          'MyFRDCSA::File',
+          'MyFRDCSA',
+          'BOSS::Config',
+          'Capability::QueryExpansion',
+          'Capability::Tokenize',
+          'Capability::WebSearch::API::Rival::Yahoo::Search',
+          'Capability::WebSearch::API::Rival::Yahoo::Search::AsList',
+          'PerlLib::SwissArmyKnife',
+          'PerlLib::Util',
+          'Manager::Dialog'
+        ];

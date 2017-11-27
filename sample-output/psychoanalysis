@@ -1,0 +1,48 @@
+$VAR1 = [
+          {
+            'Links' => [
+                         'https://archive.org/compress/PsychoanalysisAndTheUnconscious/formats=ABBYY%20GZ&file=/PsychoanalysisAndTheUnconscious.zip',
+                         'https://archive.org/download/PsychoanalysisAndTheUnconscious/Fantasia%20of%20the%20Unconscious_abbyy.gz',
+                         'https://archive.org/download/PsychoanalysisAndTheUnconscious/Psychoanalysis-And-The-Unconscious_abbyy.gz',
+                         'https://archive.org/compress/PsychoanalysisAndTheUnconscious/formats=DAISY&file=/PsychoanalysisAndTheUnconscious.zip',
+                         'https://archive.org/download/PsychoanalysisAndTheUnconscious/Fantasia%20of%20the%20Unconscious_daisy.zip',
+                         'https://archive.org/download/PsychoanalysisAndTheUnconscious/Psychoanalysis-And-The-Unconscious_daisy.zip',
+                         'https://archive.org/compress/PsychoanalysisAndTheUnconscious/formats=EPUB&file=/PsychoanalysisAndTheUnconscious.zip',
+                         'https://archive.org/compress/PsychoanalysisAndTheUnconscious/formats=DJVUTXT&file=/PsychoanalysisAndTheUnconscious.zip',
+                         'https://archive.org/compress/PsychoanalysisAndTheUnconscious/formats=KINDLE&file=/PsychoanalysisAndTheUnconscious.zip',
+                         'https://archive.org/compress/PsychoanalysisAndTheUnconscious/formats=TEXT%20PDF&file=/PsychoanalysisAndTheUnconscious.zip',
+                         'https://archive.org/compress/PsychoanalysisAndTheUnconscious/formats=SINGLE%20PAGE%20PROCESSED%20JP2%20ZIP&file=/PsychoanalysisAndTheUnconscious.zip',
+                         'https://archive.org/download/PsychoanalysisAndTheUnconscious/Fantasia%20of%20the%20Unconscious_jp2.zip',
+                         'https://archive.org/download/PsychoanalysisAndTheUnconscious/Psychoanalysis-And-The-Unconscious_jp2.zip'
+                       ],
+            'URL' => 'https://archive.org/details/PsychoanalysisAndTheUnconscious',
+            'Summary' => '<b>software</b> All <b>Software</b> latest This Just In Old School Emulation MS-DOS Games Historical <b>Software</b> Classic PC Games <b>Software</b> Library. ... <b>Psychoanalysis</b> And The Unconscious ... Griselda Pollock <b>Psychoanalysis</b> And The Image 2006 . Apr 24, 2015 04/15. texts. eye 209'
+          },
+          {
+            'Summary' => '<b>software</b> All <b>Software</b> latest This Just In Old School Emulation MS-DOS Games Historical <b>Software</b> Classic PC Games <b>Software</b> Library. ... <b>Psychoanalysis</b> and the unconscious . Feb 14, 2011 02/11. ... <b>Psychoanalysis</b> and sociology . Dec 5, 2007 12/07. by Kolnai, Aurel. texts. eye 662',
+            'Links' => [
+                         'https://archive.org/download/psychoanalysisso00koln/psychoanalysisso00koln_abbyy.gz',
+                         'https://archive.org/download/psychoanalysisso00koln/psychoanalysisso00koln_daisy.zip',
+                         'https://archive.org/download/psychoanalysisso00koln/psychoanalysisso00koln_orig_jp2.tar',
+                         'https://archive.org/download/psychoanalysisso00koln/psychoanalysisso00koln_jp2.zip'
+                       ],
+            'URL' => 'https://archive.org/details/psychoanalysisso00koln'
+          },
+          {
+            'Summary' => '<b>Download</b> Fast Reading Italian <b>Psychoanalysis</b> from uptobox, uploaded, rapidgator, rapidshare, mega.co.nz, 1fichier, keep2share, uploadable. Free Reading Italian <b>Psychoanalysis</b> torrents <b>downloads</b> included serial, keygen, crack.',
+            'Links' => [
+                         'http://nitroflare.com/view/A3E0CD4189D507C/wz0nx.R.I.P.rar',
+                         'http://rapidgator.net/file/27439f025abbe72bb8b14b4f6d3076dc/wz0nx.R.I.P.rar',
+                         'http://uploaded.net/file/2osl8lnq/wz0nx.R.I.P.rar'
+                       ],
+            'URL' => 'https://link-downloads.com/ebooks/180346-reading-italian-psychoanalysis.html'
+          },
+          {
+            'Summary' => 'He argues that <b>psychoanalysis</b> has outgrown the individual setting and needs to evolve new methods of group work ... TV Shows, Magazine, <b>Software</b>, Tutorials and eBooks <b>Download</b> Aces High, Paranormal, Haunted, Cryptography, Bm 21 ...',
+            'URL' => 'http://www.avaxhomesos.com/ebooks/1359513-outside-the-dream-rle-lacan-lacan-and-french-styles-of-psychoanalysis.html',
+            'Links' => [
+                         'http://nitroflare.com/view/6EDF7D99E40A14D/9k19l.O.t.D.RLE.L.L.a.F.S.o.P.rar',
+                         'http://rapidgator.net/file/8e06dc7330508a4f0eda93808d85a07c/9k19l.O.t.D.RLE.L.L.a.F.S.o.P.rar'
+                       ]
+          }
+        ];

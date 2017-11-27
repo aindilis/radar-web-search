@@ -1,0 +1,88 @@
+$VAR1 = [
+          {
+            'Links' => [
+                         'http://www.cs.york.ac.uk/fp/temp/hat-win32-05_jul_2006.zip'
+                       ],
+            'URL' => 'http://community.haskell.org/~ndm/downloads/',
+            'Summary' => '<b>Downloads</b>. Bibtex files are ... Deriving a Relationship from a Single Example - from Approaches and Applications of <b>Inductive Programming</b> 2009'
+          },
+          {
+            'Links' => [
+                         'https://archive.org/download/B-001-003-626/10.1.1.212.8848_abbyy.gz',
+                         'https://archive.org/download/B-001-003-626/10.1.1.212.8848_daisy.zip',
+                         'https://archive.org/download/B-001-003-626/10.1.1.212.8848_jp2.zip',
+                         'https://archive.org/download/B-001-003-626/B-001-003-626.zip'
+                       ],
+            'URL' => 'https://archive.org/details/B-001-003-626',
+            'Summary' => 'Nr. 81; AAIP 2009; Proceedings of the ACM SIGPLAN Workshop on Approaches and Applications of <b>Inductive Programming</b>'
+          },
+          {
+            'Summary' => '<b>Inductive programming</b> is a unique area of Artificial Intelligence focused on the task of Automatic Programming; it covers broad areas of Ai and <b>software</b> architecture ...',
+            'URL' => 'https://github.com/erickmiller/AutomatousSourceCode',
+            'Links' => [
+                         'https://github.com/erickmiller/AutomatousSourceCode/archive/master.zip'
+                       ]
+          },
+          {
+            'URL' => 'http://www.cogsys.wiai.uni-bamberg.de/effalip/download.html',
+            'Links' => [
+                         'http://www.cogsys.wiai.uni-bamberg.de/darcs/igor2/dist/igor2-0.8.0.tar.gz',
+                         'http://www.cogsys.wiai.uni-bamberg.de/darcs/igor2/dist/igor2-0.8.0.exe',
+                         'http://www.cogsys.wiai.uni-bamberg.de/darcs/igor2/dist/igor2-0.7.1.3.tar.gz',
+                         'http://www.cogsys.wiai.uni-bamberg.de/darcs/igor2/dist/igor2-0.7.1.3.exe',
+                         'http://www.cogsys.wiai.uni-bamberg.de/darcs/igor2/dist/igor2-0.7.1.2.tar.gz',
+                         'http://www.cogsys.wiai.uni-bamberg.de/darcs/igor2/dist/igor2-0.7.1.2_nolog.tar.gz',
+                         'http://www.cogsys.wiai.uni-bamberg.de/darcs/igor2/dist/igor2-0.7.1.2.exe',
+                         'http://www.cogsys.wiai.uni-bamberg.de/darcs/igor2/dist/igor2-0.7.1.1.tar.gz',
+                         'http://www.cogsys.wiai.uni-bamberg.de/darcs/igor2/dist/igor2-0.7.1.1_nolog.tar.gz',
+                         'http://www.cogsys.wiai.uni-bamberg.de/darcs/igor2/dist/igor2-0.7.1.1.exe',
+                         'http://www.cogsys.wiai.uni-bamberg.de/darcs/igor2/dist/igor2-0.6.0.0.tar.gz',
+                         'http://www.cogsys.wiai.uni-bamberg.de/darcs/igor2/dist/igor2-0.6.0.0_nolog.tar.gz',
+                         'http://www.cogsys.wiai.uni-bamberg.de/darcs/igor2/dist/igor2-0.6.0.0.exe',
+                         'http://www.cogsys.wiai.uni-bamberg.de/darcs/igor2/dist/igor2-0.5.8.1.tar.gz',
+                         'http://www.cogsys.wiai.uni-bamberg.de/darcs/igor2/dist/igor2-0.5.8.2.tar.gz',
+                         'http://www.cogsys.wiai.uni-bamberg.de/darcs/igor2/dist/igor2-0.5.8.3.tar.gz',
+                         'http://www.cogsys.wiai.uni-bamberg.de/darcs/igor2/dist/igor2-0.5.8.4.tar.gz',
+                         'http://www.cogsys.wiai.uni-bamberg.de/darcs/igor2/dist/igor2-0.5.8.5.tar.gz',
+                         'http://www.cogsys.wiai.uni-bamberg.de/darcs/igor2/dist/igor2-0.5.9.0.tar.gz',
+                         'http://www.cogsys.wiai.uni-bamberg.de/darcs/igor2/dist/igor2-0.5.9.1.tar.gz',
+                         'http://www.cogsys.wiai.uni-bamberg.de/darcs/igor2/dist/igor2-0.5.9.2.tar.gz',
+                         'http://www.cogsys.wiai.uni-bamberg.de/darcs/igor2/dist/igor2-0.5.9.3.tar.gz',
+                         'http://www.cogsys.wiai.uni-bamberg.de/darcs/igor2/dist/igor2-0.5.9.4.tar.gz',
+                         'http://www.cogsys.wiai.uni-bamberg.de/darcs/igor2/dist/igor2-0.5.9.5.tar.gz',
+                         'http://www.cogsys.wiai.uni-bamberg.de/darcs/igor2/dist/igor2-0.5.9.6.tar.gz',
+                         'http://www.cogsys.wiai.uni-bamberg.de/effalip/data/programs/IgorII/Igor2.2.tar.gz',
+                         'http://www.cogsys.wiai.uni-bamberg.de/effalip/data/programs/IgorII/Igor2.3.tar.gz',
+                         'http://www.cogsys.wiai.uni-bamberg.de/effalip/data/programs/istviewer/istviewer.jar',
+                         'http://www.cogsys.wiai.uni-bamberg.de/effalip/data/programs/autoJava/autoJava_1.3.2.jar',
+                         'http://www.cogsys.wiai.uni-bamberg.de/effalip/data/programs/autoXSL/autoXSL_v1.0.tar.gz',
+                         'http://www.cogsys.wiai.uni-bamberg.de/effalip/data/programs/IgorGUI/IgorGUI.tar.gz',
+                         'http://www.cogsys.wiai.uni-bamberg.de/effalip/data/programs/App2IgorInterop/App2IgorInterop.jar',
+                         'http://www.cogsys.wiai.uni-bamberg.de/effalip/data/programs/IgorII2Output/IgorII2Output.tar.gz',
+                         'http://www.cogsys.wiai.uni-bamberg.de/effalip/data/specifications/agi09/Adate-agi09.tar.gz',
+                         'http://www.cogsys.wiai.uni-bamberg.de/effalip/data/specifications/agi09/Ffoil-agi09.tar.gz',
+                         'http://www.cogsys.wiai.uni-bamberg.de/effalip/data/specifications/agi09/Flip-agi09.tar.gz',
+                         'http://www.cogsys.wiai.uni-bamberg.de/effalip/data/specifications/agi09/Golem-agi09.tar.gz',
+                         'http://www.cogsys.wiai.uni-bamberg.de/effalip/data/specifications/agi09/Igor1-agi09.tar.gz',
+                         'http://www.cogsys.wiai.uni-bamberg.de/effalip/data/specifications/agi09/Igor2-agi09.tar.gz',
+                         'http://www.cogsys.wiai.uni-bamberg.de/effalip/data/specifications/agi09/MagicHaskeller-agi09.tar.gz',
+                         'http://www.cogsys.wiai.uni-bamberg.de/effalip/data/specifications/agi09/igor2.2-app-agi09.tar'
+                       ],
+            'Summary' => '<b>Download</b> and unpack the Cabal package, ... Other <b>Software</b> IgorII. A rough-and-ready guide to Igor2; Igor2.2 (experimental) Igor2.3 (even more experimental) ... "Analytical <b>Inductive Programming</b> as a Cognitive Rule Acquisition Devise"'
+          },
+          {
+            'Summary' => 'Dagstuhl Seminar on <b>Inductive Programming</b>. The 7th AAIP Workshop on Approaches and Applications of <b>Inductive Programming</b> is accepted as Dagstuhl Seminar 17382 and ...',
+            'Links' => [
+                         'http://www.inductive-programming.org/repository/tools/benchmarker.tar.gz'
+                       ],
+            'URL' => 'http://www.inductive-programming.org/repository.html'
+          },
+          {
+            'Summary' => 'What is <b>INDUCTIVE PROGRAMMING</b>? What does <b>INDUCTIVE PROGRAMMING</b> mean? Published: 2016/10/12. Channel: The Audiopedia.',
+            'URL' => 'http://www.mashpedia.com/Inductive_logic_programming',
+            'Links' => [
+                         'http://www.doc.ic.ac.uk/~shm/Software/golem/src.tar',
+                         'http://www.doc.ic.ac.uk/~shm/Software/golem/src.tar.gz'
+                       ]
+          }
+        ];

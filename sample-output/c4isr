@@ -1,0 +1,19 @@
+$VAR1 = [
+          {
+            'URL' => 'https://archive.org/details/ImprovedMethodBasedOnDSmT',
+            'Links' => [
+                         'https://archive.org/download/ImprovedMethodBasedOnDSmT/ImprovedMethodBasedOnDSmT_abbyy.gz',
+                         'https://archive.org/download/ImprovedMethodBasedOnDSmT/ImprovedMethodBasedOnDSmT_daisy.zip',
+                         'https://archive.org/download/ImprovedMethodBasedOnDSmT/ImprovedMethodBasedOnDSmT_jp2.zip'
+                       ],
+            'Summary' => '<b>software</b> All <b>Software</b> latest This Just In Old School Emulation MS-DOS Games Historical <b>Software</b> Classic PC Games <b>Software</b> Library. ... Improved Method Based on DSmT and Its Application in <b>C4ISR</b> System ... SINGLE PAGE PROCESSED JP2 ZIP <b>download</b>. <b>download</b> 1 file ...'
+          },
+          {
+            'Summary' => 'Look up <b>C4ISR</b> in Wiktionary, the free dictionary. Command and control definitions and procedures, UK College of Policing, www.app.college.police.uk;',
+            'URL' => 'https://en.wikipedia.org/wiki/C4ISTAR',
+            'Links' => [
+                         'https://web.archive.org/web/20020219134603/http://155.217.58.58/cgi-bin/atdl.dll/fm/3-0/fm3-0.exe',
+                         'http://155.217.58.58/cgi%E2%80%93bin/atdl.dll/fm/3-0/fm3-0.exe'
+                       ]
+          }
+        ];

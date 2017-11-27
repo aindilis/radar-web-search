@@ -1,0 +1,134 @@
+$VAR1 = [
+          {
+            'URL' => 'https://brand.syracuse.edu/web-email/',
+            'Links' => [
+                         'https://brand.syracuse.edu/wp-content/uploads/2017/01/Syr_Brand-Identity-Assets.zip',
+                         'https://brand.syracuse.edu/wp-content/uploads/2017/01/Sherman.zip',
+                         'https://brand.syracuse.edu/wp-content/uploads/2016/11/Syr_Color_Palette.zip'
+                       ],
+            'Summary' => '<b>Downloads</b>. University Lock-ups; Contact; Home; Web &amp; Email; Web &amp; Email. Web &amp; Email. Google Tag Manager; Web Fonts; ... Describe your content using <b>semantic markup</b> ...'
+          },
+          {
+            'Summary' => 'Rho is easy-to-{read,write,understand} <b>semantic markup</b> language written in Node, available both for server and browser runtime. Rho is not Markdown, although it takes a lot of ideas from modern plain-text-to-html conversion tools. reduced feature set: no blockquotes, no reference-style links in',
+            'Links' => [
+                         'https://github.com/fr33r4ng3r/rho/archive/v0.1.16.zip',
+                         'https://github.com/fr33r4ng3r/rho/archive/v0.1.16.tar.gz',
+                         'https://github.com/fr33r4ng3r/rho/archive/v0.1.15.zip',
+                         'https://github.com/fr33r4ng3r/rho/archive/v0.1.15.tar.gz',
+                         'https://github.com/fr33r4ng3r/rho/archive/v0.1.14.zip',
+                         'https://github.com/fr33r4ng3r/rho/archive/v0.1.14.tar.gz',
+                         'https://github.com/fr33r4ng3r/rho/archive/v0.1.13.zip',
+                         'https://github.com/fr33r4ng3r/rho/archive/v0.1.13.tar.gz',
+                         'https://github.com/fr33r4ng3r/rho/archive/v0.1.9.zip',
+                         'https://github.com/fr33r4ng3r/rho/archive/v0.1.9.tar.gz',
+                         'https://github.com/fr33r4ng3r/rho/archive/v0.1.8.zip',
+                         'https://github.com/fr33r4ng3r/rho/archive/v0.1.8.tar.gz',
+                         'https://github.com/fr33r4ng3r/rho/archive/v0.1.7.zip',
+                         'https://github.com/fr33r4ng3r/rho/archive/v0.1.7.tar.gz',
+                         'https://github.com/fr33r4ng3r/rho/archive/v0.1.6.zip',
+                         'https://github.com/fr33r4ng3r/rho/archive/v0.1.6.tar.gz',
+                         'https://github.com/fr33r4ng3r/rho/archive/v0.1.4.zip',
+                         'https://github.com/fr33r4ng3r/rho/archive/v0.1.4.tar.gz',
+                         'https://github.com/fr33r4ng3r/rho/archive/v0.1.3.zip',
+                         'https://github.com/fr33r4ng3r/rho/archive/v0.1.3.tar.gz',
+                         'https://github.com/fr33r4ng3r/rho/archive/master.zip'
+                       ],
+            'URL' => 'https://github.com/fr33r4ng3r/rho'
+          },
+          {
+            'Summary' => 'Rho is easy-to-{read,write,understand} <b>semantic markup</b> language written in Node, available both for server and browser runtime. Rho is not Markdown, although it takes ...',
+            'URL' => 'https://github.com/inca/rho',
+            'Links' => [
+                         'https://github.com/inca/rho/archive/v0.4.1.zip',
+                         'https://github.com/inca/rho/archive/v0.4.1.tar.gz',
+                         'https://github.com/inca/rho/archive/v0.4.0.zip',
+                         'https://github.com/inca/rho/archive/v0.4.0.tar.gz',
+                         'https://github.com/inca/rho/archive/v0.3.0.zip',
+                         'https://github.com/inca/rho/archive/v0.3.0.tar.gz',
+                         'https://github.com/inca/rho/archive/v0.2.4.zip',
+                         'https://github.com/inca/rho/archive/v0.2.4.tar.gz',
+                         'https://github.com/inca/rho/archive/v0.2.3.zip',
+                         'https://github.com/inca/rho/archive/v0.2.3.tar.gz',
+                         'https://github.com/inca/rho/archive/v0.2.2.zip',
+                         'https://github.com/inca/rho/archive/v0.2.2.tar.gz',
+                         'https://github.com/inca/rho/archive/v0.2.1.zip',
+                         'https://github.com/inca/rho/archive/v0.2.1.tar.gz',
+                         'https://github.com/inca/rho/archive/v0.2.0.zip',
+                         'https://github.com/inca/rho/archive/v0.2.0.tar.gz',
+                         'https://github.com/inca/rho/archive/v0.1.19.zip',
+                         'https://github.com/inca/rho/archive/v0.1.19.tar.gz',
+                         'https://github.com/inca/rho/archive/v0.1.18.zip',
+                         'https://github.com/inca/rho/archive/v0.1.18.tar.gz',
+                         'https://github.com/inca/rho/archive/master.zip'
+                       ]
+          },
+          {
+            'URL' => 'https://github.com/rohieb/minutes-m4rkup',
+            'Links' => [
+                         'https://github.com/rohieb/minutes-m4rkup/archive/v0.1.zip',
+                         'https://github.com/rohieb/minutes-m4rkup/archive/v0.1.tar.gz',
+                         'https://github.com/rohieb/minutes-m4rkup/archive/master.zip'
+                       ],
+            'Summary' => 'rohieb / minutes-m4rkup. Code. Issues 2. Pull requests 0. ... A <b>semantic markup</b> framework for meeting minutes. ... Please note that this <b>software</b> is in early alpha ...'
+          },
+          {
+            'URL' => 'https://peerj.com/articles/524/',
+            'Links' => [
+                         'https://dfzljdn9uc3pi.cloudfront.net/2014/524/1/all_training_data.zip'
+                       ],
+            'Summary' => '6 Citations Views <b>Downloads</b> ... Each of these examples shows how the <b>semantic markup</b> of the annotated assays can be put to ... PeerJ promises to address all issues ...'
+          },
+          {
+            'Summary' => 'Fine Grained <b>Semantic Markup</b> of Biosystematics Literature. Search this site. ... http://www.oracle.com/technetwork/java/javase/<b>downloads</b>/jdk7-<b>downloads</b>-1880260.html ...',
+            'URL' => 'https://sites.google.com/site/biosemanticsproject/project-source-code/charaparser-installation-instructions',
+            'Links' => [
+                         'http://wordnetcode.princeton.edu/2.1/WordNet-2.1.exe',
+                         'https://dl.dropbox.com/u/34085918/pro-ibiosphere/CharaParserBeta32bits.zip',
+                         'https://dl.dropbox.com/u/34085918/pro-ibiosphere/CharaParserBeta64bits.zip',
+                         'https://dl.dropbox.com/u/34085918/pro-ibiosphere/SampleDataSets.zip',
+                         'https://dl.dropbox.com/u/34085918/pro-ibiosphere/CharaParserBetaMac64bits.zip'
+                       ]
+          },
+          {
+            'Links' => [
+                         'http://sh.st/st/7a45e8ed9f73a6a10e9a22b2d8783c44/http://nitroflare.com/view/F34C61E8DF680F8/Manning.HTML5.for.NET.Developers.1617290432.rar'
+                       ],
+            'URL' => 'https://www.foxebook.net/html5-for-net-developers/',
+            'Summary' => 'HTML5 for .NET Developers PDF Free <b>Download</b>, Reviews, Read Online, ISBN: 1617290432, By Ian Gilman, ... HTML5 for .NET Developers teaches professional <b>software</b> engineers how to integrate the latest HTML5 APIs and <b>semantic markup</b> into rich web applications using JavaScript, ...'
+          },
+          {
+            'Summary' => 'HTML5 for .NET Developers teaches professional <b>software</b> engineers how to integrate the latest HTML5 APIs and <b>semantic markup</b> into rich web ... Free <b>Downloads</b>.',
+            'Links' => [
+                         'https://manning-content.s3.amazonaws.com/download/1/fb1517b-06ca-40d7-a500-8ce5e0f55c64/HTML5for.NETDevelopersSource.zip'
+                       ],
+            'URL' => 'https://www.manning.com/books/html5-for-net-developers'
+          },
+          {
+            'URL' => 'http://videolectures.net/rease_vrandecic_swmta/',
+            'Links' => [
+                         'http://videolectures.net/site/normal_dl/tag=636245/14498729322076746466630550374351548106.zip',
+                         'http://videolectures.net/site/normal_dl/tag=636246/16136427943868058812408703618279117369.zip',
+                         'http://videolectures.net/site/normal_dl/tag=636248/169352147440041409051406656493795474895.zip',
+                         'http://videolectures.net/site/normal_dl/tag=636247/50239202361661855856375703752401607593.zip'
+                       ],
+            'Summary' => 'Table of Contents: Semantic Web ... Semantic Web Methods, Tools and Applications Required <b>Software</b> ... What we will do Semantic MediaWiki AASSWWiki Editing the wiki Quick overview of wiki markup Overview of <b>semantic markup</b> Data values and types Add your own information Collaborative ...'
+          },
+          {
+            'Links' => [
+                         'http://www.ithoughts.de/downloads/rdfapresentation.zip'
+                       ],
+            'URL' => 'http://www.ithoughts.de/rdfa-editor-presentation',
+            'Summary' => 'RDFa Editor Presentation. ... The goal was to create a tool for editors that would enable them to enrich the posts they make with individual <b>semantic markup</b>. ... you can <b>download</b> the more smoothly runningoffline-exe-file. If someone needs a translation, ...'
+          },
+          {
+            'Summary' => 'Implementing Semantic Services. <b>Semantic Markup</b> forWeb ... Chapter 14 Semantic Web Patterns and ... Andrew Perez-Lopez is a <b>software</b> developer with several years of ...',
+            'URL' => 'http://www.wiley.com/WileyCDA/WileyTitle/productCd-047041801X.html',
+            'Links' => [
+                         'http://media.wiley.com/product_ancillary/1X/04704180/DOWNLOAD/All%20Code%20for%20Book%20--%20Without%20Jar%20Files.zip',
+                         'http://media.wiley.com/product_ancillary/1X/04704180/DOWNLOAD/Code%20Package%20with%20Jars%20--%20Chapter%2001-04.zip',
+                         'http://media.wiley.com/product_ancillary/1X/04704180/DOWNLOAD/Code%20Package%20with%20Jars%20--%20Chapters%2005-08.zip',
+                         'http://media.wiley.com/product_ancillary/1X/04704180/DOWNLOAD/Code%20Package%20with%20Jars%20--%20Chapters%2009-10.zip',
+                         'http://media.wiley.com/product_ancillary/1X/04704180/DOWNLOAD/Code%20Package%20with%20Jars%20--%20Chapters%2011-13.zip'
+                       ]
+          }
+        ];

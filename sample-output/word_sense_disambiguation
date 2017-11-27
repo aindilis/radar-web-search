@@ -1,0 +1,272 @@
+$VAR1 = [
+          {
+            'Links' => [
+                         'http://www.cs.unt.edu/~rada/senseval/senseval3/data/EnglishLS/EnglishLS.train.tar.gz',
+                         'http://www.cs.unt.edu/~rada/senseval/senseval3/data/EnglishLS/EnglishLS.test.tar.gz',
+                         'http://www.cse.unt.edu/~rada/senseval/senseval3/scoring/scoring.tar.gz'
+                       ],
+            'Summary' => '<b>Word sense disambiguation</b> ... We will compare several LingPipe classifiers on this task. ... The Senseval 3 distribution also contains scoring <b>software</b> written in C.',
+            'URL' => 'http://alias-i.com/lingpipe/demos/tutorial/wordSense/read-me.html'
+          },
+          {
+            'URL' => 'http://code.activestate.com/lists/python-list/630240/',
+            'Summary' => 'an initial part of my project involves assigning sense to each word in sentence. I came across this tool called wordnet. do share your views -- http://mail.python.org/mailman/listinfo/python-list',
+            'Links' => [
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.24.1.2402/ActivePerl-5.24.1.2402-MSWin32-x86-64int-401627.exe',
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.24.1.2402/ActivePerl-5.24.1.2402-MSWin32-x64-401627.exe',
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.24.1.2402/ActivePerl-5.24.1.2402-x86_64-linux-glibc-2.15-401614.tar.gz',
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.22.3.2204/ActivePerl-5.22.3.2204-MSWin32-x86-64int-401627.exe',
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.22.3.2204/ActivePerl-5.22.3.2204-MSWin32-x64-401627.exe',
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.22.3.2204/ActivePerl-5.22.3.2204-x86_64-linux-glibc-2.15-401614.tar.gz',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/2.7.13.2715/ActivePython-2.7.13.2715-win64-x64-402859.exe',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/2.7.13.2715/ActivePython-2.7.13.2715-linux-x86_64-glibc-2.12-402695.tar.gz',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.5.3.3505/ActivePython-3.5.3.3505-win64-x64-402859.exe',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.5.3.3505/ActivePython-3.5.3.3505-linux-x86_64-glibc-2.12-402696.tar.gz',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.6.0.3600/ActivePython-3.6.0.3600-win64-x64-401834.exe',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.6.0.3600/ActivePython-3.6.0.3600-linux-x86_64-glibc-2.3.6-401834.tar.gz',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.6.0.3600/ActivePython-3.6.0.3600-win32-x86-401834.exe',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.6.0.3600/ActivePython-3.6.0.3600-linux-x86-glibc-2.3.6-401834.tar.gz',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.4.1/ActiveTcl8.6.4.1.299124-win32-ix86-threaded.exe',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.4.1/ActiveTcl8.6.4.1.299124-win32-x86_64-threaded.exe',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.4.1/ActiveTcl8.6.4.1.299124-linux-ix86-threaded.tar.gz',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.4.1/ActiveTcl8.6.4.1.299124-linux-x86_64-threaded.tar.gz',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.6.8606/ActiveTcl-8.6.6.8606-MSWin32-x64-401995.exe',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.6.8606/ActiveTcl-8.6.6.8606-x86_64-linux-glibc-2.5-401948.tar.gz',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.5.18.0/ActiveTcl8.5.18.0.298892-win32-ix86-threaded.exe',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.5.18.0/ActiveTcl8.5.18.0.298892-win32-x86_64-threaded.exe',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.5.18.0/ActiveTcl8.5.18.0.298892-linux-ix86-threaded.tar.gz',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.5.18.0/ActiveTcl8.5.18.0.298892-linux-x86_64-threaded.tar.gz',
+                         'https://www.activestate.com/activego/downloads/thank-you?dl=http://downloads.activestate.com/ActiveGo/releases/1.8.3.0/ActiveGo-1.8.3.0-win64.exe',
+                         'https://www.activestate.com/activego/downloads/thank-you?dl=http://downloads.activestate.com/ActiveGo/releases/1.8.3.0/ActiveGo-1.8.3.0-linux64.tar.gz',
+                         'https://www.activestate.com/komodo-ide/downloads/ide/thank-you?dl=http://downloads.activestate.com/Komodo/releases/10.2.2/Komodo-IDE-10.2.2-89895-linux-x86.tar.gz',
+                         'https://www.activestate.com/komodo-ide/downloads/ide/thank-you?dl=http://downloads.activestate.com/Komodo/releases/10.2.2/Komodo-IDE-10.2.2-89895-linux-x86_64.tar.gz'
+                       ]
+          },
+          {
+            'URL' => 'http://code.activestate.com/lists/python-list/630248/',
+            'Links' => [
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.24.1.2402/ActivePerl-5.24.1.2402-MSWin32-x86-64int-401627.exe',
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.24.1.2402/ActivePerl-5.24.1.2402-MSWin32-x64-401627.exe',
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.24.1.2402/ActivePerl-5.24.1.2402-x86_64-linux-glibc-2.15-401614.tar.gz',
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.22.3.2204/ActivePerl-5.22.3.2204-MSWin32-x86-64int-401627.exe',
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.22.3.2204/ActivePerl-5.22.3.2204-MSWin32-x64-401627.exe',
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.22.3.2204/ActivePerl-5.22.3.2204-x86_64-linux-glibc-2.15-401614.tar.gz',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/2.7.13.2715/ActivePython-2.7.13.2715-win64-x64-402859.exe',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/2.7.13.2715/ActivePython-2.7.13.2715-linux-x86_64-glibc-2.12-402695.tar.gz',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.5.3.3505/ActivePython-3.5.3.3505-win64-x64-402859.exe',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.5.3.3505/ActivePython-3.5.3.3505-linux-x86_64-glibc-2.12-402696.tar.gz',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.6.0.3600/ActivePython-3.6.0.3600-win64-x64-401834.exe',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.6.0.3600/ActivePython-3.6.0.3600-linux-x86_64-glibc-2.3.6-401834.tar.gz',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.6.0.3600/ActivePython-3.6.0.3600-win32-x86-401834.exe',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.6.0.3600/ActivePython-3.6.0.3600-linux-x86-glibc-2.3.6-401834.tar.gz',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.4.1/ActiveTcl8.6.4.1.299124-win32-ix86-threaded.exe',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.4.1/ActiveTcl8.6.4.1.299124-win32-x86_64-threaded.exe',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.4.1/ActiveTcl8.6.4.1.299124-linux-ix86-threaded.tar.gz',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.4.1/ActiveTcl8.6.4.1.299124-linux-x86_64-threaded.tar.gz',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.6.8606/ActiveTcl-8.6.6.8606-MSWin32-x64-401995.exe',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.6.8606/ActiveTcl-8.6.6.8606-x86_64-linux-glibc-2.5-401948.tar.gz',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.5.18.0/ActiveTcl8.5.18.0.298892-win32-ix86-threaded.exe',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.5.18.0/ActiveTcl8.5.18.0.298892-win32-x86_64-threaded.exe',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.5.18.0/ActiveTcl8.5.18.0.298892-linux-ix86-threaded.tar.gz',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.5.18.0/ActiveTcl8.5.18.0.298892-linux-x86_64-threaded.tar.gz',
+                         'https://www.activestate.com/activego/downloads/thank-you?dl=http://downloads.activestate.com/ActiveGo/releases/1.8.3.0/ActiveGo-1.8.3.0-win64.exe',
+                         'https://www.activestate.com/activego/downloads/thank-you?dl=http://downloads.activestate.com/ActiveGo/releases/1.8.3.0/ActiveGo-1.8.3.0-linux64.tar.gz',
+                         'https://www.activestate.com/komodo-ide/downloads/ide/thank-you?dl=http://downloads.activestate.com/Komodo/releases/10.2.2/Komodo-IDE-10.2.2-89895-linux-x86.tar.gz',
+                         'https://www.activestate.com/komodo-ide/downloads/ide/thank-you?dl=http://downloads.activestate.com/Komodo/releases/10.2.2/Komodo-IDE-10.2.2-89895-linux-x86_64.tar.gz'
+                       ],
+            'Summary' => 'On 11/1/12 5:14 AM, nachiket wrote: &gt; an initial part of my project involves assigning sense to each word in sentence. I came across this tool called wordnet. do ...'
+          },
+          {
+            'Summary' => '<b>Word sense disambiguation</b> has developed as a sub ... <b>software</b> All <b>Software</b> latest This Just In Old School ... SINGLE PAGE PROCESSED JP2 ZIP <b>download</b>. <b>download</b> 1 ...',
+            'Links' => [
+                         'https://archive.org/download/arxiv-cmp-lg9712008/cmp-lg9712008_abbyy.gz',
+                         'https://archive.org/download/arxiv-cmp-lg9712008/cmp-lg9712008_daisy.zip',
+                         'https://archive.org/download/arxiv-cmp-lg9712008/cmp-lg9712008_jp2.zip'
+                       ],
+            'URL' => 'https://archive.org/details/arxiv-cmp-lg9712008'
+          },
+          {
+            'Summary' => 'Resolution of lexical ambiguity, commonly termed ``<b>word sense disambiguation</b>\'\', is expected to improve the analytical accuracy for tasks which are sensitive to...',
+            'Links' => [
+                         'https://archive.org/download/arxiv-cmp-lg9804004/cmp-lg9804004_abbyy.gz',
+                         'https://archive.org/download/arxiv-cmp-lg9804004/cmp-lg9804004_daisy.zip',
+                         'https://archive.org/download/arxiv-cmp-lg9804004/cmp-lg9804004_jp2.zip'
+                       ],
+            'URL' => 'https://archive.org/details/arxiv-cmp-lg9804004'
+          },
+          {
+            'URL' => 'https://cwiki.apache.org/confluence/display/CTAKES/YTEX+Installation',
+            'Summary' => 'YTEX Installation; UMLS MS SQL Server Installation; Browse pages. Configure Space tools. ... <b>Download</b> and unzip ... If you do not install these files, <b>Word Sense Disambiguation</b> will be disabled, ...',
+            'Links' => [
+                         'https://ytex.googlecode.com/files/ctakes-ytex-lib-3.1.2-SNAPSHOT.zip',
+                         'http://www.ytex-nlp.org/umls.download/secure/3.1/ctakes-ytex-resources-3.1.2-SNAPSHOT.zip'
+                       ]
+          },
+          {
+            'URL' => 'https://en.wikipedia.org/wiki/Word_sense_disambiguation',
+            'Links' => [
+                         'http://lit.csci.unt.edu/~rada/downloads/semcor/semcor3.0.tar.gz'
+                       ],
+            'Summary' => 'In computational linguistics, <b>word-sense disambiguation</b> (WSD) is an open problem of natural language processing and ontology. ... <b>Software</b>. Babelfy, ...'
+          },
+          {
+            'URL' => 'https://github.com/alvations/pywsd',
+            'Links' => [
+                         'https://github.com/alvations/pywsd/archive/1.0.2.zip',
+                         'https://github.com/alvations/pywsd/archive/1.0.2.tar.gz',
+                         'https://github.com/alvations/pywsd/archive/1.0.1.zip',
+                         'https://github.com/alvations/pywsd/archive/1.0.1.tar.gz',
+                         'https://github.com/alvations/pywsd/archive/1.0.zip',
+                         'https://github.com/alvations/pywsd/archive/1.0.tar.gz',
+                         'https://github.com/alvations/pywsd/archive/master.zip'
+                       ],
+            'Summary' => 'pywsd - Python Implementations of <b>Word Sense Disambiguation</b> (WSD) Technologies.'
+          },
+          {
+            'URL' => 'https://github.com/cltl/svm_wsd',
+            'Links' => [
+                         'https://github.com/cltl/svm_wsd/archive/master.zip'
+                       ],
+            'Summary' => 'svm_wsd - <b>Word Sense Disambiguation</b> system developed on the DutchSemCor project using Support Vector Machines. The input is plain text, and the output XML'
+          },
+          {
+            'Summary' => 'A suit of Perl modules that implement the senserelate <b>word sense disambiguation</b> algorithm using the semantic similarity and relatedness options from the UMLS ...',
+            'Links' => [
+                         'https://cpan.metacpan.org/authors/id/B/BT/BTMCINNES/UMLS-SenseRelate-0.29.tar.gz'
+                       ],
+            'URL' => 'https://metacpan.org/pod/UMLS::SenseRelate'
+          },
+          {
+            'URL' => 'https://metacpan.org/pod/WordNet::SenseRelate::TargetWord',
+            'Links' => [
+                         'https://cpan.metacpan.org/authors/id/S/SI/SID/WordNet-SenseRelate-TargetWord-0.09.tar.gz'
+                       ],
+            'Summary' => 'WordNet::SenseRelate::TargetWord combines the different parts of the <b>word sense disambiguation</b> process. It allows the user to select the disambiguation algorithm, the context selection algorithm, and other data processing tasks. This module applies these to the context and returns the selected sense'
+          },
+          {
+            'URL' => 'https://provalisresearch.com/products/content-analysis-software/wordstat-dictionary/sentiment-dictionaries/',
+            'Summary' => 'Free WordStat sentiment dictionaries: ... Some noteworthy features of their dictionary are the implementation of basic <b>word sense disambiguation</b> with the use of phrases, ... You can <b>download</b> the latest version of the WordStat Sentiment Dictionary from here.',
+            'Links' => [
+                         'https://provalisresearch.com/Download/WSD.zip'
+                       ]
+          },
+          {
+            'Links' => [
+                         'https://pypi.python.org/packages/50/52/9ec6c79d80bcdf863e94d3328f0faed8341cb8436296e8776ca371031bd1/pywsd-1.0.4.tar.gz'
+                       ],
+            'Summary' => 'Python WSD. Python Implementations of <b>Word Sense Disambiguation</b> (WSD) technologies. File Type Py Version Uploaded on Size; pywsd-1..4.tar.gz Source 2017-02-03',
+            'URL' => 'https://pypi.python.org/pypi/pywsd'
+          },
+          {
+            'URL' => 'https://pypi.python.org/pypi/sentiment_classifier',
+            'Links' => [
+                         'https://pypi.python.org/packages/6a/e1/9065fea58dc0a8ca34aa0a9bfa854894a2322600d2cb6a787e089320541a/sentiment_classifier-0.7.tar.gz'
+                       ],
+            'Summary' => '<b>Download</b> sentiment_classifier-.7.tar.gz. ... Github; Try Online; Overview. Sentiment Classifier using <b>Word Sense Disambiguation</b> using wordnet and word occurance statistics from movie review corpus nltk. Classifies into positive and negative categories. Online ... Python <b>Software</b> Foundation ...'
+          },
+          {
+            'Links' => [
+                         'https://skr.nlm.nih.gov/SKR_API/SKR_Web_API_V2_3.jar',
+                         'https://skr.nlm.nih.gov/SKR_API/skrAPI.jar'
+                       ],
+            'Summary' => '<b>Download</b> Web API + Expand All ... <b>Word Sense Disambiguation</b> (WSD) Test collection of manually curated MetaMap ambiguity resolution in support of <b>word sense disambiguation</b> research. MEDLINE Baseline Repository (MBR) Static MEDLINE ® Baselines for ...',
+            'URL' => 'https://skr.nlm.nih.gov/SKR_API/index.shtml'
+          },
+          {
+            'URL' => 'https://wordnet.princeton.edu/wordnet/related-projects/',
+            'Links' => [
+                         'http://wordnet.princeton.edu/tools/WordNet_Binary.zip',
+                         'http://wordnet.princeton.edu/tools/WordNet_Source.zip',
+                         'http://eden.dei.uc.pt/~nseco/lwwn.tar.gz',
+                         'http://eden.dei.uc.pt/~nseco/javasimlib.tar.gz'
+                       ],
+            'Summary' => 'The <b>software</b> is based on Java and the JWI WordNet interface and works on Microsoft Windows and GNU/Linux systems and under GPL ... similarity measures, <b>Word Sense Disambiguation</b>, Semantic Role Labeling and anaphora resolution. Antelope works under Windows ... see the WordNet <b>download</b> page.'
+          },
+          {
+            'Summary' => '<b>downloads</b>. ... Various <b>software</b> modules and data sets that are ... GWSD is a system for unsupervised all-words graph-based <b>word sense disambiguation</b> <b>download</b> GWSD ...',
+            'Links' => [
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/WordAssociationsDataset.zip',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/targetedSentiment.2017.tar.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/RealLifeDeceptionDetection.2016.zip',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/SemanticAffordances.2015.tar.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/affordance_data.tar.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/openDeception.2015.tar.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/crossCulturalDeception.2014.tar.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/LinguisticEthnography.2015.tar.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/EmailSummarizationKeywordExtraction.2014.tar.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/SenseClustersData.tar.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/MOUD.tar.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/WikipediaInterlingualEvalDataset.tar.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/Wikipedia.2012.10languages.MetaFile.tar.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/SpanishSentimentLexicons.tar.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/ImgWordRelatedness.tar.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/ShortAnswerGrading_v1.0.tar.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/ShortAnswerGrading_v2.0.zip',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/SUBJ/Subjectivity.MultilingualGoldStandard_v1.0.tar.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/SUBJ/Subjectivity.MultilingualTrainingData_v1.0.tar.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/SUBJ/Subjectivity.MultilingualTrainingData_v2.0.tar.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/GWSD/GWSD.1.0.tar.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/AffectiveText.Semeval.2007.tar.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/senselearner/SenseLearner2.0.tar.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/senselearner/SenseLearner1.0.tar.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/BackOfTheBookIndexBenchmark.tar.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/FnWnVerbMap1.0.tar.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/wpt/data.protected/Romanian-English.training.tar.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/wpt/data/Romanian-English.test.tar.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/wpt05/data/Romanian-English.test.tar.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/OMWE/OMWE1.0.English.tar.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/TWA/TWA.tar.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/semcor/semcor1.6.tar.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/semcor/semcor1.7.tar.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/semcor/semcor1.7.1.tar.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/semcor/semcor2.0.tar.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/semcor/semcor2.1.tar.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/semcor/semcor3.0.tar.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/wordnet.mappings/synset.mapping.wn1.6.wn1.7.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/wordnet.mappings/synset.mapping.wn1.6.wn1.7.1.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/wordnet.mappings/synset.mapping.wn1.7.wn1.7.1.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/wordnet.mappings/synset.mapping.wn1.6.wn2.0.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/wordnet.mappings/synset.mapping.wn1.7.1.wn2.0.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/senseval.semcor/senseval2.semcor.tar.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/senseval.semcor/senseval3.semcor.tar.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/qadata/Excite.what.annotated.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/qadata/Excite.which.annotated.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/qadata/TREC.what.annotated.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/qadata/TREC.which.annotated.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/qadata/Excite.what.questiontypes.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/qadata/Excite.which.questiontypes.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/qadata/TREC.what.questiontypes.gz',
+                         'http://web.eecs.umich.edu/~mihalcea/downloads/qadata/TREC.which.questiontypes.gz'
+                       ],
+            'URL' => 'http://web.eecs.umich.edu/~mihalcea/downloads.html'
+          },
+          {
+            'Links' => [
+                         'http://lit.csci.unt.edu/~rada/downloads/semcor/semcor3.0.tar.gz'
+                       ],
+            'Summary' => '<b>Word Sense Disambiguation</b>: ... The <b>software</b> tools have been released under a BSD style license and are freely available for <b>download</b> from the WordNet website.',
+            'URL' => 'http://wikivisually.com/wiki/Word_sense_disambiguation'
+          },
+          {
+            'Summary' => 'Mona Talat Diab. Mona T. Diab Center for Computational Learning Systems ... Relieving the data acquisition bottleneck for <b>Word Sense Disambiguation</b>. Proceedings of ACL 2004.[pdf]. Diab, Mona, Kadri ... <b>Software</b> · When I ...',
+            'Links' => [
+                         'http://www1.cs.columbia.edu/~mdiab/software/AMIRA-1.0.tar.gz'
+                       ],
+            'URL' => 'http://www1.cs.columbia.edu/~mdiab/'
+          },
+          {
+            'Links' => [
+                         'http://www.cs.toronto.edu/~gpenn/csc485/a1_tut.zip'
+                       ],
+            'Summary' => 'Unsupervised <b>Word Sense Disambiguation</b> Rivaling Supervised Methods: D. Yarowsky: ACL 1995. 5: 17 November: ... If your machine does not have the required <b>software</b>, you can <b>download</b> Adobe Acrobat Reader for free. Course information; Lecture 1 slides; Assignment 1; Lecture 2 slides;',
+            'URL' => 'http://www.cs.toronto.edu/~gpenn/csc485/'
+          },
+          {
+            'Links' => [
+                         'http://prdownloads.sourceforge.net/weka/weka-3-4-12.zip',
+                         'http://www.d.umn.edu/~tpederse/Data/original.interest.tar.gz'
+                       ],
+            'Summary' => '<b>Download</b> and install the WEKA <b>software</b>. I recommend that you <b>download</b> the latest Book Version. On a Linux system, "installing" the <b>software</b> is nothing but ...',
+            'URL' => 'http://www.umiacs.umd.edu/~resnik/ling773_sp2008/assignments/senses.html'
+          }
+        ];

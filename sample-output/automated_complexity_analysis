@@ -1,0 +1,23 @@
+$VAR1 = [
+          {
+            'Summary' => "assorted reading lists Raw. _FP reading lists.md ... <b>software</b>. reactive-banana. quotes. ... <b>Automated Complexity Analysis</b> \x{2014} Jan Hoffmann OPLSS 2016. ICFP. ICFP. ICFP 2016. ICFP. Scalaworld. Scalaworld. posts. Call-By-Name, Call-By-Value and the \x{3bb}-Calculus. hott stuff.",
+            'URL' => 'https://gist.github.com/danidiaz/36f5647c0968361eedd677ad3870715f',
+            'Links' => [
+                         'https://gist.github.com/danidiaz/36f5647c0968361eedd677ad3870715f/archive/9afd73fd20d30e09744313d07449eef07144a9e3.zip'
+                       ]
+          },
+          {
+            'URL' => 'https://gist.github.com/xgrommx/5e5b0c3462cdc1fbd29ba5aabe48de29',
+            'Links' => [
+                         'https://gist.github.com/xgrommx/5e5b0c3462cdc1fbd29ba5aabe48de29/archive/9e45c95c92840824ec5ff35cc64ab4ec5e4b27e3.zip'
+                       ],
+            'Summary' => "assorted reading lists Raw. ... <b>Software</b>. Data-reify for observable sharing. Raw. ... <b>Automated Complexity Analysis</b> \x{2014} Jan Hoffmann OPLSS 2016. ICFP. ICFP. ICFP 2016. ICFP. Scalaworld. Scalaworld. ##posts. Call-By-Name, Call-By-Value and the \x{3bb}-Calculus. hott stuff."
+          },
+          {
+            'Links' => [
+                         'ftp://ftp.socs.uts.edu.au/Users/cbj/parshape.dvi.Z'
+                       ],
+            'URL' => 'https://people.kth.se/~lisper/hotURL.html',
+            'Summary' => 'Hot URL\'s Most Recent. Slutet på Internet. Addison ... Algorithms: From Theory to Applications. algorithm group at INRIA (<b>automated complexity analysis</b>) Functional Metapost. Shell-Haskell. Sphere Online Judge (SPOJ) Wouter Van Oortmerssen. ... J <b>download</b>. Learning J. Directions in Functional ...'
+          }
+        ];

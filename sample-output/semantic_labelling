@@ -1,0 +1,127 @@
+$VAR1 = [
+          {
+            'URL' => 'https://archive.org/details/arxiv-cmp-lg9709008',
+            'Links' => [
+                         'https://archive.org/download/arxiv-cmp-lg9709008/cmp-lg9709008_abbyy.gz',
+                         'https://archive.org/download/arxiv-cmp-lg9709008/cmp-lg9709008_daisy.zip',
+                         'https://archive.org/download/arxiv-cmp-lg9709008/cmp-lg9709008_jp2.zip'
+                       ],
+            'Summary' => '<b>software</b> All <b>Software</b> latest This ... Semantic Similarity Based on Corpus Statistics ... On the relation between size-based termination and <b>semantic labelling</b> ...'
+          },
+          {
+            'URL' => 'https://archive.org/details/TheRelationBetweenTypicalityAndSemanticStructure',
+            'Links' => [
+                         'https://archive.org/download/TheRelationBetweenTypicalityAndSemanticStructure/JQA1996_abbyy.gz',
+                         'https://archive.org/download/TheRelationBetweenTypicalityAndSemanticStructure/JQA1996_daisy.zip',
+                         'https://archive.org/download/TheRelationBetweenTypicalityAndSemanticStructure/JQA1996_jp2.zip'
+                       ],
+            'Summary' => 'Romney, A. K., Brewer, D. D., &amp; Batchelder, W. H. (1996). The relation between typicality and semantic structure. Journal of ... <b>software</b> All <b>Software</b> latest This Just In Old School Emulation MS ... On the relation between size-based termination and <b>semantic labelling</b> . Sep 22, 2013 09/13. by ...'
+          },
+          {
+            'URL' => 'https://bioc.ism.ac.jp/packages/3.0/bioc/html/flowCL.html',
+            'Links' => [
+                         'https://bioc.ism.ac.jp/packages/3.0/bioc/src/contrib/flowCL_1.4.0.tar.gz',
+                         'https://bioc.ism.ac.jp/packages/3.0/bioc/bin/windows/contrib/3.1/flowCL_1.4.0.zip',
+                         'https://bioc.ism.ac.jp/packages/3.0/bioc/bin/macosx/contrib/3.1/flowCL_1.4.0.tgz'
+                       ],
+            'Summary' => 'This package is for version 3.0 of Bioconductor; for the stable, up-to-date release version, see flowCL. <b>Semantic labelling</b> of flow cytometric cell populations'
+          },
+          {
+            'Links' => [
+                         'https://bioconductor.riken.jp/packages/3.0/bioc/src/contrib/flowCL_1.4.0.tar.gz',
+                         'https://bioconductor.riken.jp/packages/3.0/bioc/bin/windows/contrib/3.1/flowCL_1.4.0.zip',
+                         'https://bioconductor.riken.jp/packages/3.0/bioc/bin/macosx/contrib/3.1/flowCL_1.4.0.tgz'
+                       ],
+            'Summary' => 'flowCL <b>Semantic labelling</b> of flow cytometric cell populations. Bioconductor version: 3.0 <b>Semantic labelling</b> of flow cytometric cell populations.',
+            'URL' => 'https://bioconductor.riken.jp/packages/3.0/bioc/html/flowCL.html'
+          },
+          {
+            'URL' => 'https://bioconductor.riken.jp/packages/3.3/bioc/html/flowCL.html',
+            'Summary' => '<b>Software</b> Packages; flowCL; To install this package, start R and enter: ... In most cases, you don\'t need to <b>download</b> the package archive at all. flowCL <b>Semantic labelling</b> of flow cytometric cell populations. Bioconductor version: Release (3.3)',
+            'Links' => [
+                         'https://bioconductor.riken.jp/packages/3.3/bioc/src/contrib/flowCL_1.10.0.tar.gz',
+                         'https://bioconductor.riken.jp/packages/3.3/bioc/bin/windows/contrib/3.3/flowCL_1.10.0.zip',
+                         'https://bioconductor.riken.jp/packages/3.3/bioc/bin/macosx/mavericks/contrib/3.3/flowCL_1.10.0.tgz'
+                       ]
+          },
+          {
+            'URL' => 'https://github.com/ANR-DIADEMS/timeside-diadems',
+            'Summary' => 'ANR-DIADEMS / timeside-diadems. Code. Issues 0. Pull requests 0. ... formats selectors, fancy audio visualizations, segmentation and <b>semantic labelling</b> synchronized with audio events. It is embeddable in any web application. ... TimeSide-Diadems is free <b>software</b>: ...',
+            'Links' => [
+                         'https://github.com/ANR-DIADEMS/timeside-diadems/archive/0.1.zip',
+                         'https://github.com/ANR-DIADEMS/timeside-diadems/archive/0.1.tar.gz',
+                         'https://github.com/ANR-DIADEMS/timeside-diadems/archive/master.zip'
+                       ]
+          },
+          {
+            'URL' => 'https://github.com/NICTA/iswc-2016-semantic-labeling',
+            'Summary' => 'This fork contains the original back end for <b>semantic labelling</b>, but the api has been changed. These changes have been introduced to allow common evaluation benchmark ...',
+            'Links' => [
+                         'https://github.com/NICTA/iswc-2016-semantic-labeling/archive/master.zip'
+                       ]
+          },
+          {
+            'URL' => 'https://github.com/Parisson/timeside-diadems',
+            'Summary' => 'Clone or <b>download</b>. Clone with HTTPS ... formats selectors, fancy audio visualizations, segmentation and <b>semantic labelling</b> synchronized with audio events. It is embeddable in any web application. ... TimeSide-Diadems is free <b>software</b>: ...',
+            'Links' => [
+                         'https://github.com/Parisson/timeside-diadems/archive/0.1.zip',
+                         'https://github.com/Parisson/timeside-diadems/archive/0.1.tar.gz',
+                         'https://github.com/Parisson/timeside-diadems/archive/master.zip'
+                       ]
+          },
+          {
+            'Links' => [
+                         'http://ilk.uvt.nl/~ilk/papers/9903.doc.gz'
+                       ],
+            'Summary' => '<b>Software</b>. All <b>software</b>; TiMBL/TiMBLServer; Dimbl; Mbt/MbtServer; libfolia; ucto; Frog; Wopr; PBMBMT; ... Proceedings of the LREC 2004 Workshop "Beyond Named Entity Recognition - <b>Semantic Labelling</b> for NLP Tasks", pages 25-30. ... [details/<b>download</b>]',
+            'URL' => 'https://ilk.uvt.nl/publications/'
+          },
+          {
+            'URL' => 'https://pypi.python.org/pypi/TimeSide/0.5.0',
+            'Links' => [
+                         'https://pypi.python.org/packages/16/3b/5a13937b88e0b35b92e598fe681e120ba119773692c1388cc71360ea92e8/TimeSide-0.5.0.tar.gz'
+                       ],
+            'Summary' => '<b>Download</b> TimeSide-.5..tar.gz. ... <b>semantic labelling</b> and segmentation. ... TimeSide is free <b>software</b>: ...'
+          },
+          {
+            'URL' => 'https://pypi.python.org/pypi/TimeSide/0.5.3',
+            'Summary' => '<b>Download</b> TimeSide-.5.3.tar.gz. open web audio processing framework. Latest Version: 0.8. ... various low and high level audio analyzers, <b>semantic labelling</b> and segmentation. ... TimeSide is free <b>software</b>: ...',
+            'Links' => [
+                         'https://pypi.python.org/packages/93/d5/1990981b4ecc8d736bfd269c3255fdebf8544260a14149679891eb769f0b/TimeSide-0.5.3.tar.gz'
+                       ]
+          },
+          {
+            'URL' => 'https://pypi.python.org/pypi/TimeSide/0.6.2',
+            'Links' => [
+                         'https://pypi.python.org/packages/de/6c/a6da881a03fe2fe7f8eb9eb050f21d757b6849c00b093e05d4402020bc30/TimeSide-0.6.2.tar.gz',
+                         'http://download.virtualbox.org/virtualbox/5.1.22/VirtualBox-5.1.22-115126-Win.exe',
+                         'http://download.virtualbox.org/virtualbox/5.1.22/VirtualBox-5.1.22-115126-SunOS.tar.gz',
+                         'http://download.virtualbox.org/virtualbox/5.1.22/VirtualBoxSDK-5.1.22-115126.zip',
+                         'http://download.virtualbox.org/virtualbox/5.1.22/VirtualBox-5.1.22.tar.bz2'
+                       ],
+            'Summary' => '<b>Download</b> TimeSide-.6.2.tar.gz. ... segmentation and <b>semantic labelling</b> synchronized with audio events. ... TimeSide is free <b>software</b>: ...'
+          },
+          {
+            'URL' => 'https://www.bioconductor.org/packages/devel/bioc/html/flowCL.html',
+            'Links' => [
+                         'https://www.bioconductor.org/packages/devel/bioc/src/contrib/flowCL_1.15.0.tar.gz',
+                         'https://www.bioconductor.org/packages/devel/bioc/bin/windows/contrib/3.4/flowCL_1.15.0.zip',
+                         'https://www.bioconductor.org/packages/devel/bioc/bin/macosx/el-capitan/contrib/3.4/flowCL_1.15.0.tgz'
+                       ],
+            'Summary' => 'This is the development version of flowCL; for the stable release version, see flowCL. <b>Semantic labelling</b> of flow cytometric cell populations. Bioconductor version ...'
+          },
+          {
+            'Summary' => 'List of RGBD datasets ... Labelling: <b>Semantic labelling</b> on the mesh (13 classes, ... acquired using \'faceshift\' <b>software</b>. <b>Download</b>: Project page.',
+            'Links' => [
+                         'http://users.acin.tuwien.ac.at/aaldoma/datasets/ECCV.zip'
+                       ],
+            'URL' => 'http://www0.cs.ucl.ac.uk/staff/M.Firman/RGBDdatasets/'
+          },
+          {
+            'URL' => 'http://www.robots.ox.ac.uk/~vgg/data/parissculpt360/',
+            'Links' => [
+                         'http://www.robots.ox.ac.uk/~vgg/data/parissculpt360/parissculpt360.zip'
+                       ],
+            'Summary' => 'ParisSculpt360. Overview. The ParisSculpt360 dataset provides pixel-wise <b>semantic labelling</b> for 290 images, ... <b>Downloads</b>. Filename Description Size;'
+          }
+        ];

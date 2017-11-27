@@ -1,0 +1,59 @@
+$VAR1 = [
+          {
+            'Links' => [
+                         'http://www.uni-weimar.de/medien/webis/corpora/corpus-pan-labs-09-today/pan-16/pan16-data/pan16-author-profiling-training-dataset-2016-04-25.zip',
+                         'http://www.uni-weimar.de/medien/webis/events/pan-16/pan16-code/pan16-author-profiling-twitter-downloader.zip',
+                         'http://www.uni-weimar.de/medien/webis/corpora/corpus-pan-labs-09-today/pan-13/pan13-data/pan13-author-profiling-training-corpus-2013-01-09.zip',
+                         'http://www.uni-weimar.de/medien/webis/corpora/corpus-pan-labs-09-today/pan-14/pan14-data/pan14-author-profiling-training-corpus-2014-04-16.zip',
+                         'http://www.uni-weimar.de/medien/webis/corpora/corpus-pan-labs-09-today/pan-15/pan15-data/pan15-author-profiling-training-dataset-2015-04-23-password-protected.zip'
+                       ],
+            'Summary' => '<b>Author Identification</b>; Author Profiling; ... The focus of 2016 shared task is on cross-genre age and gender identification. ... we do not expect it <b>downloads</b> tweets.',
+            'URL' => 'http://pan.webis.de/clef16/pan16-web/author-profiling.html'
+          },
+          {
+            'Summary' => '<b>Author identification</b> from the publisher\'s preface. ... <b>software</b> All <b>Software</b> latest This Just In Old School Emulation MS-DOS Games Historical <b>Software</b> Classic PC Games <b>Software</b> Library. ... SINGLE PAGE PROCESSED JP2 ZIP <b>download</b>. <b>download</b> 1 file ...',
+            'Links' => [
+                         'https://archive.org/download/cartillaenlengua00bere/cartillaenlengua00bere_abbyy.gz',
+                         'https://archive.org/download/cartillaenlengua00bere/cartillaenlengua00bere_daisy.zip',
+                         'https://archive.org/download/cartillaenlengua00bere/cartillaenlengua00bere_orig_jp2.tar',
+                         'https://archive.org/download/cartillaenlengua00bere/cartillaenlengua00bere_jp2.zip'
+                       ],
+            'URL' => 'https://archive.org/details/cartillaenlengua00bere'
+          },
+          {
+            'URL' => 'https://www.uni-weimar.de/medien/webis/events/pan-15/pan15-web/author-profiling.html',
+            'Links' => [
+                         'http://www.uni-weimar.de/medien/webis/corpora/corpus-pan-labs-09-today/pan-15/pan15-data/pan15-author-profiling-training-dataset-2015-04-23-password-protected.zip',
+                         'http://www.uni-weimar.de/medien/webis/corpora/corpus-pan-labs-09-today/pan-13/pan13-data/pan13-author-profiling-training-corpus-2013-01-09.zip',
+                         'http://www.uni-weimar.de/medien/webis/corpora/corpus-pan-labs-09-today/pan-14/pan14-data/pan14-author-profiling-training-corpus-2014-04-16.zip',
+                         'http://mypersonality.org/wiki/lib/exe/fetch.php?media=wiki:mypersonality_final.zip',
+                         'http://mypersonality.org/wiki/lib/exe/fetch.php?media=wiki:essays.zip',
+                         'http://clic.cimec.unitn.it/fabio/wcpr14/mobile_data_wcpr14final.zip'
+                       ],
+            'Summary' => 'Beyond the <b>author identification</b> and author verification tasks where the style of individual ... <b>Download</b> corpus (Updated April 23, 2015. The file is password ... This way, your <b>software</b> can be reused on future evaluation corpora as well as on private collections submitted to PAN by via ...'
+          },
+          {
+            'URL' => 'http://www.kaufmann.no/roland/dvorak/',
+            'Links' => [
+                         'http://download.microsoft.com/download/7/1/B/71BA74D8-B9A0-4E6C-9159-A8335D54437E/vs2013.4_ce_enu.iso',
+                         'http://www.kaufmann.no/downloads/macos/ProgrammerDvorak-1_2b9.pkg.zip',
+                         'http://www.kaufmann.no/downloads/macos/ProgrammerDvorak-1_2b9.src.zip',
+                         'http://www.kaufmann.no/downloads/linux/kbddvp-1_2_1-src-linux.tgz'
+                       ],
+            'Summary' => 'Programmer Dvorak Keyboard Layout ... is not yet another crapware program with an integrated Explorer search bar like the ones you can too easily find on <b>download</b> sites. ... i.e. do not use it or any other you found on this site as "<b>author identification</b>" of the <b>software</b>.'
+          },
+          {
+            'Summary' => 'The Signature Stylometric System A User-Friendly System for Textual Analysis. Welcome to the home page of Signature, a program designed to facilitate "stylometric" analysis and comparison of texts, with a particular emphasis on <b>author identification</b>.',
+            'Links' => [
+                         'http://www.philocomp.net/downloads/sigzip100.zip',
+                         'http://www.philocomp.net/downloads/sigzip100.exe',
+                         'http://www.philocomp.net/downloads/novels.zip',
+                         'http://www.philocomp.net/downloads/novels.exe',
+                         'http://www.philocomp.net/downloads/shakes.zip',
+                         'http://www.philocomp.net/downloads/shakes.exe',
+                         'http://www.philocomp.net/downloads/GNT.zip',
+                         'http://www.philocomp.net/downloads/GNT.exe'
+                       ],
+            'URL' => 'http://www.philocomp.net/humanities/signature.htm'
+          }
+        ];

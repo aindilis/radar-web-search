@@ -1,0 +1,34 @@
+$VAR1 = [
+          {
+            'URL' => 'http://viva-lab.ece.virginia.edu/foswiki/bin/view/InSAR/RitaSoftware',
+            'Summary' => 'Caution: this <b>software</b> is provided "as-is". Read the manual before using. Subsidence evaluation tool ... The \'Coherent Motion\' tool of a noisy time-series data is based on a <b>statistical trend detection</b> procedure, Theil-Sen trend map.',
+            'Links' => [
+                         'https://github.com/VIVAUVA/EvaluateSubsidence/releases/download/v1.0.0-beta/EvaluateSubsidenceDemoData.zip',
+                         'https://github.com/VIVAUVA/EvaluateSubsidence/releases/download/v1.0.0-beta/EvaluateSubsidence_maci64-webinstall.zip',
+                         'https://github.com/VIVAUVA/EvaluateSubsidence/releases/download/v1.0.0-beta/EvaluateSubsidence_w64-webinstall.exe',
+                         'https://github.com/VIVAUVA/EvaluateSubsidence/archive/v1.0.0-beta.zip',
+                         'https://github.com/VIVAUVA/EvaluateSubsidence/archive/v1.0.0-beta.tar.gz',
+                         'https://github.com/VIVAUVA/InSAR_Add-in/archive/v0.0.2-alpha.zip',
+                         'https://github.com/VIVAUVA/InSAR_Add-in/archive/v0.0.2-alpha.tar.gz',
+                         'https://github.com/VIVAUVA/BridgeMovementsToolbox/releases/download/v1.0.1-beta/BridgeMovementsDemoData.zip',
+                         'https://github.com/VIVAUVA/BridgeMovementsToolbox/archive/v1.0.1-beta.zip',
+                         'https://github.com/VIVAUVA/BridgeMovementsToolbox/archive/v1.0.1-beta.tar.gz',
+                         'https://github.com/VIVAUVA/BridgeMovementsToolbox/releases/download/v1.0.0-beta/BridgeMovementsDemoData.zip',
+                         'https://github.com/VIVAUVA/BridgeMovementsToolbox/archive/v1.0.0-beta.zip',
+                         'https://github.com/VIVAUVA/BridgeMovementsToolbox/archive/v1.0.0-beta.tar.gz',
+                         'https://github.com/VIVAUVA/BridgeMovementsToolbox/releases/download/v1.0.0-alpha/BridgeMovementsDemoData.zip',
+                         'https://github.com/VIVAUVA/BridgeMovementsToolbox/archive/v1.0.0-alpha.zip',
+                         'https://github.com/VIVAUVA/BridgeMovementsToolbox/archive/v1.0.0-alpha.tar.gz',
+                         'https://github.com/VIVAUVA/CoherentMotionAnalysisToolbox/releases/download/v1.0.0-beta/CoherentMotionAnalysisDemoData.zip',
+                         'https://github.com/VIVAUVA/CoherentMotionAnalysisToolbox/archive/v1.0.0-beta.zip',
+                         'https://github.com/VIVAUVA/CoherentMotionAnalysisToolbox/archive/v1.0.0-beta.tar.gz',
+                         'https://github.com/VIVAUVA/RoadSmoothnessToolbox/releases/download/v1.0.0-beta/RoadSmoothnessDemoData.zip',
+                         'https://github.com/VIVAUVA/RoadSmoothnessToolbox/archive/v1.0.0-beta.zip',
+                         'https://github.com/VIVAUVA/RoadSmoothnessToolbox/archive/v1.0.0-beta.tar.gz',
+                         'https://github.com/VIVAUVA/SurfaceReconstruction/archive/v1.0.0.zip',
+                         'https://github.com/VIVAUVA/SurfaceReconstruction/archive/v1.0.0.tar.gz',
+                         'https://github.com/VIVAUVA/GISexport/archive/v1.0.0.zip',
+                         'https://github.com/VIVAUVA/GISexport/archive/v1.0.0.tar.gz'
+                       ]
+          }
+        ];

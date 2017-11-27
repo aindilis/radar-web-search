@@ -1,0 +1,78 @@
+$VAR1 = [
+          {
+            'Summary' => 'Using emscripten to cross compile some core chemical <b>software</b> written in C++ to JS. 5. ... Explore different approaches to the <b>Named Entity Classification</b> problem. ... can use to retrieve data or alternatively all the database files and source to source mapping files are available for <b>download</b>.',
+            'URL' => 'http://chembl.blogspot.co.uk/',
+            'Links' => [
+                         'ftp://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLdb/releases/chembl_23/chembl_23.sdf.gz'
+                       ]
+          },
+          {
+            'Summary' => 'Biomolecular Relationships Discovered from Biological Labyrinth and Lost ... org/<b>downloads</b>. 6. ... knowledge for gene <b>named entity classification</b> and ...',
+            'URL' => 'http://journal.frontiersin.org/article/10.3389/fgene.2016.00046/full',
+            'Links' => [
+                         'ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/complete/uniprot_sprot.xml.gz',
+                         'ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/complete/uniprot_sprot.fasta.gz',
+                         'ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/complete/uniprot_sprot.dat.gz',
+                         'ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/complete/uniprot_trembl.xml.gz',
+                         'ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/complete/uniprot_trembl.fasta.gz',
+                         'ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/complete/uniprot_trembl.dat.gz',
+                         'ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/complete/uniprot_sprot_varsplic.fasta.gz',
+                         'ftp://ftp.uniprot.org/pub/databases/uniprot/uniref/uniref100/uniref100.xml.gz',
+                         'ftp://ftp.uniprot.org/pub/databases/uniprot/uniref/uniref100/uniref100.fasta.gz',
+                         'ftp://ftp.uniprot.org/pub/databases/uniprot/uniref/uniref90/uniref90.xml.gz',
+                         'ftp://ftp.uniprot.org/pub/databases/uniprot/uniref/uniref90/uniref90.fasta.gz',
+                         'ftp://ftp.uniprot.org/pub/databases/uniprot/uniref/uniref50/uniref50.xml.gz',
+                         'ftp://ftp.uniprot.org/pub/databases/uniprot/uniref/uniref50/uniref50.fasta.gz',
+                         'ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/uniparc/uniparc_all.xml.gz',
+                         'ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/uniparc/uniparc_active.fasta.gz'
+                       ]
+          },
+          {
+            'Summary' => '<b>Software</b> &gt; Linguakit; Linguakit. LINGUAKIT. ... //github.com/citiususc/Linguakit.git cd Linguakit ./install-linguakit.sh ZIP <b>Download</b>. ... PoS tagger with <b>Named Entity Classification</b> - NEC (only with \'tagger\' module) -chi \'mwe\' option: chi-square co-occurrence measure (by default ...',
+            'URL' => 'https://citius.usc.es/transferencia/software/linguakit',
+            'Links' => [
+                         'https://github.com/citiususc/Linguakit/archive/master.zip',
+                         'https://gitlab.citius.usc.es/github/linguakit/repository/archive.zip'
+                       ]
+          },
+          {
+            'Links' => [
+                         'ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/complete/uniprot_sprot.xml.gz',
+                         'ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/complete/uniprot_sprot.fasta.gz',
+                         'ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/complete/uniprot_sprot.dat.gz',
+                         'ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/complete/uniprot_trembl.xml.gz',
+                         'ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/complete/uniprot_trembl.fasta.gz',
+                         'ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/complete/uniprot_trembl.dat.gz',
+                         'ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/complete/uniprot_sprot_varsplic.fasta.gz',
+                         'ftp://ftp.uniprot.org/pub/databases/uniprot/uniref/uniref100/uniref100.xml.gz',
+                         'ftp://ftp.uniprot.org/pub/databases/uniprot/uniref/uniref100/uniref100.fasta.gz',
+                         'ftp://ftp.uniprot.org/pub/databases/uniprot/uniref/uniref90/uniref90.xml.gz',
+                         'ftp://ftp.uniprot.org/pub/databases/uniprot/uniref/uniref90/uniref90.fasta.gz',
+                         'ftp://ftp.uniprot.org/pub/databases/uniprot/uniref/uniref50/uniref50.xml.gz',
+                         'ftp://ftp.uniprot.org/pub/databases/uniprot/uniref/uniref50/uniref50.fasta.gz',
+                         'ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/uniparc/uniparc_all.xml.gz',
+                         'ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/uniparc/uniparc_active.fasta.gz'
+                       ],
+            'URL' => 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4814459/',
+            'Summary' => '5 http://www.uniprot.org/<b>downloads</b>. 6 https: ... Incorporating rich background knowledge for gene <b>named entity classification</b> and recognition.'
+          },
+          {
+            'Summary' => 'http://ilk.kub.nl/<b>downloads</b>/pub ... , Unsupervised models for <b>named entity classification</b>. ... Language independent named entity recognition combining ...',
+            'URL' => 'http://www.clips.ua.ac.be/conll2002/ner/',
+            'Links' => [
+                         'http://www.cnts.ua.ac.be/conll2002/ner.tgz',
+                         'http://www.clips.ua.ac.be/conll2002/ner/results/black.tgz',
+                         'http://www.clips.ua.ac.be/conll2002/ner/results/burger.tgz',
+                         'http://www.clips.ua.ac.be/conll2002/ner/results/carreras.tgz',
+                         'http://www.clips.ua.ac.be/conll2002/ner/results/cucerzan.tgz',
+                         'http://www.clips.ua.ac.be/conll2002/ner/results/florian.tgz',
+                         'http://www.clips.ua.ac.be/conll2002/ner/results/jansche.tgz',
+                         'http://www.clips.ua.ac.be/conll2002/ner/results/malouf.tgz',
+                         'http://www.clips.ua.ac.be/conll2002/ner/results/mcnamee.tgz',
+                         'http://www.clips.ua.ac.be/conll2002/ner/results/patrick.tgz',
+                         'http://www.clips.ua.ac.be/conll2002/ner/results/tjong.tgz',
+                         'http://www.clips.ua.ac.be/conll2002/ner/results/tsukamoto.tgz',
+                         'http://www.clips.ua.ac.be/conll2002/ner/results/wu.tgz'
+                       ]
+          }
+        ];

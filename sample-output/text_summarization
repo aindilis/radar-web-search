@@ -1,0 +1,122 @@
+$VAR1 = [
+          {
+            'Links' => [
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.24.1.2402/ActivePerl-5.24.1.2402-MSWin32-x86-64int-401627.exe',
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.24.1.2402/ActivePerl-5.24.1.2402-MSWin32-x64-401627.exe',
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.24.1.2402/ActivePerl-5.24.1.2402-x86_64-linux-glibc-2.15-401614.tar.gz',
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.22.3.2204/ActivePerl-5.22.3.2204-MSWin32-x86-64int-401627.exe',
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.22.3.2204/ActivePerl-5.22.3.2204-MSWin32-x64-401627.exe',
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.22.3.2204/ActivePerl-5.22.3.2204-x86_64-linux-glibc-2.15-401614.tar.gz',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/2.7.13.2715/ActivePython-2.7.13.2715-win64-x64-402859.exe',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/2.7.13.2715/ActivePython-2.7.13.2715-linux-x86_64-glibc-2.12-402695.tar.gz',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.5.3.3505/ActivePython-3.5.3.3505-win64-x64-402859.exe',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.5.3.3505/ActivePython-3.5.3.3505-linux-x86_64-glibc-2.12-402696.tar.gz',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.6.0.3600/ActivePython-3.6.0.3600-win64-x64-401834.exe',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.6.0.3600/ActivePython-3.6.0.3600-linux-x86_64-glibc-2.3.6-401834.tar.gz',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.6.0.3600/ActivePython-3.6.0.3600-win32-x86-401834.exe',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.6.0.3600/ActivePython-3.6.0.3600-linux-x86-glibc-2.3.6-401834.tar.gz',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.4.1/ActiveTcl8.6.4.1.299124-win32-ix86-threaded.exe',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.4.1/ActiveTcl8.6.4.1.299124-win32-x86_64-threaded.exe',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.4.1/ActiveTcl8.6.4.1.299124-linux-ix86-threaded.tar.gz',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.4.1/ActiveTcl8.6.4.1.299124-linux-x86_64-threaded.tar.gz',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.6.8606/ActiveTcl-8.6.6.8606-MSWin32-x64-401995.exe',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.6.8606/ActiveTcl-8.6.6.8606-x86_64-linux-glibc-2.5-401948.tar.gz',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.5.18.0/ActiveTcl8.5.18.0.298892-win32-ix86-threaded.exe',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.5.18.0/ActiveTcl8.5.18.0.298892-win32-x86_64-threaded.exe',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.5.18.0/ActiveTcl8.5.18.0.298892-linux-ix86-threaded.tar.gz',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.5.18.0/ActiveTcl8.5.18.0.298892-linux-x86_64-threaded.tar.gz',
+                         'https://www.activestate.com/komodo-ide/downloads/ide/thank-you?dl=http://downloads.activestate.com/Komodo/releases/10.2.2/Komodo-IDE-10.2.2-89895-linux-x86.tar.gz',
+                         'https://www.activestate.com/komodo-ide/downloads/ide/thank-you?dl=http://downloads.activestate.com/Komodo/releases/10.2.2/Komodo-IDE-10.2.2-89895-linux-x86_64.tar.gz'
+                       ],
+            'URL' => 'http://code.activestate.com/lists/python-list/525700/',
+            'Summary' => '<b>Downloads</b> ActivePerl ... <b>Text Summarization</b>. From: Jim Jones &lt;j...@runfatbo.net&gt; Wed, 19 Jul 2006 07:44:28 GMT Is there a Python library that would allow me to take a ...'
+          },
+          {
+            'Links' => [
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.24.1.2402/ActivePerl-5.24.1.2402-MSWin32-x86-64int-401627.exe',
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.24.1.2402/ActivePerl-5.24.1.2402-MSWin32-x64-401627.exe',
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.24.1.2402/ActivePerl-5.24.1.2402-x86_64-linux-glibc-2.15-401614.tar.gz',
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.22.3.2204/ActivePerl-5.22.3.2204-MSWin32-x86-64int-401627.exe',
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.22.3.2204/ActivePerl-5.22.3.2204-MSWin32-x64-401627.exe',
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.22.3.2204/ActivePerl-5.22.3.2204-x86_64-linux-glibc-2.15-401614.tar.gz',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/2.7.13.2715/ActivePython-2.7.13.2715-win64-x64-402859.exe',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/2.7.13.2715/ActivePython-2.7.13.2715-linux-x86_64-glibc-2.12-402695.tar.gz',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.5.3.3505/ActivePython-3.5.3.3505-win64-x64-402859.exe',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.5.3.3505/ActivePython-3.5.3.3505-linux-x86_64-glibc-2.12-402696.tar.gz',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.6.0.3600/ActivePython-3.6.0.3600-win64-x64-401834.exe',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.6.0.3600/ActivePython-3.6.0.3600-linux-x86_64-glibc-2.3.6-401834.tar.gz',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.6.0.3600/ActivePython-3.6.0.3600-win32-x86-401834.exe',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.6.0.3600/ActivePython-3.6.0.3600-linux-x86-glibc-2.3.6-401834.tar.gz',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.4.1/ActiveTcl8.6.4.1.299124-win32-ix86-threaded.exe',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.4.1/ActiveTcl8.6.4.1.299124-win32-x86_64-threaded.exe',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.4.1/ActiveTcl8.6.4.1.299124-linux-ix86-threaded.tar.gz',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.4.1/ActiveTcl8.6.4.1.299124-linux-x86_64-threaded.tar.gz',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.6.8606/ActiveTcl-8.6.6.8606-MSWin32-x64-401995.exe',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.6.8606/ActiveTcl-8.6.6.8606-x86_64-linux-glibc-2.5-401948.tar.gz',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.5.18.0/ActiveTcl8.5.18.0.298892-win32-ix86-threaded.exe',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.5.18.0/ActiveTcl8.5.18.0.298892-win32-x86_64-threaded.exe',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.5.18.0/ActiveTcl8.5.18.0.298892-linux-ix86-threaded.tar.gz',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.5.18.0/ActiveTcl8.5.18.0.298892-linux-x86_64-threaded.tar.gz',
+                         'https://www.activestate.com/komodo-ide/downloads/ide/thank-you?dl=http://downloads.activestate.com/Komodo/releases/10.2.2/Komodo-IDE-10.2.2-89895-linux-x86.tar.gz',
+                         'https://www.activestate.com/komodo-ide/downloads/ide/thank-you?dl=http://downloads.activestate.com/Komodo/releases/10.2.2/Komodo-IDE-10.2.2-89895-linux-x86_64.tar.gz'
+                       ],
+            'URL' => 'http://code.activestate.com/lists/python-list/525703/',
+            'Summary' => '<b>Downloads</b> ActivePerl ... <b>Text Summarization</b>. Simon Forman: Jul 19, 2006 03:51 pm . <b>Text Summarization</b>. Duncan Booth: Jul 19, 2006 09:24 am'
+          },
+          {
+            'Links' => [
+                         'https://github.com/iamprem/summarizer/archive/master.zip'
+                       ],
+            'Summary' => 'summarizer - <b>Text Summarization</b> using LSA in Apache Spark',
+            'URL' => 'https://github.com/iamprem/summarizer'
+          },
+          {
+            'Summary' => 'README.md AllSummarizer. A research project implementation for automatic <b>text summarization</b>. AllSummarizer uses an extractive method to generate the summary ; Each sentence is scored based on some criteria, reordered, then if it scores among the first ones it will be included in the summary.',
+            'URL' => 'https://github.com/kariminf/AllSummarizer',
+            'Links' => [
+                         'https://github.com/kariminf/AllSummarizer/releases/download/v2.1.0/allSummarizer_v2.1.0.tar.gz',
+                         'https://github.com/kariminf/AllSummarizer/archive/v2.1.0.zip',
+                         'https://github.com/kariminf/AllSummarizer/archive/v2.1.0.tar.gz',
+                         'https://github.com/kariminf/AllSummarizer/archive/V2.0.0.zip',
+                         'https://github.com/kariminf/AllSummarizer/archive/V2.0.0.tar.gz',
+                         'https://github.com/kariminf/AllSummarizer/archive/v0.5.0.zip',
+                         'https://github.com/kariminf/AllSummarizer/archive/v0.5.0.tar.gz',
+                         'https://github.com/kariminf/AllSummarizer/archive/master.zip'
+                       ]
+          },
+          {
+            'Summary' => 'lexrank - <b>Text summarization</b> using Lexrank. Skip to content. ... <b>Download</b> ZIP Find file Branch: master. Switch branches/tags. Branches; Tags; ... to any person obtaining a copy of this <b>software</b> and associated documentation files (the "<b>Software</b>"), to deal in the <b>Software</b> without restriction, ...',
+            'URL' => 'https://github.com/linanqiu/lexrank',
+            'Links' => [
+                         'https://github.com/linanqiu/lexrank/archive/master.zip'
+                       ]
+          },
+          {
+            'Links' => [
+                         'https://pypi.python.org/packages/70/09/02ed27061159e5f6d35abad4ec9ef3cac8e220093d61a2f7a42f53c9cb22/PyTLDR-0.1.4.tar.gz'
+                       ],
+            'Summary' => 'This program is free <b>software</b>: ... You can <b>download</b> the latest release version using pip or easy_install: ... M., Alpaslan, F., and Cicekli, I. (2011). <b>Text summarization</b> using latent semantic analysis. The more recent Ozsoy et al. implentation is called by default, ...',
+            'URL' => 'https://pypi.python.org/pypi/PyTLDR/0.1.4'
+          },
+          {
+            'Summary' => '<b>Download</b> summa-..7.tar.gz. A <b>text summarization</b> and keyword extraction package. ... This <b>software</b> depends on NumPy and Scipy, ...',
+            'URL' => 'https://pypi.python.org/pypi/summa/0.0.7',
+            'Links' => [
+                         'https://pypi.python.org/packages/6b/50/a49f597d6aecf4cc146afa16d93e27156fe913da228ae8b14146a6df43da/summa-0.0.7.tar.gz'
+                       ]
+          },
+          {
+            'Links' => [
+                         'http://www.iste.co.uk/guidelines.zip'
+                       ],
+            'Summary' => 'Automatic <b>Text Summarization</b> (ATS), by condensing the text while maintaining relevant information, ... <b>Downloads</b>. Table of Contents - PDF File - 60 Kb. Related Titles.',
+            'URL' => 'http://www.iste.co.uk/index.php?f=a&amp;ACTION=View&amp;id=741'
+          },
+          {
+            'URL' => 'http://www.scientific.net/AMR.945-949.3323',
+            'Summary' => 'Advances in Manufacturing Science and Engineering V: Research about Automatic <b>Text Summarization</b> Based on Discourse Structure of Chinese',
+            'Links' => [
+                         'https://www.scientific.net/Downloads/GetTtpFile?name=Template_LaTeX.zip'
+                       ]
+          }
+        ];

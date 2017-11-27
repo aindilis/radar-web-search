@@ -1,0 +1,85 @@
+$VAR1 = [
+          {
+            'Summary' => '<b>Download</b> parser and documentation. Relevant publications: ... Special Issue on <b>Grammar Induction</b>, Representation of Language and Language Learning, , 11 ...',
+            'Links' => [
+                         'http://ivan-titov.org/idp/idp-0.0.4.tar.gz',
+                         'http://ivan-titov.org/BayesianUSP.tar.gz',
+                         'http://ivan-titov.org/data/acl13_sentiment_data.tar.gz',
+                         'http://ivan-titov.org/data/scripts.tar.gz'
+                       ],
+            'URL' => 'http://ivan-titov.org/software.html'
+          },
+          {
+            'URL' => 'https://archive.org/details/arxiv-cmp-lg9504034',
+            'Links' => [
+                         'https://archive.org/download/arxiv-cmp-lg9504034/cmp-lg9504034_abbyy.gz',
+                         'https://archive.org/download/arxiv-cmp-lg9504034/cmp-lg9504034_daisy.zip',
+                         'https://archive.org/download/arxiv-cmp-lg9504034/cmp-lg9504034_jp2.zip'
+                       ],
+            'Summary' => '<b>software</b> All <b>Software</b> latest This Just In Old School Emulation MS-DOS Games Historical <b>Software</b> Classic PC ... Bayesian <b>Grammar Induction</b> for Language ... <b>DOWNLOAD</b> ...'
+          },
+          {
+            'Summary' => 'This paper describes a novel approach to <b>grammar induction</b> that has been ... <b>software</b> All <b>Software</b> latest ... SINGLE PAGE PROCESSED JP2 ZIP <b>download</b>. <b>download</b> 1 ...',
+            'Links' => [
+                         'https://archive.org/download/arxiv-cs0311045/cs0311045_abbyy.gz',
+                         'https://archive.org/download/arxiv-cs0311045/cs0311045_daisy.zip',
+                         'https://archive.org/download/arxiv-cs0311045/cs0311045_jp2.zip'
+                       ],
+            'URL' => 'https://archive.org/details/arxiv-cs0311045'
+          },
+          {
+            'URL' => 'https://github.com/jMotif/GI',
+            'Summary' => 'Join GitHub today. GitHub is home to over 20 million developers working together to host and review code, manage projects, and build <b>software</b> together.',
+            'Links' => [
+                         'https://github.com/jMotif/GI/archive/jmotif-gi-1.0.1.zip',
+                         'https://github.com/jMotif/GI/archive/jmotif-gi-1.0.1.tar.gz',
+                         'https://github.com/jMotif/GI/archive/jmotif-gi-1.0.0.zip',
+                         'https://github.com/jMotif/GI/archive/jmotif-gi-1.0.0.tar.gz',
+                         'https://github.com/jMotif/GI/archive/jmotif-gi-0.9.1.zip',
+                         'https://github.com/jMotif/GI/archive/jmotif-gi-0.9.1.tar.gz',
+                         'https://github.com/jMotif/GI/archive/jmotif-gi-0.9.0.zip',
+                         'https://github.com/jMotif/GI/archive/jmotif-gi-0.9.0.tar.gz',
+                         'https://github.com/jMotif/GI/archive/old_repair.zip',
+                         'https://github.com/jMotif/GI/archive/old_repair.tar.gz',
+                         'https://github.com/jMotif/GI/archive/jmotif-gi-0.8.6.zip',
+                         'https://github.com/jMotif/GI/archive/jmotif-gi-0.8.6.tar.gz',
+                         'https://github.com/jMotif/GI/archive/jmotif-gi-0.8.5.zip',
+                         'https://github.com/jMotif/GI/archive/jmotif-gi-0.8.5.tar.gz',
+                         'https://github.com/jMotif/GI/archive/jmotif-gi-0.8.4.zip',
+                         'https://github.com/jMotif/GI/archive/jmotif-gi-0.8.4.tar.gz',
+                         'https://github.com/jMotif/GI/archive/jmotif-gi-0.8.3.zip',
+                         'https://github.com/jMotif/GI/archive/jmotif-gi-0.8.3.tar.gz',
+                         'https://github.com/jMotif/GI/archive/jmotif-gi-0.8.2.zip',
+                         'https://github.com/jMotif/GI/archive/jmotif-gi-0.8.2.tar.gz',
+                         'https://github.com/jMotif/GI/archive/master.zip'
+                       ]
+          },
+          {
+            'Summary' => 'shaybcohen / jdageem. Code. Issues 0. Pull requests 0. ... and build <b>software</b> together. ... A Java package for <b>grammar induction</b> Version 1.01.',
+            'Links' => [
+                         'https://github.com/shaybcohen/jdageem/archive/master.zip'
+                       ],
+            'URL' => 'https://github.com/shaybcohen/jdageem'
+          },
+          {
+            'Links' => [
+                         'https://github.com/shaybcohen/jdageem/archive/master.zip'
+                       ],
+            'Summary' => 'Unsupervised <b>grammar induction</b> refers to the task of learning a grammar with the input being only sentences in natural ... DAGEEM is piece of <b>software</b>, ... <b>Download</b> ...',
+            'URL' => 'http://www.ark.cs.cmu.edu/DAGEEM'
+          },
+          {
+            'Summary' => 'Elisavet Palogiannidi <b>Software</b> Deveper at ... <b>Download</b> my full CV ... "Using Crowdsourcing for <b>Grammar Induction</b> with Application to Spoken ...',
+            'Links' => [
+                         'http://147.27.96.1/Elisavet/Labyrinth_game.zip'
+                       ],
+            'URL' => 'http://www.telecom.tuc.gr/~epalogiannidi/'
+          },
+          {
+            'Summary' => 'Home page of Elliott Moreton Department of Linguistics Smith Building, Room 101 ... You are welcome to <b>download</b> my stimuli (see "Publications" below) ... Workshop on <b>Grammar Induction</b>, Cornell University, May 14, 2010. [Handout (pdf)]',
+            'Links' => [
+                         'http://www.unc.edu/~moreton/Software/Weightless/Sim22.tar.gz'
+                       ],
+            'URL' => 'http://www.unc.edu/~moreton/'
+          }
+        ];

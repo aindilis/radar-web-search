@@ -1,0 +1,11 @@
+$VAR1 = [
+          {
+            'Summary' => 'ERIC ED390835: <b>Practical Reasoning</b>: Constructivist Theory and Practice in Teacher Education. Item Preview',
+            'Links' => [
+                         'https://archive.org/download/ERIC_ED390835/ERIC_ED390835_abbyy.gz',
+                         'https://archive.org/download/ERIC_ED390835/ERIC_ED390835_daisy.zip',
+                         'https://archive.org/download/ERIC_ED390835/ERIC_ED390835_jp2.zip'
+                       ],
+            'URL' => 'https://archive.org/details/ERIC_ED390835'
+          }
+        ];

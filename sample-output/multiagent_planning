@@ -1,0 +1,25 @@
+$VAR1 = [
+          {
+            'Summary' => '<b>Multiagent Planning</b> in RTS - posted in Artificial Intelligence: Hi,My team is holding a research on Planning in Multiagent Systems. Our work in planning will be based ...',
+            'URL' => 'https://www.gamedev.net/topic/582576-multiagent-planning-in-rts/',
+            'Links' => [
+                         'ftp://ftp.wargamer.com/pub/Dropzone/depot/CreativeAI.zip'
+                       ]
+          },
+          {
+            'Links' => [
+                         'https://www.pearson.com/0/1/3/6/0136067360_ppt-124452.zip',
+                         'https://www.pearson.com/0/1/3/6/0136067360_AllFigures-173705.zip'
+                       ],
+            'URL' => 'https://www.pearson.com/us/higher-education/program/Russell-Artificial-Intelligence-A-Modern-Approach-3rd-Edition/PGM156683.html',
+            'Summary' => '11.4 <b>Multiagent Planning</b>. ... 25.7 Robotic <b>Software</b> ... You have successfully signed out and will be required to sign back in should you need to <b>download</b> more ...'
+          },
+          {
+            'Links' => [
+                         'https://www.pearson.com/0/1/3/6/0136067360_ppt-124452.zip',
+                         'https://www.pearson.com/0/1/3/6/0136067360_AllFigures-173705.zip'
+                       ],
+            'URL' => 'https://www.pearsonhighered.com/product/Russell-Artificial-Intelligence-A-Modern-Approach-3rd-Edition/9780136042594.html',
+            'Summary' => 'Artificial Intelligence: A Modern Approach, ... More Online <b>Software</b>. ... 11.4 <b>Multiagent Planning</b>. 11.5 Summary, Bibliographical and Historical Notes, Exercises. 12 Knowledge Representation . 12.1 Ontological Engineering. 12.2 Categories and Objects.'
+          }
+        ];

@@ -1,0 +1,10 @@
+$VAR1 = [
+          {
+            'URL' => 'http://globalwordnet.org/arabic-wordnet/arabic-resources/',
+            'Links' => [
+                         'http://www.staff.amu.edu.pl/~lacina/muhallil.zip',
+                         'http://www.staff.amu.edu.pl/~lacina/musarrif.zip'
+                       ],
+            'Summary' => '... (but including valuable Arabic resources and tools) ... (AR&lt;-&gt;EN): You can <b>download</b> a recent stable version QaMoose v-2.1 from Arabeyes.org, the Arabic Unix Project. ... <b>knowledge-based Machine Translation</b> System". KANT MT system; Abdelhadi Soudi, ...'
+          }
+        ];

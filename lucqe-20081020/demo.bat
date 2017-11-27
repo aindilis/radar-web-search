@@ -1,0 +1,1 @@
+java -classpath src;lib/junit.jar;lib/;lib/googleapi.jar;lib/lucene-1.4.3.jar;lib/lucene-demos-1.2.jar; SearchFilesTest

@@ -1,0 +1,82 @@
+$VAR1 = [
+          {
+            'URL' => 'http://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/1472-6947-6-12',
+            'Summary' => 'Development and evaluation of an open source <b>software</b> tool for <b>deidentification</b> of pathology reports',
+            'Links' => [
+                         'https://static-content.springer.com/esm/art%3A10.1186%2F1472-6947-6-12/MediaObjects/12911_2005_101_MOESM2_ESM.zip'
+                       ]
+          },
+          {
+            'Links' => [
+                         'http://europepmc.org/articles/PMC1421388/bin/1472-6947-6-12-S2.zip'
+                       ],
+            'Summary' => 'The primary concern regarding <b>deidentification</b> <b>software</b> such as this is how well it performs at removing identifiers and leaving behind the remainder of the text.',
+            'URL' => 'http://europepmc.org/articles/PMC1421388'
+          },
+          {
+            'URL' => 'https://gist.github.com/derekmerck/5d4f40a7b952525a09c4',
+            'Summary' => '<b>Download</b> ZIP Code Revisions 8. RIH 3D Lab DICOM <b>Deidentification</b> Rules v1.0 Raw. 3dlab_anon.das ... = "General DICOM <b>Deidentification</b> Rules" rule_version := "v1.0" rule_author := "RIH 3D Lab" // by Derek Merck &lt;derek_merck@brown.edu&gt; and Scott Collins // Spring 2015',
+            'Links' => [
+                         'https://gist.github.com/derekmerck/5d4f40a7b952525a09c4/archive/5229adc18a21fa7c34e435e330d3b43b6c38a901.zip'
+                       ]
+          },
+          {
+            'URL' => 'https://link.springer.com/article/10.1186/1472-6947-6-12',
+            'Summary' => '<b>Download</b> PDF. BMC Medical ... December 2006, 6:12. Development and evaluation of an open source <b>software</b> tool for <b>deidentification</b> of pathology reports. Authors;',
+            'Links' => [
+                         'https://static-content.springer.com/esm/art%3A10.1186%2F1472-6947-6-12/MediaObjects/12911_2005_101_MOESM2_ESM.zip'
+                       ]
+          },
+          {
+            'URL' => 'https://www.researchgate.net/publication/7261765_Development_and_evaluation_of_an_open_source_software_tool_for_deidentification_of_pathology_reports',
+            'Summary' => 'Official Full-Text Paper (PDF): Development and evaluation of an open source <b>software</b> tool for <b>deidentification</b> of pathology reports',
+            'Links' => [
+                         'https://www.researchgate.net/publication/deref/http%3A%2F%2Fwww.biomedcentral.com%2Fcontent%2Fsupplementary%2F1472-6947-6-12-S2.zip'
+                       ]
+          },
+          {
+            'URL' => 'http://www.dclunie.com/medical-image-faq/html/part8.html',
+            'Summary' => 'Medical Image Format FAQ - Part 8. DICOM Information Sources. Access to other parts ... ... (<b>Deidentification</b>) (Anonymization, Pseudonymization) information: ... http://www.healthcare.philips.com/us_en/about/connectivity/ US <b>download</b> site. DICOM <b>software</b> - RAIM:',
+            'Links' => [
+                         'http://www.artsrecept.nl/3d-head/DicomLite.exe',
+                         'http://ihedoc.wustl.edu/mesasoftware/10.15.0/dist/data/MESA-storage-B_10_11_0.zip',
+                         'http://www.dclunie.com/images/FluoroWithDisplayShutter.dcm.zip',
+                         'http://www.dclunie.com/images/pixelspacingtestimages.zip',
+                         'http://web.archive.org/web/20091026235740/http://geocities.com/gigiobb/releases/dcmNET.zip',
+                         'http://web.archive.org/web/20091026235740/http://geocities.com/gigiobb/releases/jdcm130.zip',
+                         'http://web.archive.org/web/20091026235740/http://geocities.com/gigiobb/releases/jdcm131.zip',
+                         'http://web.archive.org/web/20091026235740/http://geocities.com/gigiobb/releases/jdcm132.zip',
+                         'http://web.archive.org/web/20091026235740/http://geocities.com/gigiobb/releases/jdcm140.zip',
+                         'http://web.archive.org/web/20091026235740/http://geocities.com/gigiobb/releases/jdcm141.zip',
+                         'http://web.archive.org/web/20091026235740/http://geocities.com/gigiobb/releases/jdcm142.zip',
+                         'http://web.archive.org/web/20091026235740/http://geocities.com/gigiobb/releases/jdcm150.zip',
+                         'http://web.archive.org/web/20091026235740/http://geocities.com/gigiobb/releases/jdcm151.zip',
+                         'http://web.archive.org/web/20091026235740/http://geocities.com/gigiobb/releases/jdcm160.zip',
+                         'http://web.archive.org/web/20091026235740/http://geocities.com/gigiobb/releases/jdcm161.zip',
+                         'http://web.archive.org/web/20091026235740/http://geocities.com/gigiobb/releases/jdcm162.zip',
+                         'http://web.archive.org/web/20091026235740/http://geocities.com/gigiobb/releases/jdcm163.zip',
+                         'http://web.archive.org/web/20091026235740/http://geocities.com/gigiobb/releases/jdcm164.zip',
+                         'http://web.archive.org/web/20091026235740/http://geocities.com/gigiobb/releases/jdcm170.zip',
+                         'ftp://dicom.offis.de/pub/dicom/offis/software/dscope/dscope360/support/srdoc103.zip',
+                         'http://www.radiology.northwestern.edu/documents/IHE_PDI_1.0.11.zip',
+                         'http://www.radiology.northwestern.edu/documents/IHE_PDI_Document_Test_Cases.zip',
+                         'http://www.radiology.northwestern.edu/documents/dotnetfx.zip',
+                         'http://www.radiology.northwestern.edu/documents/PDIMediaTester_Source_Release.zip'
+                       ]
+          },
+          {
+            'Summary' => 'Perl Programming for Medicine and Biology will show you how to transform, ... Cryptography and <b>Deidentification</b> 8. Scrubbing Data 9. Finding and Exchanging Data Through the Worldwide Web ... Click on the link below to <b>download</b> the complete Perl scripts for Perl Programming for Medicine and Biology.',
+            'Links' => [
+                         'http://www.jblearning.com/samples/076374333X/CompletePerlScripZip.zip',
+                         'http://www.jbpub.com/samples/076374333X/CompletePerlScripZip.zip'
+                       ],
+            'URL' => 'http://www.jblearning.com/catalog/9780763743338/'
+          },
+          {
+            'URL' => 'http://www.physionet.org/physiotools/deid/',
+            'Summary' => 'The MIMIC II project has contributed to PhysioNet both its <b>deidentification</b> <b>software</b>, ... Ideally the developer of <b>de-identification</b> <b>software</b> ... To <b>download</b> the ...',
+            'Links' => [
+                         'http://www.physionet.org/physiotools/sources/deid/deid-1.1.tar.gz'
+                       ]
+          }
+        ];

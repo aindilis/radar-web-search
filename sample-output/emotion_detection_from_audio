@@ -1,0 +1,124 @@
+$VAR1 = [
+          {
+            'URL' => 'http://openaudio.eu/',
+            'Summary' => 'openAUDIO.eu. Editors: Björn ... Florian Eyben (audEERING GmbH) Content and <b>Software</b>. Authors: Felix Weninger, Alexander Lehmann, Björn Schuller. ... <b>DOWNLOAD</b>: The ...',
+            'Links' => [
+                         'http://www.mmk.ei.tum.de/~eyb/openEAR-0.1.0.tar.gz',
+                         'http://openaudio.eu/wsh_mood_annotation.zip',
+                         'http://openaudio.eu/UltraStar_Alignments.zip'
+                       ]
+          },
+          {
+            'Summary' => '<b>Audio</b>-Visual-<b>Emotion</b>-Recognition - This project aims to recognize human <b>emotions</b> <b>from</b> <b>audio</b>-visual information. Skip to content. ... <b>Audio</b>-Visual-<b>Emotion</b>-Recognition.',
+            'Links' => [
+                         'https://github.com/Yifeng-He/Audio-Visual-Emotion-Recognition/archive/master.zip'
+                       ],
+            'URL' => 'https://github.com/Yifeng-He/Audio-Visual-Emotion-Recognition'
+          },
+          {
+            'Summary' => "Intel\x{ae} RealSense\x{2122} SDK Code Samples. By Felipe P. ... <b>Emotion</b> <b>Detection</b>; ... Accessing Image and <b>Audio</b> Data; ImageData to Bitmap; <b>Download</b> the Samples.",
+            'Links' => [
+                         'https://software.intel.com/sites/default/files/managed/48/85/RealSense_BrazilLab_CodeSamples_1.3.zip'
+                       ],
+            'URL' => 'https://software.intel.com/en-us/articles/intel-realsense-sdk-code-samples'
+          },
+          {
+            'URL' => 'https://stackoverflow.com/questions/477944/bpm-audio-detection-library',
+            'Links' => [
+                         'http://downloads.mixxx.org/mixxx-1.6.1/mixxx-1.6.1-src.tar.gz'
+                       ],
+            'Summary' => 'Bpm <b>audio</b> <b>detection</b> Library [closed] Ask Question. up vote 13 down vote favorite. 14. I\'m looking for a library that simplify tempo/bpm <b>audio</b> <b>detection</b>.'
+          },
+          {
+            'Links' => [
+                         'https://www.codeproject.com/KB/GDI-plus/HumanEmotionDetection/EmotionDetection.zip'
+                       ],
+            'Summary' => 'Human <b>Emotion</b> <b>Detection</b> <b>from</b> Image. ... <b>Download</b> source ... eagerness to learn and has strong passion in <b>software</b> engineering.',
+            'URL' => 'https://www.codeproject.com/articles/110805/human-emotion-detection-from-image'
+          },
+          {
+            'Summary' => 'Fix Realtek High Definition <b>Audio</b> Driver ... I have uninstalled and reinstalled this <b>software</b> many time ... When I <b>download</b> realtek <b>audio</b> it says to restart my ...',
+            'Links' => [
+                         'https://www.drivereasy.com/DriverEasy_Setup.exe',
+                         'http://www.drivereasy.com/DriverEasy_Setup.exe'
+                       ],
+            'URL' => 'https://www.drivereasy.com/knowledge/fix-realtek-high-definition-audio-driver-issue-for-windows-10/'
+          },
+          {
+            'URL' => 'https://www.drivernavigator.com/',
+            'Summary' => 'Driver Navigator help you <b>download</b> and update drivers for Windows 7, ... <b>Audio</b> &amp; Sound Driver; ... Great <b>software</b>, ...',
+            'Links' => [
+                         'https://www.drivernavigator.com/DriverNavigator_Setup.exe'
+                       ]
+          },
+          {
+            'URL' => 'https://www.xivero.com/musicscope/',
+            'Summary' => 'MusicScope is a high precision <b>software</b> <b>audio</b> analyzer, ... <b>Detection</b> of Inter Sample Peaks; ... (<b>Download</b>: 16Bit / 24Bit) to ...',
+            'Links' => [
+                         'https://www.xivero.com/downloads/MusicScope-Setup-x86.exe',
+                         'https://www.xivero.com/downloads/MusicScope-Setup-x64.exe'
+                       ]
+          },
+          {
+            'Links' => [
+                         'http://www.advancedsourcecode.com/speechemotpro.zip'
+                       ],
+            'Summary' => 'Advanced Source Code . Com : HOME: ... Click here to <b>download</b> :. Speech <b>emotion</b> recognition is ... If you have written a paper where our <b>software</b> is cited in the ...',
+            'URL' => 'http://www.advancedsourcecode.com/speechemotion.asp'
+          },
+          {
+            'URL' => 'http://www.deskshare.com/WCM.aspx',
+            'Links' => [
+                         'http://dl.deskshare.com/download/wcm/WebCamMonitor.exe'
+                       ],
+            'Summary' => 'WebCam Monitor is home security <b>software</b> that ... On motion <b>detection</b>, performs actions ... and triggers alerts that can record video and <b>audio</b> of the ...'
+          },
+          {
+            'URL' => 'http://www.ifs.tuwien.ac.at/mir/muscle/del/audio_tools.html',
+            'Links' => [
+                         'http://www.ifs.tuwien.ac.at/mir/muscle/del/rp_extract_0.621.zip',
+                         'http://www.ifs.tuwien.ac.at/mir/muscle/del/SoundDescriptionToolbox08-01.zip',
+                         'http://www.ifs.tuwien.ac.at/mir/chords/download/genchords.zip',
+                         'http://www.ifs.tuwien.ac.at/mir/audiosegmentation/dl/ep_audiosegmentation-2007-07-30.zip',
+                         'http://www.aria99.com/dsp_aria.zip',
+                         'http://www.ifs.tuwien.ac.at/mir/muscle/del/UCam_matlab_nmf-audio.zip',
+                         'http://www.ifs.tuwien.ac.at/mir/muscle/del/UCam_tracker.zip',
+                         'http://www.ifs.tuwien.ac.at/mir/muscle/del/WinSnoori_1.34_setup.exe'
+                       ],
+            'Summary' => 'MUSCLE Network of Excellence ... GenChords - Automatic Chord <b>Detection</b>; Music <b>Audio</b> Segmentation; ARIA ... <b>Download</b>: nmf-<b>audio</b>.zip'
+          },
+          {
+            'Summary' => 'Use Silence <b>Detection</b> to Split <b>Audio</b> Files. Professional Multimedia <b>Software</b>. Free <b>download</b> for Windows 7 ... Silence <b>detection</b> allows you to extract songs from a ...',
+            'Links' => [
+                         'http://www.maniactools.com/cgi-bin/download/mp3tagpro.exe',
+                         'http://www.maniactools.com/cgi-bin/download/converter.exe',
+                         'http://www.maniactools.com/cgi-bin/download/midi_converter.exe',
+                         'http://www.maniactools.com/cgi-bin/download/mp3_splitter_joiner.exe',
+                         'http://www.maniactools.com/cgi-bin/download/music-duplicate.exe',
+                         'http://www.maniactools.com/cgi-bin/download/mp3-recorder.exe',
+                         'http://www.maniactools.com/cgi-bin/download/cd-burner.exe',
+                         'http://www.maniactools.com/cgi-bin/download/movienizer.exe',
+                         'http://www.maniactools.com/cgi-bin/download/musicnizer.exe',
+                         'http://www.maniactools.com/cgi-bin/download/booknizer.exe',
+                         'http://www.maniactools.com/cgi-bin/download/m4a-to-mp3-converter.exe',
+                         'http://www.maniactools.com/cgi-bin/download/media_catalog.exe',
+                         'http://www.maniactools.com/cgi-bin/download/ringtone-studio.exe',
+                         'http://www.maniactools.com/cgi-bin/download/spanish-help.zip'
+                       ],
+            'URL' => 'http://www.maniactools.com/soft/mp3-splitter-joiner/using_silence.shtml'
+          },
+          {
+            'URL' => 'http://www.multimediasoft.com/adjstudnet/index.html',
+            'Links' => [
+                         'http://www.multimediasoft.com/bins/adjstudnet_t.exe'
+                       ],
+            'Summary' => '<b>Audio</b> DJ Studio for .NET is a ... this is very useful for multi-channel radio stations automation <b>software</b>. ... Downloading facility allowing the <b>download</b> of ...'
+          },
+          {
+            'Links' => [
+                         'http://www.nch.com.au/components/insetup.exe'
+                       ],
+            'Summary' => 'See how EyeLine can work for you ... <b>Download</b> Now. EyeLine professional ... Video Capture <b>Software</b> <b>Audio</b> Logging <b>Software</b> Streaming <b>Software</b>...',
+            'URL' => 'http://www.nchsoftware.com/surveillance/screenshots.html'
+          }
+        ];

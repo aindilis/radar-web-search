@@ -1,0 +1,40 @@
+$VAR1 = [
+          {
+            'Summary' => 'Computers and Games: First International Conference, CG\'98 ... <b>software</b> All <b>Software</b> latest This Just In Old School Emulation MS-DOS ... An <b>Adversarial Planning</b> ...',
+            'URL' => 'https://archive.org/details/springer_10.1007-3-540-48957-6',
+            'Links' => [
+                         'https://archive.org/download/springer_10.1007-3-540-48957-6/10.1007-3-540-48957-6_abbyy.gz',
+                         'https://archive.org/download/springer_10.1007-3-540-48957-6/10.1007-3-540-48957-6_daisy.zip',
+                         'https://archive.org/download/springer_10.1007-3-540-48957-6/10.1007-3-540-48957-6_jp2.zip'
+                       ]
+          },
+          {
+            'URL' => 'https://link.springer.com/article/10.1007/s10817-014-9313-1',
+            'Links' => [
+                         'http://rsise.anu.edu.au/jks/software/randomnet.tar.gz'
+                       ],
+            'Summary' => 'Automated Planning as an Early Verification Tool for Distributed Control. ... An architecture for <b>adversarial planning</b>. ... Challenges in automotive <b>software</b> ...'
+          },
+          {
+            'Summary' => '232 <b>Downloads</b>; Part of the ... Bundy A., Levine J. (1999) An <b>Adversarial Planning</b> Approach to Go. In: van den ... A Strategy Based Model of <b>Adversarial Planning</b> in ...',
+            'Links' => [
+                         'ftp://bsdserver.ucsf.edu/Go/comp/mfg.Z'
+                       ],
+            'URL' => 'https://link.springer.com/chapter/10.1007/3-540-48957-6_6'
+          },
+          {
+            'Links' => [
+                         'ftp://ftp-igs.joyjoy.net/Go/computer/golem.sh.Z',
+                         'ftp://ftp-igs.joyjoy.net/Go/computer/mfg.tex.Z'
+                       ],
+            'URL' => 'https://webdocs.cs.ualberta.ca/~games/go/compgo_biblio/compgo_biblio.html',
+            'Summary' => 'Computer Go Bibliography ... Programming Go by breeding <b>software</b>, 1995. ... <b>Adversarial planning</b> techniques and the game of Go.'
+          },
+          {
+            'Summary' => 'The Universal Multi-agent Obdd-based Planner (UMOP) UMOP (Jensen &amp; Veloso, AIPS2000 and JAIR, vol. 13 2000 and Jensen, Veloso &amp; Bowling ECP-01) is a universal ...',
+            'Links' => [
+                         'http://www.cs.cmu.edu/~runej/data/systems/umop12/umop12.tar.gz'
+                       ],
+            'URL' => 'http://www.cs.cmu.edu/~runej/systems/umop12.html'
+          }
+        ];

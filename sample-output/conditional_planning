@@ -1,0 +1,20 @@
+$VAR1 = [
+          {
+            'URL' => 'http://gki.informatik.uni-freiburg.de/publications/by_area.html',
+            'Summary' => 'Publications by area [AI Planning] ... The version of the paper available for <b>download</b> here corrects these errors. ... <b>Conditional planning</b> in the discrete belief ...',
+            'Links' => [
+                         'http://gki.informatik.uni-freiburg.de/papers/rcc8-csp-solving.tar.gz',
+                         'http://gki.informatik.uni-freiburg.de/papers/rcc8-hard-instances.tar.gz',
+                         'http://gki.informatik.uni-freiburg.de/papers/allen-csp-solving.programs.tar.gz',
+                         'http://gki.informatik.uni-freiburg.de/papers/rcc8_qcn2sat.tar.gz',
+                         'http://gki.informatik.uni-freiburg.de/papers/qcn2sat.tar.gz'
+                       ]
+          },
+          {
+            'URL' => 'http://www.kr.tuwien.ac.at/research/projects/WASP/report.html',
+            'Links' => [
+                         'http://www.tcs.hut.fi/~tssyrjan/software/ssokoban.tar.gz'
+                       ],
+            'Summary' => 'Leone et al. have shown some integrated encodings for conformant planning and simple forms of <b>conditional planning</b>, ... (<b>download</b>): http://www.tcs.hut.fi/~tssyrjan/<b>software</b>/ssokoban.tar.gz; ... P. Bonatti. UNINA. Reasoning with ...'
+          }
+        ];

@@ -1,0 +1,81 @@
+$VAR1 = [
+          {
+            'URL' => 'https://archive.cert.uni-stuttgart.de/bugtraq/2013/08/msg00190.html',
+            'Links' => [
+                         'http://www.coresecurity.com/system/files/attachments/2013/08/CORE-2013-0808-epsviewer-poc-8321106075.zip'
+                       ],
+            'Summary' => '*Advisory Information* Title: EPS Viewer Buffer Overflow Vulnerability Advisory ID: CORE-2013-0808 ... cyber <b>attack planning</b> and simulation, source code ... Core Security\'s <b>software</b> solutions build on over a decade of trusted research and leading-edge threat expertise from the company ...'
+          },
+          {
+            'Links' => [
+                         'https://archive.org/download/41725599076486/41725599076486_abbyy.gz',
+                         'https://archive.org/download/41725599076486/41725599076486_daisy.zip',
+                         'https://archive.org/download/41725599076486/41725599076486_jp2.zip'
+                       ],
+            'URL' => 'https://archive.org/details/41725599076486',
+            'Summary' => 'Future Planning For The Standardization Of Sigtot Tape Production Equipment. ... <b>software</b> All <b>Software</b> latest This Just In Old School Emulation MS-DOS Games Historical <b>Software</b> Classic PC Games <b>Software</b> Library. ... Ussr <b>Attack Planning</b> Plan ...'
+          },
+          {
+            'Summary' => 'Links &amp; Tools + Links to the roots ... Widget uses very little bandwidth as it only <b>downloads</b> a single byte every 10 minutes, ... Nuclear <b>Attack Planning</b> Base:',
+            'Links' => [
+                         'http://defconwarningsystem.com/files/DEFCON%20Warning%20System%20Desktop%20App.zip'
+                       ],
+            'URL' => 'https://defconwarningsystem.com/links-tools/'
+          },
+          {
+            'Links' => [
+                         'http://seclists.org/fulldisclosure/2013/May/att-194/signature_asc.bin'
+                       ],
+            'URL' => 'http://seclists.org/fulldisclosure/2013/May/194',
+            'Summary' => '... cyber <b>attack planning</b> and simulation, source code auditing, ... , project information and shared <b>software</b> tools for public use at: http://corelabs.coresecurity.com. ... MayGion IP Cameras multiple vulnerabilities CORE Security Technologies Advisories (May 28)'
+          },
+          {
+            'Links' => [
+                         'http://seclists.org/fulldisclosure/2017/May/att-31/signature_asc.bin'
+                       ],
+            'URL' => 'http://seclists.org/fulldisclosure/2017/May/31',
+            'Summary' => '*Vulnerability Description* SAP [1] distributes <b>software</b> and packages using an archive program called SAPCAR [2]. ... cyber <b>attack planning</b> and simulation, source code auditing, ... SAP SAPCAR Heap Based Buffer Overflow Vulnerability Core Security Advisories Team (May 10)'
+          },
+          {
+            'Summary' => 'Ubiquiti airCam RTSP Service Buffer Overflow. Change Mirror <b>Download</b>. ... Ubiquiti <b>downloads</b> http://www.ubnt.com/download#AirCam. [3] ... <b>attack planning</b> and ...',
+            'Links' => [
+                         'https://packetstormsecurity.com/files/download/143137/aiengine-1.8.0.tar.gz',
+                         'https://packetstormsecurity.com/files/download/143136/GS20170624175756.tgz',
+                         'https://packetstormsecurity.com/files/download/143134/GS20170624175528.tgz',
+                         'https://packetstormsecurity.com/files/download/143133/GS20170624175445.tgz',
+                         'https://packetstormsecurity.com/files/download/143132/GS20170624175319.tgz'
+                       ],
+            'URL' => 'https://packetstormsecurity.com/files/121986/Ubiquiti-airCam-RTSP-Service-Buffer-Overflow.html'
+          },
+          {
+            'Summary' => 'SAP LZC/LZH Compression Denial Of Service. Change Mirror <b>Download</b>. 1. Advisory Information ... cyber <b>attack planning</b> and simulation, source code ... Core Security\'s <b>software</b> solutions build on over a decade of trusted research and leading-edge threat expertise from the company\'s Security ...',
+            'URL' => 'https://packetstormsecurity.com/files/131883/',
+            'Links' => [
+                         'https://packetstormsecurity.com/files/download/143137/aiengine-1.8.0.tar.gz',
+                         'https://packetstormsecurity.com/files/download/143136/GS20170624175756.tgz',
+                         'https://packetstormsecurity.com/files/download/143134/GS20170624175528.tgz',
+                         'https://packetstormsecurity.com/files/download/143133/GS20170624175445.tgz',
+                         'https://packetstormsecurity.com/files/download/143132/GS20170624175319.tgz'
+                       ]
+          },
+          {
+            'Summary' => 'The final version of Europe 1944 is available The latest version of the scenario and ... (UK and US, German and satellites, different Soviet Fronts) are harsh. The players should use the <b>attack planning</b> ... Nice one i will <b>download</b> the latest version and start playing thanks very ...',
+            'Links' => [
+                         'http://dl.dropbox.com/u/1180829/Europe44v6.0.zip',
+                         'http://dl.dropbox.com/u/1180829/Europe1944v5.8.zip'
+                       ],
+            'URL' => 'http://www.matrixgames.com/forums/tm.asp?m=2851922'
+          },
+          {
+            'Summary' => 'Nuclear <b>Attack Planning</b> Base 1990; ... or dollar that comes into this project is directly applied to hardware, <b>software</b>, hosting needs, and purchase of MUCH more original civil defense materials for future addition to this ... Nearly EVERY <b>download</b> on our site, in your hands... 2015 set included ...',
+            'URL' => 'http://www.survivalring.org/downloads/downloads-set-three/',
+            'Links' => [
+                         'http://www.survivalring.org/Fallout-Shelter-Plans-and-More-From-SurvivalRing.zip',
+                         'http://www.survivalring.org/blast.zip',
+                         'http://www.survivalring.org/bhfs.zip',
+                         'http://www.survivalring.org/ahfs.zip',
+                         'http://www.survivalring.org/resistance.zip',
+                         'http://www.survivalring.org/standards.zip'
+                       ]
+          }
+        ];

@@ -1,0 +1,211 @@
+$VAR1 = [
+          {
+            'Links' => [
+                         'http://groupware.les.inf.puc-rio.br/javax.faces.resource/themes/sam/theme.css.jsf?ln=icefaces.ace',
+                         'http://groupware.les.inf.puc-rio.br/static/har/SystematicReview-RIS-Format.zip',
+                         'http://groupware.les.inf.puc-rio.br/static/har/SystematicReview-EndNote.zip',
+                         'http://groupware.les.inf.puc-rio.br/static/har/dataset-har-PUC-Rio-ugulino.zip'
+                       ],
+            'Summary' => 'Human <b>Activity Recognition</b> ... You can <b>download</b> the dataset here ... This license is often compared to "copyleft" free and open source <b>software</b> licenses.',
+            'URL' => 'http://groupware.les.inf.puc-rio.br/har'
+          },
+          {
+            'Links' => [
+                         'http://hector.cs.ucf.edu/teamwork/wp-content/uploads/2008/04/rapidminerplugin-20080410.zip'
+                       ],
+            'Summary' => 'Teamwork <b>Activity Recognition</b> - NetMoC - UCF. JAHMM plugin for RapidMiner. We have used the RapidMiner (formerly Yale) ... <b>Download</b>: rapidminerplugin ...',
+            'URL' => 'http://hector.cs.ucf.edu/teamwork/?page_id=86'
+          },
+          {
+            'Links' => [
+                         'https://archive.org/download/pubmed-PMC4168494/PMC4168494-s140712285_abbyy.gz',
+                         'https://archive.org/download/pubmed-PMC4168494/PMC4168494-s140712285_daisy.zip',
+                         'https://archive.org/download/pubmed-PMC4168494/PMC4168494-s140712285_jp2.zip'
+                       ],
+            'Summary' => '<b>software</b> All <b>Software</b> latest This Just In ... Clustering-Based Ensemble Learning for <b>Activity Recognition</b> in ... SINGLE PAGE PROCESSED JP2 ZIP <b>download</b>. <b>download</b> 1 ...',
+            'URL' => 'https://archive.org/details/pubmed-PMC4168494'
+          },
+          {
+            'URL' => 'https://github.com/345ishaan/Driver-Activity-Recognition',
+            'Links' => [
+                         'https://github.com/345ishaan/Driver-Activity-Recognition/archive/master.zip'
+                       ],
+            'Summary' => 'Contribute to Driver-<b>Activity-Recognition</b> development by creating an account on GitHub. ... and build <b>software</b> together. ... Clone or <b>download</b>'
+          },
+          {
+            'URL' => 'https://github.com/Rafagf/Activity-Recognition',
+            'Links' => [
+                         'https://github.com/Rafagf/Activity-Recognition/archive/master.zip'
+                       ],
+            'Summary' => '<b>Activity-Recognition</b> - An Android tutorial to easily perform <b>activity recognition</b>'
+          },
+          {
+            'Summary' => '<b>Software</b>/Tools. DBP Tools; Data Compression; Genomics; NLP and Data Modeling; Patient-Centered; ... Click on the name in the left-hand column to <b>download</b> or access the tool. ... an <b>activity recognition</b> feedback screen that is updated every minute, ...',
+            'Links' => [
+                         'http://cseweb.ucsd.edu/~ckozanit/gql/gql.tar.gz'
+                       ],
+            'URL' => 'https://idash.ucsd.edu/dbp-tools'
+          },
+          {
+            'URL' => 'https://www.movisens.com/en/products/dataanalyzer/',
+            'Summary' => '<b>Activity recognition</b> and energy expenditure calculation; ... Included as standard with the DataAnalyzer <b>software</b> licence, ... <b>Download</b> Version 1.6.11176 (June 5th, 2013)',
+            'Links' => [
+                         'http://software.movisens.com/download/DataAnalyzer/movisens_DataAnalyzer_Setup.exe',
+                         'http://software.unisens.org/download/UnisensViewer/UnisensViewer_Setup.exe',
+                         'https://www.movisens.com/wp-content/downloads/data_move2_parcours.zip',
+                         'https://www.movisens.com/wp-content/downloads/data_move2_24h.zip',
+                         'https://www.movisens.com/wp-content/downloads/data_move2_7d.zip',
+                         'https://www.movisens.com/wp-content/downloads/data_ekgmove_parcours.zip',
+                         'https://www.movisens.com/wp-content/downloads/data_ekgmove_24h.zip',
+                         'https://www.movisens.com/wp-content/downloads/data_edamove_parcours.zip',
+                         'http://software.movisens.com/download/DataAnalyzer/Releases/1.11.2/movisens_DataAnalyzer_Setup.exe',
+                         'http://software.movisens.com/download/DataAnalyzer/Releases/1.8.13227/movisens_DataAnalyzer_Setup.exe',
+                         'http://software.movisens.com/download/DataAnalyzer/Releases/1.7.12513/movisens_DataAnalyzer_Setup.exe',
+                         'http://software.movisens.com/download/DataAnalyzer/Releases/1.6.11176/movisens_DataAnalyzer_Setup.exe'
+                       ]
+          },
+          {
+            'Summary' => 'Departments Computer Vision and Multimodal Computing Research Human <b>Activity Recognition</b> MPII Cooking Activities Dataset. ... <b>Activity Recognition</b> ... <b>download</b> ...',
+            'Links' => [
+                         'http://datasets.d2.mpi-inf.mpg.de/MPIICookingActivities/videos.zip',
+                         'http://datasets.d2.mpi-inf.mpg.de/MPIICookingActivities/images.zip',
+                         'http://datasets.d2.mpi-inf.mpg.de/MPIICookingActivities/features/denseTrack-1-0.zip',
+                         'http://datasets.d2.mpi-inf.mpg.de/MPIICookingActivities/features/tr-1-0.zip',
+                         'http://datasets.d2.mpi-inf.mpg.de/MPIICookingActivities/features/hog-1-0.zip',
+                         'http://datasets.d2.mpi-inf.mpg.de/MPIICookingActivities/features/hof-1-0.zip',
+                         'http://datasets.d2.mpi-inf.mpg.de/MPIICookingActivities/features/mbh-1-0.zip',
+                         'http://datasets.d2.mpi-inf.mpg.de/MPIICookingActivities/features/bm-1-0.zip',
+                         'http://datasets.d2.mpi-inf.mpg.de/MPIICookingActivities/features/fft-1-0.zip',
+                         'http://datasets.d2.mpi-inf.mpg.de/MPIICookingActivities/features/poseTrack-1-0.zip',
+                         'http://datasets.d2.mpi-inf.mpg.de/MPIICookingActivities/evalCode-1.0.zip',
+                         'http://datasets.d2.mpi-inf.mpg.de/MPIICookingActivities/evalData-1.0.zip',
+                         'http://datasets.d2.mpi-inf.mpg.de/MPIICookingActivities/poseChallenge-1.2.zip',
+                         'http://datasets.d2.mpi-inf.mpg.de/MPIICookingActivities/poseChallengeContinuous-1.0.zip',
+                         'http://datasets.d2.mpi-inf.mpg.de/MPIICookingActivities/cvpr12_SIFT_tracker.zip'
+                       ],
+            'URL' => 'https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/human-activity-recognition/mpii-cooking-activities-dataset/'
+          },
+          {
+            'URL' => 'https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/human-activity-recognition/mpii-cooking-composite-activities/',
+            'Summary' => 'Departments Computer Vision and Multimodal Computing Research Human <b>Activity Recognition</b> MPII Cooking Composite Activities. Algorithms &amp; Complexity; Computer Vision and ... <b>Activity Recognition</b> dataset. README; Raw data ... We highly recommend a <b>download</b> manager which allows to continue ...',
+            'Links' => [
+                         'http://datasets.d2.mpi-inf.mpg.de/MPIIComposites/videos-1-0.zip',
+                         'http://datasets.d2.mpi-inf.mpg.de/MPIIComposites/features/trhoghofmbh-1-0.zip',
+                         'http://datasets.d2.mpi-inf.mpg.de/MPIIComposites/scriptdata/Scripts_Preprocessed.zip',
+                         'http://datasets.d2.mpi-inf.mpg.de/MPIIComposites/scriptdata/cooking_csv.zip'
+                       ]
+          },
+          {
+            'Links' => [
+                         'http://ubicomp.org/ubicomp2013/UbiComp2013_adjunct.zip'
+                       ],
+            'Summary' => '14:15-15:45 - ISWC: <b>Activity Recognition</b> (G4) ... Lei Xie (State Key Laboratory of Novel <b>Software</b> Technology, Nanjing University), ... You can alternatively <b>download</b> the entire adjunct program in a single 1.24GB ZIP-file: UbiComp2013_adjunct.zip.',
+            'URL' => 'http://ubicomp.org/ubicomp2013/program.php'
+          },
+          {
+            'Links' => [
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s01s02.zip',
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s01s03.zip',
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s01s07.zip',
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s02s01.zip',
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s02s03.zip',
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s02s06.zip',
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s02s07.zip',
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s03s02.zip',
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s03s04.zip',
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s03s05.zip',
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s03s06.zip',
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s04s02.zip',
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s04s03.zip',
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s04s06.zip',
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s05s02.zip',
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s05s03.zip',
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s06s02.zip',
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s06s03.zip',
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s06s04.zip',
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s07s01.zip',
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s07s03.zip',
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s01s02_noisy.zip',
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s01s03_noisy.zip',
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s01s07_noisy.zip',
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s02s01_noisy.zip',
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s02s03_noisy.zip',
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s02s06_noisy.zip',
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s02s07_noisy.zip',
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s03s02_noisy.zip',
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s03s04_noisy.zip',
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s03s05_noisy.zip',
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s03s06_noisy.zip',
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s04s02_noisy.zip',
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s04s03_noisy.zip',
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s04s06_noisy.zip',
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s05s02_noisy.zip',
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s05s03_noisy.zip',
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s06s02_noisy.zip',
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s06s03_noisy.zip',
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s06s04_noisy.zip',
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s07s01_noisy.zip',
+                         'http://vision.cs.stonybrook.edu/~kiwon/Datasets/SBU_Kinect_Interactions/s07s03_noisy.zip'
+                       ],
+            'Summary' => 'Human <b>activity recognition</b> has potential to impact a wide range of applications from surveillance to human computer interfaces to content based video retrieval ...',
+            'URL' => 'http://www3.cs.stonybrook.edu/~kyun/research/kinect_interaction/'
+          },
+          {
+            'Links' => [
+                         'http://www4.ncsu.edu/~mshahza/publications/SourceCodes/GestureLightArduinoCode.zip',
+                         'http://www4.ncsu.edu/~mshahza/publications/SourceCodes/Code4DemoGestureBasedAuthentication.zip',
+                         'http://www4.ncsu.edu/~mshahza/publications/SourceCodes/IdentificationProtocols.zip',
+                         'http://www4.ncsu.edu/~mshahza/publications/SourceCodes/EstimationProtocols.zip',
+                         'http://www4.ncsu.edu/~mshahza/publications/Datasets/GestureLightSensorData.zip',
+                         'http://www4.ncsu.edu/~mshahza/publications/Datasets/VulnerabilityDataSet.zip'
+                       ],
+            'Summary' => '[<b>Download</b> Data Set] <b>Software</b> Vulnerabilities ... Device-free Human <b>Activity Recognition</b> Using Commercial WiFi Devices ... Conference Publications.',
+            'URL' => 'http://www4.ncsu.edu/~mshahza/publications.html'
+          },
+          {
+            'Summary' => 'This dataset contains data ... . "<b>Activity Recognition</b> using Cell Phone Accelerometers," Proceedings of the Fourth International Workshop on ... (ARFF files) for use with WEKA machine learning <b>software</b>. standalone_public_v1.0.jar is called with two ...',
+            'Links' => [
+                         'http://www.cis.fordham.edu/wisdm/includes/datasets/latest/WISDM_ar_latest.tar.gz',
+                         'http://www.cis.fordham.edu/wisdm/includes/dataset/latest/WISDM_ar_v1.1.tar.gz',
+                         'http://www.cis.fordham.edu/wisdm/includes/datasets/latest/WISDM_at_latest.tar.gz',
+                         'http://www.cis.fordham.edu/wisdm/includes/dataset/latest/WISDM_at_v2.0.tar.gz',
+                         'http://www.cis.fordham.edu/wisdm/includes/datasets/WISDM_transformation_v1.0.tar.gz'
+                       ],
+            'URL' => 'http://www.cis.fordham.edu/wisdm/dataset.php'
+          },
+          {
+            'URL' => 'http://www.cse.buffalo.edu/~jcorso/r/actionbank/',
+            'Links' => [
+                         'http://www.cse.buffalo.edu/~jcorso/pubs/HAI.zip',
+                         'http://www.cse.buffalo.edu/~jcorso/pubs/RFD_Package.zip',
+                         'http://www.cse.buffalo.edu/~jcorso/r/graphshifts/files/graphshifts-R2008.tar.gz',
+                         'http://www.cse.buffalo.edu/~jcorso/r/graphshifts/files/graphshifts-example.zip',
+                         'http://www.cse.buffalo.edu/~aychen/LabelPropagation/labelpropagation.zip',
+                         'http://www.cse.buffalo.edu/~jcorso/r/gbs/files/CPStereoFacadeDataset.zip'
+                       ],
+            'Summary' => 'We have tested action bank on a variety of <b>activity recognition</b> data sets. See the paper ... HMDB 51 . Publications: S. Sadanand and J. J. Corso. Action bank: A high-level representation of activity in video. In Proceedings of IEEE ... I am running the <b>software</b> on a video and it ...'
+          },
+          {
+            'Links' => [
+                         'http://www.demcare.eu/downloads/iData.rar'
+                       ],
+            'Summary' => 'See also: https://team.inria.fr/stars/<b>software</b>/car-complex-<b>activity-recognition</b>-component-installation/ DTI-2 <b>Software</b> Module ... <b>Download</b> here Contact: Thanos Stavropoulos - This email address is being protected from spambots.',
+            'URL' => 'http://www.demcare.eu/results/software'
+          },
+          {
+            'Summary' => 'Smartphone-Based Human <b>Activity Recognition</b> English | 147 pages | ISBN: 3319142739 ... Direct <b>Download</b> Free Movies Mp3\'s <b>Software</b> Programs Stock Images » E-Books &amp; Audio Books » Smartphone-Based Human <b>Activity Recognition</b> : Smartphone-Based Human <b>Activity Recognition</b>',
+            'Links' => [
+                         'http://uploaded.net/file/mh5srz7z/Smartphone.rar',
+                         'http://www.uploadable.ch/file/zwPYwK7kXzrZ/Smartphone.rar'
+                       ],
+            'URL' => 'http://www.downduck.com/ebooks/2367814-smartphone-based-human-activity-recognition.html'
+          },
+          {
+            'URL' => 'http://www.kfriends.net/ebooks/136560-smartphone-based-human-activity-recognition.html',
+            'Summary' => 'Smartphone-Based Human <b>Activity Recognition</b> English | 147 pages | ISBN: 3319142739 ... <b>Software</b>; MAC <b>Software</b>; Games; Console Games; Movies; Music; Music Videos; TV Shows; Video; Mobiles; eBooks; Magazines; Tutorials; Graphics; Free Warez <b>Download</b>; Misc; Popular News. GraphicRiver Gif Animated ...',
+            'Links' => [
+                         'http://uploaded.net/file/mh5srz7z/Smartphone.rar',
+                         'http://www.uploadable.ch/file/zwPYwK7kXzrZ/Smartphone.rar'
+                       ]
+          }
+        ];

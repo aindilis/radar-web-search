@@ -1,0 +1,29 @@
+$VAR1 = [
+          {
+            'Summary' => 'Segmentation and Recognition Using Structure ... we offer custom-made labeling <b>software</b> for assisting users who wish to ... multi-class <b>object recognition</b>, ...',
+            'URL' => 'http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/',
+            'Links' => [
+                         'http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/data/LabeledApproved_full.zip',
+                         'http://www.inf.ethz.ch/personal/gbrostow/temp/701_StillsRaw_full.zip',
+                         'http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/InteractLabeler/InteractLabeler.zip'
+                       ]
+          },
+          {
+            'Summary' => 'Selective Search <b>Software</b> - IJCV journal version. Matlab pcode is available for our paper Selective Search for <b>Object Recognition</b>. Please cite our paper if you use ...',
+            'Links' => [
+                         'https://www.koen.me/research/downloads/SelectiveSearchCodeIJCV.zip',
+                         'https://www.koen.me/research/downloads/SelectiveSearchPcode.zip'
+                       ],
+            'URL' => 'https://www.koen.me/research/selectivesearch/'
+          },
+          {
+            'Links' => [
+                         'http://www.cs.toronto.edu/~dmac/ShapeMatcher/ShapeMatcher6.0.1beta.zip',
+                         'http://www.cs.toronto.edu/~dmac/ShapeMatcher/ShapeMatcher7.1.1.7z',
+                         'http://www.cs.toronto.edu/~dmac/ShapeMatcher/Models120.zip',
+                         'http://www.cs.toronto.edu/~dmac/ShapeMatcher/models.zip'
+                       ],
+            'URL' => 'http://www.cs.toronto.edu/~dmac/ShapeMatcher/',
+            'Summary' => 'A Shape Indexer and Matcher for <b>Object Recognition</b>. ShapeMatcher 5 is a console application for experimenting with shape matching using skeletons.'
+          }
+        ];

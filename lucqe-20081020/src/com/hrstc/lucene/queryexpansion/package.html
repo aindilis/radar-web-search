@@ -1,0 +1,65 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html><head>
+<style type="text/css">
+<!--
+.style4 {color: #000000; font-weight: bold; }
+.style5 {color: #000000; font-style: italic; }
+.style6 {color: #000000}
+.style7 {font-weight: bold; font-size: 16px;}
+-->
+</style>
+LucQE</head>
+
+<body>
+<p align="center" class="style6"><span class="style7">LucQE [lucky] - Lucene Query Expansion Module </span></p>
+<p align="justify" class="style6">Provides a framework along with several implementations that allow to perform Query Expansion (QE) with the use of Apache Lucene.</p>
+<p align="justify" class="style6">Query Expansion - Adding search terms to a user's search. Query expansion is the process of a search<br>
+  engine adding search terms to a user's weighted search. The intent is to improve precision and/or recall. The additional terms may be taken from a thesaurus. For example a search for &quot;car&quot; may be expanded to: car cars auto autos automobile automobiles [foldoc.org]. </p>
+<p class="style6">Following modules have been implemented: </p>
+<ul class="style6">
+  <li> Rocchio Query Expansion (QE) method.</li>
+  <li>gQE [geek] - Provides implementation of pseudo feedback QE utilizing Google's web API to query the world wide web in order to acquire terms for QE. </li>
+</ul>
+<p class="style6"><em><strong>Performance</strong></em></p>
+<p class="style6">Experiments were conducted on the data from TREC 2004 Robust Track.</p>
+<p class="style6">Note: This data is provided for reference purposes only. Better performance on the specific data set may not necessary be repeated on the different data sets, etc... </p>
+<table border="1" cellpadding="0" cellspacing="0">
+  <tr bordercolor="#000000">
+    <td width="113" rowspan="2" class="style4">Tag</td>
+    <td width="192" colspan="3" class="style6"><strong>Combined Topic Set</strong><strong>&nbsp;</strong></td>
+  </tr>
+  <tr>
+    <td class="style4">MAP</td>
+    <td class="style4">P10</td>
+    <td class="style4">%no</td>
+  </tr>
+  <tr bordercolor="#000000">
+    <td class="style5">Lucene gQE</td>
+    <td class="style6">0.2332</td>
+    <td class="style6">0.3984</td>
+    <td class="style6">14%</td>
+  </tr>
+  <tr bordercolor="#000000">
+    <td class="style5">KB-R-FIS gQE</td>
+    <td class="style6">0.2322</td>
+    <td class="style6">0.4076</td>
+    <td class="style6">14%</td>
+  </tr>
+  <tr bordercolor="#000000">
+    <td class="style5">Lucene</td>
+    <td class="style6">0.2</td>
+    <td class="style6">0.37</td>
+    <td class="style6">15%</td>
+  </tr>
+</table>
+<p class="style6"><strong>MAP </strong>- mean average precision<br>
+      <strong>P10</strong> - average of precision at 10 documents retrieved <br>
+      <strong>%no</strong> - percentage of topics with no relevant in the top 10 retrieved</p>
+<p class="style6"><em>Lucene </em>- unmodified version 1.4.3<br>
+      <em>Lucene gQE </em>&ndash; Lucene system that utilized Rocchio&rsquo;s query expansion along with Google.<br>
+      <em>KB-R-FIS gQE</em> &ndash; My Fuzzy Inference System that utilized Rocchio&rsquo;s query expansion along with Google.</p>
+<h2 class="style6"> Demo</h2>
+
+<p class="style6">To see a demo of a project run 'demo' script at the root of the project. </p>
+@author Neil O. Rouben 
+</body></html>

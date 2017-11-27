@@ -1,0 +1,51 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html><head>
+<style type="text/css">
+<!--
+.style4 {
+	color: #000000;
+	font-weight: bold;
+	font-style: italic;
+}
+.style5 {color: #000000}
+.style6 {font-weight: bold; font-size: 16px;}
+-->
+</style>
+LucQE</head>
+
+<body>
+<p align="center" class="style5"><span class="style6">TREC Module </span></p>
+<p align="left" class="style5">Provides various utilities that allow to run and evaluate peformance of Lucene on the test data from TREC Robust Retrieval Track.</p>
+<p align="left" class="style4">Procedure</p>
+<ol class="style5">
+  <li>Index Files <br>
+  I have modified org.apache.lucenesandbox.xmlindexingdemo package so that it works with TREC Robust 2004 data files. In order to index files execute org.apache.lucenesandbox.xmlindexingdemo.IndexFiles</li>
+  <li> Perform Search
+    <br>
+  I have modified SearchFiles so that it outputs data in TREC format. For usage details see javadoc. There is a sample program that could be launched be executing 'demo'. </li>
+  <li>Evaluation - TREC
+    <br>
+    It is necessary to evaluate search results with TREC programs; you can just use TREC's standard program - trec_eval, in order to perform evaluation.<br>
+      ex. /mnt/hgfs/thesis/trec_eval/trec_eval.7.0beta_linux/trec_eval -q qrels.robust2004.txt $1.result &gt; $1.trec_eval.out</li>
+  <li>Stats Parsing <br>
+  Values of P10 are necessary to run the robust_eval script, but they are not produced in the necessary form by trec_eval script. Program  com.hrstcs.trec.StatsParser parses trec_eval's result file and produces necessary stats in the format usable by robust_eval.<br>
+  ex. 
+  /usr/java/jre1.5.0_01/bin/java -Xmx256m -cp /mnt/hgfs/thesis/lucene/aditional_src/bin com.hrstcs.trec.StatsParser $1.trec_eval.out $1.robust_eval.in</li>
+  <li>Evaluation - TREC Robust<br>
+    In some of the runs not all of the topics are present, program com.hrstcs.trec.RobustEvalFix adjusts 'robust2004_eval.pl' script so that only present topics are evaluated.<br>
+    ex. 
+    /usr/java/jre1.5.0_01/bin/java -Xmx256m -cp /mnt/hgfs/thesis/lucene/aditional_src/bin com.hrstcs.trec.RobustEvalFix /mnt/hgfs/tdata/original/robust2004_eval.pl $1.result<br>
+    Finally, in order to perform robust evaluation:<br> 
+  ./robust2004_eval.pl $1.robust_eval.in &gt; $1.robust_eval.out</li>
+</ol>
+<p class="style5"><em><strong>Reports</strong></em></p>
+<p class="style5">com.hrstc.trec.report contains utilities that could be used to create reports from various runs.</p>
+<p class="style5"><br>
+</p>
+@author Neil O. Rouben
+<p class="style5">&nbsp;</p>
+<p class="style5">&nbsp;</p>
+<p class="style5">&nbsp;</p>
+<p class="style5">&nbsp;</p>
+<p align="justify" class="style5">&nbsp;</p>
+</body></html>

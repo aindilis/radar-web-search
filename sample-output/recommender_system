@@ -1,0 +1,161 @@
+$VAR1 = [
+          {
+            'Summary' => 'Hello All, I am developing an online movie rental system, built on DNN 5.4.1. For this, I need to implement a <b>recommender system</b> based on the user\'s past rental ...',
+            'URL' => 'http://forums.asp.net/t/1506371.aspx?Recommender+system+code+in+C+',
+            'Links' => [
+                         'http://code.msdn.microsoft.com/Getting-Started-with-91a65652/file/114474/1/MvcMovieRTM.zip'
+                       ]
+          },
+          {
+            'Links' => [
+                         'http://www.rapidminerbook.com/wp-content/uploads/Chapter%209.zip'
+                       ],
+            'URL' => 'http://rapidminerbook.com/index.php/chapter-downloads/chapter-9/',
+            'Summary' => 'Title: Constructing Recommender Systems in RapidMiner. Summary. Chapter 9 introduces the RapidMiner Extension for Recommender Systems. This extension allows building ...'
+          },
+          {
+            'Summary' => 'Rival is an open source toolkit for evalaution of recommender systems.',
+            'URL' => 'http://rival.recommenders.net/',
+            'Links' => [
+                         'https://github.com/recommenders/rival/archive/master.zip',
+                         'https://github.com/recommenders/rival/archive/rival-0.2.zip',
+                         'https://github.com/recommenders/rival/archive/rival-0.2.tar.gz',
+                         'https://github.com/recommenders/rival/archive/rival-0.1.zip',
+                         'https://github.com/recommenders/rival/archive/rival-0.1.tar.gz'
+                       ]
+          },
+          {
+            'Summary' => 'Descriptions of the datasets used in sample models included in Machine Learning Studio. ... to train and test a <b>recommender system</b>. ... Find it at <b>downloads</b>.jsp or ...',
+            'Links' => [
+                         'http://www.sigkdd.org/kdd-cup-2009-customer-relationship-prediction%20-%20orange_small_train.data.zip',
+                         'http://www.kdd.org/sites/default/files/kddcup/site/2010/files/algebra_2008_2009.zip'
+                       ],
+            'URL' => 'https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-use-sample-datasets'
+          },
+          {
+            'Links' => [
+                         'https://gist.github.com/entaroadun/1653794/archive/fb8396fd0bec832ead92109a8c8ef6f4b3039a40.zip'
+                       ],
+            'URL' => 'https://gist.github.com/entaroadun/1653794',
+            'Summary' => 'Recommendation and Ratings Public Data Sets For Machine Learning Raw. ... Can any one provide me the link to <b>download</b> amazon product ... <b>recommender system</b> ...'
+          },
+          {
+            'URL' => 'https://github.com/eugenelin89/recommender_content_based',
+            'Links' => [
+                         'https://github.com/eugenelin89/recommender_content_based/archive/master.zip'
+                       ],
+            'Summary' => 'recommender_content_based - A <b>Recommender System</b> Prototype using Content Based Filtering'
+          },
+          {
+            'Summary' => 'list_of_recommender_systems ... <b>Software</b> as a Service Recommender ... The benefits to using a SaaS <b>recommender system</b> is that you can pay for value with a low ...',
+            'Links' => [
+                         'https://github.com/grahamjenson/list_of_recommender_systems/archive/master.zip'
+                       ],
+            'URL' => 'https://github.com/grahamjenson/list_of_recommender_systems'
+          },
+          {
+            'URL' => 'https://moa.cms.waikato.ac.nz/details/recommender-systems/',
+            'Links' => [
+                         'https://downloads.sourceforge.net/project/moa-datastream/MOA/2012%20August/moa-release-2012.08.31.zip'
+                       ],
+            'Summary' => 'MOA has been extended in order to provide an interface to develop and visualize online recommender algorithms. This is a simple example in order to show the ...'
+          },
+          {
+            'Links' => [
+                         'https://downloads.wordpress.org/plugin/aliiike-web-recommender-system.0.1.5.zip'
+                       ],
+            'URL' => 'https://wordpress.org/plugins/aliiike-web-recommender-system/',
+            'Summary' => '<b>Download</b> the plugin and unpack it to the /wp-content/plugins/ directory. ... "WP Recommender" is open source <b>software</b>. ... aliiike collaborative filtering recommendations <b>recommender system</b> widget. Advanced View; Ratings. This plugin has not been rated yet.'
+          },
+          {
+            'Summary' => 'A Simple <b>Recommender System</b> - The Collaborative Network Library. edeferia, ... There are many algorithms that could be leveraged to implement a <b>recommender system</b>. ... Ernie de Feria is a <b>software</b> developer with over a decade professional experience.',
+            'Links' => [
+                         'https://www.codeproject.com/KB/aspnet/collabnetwork/PlatypusCollaborator.zip'
+                       ],
+            'URL' => 'https://www.codeproject.com/articles/9562/a-simple-recommender-system-the-collaborative-netw'
+          },
+          {
+            'Summary' => 'Recommender API provides a set of easy-to ... A <b>recommender system</b> matters to your site because it increases user engagement and increases site ... <b>Downloads</b>. Version',
+            'URL' => 'https://www.drupal.org/project/recommender',
+            'Links' => [
+                         'https://ftp.drupal.org/files/projects/recommender-7.x-6.0-alpha4.tar.gz',
+                         'https://ftp.drupal.org/files/projects/recommender-7.x-6.0-alpha4.zip',
+                         'https://ftp.drupal.org/files/projects/recommender-7.x-4.0-alpha14.tar.gz',
+                         'https://ftp.drupal.org/files/projects/recommender-7.x-4.0-alpha14.zip',
+                         'https://ftp.drupal.org/files/projects/recommender-7.x-6.0-alpha3.tar.gz',
+                         'https://ftp.drupal.org/files/projects/recommender-7.x-6.0-alpha3.zip',
+                         'https://ftp.drupal.org/files/projects/recommender-7.x-6.x-dev.tar.gz',
+                         'https://ftp.drupal.org/files/projects/recommender-7.x-6.x-dev.zip',
+                         'https://ftp.drupal.org/files/projects/recommender-7.x-6.0-alpha2.tar.gz',
+                         'https://ftp.drupal.org/files/projects/recommender-7.x-6.0-alpha2.zip',
+                         'https://ftp.drupal.org/files/projects/recommender-7.x-6.0-alpha1.tar.gz',
+                         'https://ftp.drupal.org/files/projects/recommender-7.x-6.0-alpha1.zip',
+                         'https://ftp.drupal.org/files/projects/recommender-7.x-5.x-dev.tar.gz',
+                         'https://ftp.drupal.org/files/projects/recommender-7.x-5.x-dev.zip',
+                         'https://ftp.drupal.org/files/projects/recommender-6.x-3.0-alpha4.tar.gz',
+                         'https://ftp.drupal.org/files/projects/recommender-6.x-3.0-alpha4.zip',
+                         'https://ftp.drupal.org/files/projects/recommender-7.x-4.0-alpha13.tar.gz',
+                         'https://ftp.drupal.org/files/projects/recommender-7.x-4.0-alpha13.zip',
+                         'https://ftp.drupal.org/files/projects/recommender-7.x-4.0-alpha12.tar.gz',
+                         'https://ftp.drupal.org/files/projects/recommender-7.x-4.0-alpha12.zip',
+                         'https://ftp.drupal.org/files/projects/recommender-7.x-4.0-alpha11.tar.gz',
+                         'https://ftp.drupal.org/files/projects/recommender-7.x-4.0-alpha11.zip',
+                         'https://ftp.drupal.org/files/projects/recommender-7.x-4.0-alpha10.tar.gz',
+                         'https://ftp.drupal.org/files/projects/recommender-7.x-4.0-alpha10.zip',
+                         'https://ftp.drupal.org/files/projects/recommender-7.x-4.0-alpha9.tar.gz',
+                         'https://ftp.drupal.org/files/projects/recommender-7.x-4.0-alpha9.zip',
+                         'https://ftp.drupal.org/files/projects/recommender-7.x-4.0-alpha8.tar.gz',
+                         'https://ftp.drupal.org/files/projects/recommender-7.x-4.0-alpha8.zip',
+                         'https://ftp.drupal.org/files/projects/recommender-7.x-4.0-alpha7.tar.gz',
+                         'https://ftp.drupal.org/files/projects/recommender-7.x-4.0-alpha7.zip',
+                         'https://ftp.drupal.org/files/projects/recommender-7.x-4.0-alpha6.tar.gz',
+                         'https://ftp.drupal.org/files/projects/recommender-7.x-4.0-alpha6.zip',
+                         'https://ftp.drupal.org/files/projects/recommender-7.x-4.x-dev.tar.gz',
+                         'https://ftp.drupal.org/files/projects/recommender-7.x-4.x-dev.zip',
+                         'https://ftp.drupal.org/files/projects/recommender-7.x-4.0-alpha5.tar.gz',
+                         'https://ftp.drupal.org/files/projects/recommender-7.x-4.0-alpha5.zip',
+                         'https://ftp.drupal.org/files/projects/recommender-7.x-4.0-alpha4.tar.gz',
+                         'https://ftp.drupal.org/files/projects/recommender-7.x-4.0-alpha4.zip',
+                         'https://ftp.drupal.org/files/projects/recommender-6.x-3.0-alpha3.tar.gz',
+                         'https://ftp.drupal.org/files/projects/recommender-6.x-3.0-alpha3.zip'
+                       ]
+          },
+          {
+            'Links' => [
+                         'https://www.handybackup.net/downloads/handybackup.exe'
+                       ],
+            'URL' => 'https://www.handybackup.net/press/handybackup-693-automated-backup.shtml',
+            'Summary' => '<b>Download</b>. Purchase. Partners ... released a new version of Handy Backup featuring a simple automated backup and smart product purchase <b>recommender system</b>. ... 2011 - Novosoft, the international developer of <b>software</b> for home and business, announced the release of a new version of Handy Backup ...'
+          },
+          {
+            'Summary' => 'The users can rate information from an emerging amount of Web 2.0 information of a Learning Network and train a <b>recommender system</b> ... van Rosmalen, P., Hummel, H., Pecceu, D., Arts, T., Hutten, E. &amp; Koper, R. (2010). ReMashed - An Usability Study of a <b>Recommender System</b> ... <b>download</b> Adobe ...',
+            'Links' => [
+                         'https://editlib-static.s3.amazonaws.com/css/site.css.gz',
+                         'https://editlib-static.s3.amazonaws.com/css/academicons.min.css.gz',
+                         'https://editlib-static.s3.amazonaws.com/css/abstract.css.gz'
+                       ],
+            'URL' => 'https://www.learntechlib.org/p/44920/'
+          },
+          {
+            'URL' => 'https://www.r-bloggers.com/recosystem-recommender-system-using-parallel-matrix-factorization/',
+            'Links' => [
+                         'http://files.grouplens.org/datasets/movielens/ml-1m.zip'
+                       ],
+            'Summary' => 'A Quick View of <b>Recommender System</b> The main task of <b>recommender system</b> is to ... and recosystem LIBMF is an open source C++ library for <b>recommender system</b> using parallel matrix factorization, developed by ... In this article we <b>download</b> the'
+          },
+          {
+            'Summary' => 'Python Movie <b>Recommender System</b>. Nov 22nd, 2014 ... Appropriate use of established <b>software</b> design methodologies to enhance modularity and ... <b>Download</b> Original ...',
+            'URL' => 'https://www.studypool.com/discuss/286543/python-movie-recommender-system',
+            'Links' => [
+                         'https://www.studypool.com/uploads/questions/118403/20141122173405movielens.zip'
+                       ]
+          },
+          {
+            'Summary' => 'Open Source Search-Engine-based <b>Recommender System</b> for ... using a search engine <b>software</b> when it ... Saka, "Web <b>Recommender System</b> Implementations ...',
+            'Links' => [
+                         'http://webmining.spd.louisville.edu/open-source-recommender/nutch/nutch-0.6_rec.tar.gz',
+                         'http://webmining.spd.louisville.edu/open-source-recommender/codes/recommender.tar.gz'
+                       ],
+            'URL' => 'http://webmining.spd.louisville.edu/open-source-recommender/'
+          }
+        ];

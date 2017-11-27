@@ -1,0 +1,35 @@
+$VAR1 = [
+          {
+            'Links' => [
+                         'http://www.imagehelpers.co.uk/downloads/bordershelpersetup.exe'
+                       ],
+            'URL' => 'http://nixbit.com/software/bordershelper-review/',
+            'Summary' => 'BordersHelper 1.0 review and <b>download</b> ... Black border removal is a feature of document management <b>software</b> that ... <b>software</b>. The <b>document structure analysis</b> ...'
+          },
+          {
+            'Links' => [
+                         'http://integration.conduit-download.com/5.4.11/BrotherSoftExtreme_CT2776682.exe'
+                       ],
+            'Summary' => 'Free Legal Document Analysis <b>Download</b>, ... Legal Document Analysis is a Office Tools <b>software</b> developed by Cassbeth Inc.. ... - <b>Document Structure Analysis</b>',
+            'URL' => 'http://www.brothersoft.com/legal-document-analysis-134695.html'
+          },
+          {
+            'Links' => [
+                         'http://integration.conduit-download.com/5.4.11/BrotherSoftExtreme_CT2776682.exe'
+                       ],
+            'URL' => 'http://www.brothersoft.com/pla---plain-language-analysis-tool-134763.html',
+            'Summary' => 'Free PLA - Plain Language Analysis Tool <b>Download</b>, PLA ... Last Week <b>downloads</b>: 0. ... - <b>Document Structure Analysis</b>'
+          },
+          {
+            'Summary' => 'The Bible and Multilingual Optical Character Recognition ... <b>Download</b> pdf ; <b>Document Structure Analysis</b>: ... (Open source <b>software</b> I have been involved in.)',
+            'URL' => 'http://www.kanungo.com/ocr.html',
+            'Links' => [
+                         'http://www.kanungo.com/software/umdhmm-v1.02.tar',
+                         'http://www.kanungo.com/software/umdhmm-v1.02.zip',
+                         'http://www.kanungo.com/software/hmm.zip',
+                         'http://www.kanungo.com/software/trueviz-1_02.tar.gz',
+                         'http://stat.cmu.edu/general/mvntest.gz',
+                         'http://www.kanungo.com/software/pset-1.01.tar.gz'
+                       ]
+          }
+        ];

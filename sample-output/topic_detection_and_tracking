@@ -1,0 +1,32 @@
+$VAR1 = [
+          {
+            'Summary' => 'When face-tracking meets social networks: ... given birth to the discipline called <b>topic detection and tracking</b> ... NIIFacetrackDatasets/<b>downloads</b>/nhknews7 ...',
+            'URL' => 'http://appliednetsci.springeropen.com/articles/10.1007/s41109-016-0003-2',
+            'Links' => [
+                         'http://satoh-lab.ex.nii.ac.jp/users/ndthanh/NIIFacetrackDatasets/downloads/nhknews7.metadata.rar'
+                       ]
+          },
+          {
+            'Links' => [
+                         'http://optima.jrc.it/Resources/JRCNames.jar.zip',
+                         'http://optima.jrc.it/Resources/JRCNames.java.zip',
+                         'http://optima.jrc.it/Resources/JRCNames.doc.zip'
+                       ],
+            'Summary' => '<b>Download</b> JRC-Names; ... <b>topic detection and tracking</b>, cross-lingual linking of related documents across languages, and more. How was JRC-Names produced? ... This is the documentation for the Java <b>software</b>. JRC-Names linked data version access on the EU\'s Open Data portal.',
+            'URL' => 'https://ec.europa.eu/jrc/en/language-technologies/jrc-names'
+          },
+          {
+            'Links' => [
+                         'https://www.scientific.net/Downloads/GetTtpFile?name=Template_LaTeX.zip'
+                       ],
+            'URL' => 'https://www.scientific.net/AMR.860-863.2914',
+            'Summary' => '<b>Downloads</b> Distributors ... J. W. Deng, K. Y. Deng, Y. X. Li, "<b>Topic Detection and Tracking</b> Method for Tibetan Network", Advanced Materials Research, ...'
+          },
+          {
+            'URL' => 'http://www.scientific.net/keyword/Topic_Detection',
+            'Summary' => '<b>Downloads</b> ... Text clustering is one of the most popular topic detection ... model from blog is also the process of <b>topic detection and tracking</b>, ...',
+            'Links' => [
+                         'https://www.scientific.net/Downloads/GetTtpFile?name=Template_LaTeX.zip'
+                       ]
+          }
+        ];

@@ -1,0 +1,50 @@
+$VAR1 = [
+          {
+            'URL' => 'http://www.greyolltwit.com/kyc.html',
+            'Summary' => 'Keep Your Cool - <b>ADHD</b> Doris <b>Download</b> ... known as <b>ADD</b> or Attention Deficit Disorder but it equally ... <b>Software</b> <b>Downloads</b> Membership Online ...',
+            'Links' => [
+                         'http://www.greyolltwit.com/members/dls/kyc.exe'
+                       ]
+          },
+          {
+            'Links' => [
+                         'http://www.omgtop5.com/softwaresdownload/?f=http://calendar.wincalendar.net/SetupWinCalendarV4.exe',
+                         'http://www.omgtop5.com/softwaresdownload/?f=http://downloads.essentialpim.com.s3.amazonaws.com/EssentialPIMPro6.exe'
+                       ],
+            'URL' => 'http://www.omgtop5.com/best-time-management-softwares/',
+            'Summary' => '<b>Download</b> Top most recommended <b>time</b> <b>management</b> <b>software\'s</b> for ... LiquidPlanner <b>Download</b>. LiquidPlanner is a premium <b>time</b> planning <b>software</b> for Windows targeted more ...'
+          },
+          {
+            'Links' => [
+                         'http://www.todolistsoft.com/bitrix/redirect.php?event1=todo&event2=org-trial&goto=http://s3.amazonaws.com/vip.quality.software/files/VIPOrganizerSetup.zip'
+                       ],
+            'URL' => 'http://www.todolistsoft.com/',
+            'Summary' => 'To do list <b>software</b> that allows you to organize, ... <b>add</b> <b>time</b> logs in fewer ... To Do List for <b>Time</b> <b>Management</b> that helps avoid procrastination improving <b>time</b> ...'
+          },
+          {
+            'Links' => [
+                         'http://www.todolistsoft.com/_files/templates/office-design-checklist.zip',
+                         'http://www.todolistsoft.com/_files/templates/office-duties-checklist.zip',
+                         'http://www.todolistsoft.com/_files/templates/Office-Equipment-Checklist.zip',
+                         'http://www.todolistsoft.com/_files/templates/Office-Ergonomics-Checklist.zip',
+                         'http://www.todolistsoft.com/_files/templates/office-inventory-checklist.zip',
+                         'http://www.todolistsoft.com/_files/templates/office-lease-checklist.zip',
+                         'http://www.todolistsoft.com/_files/templates/Office-Maintenance-Checklist.zip',
+                         'http://www.todolistsoft.com/_files/templates/OfficeManagerChecklist.zip',
+                         'http://www.todolistsoft.com/_files/templates/OfficeMovingChecklist.zip',
+                         'http://www.todolistsoft.com/_files/templates/OfficeOrganizationChecklist.zip',
+                         'http://www.todolistsoft.com/_files/templates/office-party-checklist.zip',
+                         'http://www.todolistsoft.com/_files/templates/office-renovation-checklist.zip',
+                         'http://www.todolistsoft.com/_files/templates/office-space-planning-checklist.zip',
+                         'http://www.todolistsoft.com/_files/templates/office-supply-checklist.zip',
+                         'http://www.todolistsoft.com/_files/templates/OfficeWorkplaceSafetyInspectionChecklist.zip',
+                         'http://www.todolistsoft.com/_files/templates/EstablishingGreenOfficeChecklist.zip',
+                         'http://www.todolistsoft.com/_files/templates/HomeOfficeChecklist.zip',
+                         'http://www.todolistsoft.com/_files/templates/VirtualOfficeChecklist.zip',
+                         'http://www.todolistsoft.com/bitrix/redirect.php?event1=todo&event2=org-trial&goto=http://s3.amazonaws.com/vip.quality.software/files/VIPOrganizerSetup.zip',
+                         'http://www.todolistsoft.com/bitrix/redirect.php?event1=todo&event2=simple-trial&goto=http://s3.amazonaws.com/vip.quality.software/files/VIPSimpleToDoListSetup.zip'
+                       ],
+            'Summary' => 'Office <b>management</b> checklists gather tips and guidelines you can use to organize and manage effective work of ... <b>Download</b>. Buy. ... Personal <b>time</b> <b>management</b> <b>software</b>',
+            'URL' => 'http://www.todolistsoft.com/solutions/checklist/office-management-checklists.php'
+          }
+        ];

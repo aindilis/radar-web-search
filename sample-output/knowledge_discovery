@@ -1,0 +1,99 @@
+$VAR1 = [
+          {
+            'Summary' => 'Both the CRE identification results and the <b>software</b> are ... cygwin version <b>download</b>. Tree Gibbs Sampler is a <b>software</b> for identifying ... and <b>Knowledge Discovery</b> ...',
+            'URL' => 'http://hulab.ucf.edu/software',
+            'Links' => [
+                         'http://hulab.ucf.edu/research/projects/SIOMICS/download/Software/SIOMICS_V1.4_Windows.zip',
+                         'http://hulab.ucf.edu/research/projects/SIOMICS/download/Software/SIOMICS_V1.4_Linux.tar.gz',
+                         'http://hulab.ucf.edu/research/projects/epigenetics/nucleosome/ffn.zip',
+                         'http://hulab.ucf.edu/research/projects/ChIPModule/ChIPModule_Windows_Version.zip',
+                         'http://hulab.ucf.edu/research/projects/ChIPModule/ChIPModule_Linux_Version.zip',
+                         'http://hulab.ucf.edu/research/projects/ChIPModule/result_E2F1.rar',
+                         'http://hulab.ucf.edu/research/projects/ChIPModule/result_ESR1.rar',
+                         'http://www.cs.ucf.edu/~xiaoman/mopat_unix.rar',
+                         'http://www.cs.ucf.edu/~xiaoman/mopat_cygwin.rar',
+                         'http://www.cs.ucf.edu/~xiaoman/TreeGibbsSampler.exe',
+                         'http://www.cs.ucf.edu/~haihu/tools/activeTF.tar'
+                       ]
+          },
+          {
+            'Summary' => '<b>software</b> All <b>Software</b> latest This Just In Old School ... <b>Knowledge discovery</b>: a neural network approach ... SINGLE PAGE PROCESSED JP2 ZIP <b>download</b>. <b>download</b> 1 ...',
+            'Links' => [
+                         'https://archive.org/download/knowledgediscove00kimh/knowledgediscove00kimh_abbyy.gz',
+                         'https://archive.org/download/knowledgediscove00kimh/knowledgediscove00kimh_daisy.zip',
+                         'https://archive.org/download/knowledgediscove00kimh/knowledgediscove00kimh_images.zip',
+                         'https://archive.org/download/knowledgediscove00kimh/knowledgediscove00kimh_jp2.zip'
+                       ],
+            'URL' => 'https://archive.org/details/knowledgediscove00kimh'
+          },
+          {
+            'URL' => 'https://archive.org/details/pubmed-PMC3901251',
+            'Links' => [
+                         'https://archive.org/download/pubmed-PMC3901251/PMC3901251-metabo3010155_abbyy.gz',
+                         'https://archive.org/download/pubmed-PMC3901251/PMC3901251-metabo3010155_daisy.zip',
+                         'https://archive.org/download/pubmed-PMC3901251/PMC3901251-metabo3010155_jp2.zip'
+                       ],
+            'Summary' => '<b>software</b> All <b>Software</b> latest This Just In ... <b>Knowledge Discovery</b> in Spectral Data by Means ... Selection of entropy-measure parameters for <b>knowledge discovery</b> in ...'
+          },
+          {
+            'URL' => 'https://github.com/jakelever/knowledgediscovery',
+            'Links' => [
+                         'https://github.com/jakelever/knowledgediscovery/archive/master.zip'
+                       ],
+            'Summary' => 'README.md <b>Knowledge Discovery</b> using Recommendation Systems. Below is an explanation with code inserts to do the complete analysis for the paper.'
+          },
+          {
+            'Links' => [
+                         'http://www.spatialdatamining.org/system/files/48states.zip'
+                       ],
+            'URL' => 'http://spatialdatamining.org/software/somvis',
+            'Summary' => 'SomVis is an integrated <b>software</b> ... "Multivariate Analysis and Geovisualization with an Integrated Geographic <b>Knowledge Discovery</b> ... http://java.com/en/<b>download</b> ...'
+          },
+          {
+            'Summary' => '<b>Download</b>; Keywords ... This specification defines a metamodel for representing information related to existing <b>software</b> ... Architecture of the <b>Knowledge Discovery</b> ...',
+            'Links' => [
+                         'https://www.eclipse.org/downloads/download.php?file=/oomph/epp/oxygen/R/eclipse-inst-win64.exe',
+                         'http://www.eclipse.org/modeling/download.php?file=/modeling/gmt/modisco/downloads/drops/0.7.1/R200910121500/MODISCO-Update-incubation-0.7.1.zip',
+                         'http://www.eclipse.org/modeling/download.php?file=/modeling/gmt/modisco/downloads/drops/0.7.1/R200910121500/MODISCO-SDK-incubation-0.7.1.zip',
+                         'http://www.eclipse.org/modeling/download.php?file=/modeling/gmt/modisco/downloads/drops/0.7.1/R200910121500/MODISCO-runtime-incubation-0.7.1.zip',
+                         'http://www.eclipse.org/downloads/download.php?file=/eclipse/downloads/drops/R-3.5.1-200909170800/eclipse-SDK-3.5.1-linux-gtk-ppc.tar.gz',
+                         'http://www.eclipse.org/downloads/download.php?file=/modeling/emf/emf/downloads/drops/2.5.0/R200906151043/emf-xsd-SDK-2.5.0.zip',
+                         'http://www.eclipse.org/downloads/download.php?file=/modeling/m2m/atl/downloads/drops/3.0.1/R200909220532/m2m-atl-SDK-3.0.1.zip',
+                         'http://www.eclipse.org/downloads/download.php?file=/modeling/mdt/uml2/downloads/drops/3.0.1/R200908281428/mdt-uml2-SDK-3.0.1.zip',
+                         'http://www.eclipse.org/downloads/download.php?file=/modeling/emf/compare/downloads/drops/1.0.0/R200906220949/emft-compare-SDK-incubation-1.0.0.zip',
+                         'http://www.eclipse.org/downloads/download.php?file=/modeling/m2t/acceleo/downloads/drops/0.8.0/R200906220953/m2t-acceleo-SDK-incubation-0.8.0.zip',
+                         'http://www.eclipse.org/downloads/download.php?file=/modeling/mdt/ocl/downloads/drops/1.3.0/R200906151742/mdt-ocl-SDK-1.3.0.zip',
+                         'http://www.eclipse.org/downloads/download.php?file=/modeling/m2t/jet/downloads/drops/1.0.1/R200909042147/m2t-jet-SDK-1.0.1.zip',
+                         'http://www.eclipse.org/modeling/download.php?file=/modeling/gmt/modisco/downloads/drops/0.8.0/S201005050326/MODISCO-Update-0.8.0M7.zip',
+                         'http://www.eclipse.org/modeling/download.php?file=/modeling/gmt/modisco/downloads/drops/0.8.0/S201005050326/MODISCO-SDK-0.8.0M7.zip',
+                         'http://www.eclipse.org/modeling/download.php?file=/modeling/gmt/modisco/downloads/drops/0.8.0/S201005050326/MODISCO-runtime-0.8.0M7.zip',
+                         'http://www.eclipse.org/modeling/download.php?file=/modeling/gmt/modisco/downloads/drops/0.8.0/S201003161136/MODISCO-Update-0.8.0M6.zip',
+                         'http://www.eclipse.org/modeling/download.php?file=/modeling/gmt/modisco/downloads/drops/0.8.0/S201003161136/MODISCO-SDK-0.8.0M6.zip',
+                         'http://www.eclipse.org/modeling/download.php?file=/modeling/gmt/modisco/downloads/drops/0.8.0/S201003161136/MODISCO-runtime-0.8.0M6.zip',
+                         'http://www.eclipse.org/modeling/download.php?file=/modeling/gmt/modisco/downloads/drops/0.8.0/S201002010829/MODISCO-Update-0.8.0M5.zip',
+                         'http://www.eclipse.org/modeling/download.php?file=/modeling/gmt/modisco/downloads/drops/0.8.0/S201002010829/MODISCO-SDK-0.8.0M5.zip',
+                         'http://www.eclipse.org/modeling/download.php?file=/modeling/gmt/modisco/downloads/drops/0.8.0/S201002010829/MODISCO-runtime-0.8.0M5.zip',
+                         'http://www.eclipse.org/modeling/download.php?file=/modeling/gmt/modisco/downloads/drops/0.8.0/S201001191430/MODISCO-Update-0.8.0M4.zip',
+                         'http://www.eclipse.org/modeling/download.php?file=/modeling/gmt/modisco/downloads/drops/0.8.0/S201001191430/MODISCO-SDK-0.8.0M4.zip',
+                         'http://www.eclipse.org/modeling/download.php?file=/modeling/gmt/modisco/downloads/drops/0.8.0/S201001191430/MODISCO-runtime-0.8.0M4.zip',
+                         'https://www.eclipse.org/gmt/modisco/infrastructure/KDM/downloads/org.eclipse.gmt.modisco.omg.kdm_0.6.0.jar'
+                       ],
+            'URL' => 'https://www.eclipse.org/gmt/modisco/infrastructure/KDM/'
+          },
+          {
+            'URL' => 'http://www.downduck.com/ebooks/3003649-decomposition-methodology-for-knowledge-discovery-and-data-mining-theory-and-applications.html',
+            'Links' => [
+                         'http://nitroflare.com/view/A81FD75E6DF4453/toggo.D.M.f.K.D.a.D.M.T.a.A.rar',
+                         'http://rapidgator.net/file/909adab418de79078f4f39e1b2a9e414/toggo.D.M.f.K.D.a.D.M.T.a.A.rar',
+                         'http://uploaded.net/file/xbmw7q3l/toggo.D.M.f.K.D.a.D.M.T.a.A.rar'
+                       ],
+            'Summary' => 'Direct <b>Download</b> Free Movies Mp3\'s <b>Software</b> Programs Stock Images » E-Books &amp; Audio Books » Decomposition Methodology for <b>Knowledge Discovery</b> and Data Mining Theory ...'
+          },
+          {
+            'Summary' => '<b>Download</b> Free eBook:Data Mining and <b>Knowledge Discovery</b> Handbook,2 Edition - Free chm, pdf ebooks <b>download</b>',
+            'Links' => [
+                         'http://www.filesonic.com/file/27240113/0387098224Mining.rar'
+                       ],
+            'URL' => 'http://www.ebook3000.com/Data-Mining-and-Knowledge-Discovery-Handbook-2-Edition_100440.html'
+          }
+        ];

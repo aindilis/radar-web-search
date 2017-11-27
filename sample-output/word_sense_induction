@@ -1,0 +1,63 @@
+$VAR1 = [
+          {
+            'Links' => [
+                         'http://www.irit.fr/~Philippe.Muller/tools/acl14_data.zip',
+                         'http://nlp.cs.rpi.edu/data/morphencoding.tar.gz',
+                         'http://www.cs.berkeley.edu/~jda/code/dense-parser.tar.gz'
+                       ],
+            'URL' => 'http://aclweb.org/aclwiki/index.php?title=ACL_2014_(Resources_by_paper)',
+            'Summary' => 'ACL 2014 (Resources by paper) From ... http://research.microsoft.com/en-us/<b>downloads</b>/eb42522c-068e-404c ... WoSIT: A <b>Word Sense Induction</b> Toolkit for Search Result ...'
+          },
+          {
+            'URL' => 'http://cs.stanford.edu/~jurgens/',
+            'Links' => [
+                         'http://cs.stanford.edu/~jurgens/data/vala-et-al-2015_supplemental.zip'
+                       ],
+            'Summary' => 'pdf · poster · <b>download</b> · website: 2014. It\'s All Fun and Games until Someone Annotates: Video Games with a Purpose for ... Measuring the impact of sense similarity on <b>word sense induction</b>. David Jurgens and Keith Stevens. ... <b>Software</b>. Equilid CROWN Humanizr ...'
+          },
+          {
+            'Summary' => '... Evaluating <b>Word Sense Induction</b> and Discrimination Systems. Organized by: Eneko Agirre and Aitor Soroa ... This section will contain evaluation <b>software</b>, useful scripts, complementary materials, ... participants can choose when to <b>download</b> and submit in this timeframe ...',
+            'URL' => 'http://ixa2.si.ehu.es/semeval-senseinduction/',
+            'Links' => [
+                         'http://ixa2.si.ehu.es/semeval-senseinduction/task2_data.tar.gz'
+                       ]
+          },
+          {
+            'URL' => 'https://bitbucket.org/kageback/ice',
+            'Links' => [
+                         'https://bitbucket.org/kageback/ice/get/4672b8fca653.zip'
+                       ],
+            'Summary' => 'Implementation of the <b>word sense induction</b> algorithm defined in "Neural context embeddings for automatic discovery of word senses" http://www.aclweb.org/anthology/W/W15/W15-1504 ... The demo will <b>download</b> a small corpus, ... JIRA <b>Software</b>; Confluence; Bamboo; SourceTree; HipChat; Atlassian. Help ...'
+          },
+          {
+            'URL' => 'https://github.com/LowResourceLanguages/endangered-languages',
+            'Links' => [
+                         'https://github.com/LowResourceLanguages/endangered-languages/archive/master.zip',
+                         'http://www.ark.cs.cmu.edu/TurboParser/nasmith_models/kin-turbo-v1.0.tgz'
+                       ],
+            'Summary' => 'LowResourceLanguages / endangered-languages forked from RichardLitt/endangered ... LDC Word Aligner LDC Word Aligner is a <b>software</b> tool used for manual annotation of word alignment developed to support Arabic-English and Chinese ... WSI4URLang <b>Word Sense Induction</b> (WSI) for Under-resourced ...'
+          },
+          {
+            'Summary' => 'endangered-languages - Resources for conservation, development, ... TiMBL TiMBL is an open source <b>software</b> package implementing several memory-based learning algorithms, ... WSI4URLang <b>Word Sense Induction</b> (WSI) for Under-resourced Languages ...',
+            'URL' => 'https://github.com/RichardLitt/endangered-languages',
+            'Links' => [
+                         'https://github.com/RichardLitt/endangered-languages/archive/master.zip',
+                         'https://web.archive.org/web/*/http://www.ark.cs.cmu.edu/TurboParser/nasmith_models/kin-turbo-v1.0.tgz'
+                       ]
+          },
+          {
+            'URL' => 'https://www.l2f.inesc-id.pt/w/Seminars',
+            'Links' => [
+                         'http://www.l2f.inesc-id.pt/resources/Portug.Dict.sit'
+                       ],
+            'Summary' => '<b>Downloads</b>; Events &amp; Media. ... The Spoken Language Systems Lab organizes seminars by both its researchers ... <b>Word Sense Induction</b> for Portuguese Using a ...'
+          },
+          {
+            'Summary' => 'Tiziano Flati Sapienza University ... A <b>Word Sense Induction</b> Toolkit for Search Result Clustering and Diversification (ACL 2014 - System Demonstrations) ... <b>DOWNLOADS</b> ...',
+            'URL' => 'http://wwwusers.di.uniroma1.it/~flati/',
+            'Links' => [
+                         'http://www.wibitaxonomy.org/wibi-ver1.0.tar.gz',
+                         'http://lcl.uniroma1.it/spred/SPred.tar.gz'
+                       ]
+          }
+        ];

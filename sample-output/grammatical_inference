@@ -1,0 +1,88 @@
+$VAR1 = [
+          {
+            'URL' => 'https://archive.org/details/comparativediscu663bask',
+            'Links' => [
+                         'https://archive.org/download/comparativediscu663bask/comparativediscu663bask_abbyy.gz',
+                         'https://archive.org/download/comparativediscu663bask/comparativediscu663bask_daisy.zip',
+                         'https://archive.org/download/comparativediscu663bask/comparativediscu663bask_orig_jp2.tar',
+                         'https://archive.org/download/comparativediscu663bask/comparativediscu663bask_jp2.zip'
+                       ],
+            'Summary' => '<b>software</b> All <b>Software</b> latest ... A comparative discussion of variable-valued logic and <b>grammatical inference</b> ... SINGLE PAGE ORIGINAL JP2 TAR <b>download</b>. <b>download</b> 1 ...'
+          },
+          {
+            'URL' => 'https://devhub.io/repos/gbossert-pylstar',
+            'Summary' => 'Star Fork Watch Issue <b>Download</b>. ... The LSTAR <b>Grammatical inference</b> algorithm can be use to infer the automata that describes a targeted determinist reactive systems ...',
+            'Links' => [
+                         'https://github.com/gbossert/pylstar/archive/master.zip'
+                       ]
+          },
+          {
+            'Links' => [
+                         'https://github.com/gbossert/pylstar/archive/Release/pylstar-0.1.1.zip',
+                         'https://github.com/gbossert/pylstar/archive/Release/pylstar-0.1.1.tar.gz',
+                         'https://github.com/gbossert/pylstar/archive/Release/pylstar-0.1.zip',
+                         'https://github.com/gbossert/pylstar/archive/Release/pylstar-0.1.tar.gz',
+                         'https://github.com/gbossert/pylstar/archive/master.zip'
+                       ],
+            'Summary' => 'pylstar is a free and open source Python implementation of the LSTAR <b>Grammatical inference</b> algorithm. It can be use to automaticaly infer the state machine that best ...',
+            'URL' => 'https://github.com/gbossert/pylstar'
+          },
+          {
+            'URL' => 'https://github.com/jMotif/GI',
+            'Summary' => 'Join GitHub today. GitHub is home to over 20 million developers working together to host and review code, manage projects, and build <b>software</b> together.',
+            'Links' => [
+                         'https://github.com/jMotif/GI/archive/jmotif-gi-1.0.1.zip',
+                         'https://github.com/jMotif/GI/archive/jmotif-gi-1.0.1.tar.gz',
+                         'https://github.com/jMotif/GI/archive/jmotif-gi-1.0.0.zip',
+                         'https://github.com/jMotif/GI/archive/jmotif-gi-1.0.0.tar.gz',
+                         'https://github.com/jMotif/GI/archive/jmotif-gi-0.9.1.zip',
+                         'https://github.com/jMotif/GI/archive/jmotif-gi-0.9.1.tar.gz',
+                         'https://github.com/jMotif/GI/archive/jmotif-gi-0.9.0.zip',
+                         'https://github.com/jMotif/GI/archive/jmotif-gi-0.9.0.tar.gz',
+                         'https://github.com/jMotif/GI/archive/old_repair.zip',
+                         'https://github.com/jMotif/GI/archive/old_repair.tar.gz',
+                         'https://github.com/jMotif/GI/archive/jmotif-gi-0.8.6.zip',
+                         'https://github.com/jMotif/GI/archive/jmotif-gi-0.8.6.tar.gz',
+                         'https://github.com/jMotif/GI/archive/jmotif-gi-0.8.5.zip',
+                         'https://github.com/jMotif/GI/archive/jmotif-gi-0.8.5.tar.gz',
+                         'https://github.com/jMotif/GI/archive/jmotif-gi-0.8.4.zip',
+                         'https://github.com/jMotif/GI/archive/jmotif-gi-0.8.4.tar.gz',
+                         'https://github.com/jMotif/GI/archive/jmotif-gi-0.8.3.zip',
+                         'https://github.com/jMotif/GI/archive/jmotif-gi-0.8.3.tar.gz',
+                         'https://github.com/jMotif/GI/archive/jmotif-gi-0.8.2.zip',
+                         'https://github.com/jMotif/GI/archive/jmotif-gi-0.8.2.tar.gz',
+                         'https://github.com/jMotif/GI/archive/master.zip'
+                       ]
+          },
+          {
+            'URL' => 'https://pypi.python.org/pypi/pylstar/0.1.1',
+            'Summary' => 'pylstar is a free and open source Python implementation of the LSTAR <b>Grammatical inference</b> algorithm. It can be use to automaticaly infer the state machine that best ...',
+            'Links' => [
+                         'https://pypi.python.org/packages/2f/a0/dec1b6db6bdcaf17d8489e9e13f77da3d1355b60341b43bb8184aa69f976/pylstar-0.1.1.tar.gz'
+                       ]
+          },
+          {
+            'URL' => 'https://testpypi.python.org/pypi/pylstar/0.1.1',
+            'Summary' => '<b>Download</b> pylstar-.1.1.tar.gz. ... pylstar is a free and open source Python implementation of the LSTAR <b>Grammatical inference</b> ... This <b>software</b> is licensed under the ...',
+            'Links' => [
+                         'https://testpypi.python.org/packages/59/b6/6b3b42bc51a9d218470d0f3249490207ee77980c48e28e8ac3c8cc9e6adb/pylstar-0.1.1.tar.gz'
+                       ]
+          },
+          {
+            'URL' => 'http://www.cs.rhul.ac.uk/home/alexc/',
+            'Links' => [
+                         'http://www.cs.rhul.ac.uk/home/alexc/strong_20_01_2014.zip',
+                         'http://www.cs.rhul.ac.uk/home/alexc/pos2.tar.gz',
+                         'http://www.cs.rhul.ac.uk/home/alexc/gisk/code.tar',
+                         'http://www.cs.rhul.ac.uk/home/alexc/gisk/datasets.tar'
+                       ],
+            'Summary' => 'Alexander Clark\'s Home Page ... <b>Grammatical Inference</b> With String Kernels: GISK Project Page. ... SMOG project page at KCL. <b>Downloads</b>.'
+          },
+          {
+            'Summary' => '<b>Download</b> Free eBook:<b>Grammatical Inference</b>: Theoretical Results and Applications - Free chm, pdf ebooks <b>download</b>',
+            'Links' => [
+                         'http://www.filesonic.com/file/52188663/3642154875Grammatical.rar'
+                       ],
+            'URL' => 'http://www.ebook3000.com/Grammatical-Inference--Theoretical-Results-and-Applications_115447.html'
+          }
+        ];

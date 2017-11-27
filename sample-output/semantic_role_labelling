@@ -1,0 +1,160 @@
+$VAR1 = [
+          {
+            'Summary' => 'Information Extraction (IE) ... with a large amount of research having been devoted to <b>semantic role labelling</b> (SRL) . ... These are automatically highlighted by the annotation <b>software</b>, WordFreak (see <b>Software</b> section below), ...',
+            'URL' => 'http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-10-349',
+            'Links' => [
+                         'https://static-content.springer.com/esm/art%3A10.1186%2F1471-2105-10-349/MediaObjects/12859_2009_3079_MOESM1_ESM.ZIP'
+                       ]
+          },
+          {
+            'Summary' => '... with a large amount of research having been devoted to <b>semantic role labelling</b> ... <b>software</b> used and of its ... to <b>download</b> both the ...',
+            'Links' => [
+                         'http://europepmc.org/articles/PMC2774701/bin/1471-2105-10-349-S1.ZIP'
+                       ],
+            'URL' => 'http://europepmc.org/articles/PMC2774701'
+          },
+          {
+            'Links' => [
+                         'http://securityresponse.symantec.com/content/en/us/about/downloads/symforum.zip',
+                         'http://securityresponse.symantec.com/content/en/us/about/downloads/foreebank.zip'
+                       ],
+            'URL' => 'http://securityresponse.symantec.com/about/profile/srlacademicpapers.jsp',
+            'Summary' => 'Academic Papers. Attack ... the two main factors affecting the performance of all semantic-based methods seems to be the low quality of <b>semantic role labelling</b> ... belief seems to be that these attacks are now a marginal threat compared to other attack vectors such as drive-by <b>download</b> and ...'
+          },
+          {
+            'Links' => [
+                         'https://github.com/webanno/webanno/releases/download/webanno-3.2.1/webanno-standalone-3.2.1.jar',
+                         'https://github.com/webanno/webanno/archive/webanno-3.2.1.zip',
+                         'https://github.com/webanno/webanno/archive/webanno-3.2.1.tar.gz',
+                         'https://github.com/webanno/webanno/releases/download/webanno-3.2.0/webanno-standalone-3.2.0.jar',
+                         'https://github.com/webanno/webanno/archive/webanno-3.2.0.zip',
+                         'https://github.com/webanno/webanno/archive/webanno-3.2.0.tar.gz',
+                         'https://github.com/webanno/webanno/releases/download/webanno-3.2.0-beta-3/webanno-standalone-3.2.0-beta-3.jar',
+                         'https://github.com/webanno/webanno/archive/webanno-3.2.0-beta-3.zip',
+                         'https://github.com/webanno/webanno/archive/webanno-3.2.0-beta-3.tar.gz',
+                         'https://github.com/webanno/webanno/releases/download/webanno-3.2.0-beta-2/webanno-standalone-3.2.0-beta-2.jar',
+                         'https://github.com/webanno/webanno/archive/webanno-3.2.0-beta-2.zip',
+                         'https://github.com/webanno/webanno/archive/webanno-3.2.0-beta-2.tar.gz',
+                         'https://github.com/webanno/webanno/releases/download/webanno-3.2.0-beta-1/webanno-standalone-3.2.0-beta-1.jar',
+                         'https://github.com/webanno/webanno/archive/webanno-3.2.0-beta-1.zip',
+                         'https://github.com/webanno/webanno/archive/webanno-3.2.0-beta-1.tar.gz',
+                         'https://github.com/webanno/webanno/releases/download/webanno-3.1.0/webanno-standalone-3.1.0.jar',
+                         'https://github.com/webanno/webanno/archive/webanno-3.1.0.zip',
+                         'https://github.com/webanno/webanno/archive/webanno-3.1.0.tar.gz',
+                         'https://github.com/webanno/webanno/releases/download/webanno-3.0.1/webanno-standalone-3.0.1.jar',
+                         'https://github.com/webanno/webanno/archive/webanno-3.0.1.zip',
+                         'https://github.com/webanno/webanno/archive/webanno-3.0.1.tar.gz',
+                         'https://github.com/webanno/webanno/releases/download/webanno-3.0.0/webanno-standalone-3.0.0.jar',
+                         'https://github.com/webanno/webanno/archive/webanno-3.0.0.zip',
+                         'https://github.com/webanno/webanno/archive/webanno-3.0.0.tar.gz',
+                         'https://github.com/webanno/webanno/releases/download/webanno-3.0.0-beta-7/webanno-standalone-3.0.0-beta-7.jar',
+                         'https://github.com/webanno/webanno/archive/webanno-3.0.0-beta-7.zip',
+                         'https://github.com/webanno/webanno/archive/webanno-3.0.0-beta-7.tar.gz',
+                         'https://github.com/webanno/webanno/releases/download/webanno-3.0.0-beta-6/webanno-standalone-3.0.0-beta-6.jar',
+                         'https://github.com/webanno/webanno/archive/webanno-3.0.0-beta-6.zip',
+                         'https://github.com/webanno/webanno/archive/webanno-3.0.0-beta-6.tar.gz',
+                         'https://webanno.github.io/webanno/examples/demo-chunk.zip',
+                         'https://webanno.github.io/webanno/examples/demo-coref.zip',
+                         'https://webanno.github.io/webanno/examples/demo-corr.zip',
+                         'https://webanno.github.io/webanno/examples/demo-de.zip',
+                         'https://webanno.github.io/webanno/examples/demo-en.zip',
+                         'https://webanno.github.io/webanno/examples/demo-unicode.zip'
+                       ],
+            'URL' => 'https://github.com/webanno/webanno/releases',
+            'Summary' => 'WebAnno is provided as open source <b>software</b> under the ... <b>Download</b>. The new version can ... (<b>semantic role labelling</b>, ...'
+          },
+          {
+            'URL' => 'https://sourceforge.net/directory/?q=maximum+entropy+models',
+            'Links' => [
+                         'https://sourceforge.net/directory/?q=d2x-xl-data-1.18.29.7z'
+                       ],
+            'Summary' => 'maximum entropy models free <b>download</b>. ... is a <b>Semantic Role Labelling</b> project using the Apache UIMA framework. ... Find and Develop <b>Software</b>'
+          },
+          {
+            'Links' => [
+                         'https://www.symantec.com/content/dam/symantec/docs/about/symforum.zip',
+                         'https://www.symantec.com/content/dam/symantec/docs/about/foreebank.zip'
+                       ],
+            'URL' => 'https://www.symantec.com/de/de/about/corporate-profile/technology/research-labs',
+            'Summary' => 'Rogue antivirus <b>software</b> has recently received extensive ... the two main factors affecting the performance of all semantic-based methods seems to be the low quality of <b>semantic role labelling</b> ... The data transfer strategy speeds up <b>download</b> performance by using prefetching on the APs yet to ...'
+          },
+          {
+            'URL' => 'http://www.lsi.upc.edu/%7Esrlconll/st05/st05.html',
+            'Links' => [
+                         'http://www.lsi.upc.edu/%7Esrlconll/conll05st-release.tar.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/conll05st-release-props.tar.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/conll05st-release-synt.upc.tar.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/conll05st-release-synt.col2.tar.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/conll05st-release-synt.col2h.tar.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/conll05st-release-synt.cha.tar.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/conll05st-release-ne.tar.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/conll05st-release-senses.tar.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/conll05st-tests.tar.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/conll05st-prerelease.tar.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/srlconll-1.1.tgz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/srlconll-1.0.tgz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/resources/pb-frames.tar.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/che.devel.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/che.test.wsj.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/che.test.brown.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/cohn.devel.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/cohn.test.wsj.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/cohn.test.brown.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/haghighi.devel.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/haghighi.test.wsj.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/haghighi.test.brown.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/johansson.devel.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/johansson.test.wsj.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/johansson.test.brown.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/lin.devel.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/lin.test.wsj.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/lin.test.brown.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/marquez.devel.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/marquez.test.wsj.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/marquez.test.brown.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/mitsumori.devel.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/mitsumori.test.wsj.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/mitsumori.test.brown.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/moschitti.devel.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/moschitti.test.wsj.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/moschitti.test.brown.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/ozgenzil.devel.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/ozgencil.test.wsj.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/ozgenzil.test.brown.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/park.devel.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/park.test.wsj.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/park.test.brown.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/ponzetto.devel.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/ponzetto.test.wsj.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/ponzetto.test.brown.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/pradhan.devel.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/pradhan.test.wsj.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/pradhan.test.brown.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/pradhan+.devel.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/pradhan+.test.wsj.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/pradhan+.test.brown.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/punyakanok.devel.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/punyakanok.test.wsj.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/punyakanok.test.brown.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/surdeanu.devel.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/surdeanu.test.wsj.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/surdeanu.test.brown.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/sutton.devel.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/sutton.test.wsj.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/sutton.test.brown.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/tjongkimsang.devel.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/tjongkimsang.test.wsj.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/tjongkimsang.test.brown.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/tsai.devel.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/tsai.test.wsj.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/tsai.test.brown.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/venkatapathy.devel.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/venkatapathy.test.wsj.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/venkatapathy.test.brown.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/yi.devel.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/yi.test.wsj.gz',
+                         'http://www.lsi.upc.edu/%7Esrlconll/st05/outputs/yi.test.brown.gz'
+                       ],
+            'Summary' => '... Description&amp;Goal Examples Data&amp;Software Systems&amp;Results CoNLL ... CoNLL-2005 Shared Task on Semantic Role Labeling ... improving <b>semantic role labelling</b>.'
+          }
+        ];

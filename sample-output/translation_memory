@@ -1,0 +1,231 @@
+$VAR1 = [
+          {
+            'URL' => 'http://felix-cat.com/download/',
+            'Links' => [
+                         'http://felix-cat.com/media/downloads/Felix_Setup_2.0.0.1.exe'
+                       ],
+            'Summary' => '<b>Download</b> Felix the CAT Tool. Find out for yourself why Felix is the TM tool of choice for many translators.'
+          },
+          {
+            'Links' => [
+                         'http://hedgehogstudio.com/punchjudy.zip'
+                       ],
+            'URL' => 'http://hedgehogstudio.com/rmt/translation-memory-software-free',
+            'Summary' => 'Click on image to <b>download</b> in jpg format. Print size 7.5 x 10.5 inches in 300ppi. ... Technology is a online <b>translation memory</b> <b>software</b> free of all of our accessories and suppliers enable world important to have in notice.'
+          },
+          {
+            'Summary' => '<b>Download</b> the DGT <b>Translation Memory</b>; How to produce bilingual extractions; More details / Reference publication; Acknowledgement and Contact; ... training and testing multilingual information extraction <b>software</b>; checking translation consistency automatically;',
+            'Links' => [
+                         'http://optima.jrc.it/Resources/DGT-TM-2007_Version1/Volume_1.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2007_Version1/Volume_2.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2007_Version1/Volume_3.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2007_Version1/Volume_4.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2007_Version1/Volume_5.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2007_Version1/Volume_6.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2007_Version1/Volume_7.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2007_Version1/Volume_8.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2007_Version1/Volume_9.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2007_Version1/Volume_10.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2007_Version1/Volume_11.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2007_Version1/Volume_12.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2011/Vol_2004_1.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2011/Vol_2004_2.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2011/Vol_2005_1.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2011/Vol_2005_2.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2011/Vol_2005_3.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2011/Vol_2006_1.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2011/Vol_2006_2.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2011/Vol_2006_3.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2011/Vol_2006_4.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2011/Vol_2006_5.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2011/Vol_2007_1.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2011/Vol_2007_2.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2011/Vol_2007_3.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2011/Vol_2008_1.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2011/Vol_2008_2.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2011/Vol_2008_3.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2011/Vol_2008_4.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2011/Vol_2009_1.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2011/Vol_2009_2.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2011/Vol_2009_3.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2011/Vol_2009_4.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2011/Vol_2010_1.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2011/Vol_2010_2.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2011/Vol_2010_3.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2011/Vol_2010_4.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2012/Vol_2011_1.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2012/Vol_2011_2.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2012/Vol_2011_3.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2012/Vol_2011_4.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2013/Vol_2012_1.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2013/Vol_2012_2.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2013/Vol_2012_3.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2013/Vol_2012_4.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2013/Vol_2012_5.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2013/Vol_2012_6.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2014/Vol_2013_1.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2014/Vol_2013_2.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2014/Vol_2013_3.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2014/Vol_2013_4.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2014/Vol_2013_5.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2014/Vol_2013_6.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2014/Vol_2013_7.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2015/Vol_2014_1.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2015/Vol_2014_2.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2015/Vol_2014_3.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2016/Vol_2015_1.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2016/Vol_2015_2.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2016/Vol_2015_3.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2016/Vol_2015_4.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2016/Vol_2015_5.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2016/Vol_2015_6.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2016/Vol_2015_7.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2017/Vol_2016_1.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2017/Vol_2016_2.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2017/Vol_2016_3.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2017/Vol_2016_4.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2017/Vol_2016_5.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2017/Vol_2016_6.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2017/Vol_2016_7.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2017/Vol_2016_8.zip',
+                         'http://optima.jrc.it/Resources/DGT-TM-2017/Vol_2016_9.zip',
+                         'http://optima.jrc.it/Resources/TMXtract.jar'
+                       ],
+            'URL' => 'https://ec.europa.eu/jrc/en/language-technologies/dgt-translation-memory'
+          },
+          {
+            'URL' => 'https://ec.europa.eu/jrc/en/language-technologies/ecdc-translation-memory',
+            'Links' => [
+                         'http://optima.jrc.it/Resources/ECDC-TM/ECDC-TM.zip',
+                         'http://optima.jrc.it/Resources/ECDC-TM/EN_full-texts_2010-Dec-13.zip',
+                         'http://langtech.jrc.ec.europa.eu/Resources/ECDC-TM/ECDC-TM.zip'
+                       ],
+            'Summary' => 'ECDC-<b>Translation Memory</b> - The European Commission\'s science and knowledge service. ... <b>Download</b> the ECDC <b>Translation Memory</b>; ... testing and benchmarking alignment <b>software</b> (for sentences, words, etc.).'
+          },
+          {
+            'URL' => 'https://www.memoq.com/en/what-is-a-translation-memory',
+            'Links' => [
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading-memoQ-translator-pro?download=~/Kilgray/media/Download/memoQ%208.1/memoQ-8-1-Setup-04.exe',
+                         'https://www.memoq.com/Kilgray/media/Download/memoQ%208.0/memoQ-8-Setup-33.exe',
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading-memoQ-translator-pro-2015?download=~/Kilgray/media/Download/memoQ-2015-Setup-166.exe',
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading-memoQ-translator-pro-2014-R2?download=~/Kilgray/media/Download/memoQ-2014-R2-Setup-68.exe',
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading-memoQ-translator-pro-2014?download=~/Kilgray/media/Download/memoQ-2014-Setup-75.exe',
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading-memoQ-translator-pro?download=/Kilgray/media/Download/memoQ-2013-R2-Setup-65.exe',
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading-memoQ-translator-pro?download=/Kilgray/media/Download/memoQ-2013-Setup-22.exe',
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading-memoQ-translator-pro?download=/Kilgray/media/Download/memoQSetup-6-2-25.exe',
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading-memoQ-translator-pro?download=/Kilgray/media/Download/memoQSetup-6-0-67.exe',
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading-memoQ-translator-pro?download=/Kilgray/media/Download/memoQSetup-5-0-67.exe',
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading-memoQ-translator-pro?download=/Kilgray/media/Download/memoQSetup-4-5-78.exe',
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading-memoQ-translator-pro?download=/Kilgray/media/Download/memoQSetup-4-2-23.exe',
+                         'https://www.memoq.com/Kilgray/media/Download/memoQ%208.1/memoQ-8-1-Setup-04.exe',
+                         'https://www.memoq.com/Kilgray/media/Download/memoQ-2015-Setup-166.exe',
+                         'https://www.memoq.com/Kilgray/media/Download/memoQ-2014-R2-Setup-64.exe',
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading-memoQ-Server-Adriatic?download=~/Kilgray/media/Download/memoQ%208.0/memoQ-8-ServerSetup-33.exe',
+                         'https://www.memoq.com/Kilgray/media/Download/memoQ-2014-R2-ServerSetup-68.exe',
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading-memoQ-Server?download=/Kilgray/media/Download/memoQ-2013-R2-ServerSetup-64.exe',
+                         'https://www.memoq.com/Kilgray/media/Download/Tools%20and%20utilities/memoQPluginInstaller-1-0.exe',
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading?download=/Kilgray/media/Download/Tools%20and%20utilities/memoQ_template_sample_scripts.zip'
+                       ],
+            'Summary' => 'The <b>translation memory</b>, referred to as TM, is a database for your sentence pairs and constitutes the heart of translation technology.'
+          },
+          {
+            'URL' => 'http://translatum.gr/dics/translation-memory.htm',
+            'Links' => [
+                         'http://www.translate.com/Language_Tech_Center/Tools/content/ENLASOTools.zip',
+                         'http://www.opentag.com/Waikoloa.zip'
+                       ],
+            'Summary' => '<b>Translation Memory</b> Tools, Computer Aided Translation, Other Tools : <b>Download</b> Deja Vu X (DVX) <b>translation memory</b> tool (30-day evaluation version).'
+          },
+          {
+            'Links' => [
+                         'http://www.wordfast.net/zip/Wf613.zip',
+                         'http://www.wordfast.net/zip/wf_592m.zip',
+                         'http://www.wordfast.net/zip/wf_422.zip',
+                         'http://cdn.wordfast.com/WFP_3.4.11/Wordfast_Pro_3.4.11.exe',
+                         'http://cdn.wordfast.com/WFP_3.4.11/Wordfast_Pro_3.4.11.app.tar.gz',
+                         'http://cdn.wordfast.com/WFP_3.4.11/Wordfast_Pro_3.4.11-64bit.tar.gz',
+                         'http://cdn.wordfast.com/WFP_3.4.11/Wordfast_Pro_3.4.11-32bit.tar.gz'
+                       ],
+            'URL' => 'http://wordfast.com/store_download',
+            'Summary' => 'Wordfast is the fastest <b>Translation Memory</b> <b>software</b> on the market. With advanced <b>translation memory</b> features and a simple design, Wordfast has become the TM <b>software</b> ...'
+          },
+          {
+            'Summary' => 'Free demo of the most advanced <b>Translation Memory</b> solution. buy; <b>downloads</b>; support ... Home &gt; <b>Downloads</b>. ... This service pack updates your <b>software</b> to Alchemy ...',
+            'Links' => [
+                         'ftp://ftp.alchemysoftware.com/pub/sample_qshipttk/Sample_qshipttk.zip'
+                       ],
+            'URL' => 'http://www.alchemysoftware.com/downloads/downloads.html'
+          },
+          {
+            'Summary' => 'EsperantiloTM - <b>Translation Memory</b> program for translators EspernatiloTM is a program for translators, which facilitates the translation of papers by using ...',
+            'URL' => 'http://www.esperantilo.org/tm/',
+            'Links' => [
+                         'http://www.esperantilo.org/tm/EsperantiloTMSetUp.exe',
+                         'http://www.esperantilo.org/tm/esperantiloTM.bin'
+                       ]
+          },
+          {
+            'Summary' => 'Translation service vendors have used Microsoft Translator to leverage the automatic translation as a first pass when using human translators. ... <b>Software</b> &amp; services ... application, or solution. The leading <b>translation memory</b> ...',
+            'URL' => 'http://www.microsoft.com/en-us/translator/translation.aspx',
+            'Links' => [
+                         'https://github.com/MicrosoftTranslator/DocumentTranslator/archive/V1.3.3U.zip',
+                         'https://github.com/MicrosoftTranslator/DocumentTranslator/archive/V1.3.3U.tar.gz',
+                         'https://github.com/MicrosoftTranslator/DocumentTranslator/archive/V1.3.2U.zip',
+                         'https://github.com/MicrosoftTranslator/DocumentTranslator/archive/V1.3.2U.tar.gz',
+                         'https://github.com/MicrosoftTranslator/DocumentTranslator/archive/V1.3.1U.zip',
+                         'https://github.com/MicrosoftTranslator/DocumentTranslator/archive/V1.3.1U.tar.gz',
+                         'https://github.com/MicrosoftTranslator/DocumentTranslator/archive/V1.3U.zip',
+                         'https://github.com/MicrosoftTranslator/DocumentTranslator/archive/V1.3U.tar.gz',
+                         'https://github.com/MicrosoftTranslator/DocumentTranslator/archive/V1.2U.zip',
+                         'https://github.com/MicrosoftTranslator/DocumentTranslator/archive/V1.2U.tar.gz',
+                         'https://github.com/MicrosoftTranslator/DocumentTranslator/archive/V0.1.1.1u.zip',
+                         'https://github.com/MicrosoftTranslator/DocumentTranslator/archive/V0.1.1.1u.tar.gz',
+                         'https://github.com/MicrosoftTranslator/DocumentTranslator/archive/V0.1.1.0u.zip',
+                         'https://github.com/MicrosoftTranslator/DocumentTranslator/archive/V0.1.1.0u.tar.gz',
+                         'https://github.com/MicrosoftTranslator/DocumentTranslator/archive/V0.1.0.2.zip',
+                         'https://github.com/MicrosoftTranslator/DocumentTranslator/archive/V0.1.0.2.tar.gz'
+                       ]
+          },
+          {
+            'Summary' => 'TransAssist <b>Downloads</b> &amp; System ... is limited to 150 <b>translation memory</b> ... to users who have purchased the full version of the TransAssist <b>software</b>.',
+            'Links' => [
+                         'http://www.no1translation.com/program/TransAssist_Setup.exe',
+                         'http://www.no1translation.com/test/manual/TransAssist_Help_E_Setup.exe',
+                         'http://www.no1translation.com/program/TagAssist_Setup.exe',
+                         'http://www.no1translation.com/test/manual/TagAssist_Help_E_Setup.exe'
+                       ],
+            'URL' => 'http://www.no1translation.com/test/dl.php'
+          },
+          {
+            'Summary' => '<b>Downloads</b>: Books Selection: Tools Links: Other Links: Technologies: ... <b>Translation memory</b> is a powerful technology that can help lowering the cost of localization.',
+            'Links' => [
+                         'http://www.opentag.com/data/Astec.zip',
+                         'http://www.translate.com/technology/tools/rainbow/RainbowInstaller.zip',
+                         'http://www.translate.com/technology/tools/RWSTools.zip',
+                         'http://www.opentag.com/data/XLIFFSettings.zip',
+                         'http://www.opentag.com/data/clipconvert.zip',
+                         'http://www.opentag.com/data/waikoloa.zip'
+                       ],
+            'URL' => 'http://www.opentag.com/tm.htm'
+          },
+          {
+            'Summary' => 'Invoicing <b>Software</b>, Word Counting <b>Software</b>, Translation Project Management <b>Software</b> [back to first page with <b>Translation memory</b> tools] <b>Download</b> Translation Office 3000 (Accounting and Marketing <b>Software</b> for Freelance Translators), a project management and organizational tool for translators.',
+            'Links' => [
+                         'http://personal.nbnet.nb.ca/dalix/DM3Setup.exe'
+                       ],
+            'URL' => 'http://www.translatum.gr/dics/translation-tools.htm'
+          },
+          {
+            'Summary' => 'Wordfast is the fastest <b>Translation Memory</b> <b>software</b> on the market. With advanced <b>translation memory</b> features and a simple design, Wordfast has become the TM <b>software</b> of choice for over 15,000 translators, language service providers, corporations, and educational institutions worldwide.',
+            'URL' => 'http://www.wordfast.com/downloadpage',
+            'Links' => [
+                         'http://www.wordfast.net/zip/Wf613.zip',
+                         'http://www.wordfast.net/zip/wf_592m.zip',
+                         'http://www.wordfast.net/zip/wf_422.zip',
+                         'http://cdn.wordfast.com/WFP_3.4.11/Wordfast_Pro_3.4.11.exe',
+                         'http://cdn.wordfast.com/WFP_3.4.11/Wordfast_Pro_3.4.11.app.tar.gz',
+                         'http://cdn.wordfast.com/WFP_3.4.11/Wordfast_Pro_3.4.11-64bit.tar.gz',
+                         'http://cdn.wordfast.com/WFP_3.4.11/Wordfast_Pro_3.4.11-32bit.tar.gz'
+                       ]
+          }
+        ];

@@ -1,0 +1,48 @@
+$VAR1 = [
+          {
+            'URL' => 'http://romansakimia.blogspot.com/2012/04/download-software-sistem-periodik-unsur.html',
+            'Links' => [
+                         'http://www.freshney.org/education/pt/ptinstaller.exe'
+                       ],
+            'Summary' => 'Chemistry <b>Philology</b>; Media. Picture; Video; <b>Software</b>; Home » <b>Software</b> » <b>Download</b> <b>Software</b> Sistem Periodik Unsur (SPU) <b>Software</b> Edit. <b>Download</b> <b>Software</b> Sistem Periodik Unsur (SPU) Sistem Periodik U nsur-Unsur . Sampai saat ini, sudah dikenal 118 macam unsur dengan sifat yang khas untuk setiap ...'
+          },
+          {
+            'Summary' => 'The Journal and Classical <b>Philology</b> is an article from The Classical Journal, Volume 10. View more articles from The Classical Journal.View this article...',
+            'Links' => [
+                         'https://archive.org/download/jstor-3287348/3287348_abbyy.gz',
+                         'https://archive.org/download/jstor-3287348/3287348_daisy.zip',
+                         'https://archive.org/download/jstor-3287348/3287348_jp2.zip'
+                       ],
+            'URL' => 'https://archive.org/details/jstor-3287348'
+          },
+          {
+            'Summary' => '<b>software</b> All <b>Software</b> latest This Just ... <b>Philology</b> Item Preview. remove ... Book digitized by Google from the library of the University of Michigan and uploaded to ...',
+            'Links' => [
+                         'https://archive.org/download/philology01peilgoog/philology01peilgoog_abbyy.gz',
+                         'https://archive.org/download/philology01peilgoog/philology01peilgoog_daisy.zip',
+                         'https://archive.org/download/philology01peilgoog/philology01peilgoog_tif.zip'
+                       ],
+            'URL' => 'https://archive.org/details/philology01peilgoog'
+          },
+          {
+            'URL' => 'https://collatex.net/',
+            'Links' => [
+                         'https://oss.sonatype.org/service/local/repositories/releases/content/eu/interedition/collatex-tools/1.7.1/collatex-tools-1.7.1.jar'
+                       ],
+            'Summary' => 'CollateX - <b>Software</b> for Collating Textual Sources "In a language, in the system of language, there are only differences." - Jacques Derrida. Home; <b>Download</b>; Documentation; Demo; ... As such it is primarily designed for use cases in disciplines like <b>Philology</b> or ...'
+          },
+          {
+            'URL' => 'http://www.general-ebooks.com/author/476912-w-a-heidel',
+            'Links' => [
+                         'http://static.general-ebooks.com/download/GeBReader.exe'
+                       ],
+            'Summary' => 'All books of W. A. Heidel - 35, "[untitled] Classical <b>Philology</b>, (1909-04-01), pages 219-221", " ... en1 <b>downloads</b> in the last monthDownload Ebook: (PDF) (EPUB) ...'
+          },
+          {
+            'Summary' => '11 results for request «homer and classical <b>philology</b>» Probably you should specify your search parameters, using additional filter options.',
+            'Links' => [
+                         'http://static.general-ebooks.com/download/GeBReader.exe'
+                       ],
+            'URL' => 'http://www.general-ebooks.com/search/homer-and-classical-philology'
+          }
+        ];

@@ -1,0 +1,40 @@
+$VAR1 = [
+          {
+            'Summary' => 'You can read the output files and <b>resume analysis</b> in your favorite <b>software</b>. ... make sure that you choose compatible versions of NumPy and ProDy. 2 <b>Download</b> Select a ...',
+            'URL' => 'https://csb.secure.pitt.edu/ProDy/',
+            'Links' => [
+                         'http://pypi.python.org/packages/source/P/ProDy/ProDy-1.4.10.tar.gz',
+                         'http://pypi.python.org/packages/source/P/ProDy/ProDy-1.4.10.zip',
+                         'http://pypi.python.org/packages/2.7/P/ProDy/ProDy-1.4.10.win32-py2.7.exe',
+                         'http://pypi.python.org/packages/3.2/P/ProDy/ProDy-1.4.10.win32-py3.2.exe',
+                         'http://pypi.python.org/packages/3.3/P/ProDy/ProDy-1.4.10.win32-py3.3.exe',
+                         'http://pypi.python.org/packages/2.6/P/ProDy/ProDy-1.4.10.win32-py2.6.exe',
+                         'http://pypi.python.org/packages/3.1/P/ProDy/ProDy-1.4.10.win32-py3.1.exe',
+                         'http://pypi.python.org/packages/2.6/P/ProDy/ProDy-1.4.10.win32-py2.6-numpy1.5.exe',
+                         'http://pypi.python.org/packages/2.7/P/ProDy/ProDy-1.4.10.win32-py2.7-numpy1.5.exe',
+                         'http://pypi.python.org/packages/3.1/P/ProDy/ProDy-1.4.10.win32-py3.1-numpy1.5.exe',
+                         'https://csb.secure.pitt.edu/ProDy/_downloads/prody_tutorial_files.tgz',
+                         'https://csb.secure.pitt.edu/ProDy/_downloads/prody_tutorial_files.zip',
+                         'https://csb.secure.pitt.edu/ProDy/_downloads/nmwiz_tutorial_files.tgz',
+                         'https://csb.secure.pitt.edu/ProDy/_downloads/nmwiz_tutorial_files.zip',
+                         'https://csb.secure.pitt.edu/ProDy/_downloads/trajectory_analysis_files.tgz',
+                         'https://csb.secure.pitt.edu/ProDy/_downloads/trajectory_analysis_files.zip',
+                         'https://csb.secure.pitt.edu/ProDy/_downloads/conformational_sampling_files.tgz',
+                         'https://csb.secure.pitt.edu/ProDy/_downloads/conformational_sampling_files.zip'
+                       ]
+          },
+          {
+            'Summary' => 'ARES: Android Reverse Engineering Suite is a security suite for analyzing Android .apk files. ... save progress on an apk sample and make it possible to <b>resume analysis</b>; Instrument APKs; Sign instrumented APKs; ##Dependencies. ... <b>software</b> distributed under the License is distributed on an "AS ...',
+            'URL' => 'https://github.com/DarioI/ARES',
+            'Links' => [
+                         'https://github.com/DarioI/ARES/archive/master.zip'
+                       ]
+          },
+          {
+            'URL' => 'http://www.textanalysis.com/help/resume_analyzer.htm',
+            'Summary' => 'Resume_Analyzer. NOTE: Our Resume analyzer project ended in 2001, ... An advanced <b>resume analysis</b> prototype is available via <b>download</b> from our website.',
+            'Links' => [
+                         'http://dev.textanalysis.com/Rez0_3_1.zip'
+                       ]
+          }
+        ];

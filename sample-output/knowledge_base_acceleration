@@ -1,0 +1,9 @@
+$VAR1 = [
+          {
+            'URL' => 'https://github.com/harpribot/awesome-information-retrieval',
+            'Links' => [
+                         'https://github.com/harpribot/awesome-information-retrieval/archive/master.zip'
+                       ],
+            'Summary' => 'awesome-information-retrieval ... <b>Software</b>; Datasets; Talks; Conferences; ... <b>Knowledge base acceleration</b> - Study algorithms that improve efficiency of human ...'
+          }
+        ];

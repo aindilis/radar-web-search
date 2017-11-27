@@ -1,0 +1,61 @@
+$VAR1 = [
+          {
+            'URL' => 'http://1000projects.org/cse-seminar-on-machine-translation.html',
+            'Summary' => '<b>Download</b> CSE Seminar on Machine Translation .The Existing system is the automated translation and is the process by which the computer <b>software</b> is used to a text natural ... The <b>Example-based machine translation</b> way to machine translation is normally simplified by its use of collections ...',
+            'Links' => [
+                         'http://1000projects.org/sr1s/cs2s/se-ma-tr.zip'
+                       ]
+          },
+          {
+            'Links' => [
+                         'http://kheafield.com/code/filter.tar.gz',
+                         'http://kheafield.com/code/scoring.tar.gz',
+                         'http://kheafield.com/code/memt.tar.gz'
+                       ],
+            'Summary' => 'Free/open-source machine translation <b>software</b>. ... The DCU OpenMaTrEx marker-driven <b>example-based machine translation</b> system (partially released before as Marclator) ...',
+            'URL' => 'http://fosmt.org/'
+          },
+          {
+            'URL' => 'http://openmatrex.org/',
+            'Summary' => '... (FOS) <b>example-based machine translation</b> ... But you might want to <b>download</b> our experimental installer ... MaTrEx: DCU machine translation system for IWSLT 2006.',
+            'Links' => [
+                         'http://openmatrex.org/OpenMaTrEx-0.98.zip',
+                         'http://openmatrex.org/OpenMaTrEx-0.98.tgz',
+                         'http://openmatrex.org/OpenMaTrEx-0.97.1.zip',
+                         'http://openmatrex.org/OpenMaTrEx-0.97.1.tgz',
+                         'http://openmatrex.org/OpenMaTrEx-0.97.zip',
+                         'http://openmatrex.org/OpenMaTrEx-0.97.tgz',
+                         'http://openmatrex.org/OpenMaTrEx-0.9.zip',
+                         'http://openmatrex.org/OpenMaTrEx-0.9.tgz',
+                         'http://openmatrex.org/OpenMaTrEx-0.71.zip',
+                         'http://openmatrex.org/OpenMaTrEx-0.71.tgz',
+                         'http://openmatrex.org/OpenMaTrEx-0.7.zip',
+                         'http://openmatrex.org/OpenMaTrEx-0.7.tgz'
+                       ]
+          },
+          {
+            'URL' => 'https://archive.org/details/2EnhancingBiLingualExampleBasedMachineTranslationApproach',
+            'Links' => [
+                         'https://archive.org/download/2EnhancingBiLingualExampleBasedMachineTranslationApproach/2%20Enhancing%20Bi-Lingual%20Example%20Based%20Machine%20Translation%20Approach_abbyy.gz',
+                         'https://archive.org/download/2EnhancingBiLingualExampleBasedMachineTranslationApproach/2%20Enhancing%20Bi-Lingual%20Example%20Based%20Machine%20Translation%20Approach_daisy.zip',
+                         'https://archive.org/download/2EnhancingBiLingualExampleBasedMachineTranslationApproach/2%20Enhancing%20Bi-Lingual%20Example%20Based%20Machine%20Translation%20Approach_jp2.zip'
+                       ],
+            'Summary' => '<b>software</b> All <b>Software</b> latest This Just In Old School Emulation MS-DOS Games Historical <b>Software</b> Classic PC Games <b>Software</b> Library. ... Enhancing Bi Lingual Example Based Machine Translation Approach ... Self-Organizing <b>Example-Based Machine Translation</b>, A Prototype. Oct 12, 2014 10/14. by ERIC ...'
+          },
+          {
+            'Links' => [
+                         'http://kheafield.com/code/filter.tar.gz',
+                         'http://kheafield.com/code/scoring.tar.gz',
+                         'http://kheafield.com/code/memt.tar.gz'
+                       ],
+            'Summary' => 'Free/open-source machine translation <b>software</b>. ... to existing free/open-source machine translation ... driven <b>example-based machine translation</b> ...',
+            'URL' => 'https://termcoord.wordpress.com/2011/11/18/freeopen-source-machine-translation-software/'
+          },
+          {
+            'Links' => [
+                         'https://www.crcpress.com/downloads/K14284/k14284-mt-dvd.zip'
+                       ],
+            'Summary' => "<b>Downloads</b> / Updates; Features. ... (MT)\x{2014}rule-based machine translation (RBMT), statistical machine translation (SMT), and <b>example-based machine translation</b> (EBMT).",
+            'URL' => 'https://www.crcpress.com/Machine-Translation/Bhattacharyya/p/book/9781439897188'
+          }
+        ];

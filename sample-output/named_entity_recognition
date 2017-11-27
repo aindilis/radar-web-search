@@ -1,0 +1,239 @@
+$VAR1 = [
+          {
+            'Summary' => 'Integrates the Stanford <b>Named Entity Recognition</b> library into eXist-db. eXistDB. Entity Recognition. Demo; Building; ... <b>download</b> the classifier and word segmenter using the following links: ... http://nlp.stanford.edu/<b>software</b>/stanford-segmenter-2013-06-20.zip; From the first package, ...',
+            'URL' => 'http://exist-db.org/exist/apps/stanford-ner/building.html',
+            'Links' => [
+                         'http://nlp.stanford.edu/software/stanford-ner-2012-11-11-chinese.zip',
+                         'http://nlp.stanford.edu/software/stanford-segmenter-2013-06-20.zip'
+                       ]
+          },
+          {
+            'Summary' => 'The Stanford NLP Group makes some of our Natural Language Processing <b>software</b> ... for supervised training of <b>named entity recognition</b> and ...',
+            'URL' => 'http://nlp.stanford.edu/software/',
+            'Links' => [
+                         'https://nlp.stanford.edu/software/stanford-manual-annotation-tool-2004-05-16.tar.gz'
+                       ]
+          },
+          {
+            'Links' => [
+                         'https://nlp.stanford.edu/software/stanford-ner-2017-06-09.zip',
+                         'https://nlp.stanford.edu/software/stanford-ner-2016-10-31.zip',
+                         'https://nlp.stanford.edu/software/stanford-ner-2015-12-09.zip',
+                         'https://nlp.stanford.edu/software/stanford-ner-2015-04-20.zip',
+                         'https://nlp.stanford.edu/software/stanford-ner-2015-01-29.zip',
+                         'https://nlp.stanford.edu/software/stanford-ner-2014-10-26.zip',
+                         'https://nlp.stanford.edu/software/stanford-ner-2014-08-27.zip',
+                         'https://nlp.stanford.edu/software/stanford-ner-2014-06-16.zip',
+                         'https://nlp.stanford.edu/software/stanford-ner-2014-01-04.zip',
+                         'https://nlp.stanford.edu/software/stanford-ner-2013-11-12.zip',
+                         'https://nlp.stanford.edu/software/stanford-ner-2013-06-20.zip',
+                         'https://nlp.stanford.edu/software/stanford-ner-2013-04-04.zip',
+                         'https://nlp.stanford.edu/software/stanford-ner-2012-11-11.zip',
+                         'https://nlp.stanford.edu/software/stanford-ner-2012-07-09.tgz',
+                         'https://nlp.stanford.edu/software/stanford-ner-2012-05-22.tgz',
+                         'https://nlp.stanford.edu/software/stanford-ner-2012-04-07.tgz',
+                         'https://nlp.stanford.edu/software/stanford-ner-2012-01-06.tgz',
+                         'https://nlp.stanford.edu/software/stanford-ner-2011-09-14.tgz',
+                         'https://nlp.stanford.edu/software/stanford-ner-2011-06-19.tgz',
+                         'https://nlp.stanford.edu/software/stanford-ner-2011-05-16.tgz',
+                         'https://nlp.stanford.edu/software/stanford-ner-2009-01-16.tgz',
+                         'https://nlp.stanford.edu/software/stanford-ner-2008-05-07.tgz',
+                         'https://nlp.stanford.edu/software/stanford-ner-2006-09-18.tar.gz'
+                       ],
+            'URL' => 'http://nlp.stanford.edu/software/CRF-NER.shtml',
+            'Summary' => '<b>Software</b> &gt; Stanford Named Entity ... Stanford NER is a Java implementation of a Named Entity Recognizer. <b>Named Entity Recognition</b> ... <b>Download</b> Stanford Named Entity ...'
+          },
+          {
+            'Links' => [
+                         'http://pages.cs.wisc.edu/~bsettles/abner/abner.jar',
+                         'http://pages.cs.wisc.edu/~bsettles/abner/abner-1.5.tar.gz'
+                       ],
+            'URL' => 'http://pages.cs.wisc.edu/~bsettles/abner/',
+            'Summary' => '... A Biomedical Named Entity Recognizer. ... <b>Download</b> and Legalese. ... Biomedical <b>Named Entity Recognition</b> Using Conditional Random Fields and Rich Feature Sets.'
+          },
+          {
+            'Links' => [
+                         'https://archive.org/download/arxiv-cs0306050/cs0306050_abbyy.gz',
+                         'https://archive.org/download/arxiv-cs0306050/cs0306050_daisy.zip',
+                         'https://archive.org/download/arxiv-cs0306050/cs0306050_jp2.zip'
+                       ],
+            'URL' => 'https://archive.org/details/arxiv-cs0306050',
+            'Summary' => '... language-independent <b>named entity recognition</b>. We give background information on the data sets (English and German) ... <b>software</b> All <b>Software</b> latest This Just In Old School Emulation MS-DOS Games Historical <b>Software</b> Classic PC Games <b>Software</b> Library. ... <b>DOWNLOAD</b> OPTIONS <b>download</b> 1 file'
+          },
+          {
+            'Links' => [
+                         'https://github.com/nguyeho7/CZ_NER/archive/master.zip'
+                       ],
+            'URL' => 'https://devhub.io/repos/nguyeho7-CZ_NER',
+            'Summary' => '... bachelor <b>software</b> project for CTU: ... CZ_NER . <b>named entity recognition</b> using conditional random fields, ... <b>Download</b> the CNEC2.0 dataset from https: ...'
+          },
+          {
+            'Links' => [
+                         'http://code.msdn.microsoft.com/Getting-Started-with-91a65652/file/114474/1/MvcMovieRTM.zip'
+                       ],
+            'URL' => 'https://forums.asp.net/t/1534950.aspx?named+entity+recognition+in+Asp+net',
+            'Summary' => '<b>Downloads</b>; Community. Overview; Community Spotlight; Articles of the Day; ... <b>named entity recognition</b> in Asp.net. Aug 10, 2010 12:44 AM | KumarHarsh | LINK. Any ...'
+          },
+          {
+            'Links' => [
+                         'https://github.com/KBNLresearch/europeananp-ner/archive/v0.0.2.zip',
+                         'https://github.com/KBNLresearch/europeananp-ner/archive/v0.0.2.tar.gz',
+                         'https://github.com/KBNLresearch/europeananp-ner/archive/v0.0.1.zip',
+                         'https://github.com/KBNLresearch/europeananp-ner/archive/v0.0.1.tar.gz',
+                         'https://github.com/KBNLresearch/europeananp-ner/archive/master.zip'
+                       ],
+            'URL' => 'https://github.com/KBNLresearch/europeananp-ner',
+            'Summary' => '<b>Named Entity Recognition</b> Tool for Europeana Newspapers. ... git clone https://github.com/KBNLresearch/europeananp-ner.git cd europeananp-ner/ ./go.sh Usage command-line-interface. Invoking help: ... To verify the NER <b>software</b>, ...'
+          },
+          {
+            'Summary' => 'Clinical <b>Named Entity Recognition</b> system ... Free <b>software</b>: Apache v2.0 license; Documentation: http://cliner.readthedocs.org. Installation. Cloning the CliNER git repository: git clone https://github.com/text-machine-lab/CliNER.git.',
+            'Links' => [
+                         'https://github.com/text-machine-lab/CliNER/archive/v0.0.3.zip',
+                         'https://github.com/text-machine-lab/CliNER/archive/v0.0.3.tar.gz',
+                         'https://github.com/text-machine-lab/CliNER/archive/v0.0.2.zip',
+                         'https://github.com/text-machine-lab/CliNER/archive/v0.0.2.tar.gz',
+                         'https://github.com/text-machine-lab/CliNER/archive/v0.0.1.zip',
+                         'https://github.com/text-machine-lab/CliNER/archive/v0.0.1.tar.gz',
+                         'https://github.com/text-machine-lab/CliNER/archive/v0.0.0.zip',
+                         'https://github.com/text-machine-lab/CliNER/archive/v0.0.0.tar.gz',
+                         'https://github.com/text-machine-lab/CliNER/archive/master.zip',
+                         'https://github.com/text-machine-lab/CliNER/blob/master/models/mimic-silver.cliner.tgz'
+                       ],
+            'URL' => 'https://github.com/text-machine-lab/CliNER'
+          },
+          {
+            'Summary' => 'nerf: Nerf, the <b>named entity recognition</b> tool based on linear-chain CRFs The nerf package [Tags: ... <b>Downloads</b>: 2006 total (28 in the last 30 days) Votes: 0 []',
+            'URL' => 'https://hackage.haskell.org/package/nerf',
+            'Links' => [
+                         'https://hackage.haskell.org/package/text-1.2.2.2/text-1.2.2.2.tar.gz',
+                         'https://hackage.haskell.org/package/nerf-0.5.3/nerf-0.5.3.tar.gz'
+                       ]
+          },
+          {
+            'Summary' => '<b>Download</b> polyglot-16.7.4.tar.gz. ... Free <b>software</b>: GPLv3 license; Documentation: http://polyglot.readthedocs.org. GitHub: https://github.com/aboSamoor/polyglot; Features. Tokenization (165 Languages) ... <b>Named Entity Recognition</b> text = Text ...',
+            'URL' => 'https://pypi.python.org/pypi/polyglot',
+            'Links' => [
+                         'https://pypi.python.org/packages/e7/98/e24e2489114c5112b083714277204d92d372f5bbe00d5507acf40370edb9/polyglot-16.7.4.tar.gz'
+                       ]
+          },
+          {
+            'Links' => [
+                         'https://www.eclipse.org/downloads/download.php?file=/oomph/epp/neon/R3/eclipse-inst-win64.exe'
+                       ],
+            'URL' => 'https://sites.google.com/site/bannerintrotutorial/',
+            'Summary' => 'BannerIntroTutorial. Search this site. Home. TutorialSubmittedByMidnight. ... <b>Named Entity Recognition</b> concept: ... TortoiseSVN.exe - TortoiseSVN is an easy-to-use SCM / source control <b>software</b> for Microsoft Windows. (<b>download</b> page : ...'
+          },
+          {
+            'URL' => 'https://www.lt.informatik.tu-darmstadt.de/en/data/german-named-entity-recognition/',
+            'Links' => [
+                         'https://www.lt.informatik.tu-darmstadt.de/en/data/german-named-entity-recognition/fileadmin/user_upload/Group_LangTech/data/GermEval2014_complete_data.zip'
+                       ],
+            'Summary' => '<b>Software</b>. JoBimText; WebAnno; GermaNER; Dependency Collapsing; TAXI: a Taxonomy Induction System; ... TU Darmstadt » Informatik » Data » German <b>Named Entity Recognition</b>. ... The data are available for <b>download</b> below.'
+          },
+          {
+            'Summary' => 'TaggerOne: Joint <b>Named Entity Recognition</b> and Normalization with Semi-Markov Models ... TaggerOne was validated by measuring the <b>named entity recognition</b> ... <b>Download</b> open source <b>software</b> and models: version 0.2.1',
+            'URL' => 'https://www.ncbi.nlm.nih.gov/bionlp/taggerone/',
+            'Links' => [
+                         'https://www.ncbi.nlm.nih.gov/research/bionlp/taggerone/TaggerOne-0.2.1.tgz'
+                       ]
+          },
+          {
+            'Summary' => "DNorm: Disease <b>Named Entity Recognition</b> and Normalization with Pairwise Learning to Rank Robert Leaman, Rezarta Islamaj Do\x{1e7}an and Zhiyong Lu (PI)",
+            'URL' => 'https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/Demo/tmTools/DNorm.html',
+            'Links' => [
+                         'https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/Demo/tmTools/download/DNorm/DNorm-0.0.7.tgz'
+                       ]
+          },
+          {
+            'URL' => 'https://www.nuget.org/packages/IASL-BioTextMining.NamedEntityRecognition',
+            'Links' => [
+                         'https://dist.nuget.org/win-x86-commandline/latest/nuget.exe'
+                       ],
+            'Summary' => '<b>Downloads</b> of v 2.0.4.2. 3. ... IASL <b>named entity recognition</b> library. To install IASL.BioTextMining.NamedEntityRecognition, ...'
+          },
+          {
+            'Links' => [
+                         'https://dist.nuget.org/win-x86-commandline/latest/nuget.exe'
+                       ],
+            'URL' => 'https://www.nuget.org/packages/IASL.BioTextMining.NamedEntityRecognition.Core/',
+            'Summary' => 'Average <b>downloads</b> per day. ... IASL <b>named entity recognition</b> core library. To install IASL.BioTextMining.NamedEntityRecognition.Core, ...'
+          },
+          {
+            'Summary' => '... part-of-speech tagging, phrase chunking, <b>named entity recognition</b> and semantic role labeling. ... megaupload hotfile <b>download</b>, Entropy Guided Transformation Learning: Algorithms and Applications torrent emule <b>download</b>, ... <b>Software</b>, TV Shows, eBooks, Magazines, Tutorials and Much More.',
+            'URL' => 'https://www.reduson.com/ebook/556980-entropy-guided-transformation-learning-algorithms-and-applications.html',
+            'Links' => [
+                         'https://www.reduson.com/file/go.php?mod=fast&mirror=1&filename=Entropy_Guided_Transformation_Learning_Algorithms_and_Applications.part01.zip',
+                         'https://www.reduson.com/file/go.php?mod=highspeed&mirror=2&filename=Entropy_Guided_Transformation_Learning_Algorithms_and_Applications.part02.zip'
+                       ]
+          },
+          {
+            'URL' => 'https://www.scientific.net/AMM.571-572.339',
+            'Links' => [
+                         'https://www.scientific.net/Downloads/GetTtpFile?name=Template_LaTeX.zip'
+                       ],
+            'Summary' => '... Answer Extraction Model Based on <b>Named Entity Recognition</b> ... My Cart <b>Downloads</b> Distributors For Editors Subscriptions Paper Titles ...'
+          },
+          {
+            'Links' => [
+                         'https://public.ukp.informatik.tu-darmstadt.de/reimers/2014_german_embeddings/2014_tudarmstadt_german_5mincount.vocab.gz',
+                         'https://public.ukp.informatik.tu-darmstadt.de/reimers/2014_german_embeddings/2014_tudarmstadt_german_50mincount.vocab.gz',
+                         'https://public.ukp.informatik.tu-darmstadt.de/reimers/2014_german_embeddings/2014_tudarmstadt_german_100mincount.vocab.gz'
+                       ],
+            'URL' => 'https://www.ukp.tu-darmstadt.de/research/ukp-in-challenges/germeval-2014/',
+            'Summary' => '<b>Software</b>. Apache UIMA ... (242 MB) [alternative <b>download</b> as word2Vec binary format (254mb)] <b>Download</b> Word Embeddings with min. count 100 ... In Proceedings of the KONVENS GermEval Shared Task on <b>Named Entity Recognition</b>, Hildesheim, Germany. UKP News.'
+          },
+          {
+            'Summary' => "<b>Download</b>; Community; Foundation; Core Development; Package Index &gt; polyglot ... Free <b>software</b>: GPLv3 license; Documentation: IOS\x{30b2}\x{30fc}\x{30e0}/polyglot ... Features. Tokenization (165 Languages) Language detection (196 Languages) <b>Named Entity Recognition</b> (40 Languages) Part of Speech Tagging (16 ...",
+            'URL' => 'http://www.aomorigame.com/pypi_python_org/pypi/polyglot',
+            'Links' => [
+                         'http://www.aomorigame.com/pypi_python_org/packages/e7/98/e24e2489114c5112b083714277204d92d372f5bbe00d5507acf40370edb9/polyglot-16.7.4.tar.gz'
+                       ]
+          },
+          {
+            'URL' => 'http://www.aomorigame.com/pypi_python_org/pypi/spacy',
+            'Links' => [
+                         'http://www.aomorigame.com/pypi_python_org/packages/4a/aa/755943184fbde85b77f52f1f9f52621fdcdda67f74db4f60880e3468ee8b/spacy-1.8.2.tar.gz'
+                       ],
+            'Summary' => '... , Portuguese, Dutch, Swedish, Finnish, Hungarian, Bengali and Hebrew. It\'s commercial open-source <b>software</b>, released under the MIT license.?? Help us improve the ... <b>named entity recognition</b>, part-of-speech tagging). The only more accurate systems are ... <b>Download</b> models. As of ...'
+          },
+          {
+            'Summary' => '<b>Named Entity Recognition</b> (NER) is a subtask of Information Extraction. ... http://ilk.kub.nl/<b>downloads</b>/pub/papers/ilk.0002.ps.gz [CM03]',
+            'URL' => 'http://www.cnts.ua.ac.be/conll2003/ner/',
+            'Links' => [
+                         'http://www.cnts.ua.ac.be/conll2003/ner.tgz',
+                         'http://www.cnts.ua.ac.be/conll2003/eng.raw.tar',
+                         'http://www.cnts.ua.ac.be/conll2003/deu.raw.tar',
+                         'http://www.cnts.ua.ac.be/conll2003/ner/results/bender.tgz',
+                         'http://www.cnts.ua.ac.be/conll2003/ner/results/carrerasa.tgz',
+                         'http://www.cnts.ua.ac.be/conll2003/ner/results/carrerasb.tgz',
+                         'http://www.cnts.ua.ac.be/conll2003/ner/results/chieu.tgz',
+                         'http://www.cnts.ua.ac.be/conll2003/ner/results/curran.tgz',
+                         'http://www.cnts.ua.ac.be/conll2003/ner/results/demeulder.tgz',
+                         'http://www.cnts.ua.ac.be/conll2003/ner/results/florian.tgz',
+                         'http://www.cnts.ua.ac.be/conll2003/ner/results/hammerton.tgz',
+                         'http://www.cnts.ua.ac.be/conll2003/ner/results/hendrickx.tgz',
+                         'http://www.cnts.ua.ac.be/conll2003/ner/results/klein.tgz',
+                         'http://www.cnts.ua.ac.be/conll2003/ner/results/mayfield.tgz',
+                         'http://www.cnts.ua.ac.be/conll2003/ner/results/mccallum.tgz',
+                         'http://www.cnts.ua.ac.be/conll2003/ner/results/munro.tgz',
+                         'http://www.cnts.ua.ac.be/conll2003/ner/results/whitelaw.tgz',
+                         'http://www.cnts.ua.ac.be/conll2003/ner/results/wu.tgz',
+                         'http://www.cnts.ua.ac.be/conll2003/ner/results/zhang.tgz'
+                       ]
+          },
+          {
+            'Links' => [
+                         'http://rgai.inf.u-szeged.hu/project/nlp/research/NER/ner.jar'
+                       ],
+            'URL' => 'http://www.inf.u-szeged.hu/rgai/NER',
+            'Summary' => '<b>Named Entity Recognition</b> A Named Entity (NE) is a phrase in the text which uniquely refers to an entity of the world. ... <b>downloads</b>; All rights reserved 2011.'
+          },
+          {
+            'Summary' => '... Sparkle, Multilangual, Sticker, <b>Software</b>, Understand, Mindfullness, Toolworks, Scientific, ... part-of-speech tagging, phrase chunking, <b>named entity recognition</b> and semantic role labeling. ... Algorithms and Applications rapidshare mediafire megaupload hotfile <b>download</b>, ...',
+            'Links' => [
+                         'http://www.istanbuleskortbayan.net/away.php?file=Entropy_Guided_Transformation_Learning_Algorithms_and_Applications.part01.zip',
+                         'http://www.istanbuleskortbayan.net/away.php?file=Entropy_Guided_Transformation_Learning_Algorithms_and_Applications.part02.zip'
+                       ],
+            'URL' => 'http://www.istanbuleskortbayan.net/ebook/556980-entropy-guided-transformation-learning-algorithms-and-applications.html'
+          }
+        ];

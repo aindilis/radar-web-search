@@ -1,0 +1,28 @@
+# Search Files Props
+# index-dir
+index-dir = index
+# query-file
+query-file = queries.txt
+# docs-per-query
+docs-per-query = 1000
+# query-term-count (0 - any count) (ex. queries with only 3 terms - 3 )
+query-terms-count = 100
+# out-file - name of the file where results will be written
+out-file = .result
+
+# See QueryExpansion.java CONSTANTS section for details
+QE.method = rocchio
+#QE.decay = 0.04
+QE.doc.num = 10
+QE.term.num = 100
+QE.doc.source = google
+rocchio.alpha = 1
+rocchio.beta = 0.75
+
+
+#Google's prop See GoogleQueryExpansion.java CONSTANTS section for details
+# Google Auth Key (available at http://www.google.com/apis/ )
+# This is my personal google auth key so please use it for demo purposes only
+# Auth key could be easily obtained at http://www.google.com/apis/
+google.auth.key = Qte9k4VQFHKgauaxU4FdkjjJwazm3vrg
+google.file.cache = .google.cache

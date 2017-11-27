@@ -1,0 +1,77 @@
+$VAR1 = [
+          {
+            'Links' => [
+                         'http://matita.cs.unibo.it/FILES/matita-0.99.2.iso',
+                         'http://matita.cs.unibo.it/sources/matita-0.99.3.tar.gz',
+                         'http://matita.cs.unibo.it/FILES/matita-0.5.8.iso',
+                         'http://matita.cs.unibo.it/FILES/matita-0.5.9.tar.gz'
+                       ],
+            'URL' => 'http://matita.cs.unibo.it/documentation.shtml',
+            'Summary' => 'Matita Documentation User Manual. ... The 6th International Conference on <b>Mathematical Knowledge Management</b>. ... <b>Software</b> applications that have to deal with formulae usually avoid these issues by fixing an unambiguous input notation.'
+          },
+          {
+            'Summary' => '<b>software</b> All <b>Software</b> latest This Just In Old School Emulation MS ... A language for <b>mathematical knowledge management</b> ... A language for mathematical knowledge ...',
+            'URL' => 'https://archive.org/details/arxiv-0805.1386',
+            'Links' => [
+                         'https://archive.org/download/arxiv-0805.1386/0805.1386_abbyy.gz',
+                         'https://archive.org/download/arxiv-0805.1386/0805.1386_daisy.zip',
+                         'https://archive.org/download/arxiv-0805.1386/0805.1386_jp2.zip'
+                       ]
+          },
+          {
+            'Links' => [
+                         'https://archive.org/download/springer_10.1007-b100478/10.1007-b100478_abbyy.gz',
+                         'https://archive.org/download/springer_10.1007-b100478/10.1007-b100478_daisy.zip',
+                         'https://archive.org/download/springer_10.1007-b100478/10.1007-b100478_jp2.zip'
+                       ],
+            'URL' => 'https://archive.org/details/springer_10.1007-b100478',
+            'Summary' => "<b>Mathematical Knowledge Management</b>: Third International Conference, MKM 2004, Bia\x{142}owie\x{17c}a, ... <b>software</b> All <b>Software</b> latest This Just In Old School Emulation MS-DOS ..."
+          },
+          {
+            'Links' => [
+                         'https://github.com/KWARC/sTeX/archive/master.zip'
+                       ],
+            'URL' => 'https://github.com/KWARC/sTeX',
+            'Summary' => 'KWARC / sTeX. Code. Issues 13. ... Clone or <b>download</b> ... , essentially turning it into a document format for <b>mathematical knowledge management</b> ...'
+          },
+          {
+            'Summary' => 'Recent Papers. This is a short list ... Sixth International Symposium on Symbolic Computation in <b>Software</b> Science, (SCSS 2014), Tunis 7-8 ... the Integration of Symbolic Computation and Mechanized Reasoning and 8th International Conference on <b>Mathematical Knowledge Management</b> , (MKM 2009), July ...',
+            'URL' => 'https://www.scg.uwaterloo.ca/papers.shtml',
+            'Links' => [
+                         'http://www.cs.uwaterloo.ca/~droche/papers/lsmul.tar.gz',
+                         'http://cs.uwaterloo.ca/~droche/papers/pp.tgz'
+                       ]
+          },
+          {
+            'Links' => [
+                         'http://www.balisage.net/Proceedings/vol3/author-pkg/Zholudev01/Bal2009zhol0812_presentation.zip'
+                       ],
+            'URL' => 'http://www.balisage.net/Proceedings/vol3/author-pkg/Zholudev01/BalisageVol3-Zholudev01.html',
+            'Summary' => 'Proceedings. TNTBase: Versioned Storage for XML. Balisage: ... These materials have been zipped for easy <b>download</b> and are identified by a brief description of the contents. The materials themselves are untouched, that is, they ...'
+          },
+          {
+            'Summary' => 'What is GCLC? GCLC ((c) Predrag Janicic 1996-2009) (from "Geometry Constructions-&gt;LaTeX converter") is a tool for visualizing and teaching geometry, and for producing ...',
+            'URL' => 'http://www.emis.de/misc/software/gclc/',
+            'Links' => [
+                         'http://www.emis.de/misc/software/gclc/wingclc.zip',
+                         'http://www.emis.de/misc/software/gclc/linux-gclc.zip',
+                         'http://www.emis.de/misc/software/gclc/SSGV2008.zip'
+                       ]
+          },
+          {
+            'Links' => [
+                         'http://standards.iso.org/ittf/PubliclyAvailableStandards/c021573_ISO_IEC_13568_2002(E).zip',
+                         'http://www.hensa.ac.uk/netlib/toms/764.gz',
+                         'http://scicomp.ewha.ac.kr/netlib/ode/dgelda.tar.gz'
+                       ],
+            'Summary' => 'FMathL - Formal Mathematical Language. FMathL ... Natural language proof checking (Bonn-Duisburg-Essen, Germany), A language for <b>mathematical knowledge management</b> (by Kieffer, Avigad and Friedman), MathNat, ... multilingual <b>software</b> for building and distributing digital library collections',
+            'URL' => 'http://www.mat.univie.ac.at/~neum/FMathL.html'
+          },
+          {
+            'Links' => [
+                         'http://www.orcca.on.ca/~yxie/publications/trvgen.tgz'
+                       ],
+            'URL' => 'http://www.orcca.on.ca/~yxie/',
+            'Summary' => 'Yuzhen Xie, PhD. Research Associate. Ontario Research Centre for Computer Algebra ... full paper and <b>software</b> <b>download</b>. Transversal hypergraph generation has numerous applications in data mining, artificial ... Member of the <b>Mathematical Knowledge Management</b> Interest Group (MKM-IG) Member of the ...'
+          }
+        ];

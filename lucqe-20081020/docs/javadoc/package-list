@@ -1,0 +1,12 @@
+
+com.hrstc.fuzzy
+com.hrstc.lucene
+com.hrstc.lucene.query
+com.hrstc.lucene.queryexpansion
+com.hrstc.trec
+com.hrstc.trec.report
+com.hrstc.utils
+org.apache.lucene.demo
+org.apache.lucene.demo.html
+org.apache.lucenesandbox.xmlindexingdemo
+xml_fixer

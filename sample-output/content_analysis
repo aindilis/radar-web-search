@@ -1,0 +1,159 @@
+$VAR1 = [
+          {
+            'Links' => [
+                         'http://dl.conjugateprior.org/software/vbpro/vbpro.zip'
+                       ],
+            'URL' => 'http://conjugateprior.org/software/',
+            'Summary' => 'Yoshikoder is a cross-platform multilingual <b>content analysis</b> program. ... VBPro is Mark Miller\'s classic free <b>content analysis</b> <b>software</b>. ... <b>Download</b> vbpro.zip (for Windows only). Proudly powered by WordPress ...'
+          },
+          {
+            'Summary' => 'IBM AeroText is an information extraction system for developing knowledge-based <b>content analysis</b> applications. ... including computing inter-rater reliability. Users can create a free account, or <b>download</b> the ASP.NET tool suite to run independently. Website: ... <b>Content Analysis</b> &amp; Text Mining ...',
+            'Links' => [
+                         'http://people.csail.mit.edu/mcollins/PARSER.tar.gz'
+                       ],
+            'URL' => 'http://dirtdirectory.org/categories/text-mining'
+          },
+          {
+            'Links' => [
+                         'https://www.python.org/ftp/python/3.6.1/Python-3.6.1.tar.xz',
+                         'https://www.python.org/ftp/python/2.7.13/Python-2.7.13.tar.xz',
+                         'https://www.python.org/ftp/python/3.6.1/python-3.6.1.exe',
+                         'https://gking.harvard.edu/files/gking/files/readme_0.99837.tar.gz',
+                         'https://gking.harvard.edu/files/gking/files/ReadMe_0-1.99836.tar.gz',
+                         'https://gking.harvard.edu/files/gking/files/ReadMe_0.99836.tar.gz',
+                         'https://gking.harvard.edu/files/ReadMe_0.99835.tar_0.gz',
+                         'https://gking.harvard.edu/files/ReadMe_0.99834.tar_0.gz',
+                         'https://gking.harvard.edu/files/ReadMe_0.99833.tar_0.gz',
+                         'https://gking.harvard.edu/files/ReadMe_0.99832.tar_0.gz',
+                         'https://gking.harvard.edu/files/ReadMe_0.99831.tar_0.gz',
+                         'https://gking.harvard.edu/files/ReadMe_0.9983.tar_0.gz',
+                         'https://gking.harvard.edu/files/ReadMe_0.9982.tar_0.gz',
+                         'https://gking.harvard.edu/files/ReadMe_0.996.tar_0.gz',
+                         'https://gking.harvard.edu/files/ReadMe_0.995.tar_0.gz',
+                         'https://gking.harvard.edu/files/ReadMe_0.992.tar_0.gz',
+                         'https://gking.harvard.edu/files/ReadMe_0.991.tar_0.gz',
+                         'https://gking.harvard.edu/files/ReadMe_0.99.tar_0.gz',
+                         'https://gking.harvard.edu/files/gking/files/cem_1.1.14.tar.gz',
+                         'https://gking.harvard.edu/files/gking/files/WhatIf_1.5-6.tar.gz'
+                       ],
+            'URL' => 'https://gking.harvard.edu/readme',
+            'Summary' => 'The ReadMe <b>software</b> package for R takes as input a set of text documents (such as speeches, blog posts, newspaper articles, judicial opinions, movie reviews, etc.), a ...'
+          },
+          {
+            'URL' => 'https://wordpress.org/plugins/acf-content-analysis-for-yoast-seo/',
+            'Links' => [
+                         'https://downloads.wordpress.org/plugin/acf-content-analysis-for-yoast-seo.1.2.6.zip'
+                       ],
+            'Summary' => '<b>Download</b>, unzip and upload the ... "ACF <b>Content Analysis</b> for Yoast SEO" is open source <b>software</b>. The following people have contributed to this plugin. Contributors. Angry Creative Markus Olsson Peter Elmered'
+          },
+          {
+            'Summary' => '<b>Download</b>. WordPress SEO ACF <b>Content Analysis</b> By Ryuhei Yokokawa. Details; ... "WordPress SEO ACF <b>Content Analysis</b>" is open source <b>software</b>. The following people have contributed to this plugin. Contributors. ryuheixys Translate "WordPress SEO ACF <b>Content Analysis</b>" into your language.',
+            'URL' => 'https://wordpress.org/plugins/wp-seo-acf-content-analysis/',
+            'Links' => [
+                         'https://downloads.wordpress.org/plugin/wp-seo-acf-content-analysis.zip'
+                       ]
+          },
+          {
+            'Summary' => 'The <b>Content Analysis</b> module is an API designed to help modules that need to analyze content. The module enables a suite of content analyzers to provide multiple views ...',
+            'Links' => [
+                         'https://ftp.drupal.org/files/projects/contentanalysis-7.x-1.0-beta7.tar.gz',
+                         'https://ftp.drupal.org/files/projects/contentanalysis-7.x-1.0-beta7.zip',
+                         'https://ftp.drupal.org/files/projects/contentanalysis-7.x-1.x-dev.tar.gz',
+                         'https://ftp.drupal.org/files/projects/contentanalysis-7.x-1.x-dev.zip',
+                         'https://ftp.drupal.org/files/projects/contentanalysis-6.x-1.7.tar.gz',
+                         'https://ftp.drupal.org/files/projects/contentanalysis-6.x-1.7.zip',
+                         'https://ftp.drupal.org/files/projects/contentanalysis-7.x-1.0-beta6.tar.gz',
+                         'https://ftp.drupal.org/files/projects/contentanalysis-7.x-1.0-beta6.zip',
+                         'https://ftp.drupal.org/files/projects/contentanalysis-7.x-1.0-beta5.tar.gz',
+                         'https://ftp.drupal.org/files/projects/contentanalysis-7.x-1.0-beta5.zip',
+                         'https://ftp.drupal.org/files/projects/contentanalysis-7.x-1.0-beta4.tar.gz',
+                         'https://ftp.drupal.org/files/projects/contentanalysis-7.x-1.0-beta4.zip',
+                         'https://ftp.drupal.org/files/projects/contentanalysis-7.x-1.0-beta3.tar.gz',
+                         'https://ftp.drupal.org/files/projects/contentanalysis-7.x-1.0-beta3.zip',
+                         'https://ftp.drupal.org/files/projects/contentanalysis-7.x-1.0-beta2.tar.gz',
+                         'https://ftp.drupal.org/files/projects/contentanalysis-7.x-1.0-beta2.zip',
+                         'https://ftp.drupal.org/files/projects/contentanalysis-7.x-1.0-beta1.tar.gz',
+                         'https://ftp.drupal.org/files/projects/contentanalysis-7.x-1.0-beta1.zip',
+                         'https://ftp.drupal.org/files/projects/contentanalysis-7.x-1.0-alpha5.tar.gz',
+                         'https://ftp.drupal.org/files/projects/contentanalysis-7.x-1.0-alpha5.zip',
+                         'https://ftp.drupal.org/files/projects/contentanalysis-7.x-1.0-alpha4.tar.gz',
+                         'https://ftp.drupal.org/files/projects/contentanalysis-7.x-1.0-alpha4.zip',
+                         'https://ftp.drupal.org/files/projects/contentanalysis-7.x-1.0-alpha3.tar.gz',
+                         'https://ftp.drupal.org/files/projects/contentanalysis-7.x-1.0-alpha3.zip',
+                         'https://ftp.drupal.org/files/projects/contentanalysis-7.x-1.0-alpha2.tar.gz',
+                         'https://ftp.drupal.org/files/projects/contentanalysis-7.x-1.0-alpha2.zip',
+                         'https://ftp.drupal.org/files/projects/contentanalysis-7.x-1.0-alpha1.tar.gz',
+                         'https://ftp.drupal.org/files/projects/contentanalysis-7.x-1.0-alpha1.zip',
+                         'https://ftp.drupal.org/files/projects/contentanalysis-6.x-1.6.tar.gz',
+                         'https://ftp.drupal.org/files/projects/contentanalysis-6.x-1.6.zip',
+                         'https://ftp.drupal.org/files/projects/contentanalysis-6.x-1.5.tar.gz',
+                         'https://ftp.drupal.org/files/projects/contentanalysis-6.x-1.5.zip',
+                         'https://ftp.drupal.org/files/projects/contentanalysis-6.x-1.4.tar.gz',
+                         'https://ftp.drupal.org/files/projects/contentanalysis-6.x-1.4.zip',
+                         'https://ftp.drupal.org/files/projects/contentanalysis-6.x-1.3.tar.gz',
+                         'https://ftp.drupal.org/files/projects/contentanalysis-6.x-1.3.zip',
+                         'https://ftp.drupal.org/files/projects/contentanalysis-6.x-1.2.tar.gz',
+                         'https://ftp.drupal.org/files/projects/contentanalysis-6.x-1.2.zip',
+                         'https://ftp.drupal.org/files/projects/contentanalysis-6.x-1.1.tar.gz',
+                         'https://ftp.drupal.org/files/projects/contentanalysis-6.x-1.1.zip'
+                       ],
+            'URL' => 'https://www.drupal.org/project/contentanalysis'
+          },
+          {
+            'Summary' => 'Sound\'s Use in Instructional <b>Software</b> to Enhance Learning: A Theory-to-Practice <b>Content Analysis</b> ARTICLE ... This <b>content analysis</b> of 12 award-winning instructional <b>software</b> products indicated that, ... <b>Download</b> Citation ...',
+            'Links' => [
+                         'https://editlib-static.s3.amazonaws.com/css/site.css.gz',
+                         'https://editlib-static.s3.amazonaws.com/css/academicons.min.css.gz',
+                         'https://editlib-static.s3.amazonaws.com/css/abstract.css.gz'
+                       ],
+            'URL' => 'https://www.learntechlib.org/p/67536/'
+          },
+          {
+            'Links' => [
+                         'http://downloads.wordpress.org/plugin/wordpress-seo.latest-stable.zip',
+                         'https://downloads.wordpress.org/plugin/wordpress-seo.zip'
+                       ],
+            'URL' => 'https://yoast.com/wordpress/plugins/seo/focus-keyword-and-content-analysis/',
+            'Summary' => 'What do the focus keyword and <b>content analysis</b> of Yoast SEO do? On this page we explain this feature of our Yoast SEO for WordPress plugin.'
+          },
+          {
+            'Summary' => '<b>Download</b>; Extensions; About us; Links; ... AQUAD Seven is available free of charge as free <b>software</b> on terms of the GNU GPL v3. Actual version: 7.5.5.1. The installation program contains AQUAD 7, two texts as examples, one for qualitative <b>content analysis</b>, the other for sequence analyis, R ...',
+            'Links' => [
+                         'http://www.aquad.de/materials/aqd7_e_prg_setup.exe',
+                         'http://www.aquad.de/materials/aqd7_e_audio_setup.exe',
+                         'http://www.aquad.de/materials/aqd7_e_grafik_setup.exe',
+                         'http://www.aquad.de/materials/aqd7_e_video_setup.exe',
+                         'http://www.aquad.de/materials/aqd7_e_manual_setup.exe',
+                         'http://www.aquad.de/materials/aqd7_e_Rscripts.exe'
+                       ],
+            'URL' => 'http://www.aquad.de/en/download/'
+          },
+          {
+            'Links' => [
+                         'http://www.kwalitan.net/downloads/kwalitan_demo.exe'
+                       ],
+            'URL' => 'http://www.content-analysis.de/software/qualitative-analysis',
+            'Summary' => 'Provides an overview of <b>software</b> for qualitative <b>content analysis</b> and text analysis.'
+          },
+          {
+            'Links' => [
+                         'http://www.kun.nl/methoden/kwalitan/kwdemo.zip'
+                       ],
+            'URL' => 'http://www.nhlink.net/ClevelandNeighborhoods/tremont/contenta.htm',
+            'Summary' => '<b>Content Analysis</b> <b>Software</b> Programs. Quantitative Programs (list compiled by Matthias Romppel and PS) Minnesota Contextual <b>Content Analysis</b> (MCCA)'
+          },
+          {
+            'Summary' => 'CAQDAS Comparison. by Thomas Koenig. This is a comparative overview of the most important computer-assisted qualitative data analyses <b>software</b> ... The biggest advantage of computer-assisted <b>content analysis</b> is its capability to handle bulk data.',
+            'Links' => [
+                         'http://www.restore.ac.uk/lboro/research/software/simf031a.zip'
+                       ],
+            'URL' => 'http://www.restore.ac.uk/lboro/research/software/caqdas_comparison.php'
+          },
+          {
+            'Summary' => 'VIVOTEK\' s Standard Video <b>Content Analysis</b> (Standard VCA) is an embedded application package for VIVOTEK cameras that offer three key functions including Line ...',
+            'URL' => 'http://www.vivotek.com/standard-vca/',
+            'Links' => [
+                         'http://download.vivotek.com/downloadfile/downloads/software/vcapackage.zip'
+                       ]
+          }
+        ];

@@ -1,0 +1,131 @@
+$VAR1 = [
+          {
+            'Summary' => '<b>Software</b> continues to have security ... The contributions are fully implemented with empirical results in the <b>general game playing</b> system. <b>DOWNLOAD</b> TR ... M.S. "Non-Compacting Memory Allocation and Real-Time Garbage Collection". The University of Texas at Austin, Department of ...',
+            'Links' => [
+                         'ftp://ftp.cs.utexas.edu/pub/AI-Lab/tech-reports/UT-AI-TR-95-237.tar',
+                         'ftp://ftp.cs.utexas.edu/pub/AI-Lab/tech-reports/UT-AI-TR-94-219.tar'
+                       ],
+            'URL' => 'http://apps.cs.utexas.edu/tech_reports/ncstrl/ncstrl2html.php?what=Dissertations'
+          },
+          {
+            'URL' => 'http://fai.cs.uni-saarland.de/software.html',
+            'Links' => [
+                         'http://fai.cs.uni-saarland.de/hoffmann/TorchLight.zip',
+                         'http://fai.cs.uni-saarland.de/hoffmann/adl2strips.zip',
+                         'http://fai.cs.uni-saarland.de/kissmann/planning/downloads/netben-opt-gamer_1.0.tar.bz2',
+                         'http://fai.cs.uni-saarland.de/kissmann/planning/downloads/netben-opt-gamer_1.0a_32bit.tar.bz2',
+                         'http://fai.cs.uni-saarland.de/kissmann/planning/downloads/netben-opt-gamer_1.0a_64bit.tar.bz2',
+                         'http://fai.cs.uni-saarland.de/kissmann/planning/downloads/netben-opt-gamer_1.0b_32bit.tar.bz2',
+                         'http://fai.cs.uni-saarland.de/kissmann/planning/downloads/netben-opt-gamer_1.0b_64bit.tar.bz2',
+                         'http://fai.cs.uni-saarland.de/kissmann/planning/downloads/seq-opt-dynamic-gamer_2.0.tar.bz2',
+                         'http://fai.cs.uni-saarland.de/kissmann/planning/downloads/seq-opt-gamer_1.0.tar.bz2',
+                         'http://fai.cs.uni-saarland.de/kissmann/planning/downloads/seq-opt-gamer_1.0a.tar.bz2',
+                         'http://fai.cs.uni-saarland.de/kissmann/planning/downloads/seq-opt-gamer_1.0b.tar.bz2',
+                         'http://fai.cs.uni-saarland.de/kissmann/planning/downloads/seq-opt-gamer_1.0c.tar.bz2',
+                         'http://fai.cs.uni-saarland.de/kissmann/planning/downloads/seq-opt-gamer_1.1.tar.bz2',
+                         'http://fai.cs.uni-saarland.de/kissmann/planning/downloads/seq-opt-gamer_1.4.tar.bz2',
+                         'http://fai.cs.uni-saarland.de/kissmann/planning/downloads/seq-opt-gamer_1.5.tar.bz2',
+                         'http://fai.cs.uni-saarland.de/kissmann/planning/downloads/seq-opt-gamer_1.6.tar.bz2',
+                         'http://fai.cs.uni-saarland.de/kissmann/planning/downloads/seq-opt-gamer_1.7.tar.bz2',
+                         'http://fai.cs.uni-saarland.de/kissmann/planning/downloads/seq-opt-gamer_2.0.tar.bz2',
+                         'http://fai.cs.uni-saarland.de/downloads/fd-rb-search.tar.gz',
+                         'http://fai.cs.uni-saarland.de/downloads/fd-rb-heuristic.tar.gz',
+                         'http://fai.cs.uni-saarland.de/downloads/fd-prob.tar.bz2',
+                         'http://fai.cs.uni-saarland.de/downloads/resource-constrained-icaps12.tar',
+                         'http://fai.cs.uni-saarland.de/downloads/resource-constrained-benchmarks.tar.bz2',
+                         'http://fai.cs.uni-saarland.de/downloads/unsat-benchmarks.tar.bz2',
+                         'http://fai.cs.uni-saarland.de/downloads/ppddl-benchmarks-cyclic.tar.bz2',
+                         'http://fai.cs.uni-saarland.de/downloads/pentesting.zip'
+                       ],
+            'Summary' => 'We provide source code <b>downloads</b> for many of the tools developed in our research, ... Gamer is also the name of a hybrid <b>general game playing</b> agent ...'
+          },
+          {
+            'Links' => [
+                         'http://general-game-playing.de/downloads/gamechecker-r2049.tar.gz',
+                         'http://general-game-playing.de/downloads/prolog_starter_code.zip',
+                         'http://general-game-playing.de/downloads/BasicCppPlayer-1.6.tar.gz',
+                         'http://general-game-playing.de/downloads/c++-reasoner.tar.gz'
+                       ],
+            'Summary' => '<b>General Game Playing</b> programs and resources for <b>download</b> ... <b>Downloads</b>. We provide programs that might help you to implement your own <b>General Game Playing</b> system.',
+            'URL' => 'http://general-game-playing.de/downloads.html'
+          },
+          {
+            'Links' => [
+                         'http://nesik.republika.pl/download//SomeAspectsOfChessProgramming.zip'
+                       ],
+            'Summary' => 'Learning, the process of ... University of Alberta, pdf » <b>General Game Playing</b>; Amine Bourki, Matthieu Coulm, Philippe Rolet, Olivier Teytaud, Paul Vayssière (2010',
+            'URL' => 'https://chessprogramming.wikispaces.com/Learning'
+          },
+          {
+            'Summary' => 'Mario AI Competition More Login. ... get eclipse http://www.eclipse.org/<b>downloads</b>/ ... there\'s the <b>General Game Playing</b> Competition, etc.',
+            'Links' => [
+                         'https://www.eclipse.org/downloads/download.php?file=/oomph/epp/neon/R3/eclipse-inst-win64.exe'
+                       ],
+            'URL' => 'https://games.slashdot.org/story/09/08/05/0438241/Mario-AI-Competition'
+          },
+          {
+            'Summary' => '<b>Download</b> ZIP Code Revisions 7. List of ... 19.A New <b>Software</b> Project Management Tool: ... 620.Theorem Proving for <b>General Game Playing</b>: 621.Thesis Archiving System: 622.Third party tracking in mobile environment: 623.Time line help package for map objects:',
+            'Links' => [
+                         'https://gist.github.com/dinosaurfiles/49fd9110512b1c36c926/archive/a9d17c034ad2149e8ee1a8ca52f76febb4249413.zip'
+                       ],
+            'URL' => 'https://gist.github.com/dinosaurfiles/49fd9110512b1c36c926'
+          },
+          {
+            'Links' => [
+                         'https://github.com/dmichulke/cv/archive/master.zip'
+                       ],
+            'Summary' => 'My resumé 11 commits 1 ... Delivered an automatic analysis <b>software</b> that generated a PDF report that tracked effectiveness of the registrar in Verisign\'s daily ... "Evaluation Functions in <b>General Game Playing</b>" Development of an agent that learns automatically to play ...',
+            'URL' => 'https://github.com/dmichulke/cv'
+          },
+          {
+            'URL' => 'https://ratedrtech.wordpress.com/',
+            'Summary' => 'If you want a typical blog post you can create a ... oracle.com/technetwork/java/javase/<b>downloads</b>/jdk7 ... | Tagged AI, <b>general game playing</b>, GGP, GGP ...',
+            'Links' => [
+                         'https://www.eclipse.org/downloads/download.php?file=/oomph/epp/neon/R3/eclipse-inst-win64.exe'
+                       ]
+          },
+          {
+            'Links' => [
+                         'http://web.eecs.umich.edu/~soar/downloads/Domains/GGP.zip'
+                       ],
+            'Summary' => 'This tool will dynamically generate an agent based on the Game Description Language used by the <b>General Game Playing</b> project. ... <b>Downloads</b>; Github ...',
+            'URL' => 'https://soar.eecs.umich.edu/articles/downloads/domains/180-general-game-player-translator'
+          },
+          {
+            'URL' => 'http://users.monash.edu/~dld/games.html',
+            'Summary' => 'David Dowe\'s chess and games page ... Crafty chess games domain with <b>downloads</b>. ... Stanford <b>General Game Playing</b> and GameMaster.',
+            'Links' => [
+                         'ftp://ftp.csua.berkeley.edu/pub/rec.gambling/poker/7crdstd2.zip'
+                       ]
+          },
+          {
+            'URL' => 'http://www.commodorefree.com/magazine/vol6/issue64.html',
+            'Summary' => 'Free to <b>download</b> magazine dedicated to Commodore computers Available as PDF, ePUB, MOBI, ... <b>general game playing</b>; ... COMMODORE FREE Ok I missed the deadline but the information is here maybe for next time and reference!',
+            'Links' => [
+                         'http://csdb.dk/getinternalfile.php/107467/Fifteen3D.zip',
+                         'http://csdb.dk/getinternalfile.php/107342/LeaderboardCollection.zip'
+                       ]
+          },
+          {
+            'Links' => [
+                         'http://www.dimitrismallis.eu/downloads/code.rar',
+                         'http://www.dimitrismallis.eu/downloads/MCTS_binary.rar'
+                       ],
+            'Summary' => 'The travelling Salesman project description is: ... and makes MCTS a usefull algorithm for <b>general game playing</b>. ... This <b>software</b> gives to the user the ability to solve a TSP instance that he creates manually by placing markers on the map.',
+            'URL' => 'http://www.dimitrismallis.eu/TSP.html'
+          },
+          {
+            'Summary' => 'A <b>general game playing</b> AI for 2-player abstract games using Monte Carlo Tree Search and Deep Reinforcement Learning : ... Anti-malware <b>Software</b> Using a Virus Signature Database : Dr Ida Pu: 9-03-2017 : ... Click on latex template <b>download</b> to <b>download</b> the project template.',
+            'Links' => [
+                         'http://www.doc.gold.ac.uk/~mas01lo/projects-2017/report2.zip'
+                       ],
+            'URL' => 'http://www.doc.gold.ac.uk/~mas01lo/projects.html'
+          },
+          {
+            'URL' => 'http://www.scientific.net/AMR.143-144.1117',
+            'Links' => [
+                         'https://www.scientific.net/Downloads/GetTtpFile?name=Template_LaTeX.zip'
+                       ],
+            'Summary' => '... Comparative Analysis of Three General Game Players ... Access Status My eBooks My Cart <b>Downloads</b> Distributors ... <b>General Game Playing</b> ...'
+          }
+        ];

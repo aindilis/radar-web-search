@@ -1,0 +1,20 @@
+$VAR1 = [
+          {
+            'URL' => 'https://github.com/sp1thas/thesis',
+            'Summary' => 'sp1thas / thesis. Code. Issues 0. Pull requests 0. ... <b>Download</b> ZIP Find file Branch: ... knowledge extraction from text and <b>author recognition</b>.',
+            'Links' => [
+                         'https://github.com/sp1thas/thesis/archive/1.1.zip',
+                         'https://github.com/sp1thas/thesis/archive/1.1.tar.gz',
+                         'https://github.com/sp1thas/thesis/archive/1.0.zip',
+                         'https://github.com/sp1thas/thesis/archive/1.0.tar.gz',
+                         'https://github.com/sp1thas/thesis/archive/master.zip'
+                       ]
+          },
+          {
+            'URL' => 'https://metacpan.org/pod/Text::MostFreqKDistance',
+            'Links' => [
+                         'https://cpan.metacpan.org/authors/id/M/MA/MANWAR/Text-MostFreqKDistance-0.07.tar.gz'
+                       ],
+            'Summary' => 'Text::MostFreqKDistance - Estimate strings similarity. VERSION. Version 0.07. ... (2014) and initially used in text mining applications like <b>author recognition</b>. Source: Wikipedia. SYNOPSIS ... This program is free <b>software</b>; ...'
+          }
+        ];

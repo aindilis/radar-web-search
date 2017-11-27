@@ -1,0 +1,81 @@
+$VAR1 = [
+          {
+            'Links' => [
+                         'https://archive.org/download/arxiv-cmp-lg9409007/cmp-lg9409007_abbyy.gz',
+                         'https://archive.org/download/arxiv-cmp-lg9409007/cmp-lg9409007_daisy.zip',
+                         'https://archive.org/download/arxiv-cmp-lg9409007/cmp-lg9409007_jp2.zip'
+                       ],
+            'Summary' => '<b>software</b> All <b>Software</b> latest This Just In Old School Emulation MS-DOS Games Historical <b>Software</b> Classic PC Games <b>Software</b> Library. ... Treating `Free Word Order\' in <b>Machine Translation</b> Item Preview. ... <b>DOWNLOAD</b> OPTIONS',
+            'URL' => 'https://archive.org/details/arxiv-cmp-lg9409007'
+          },
+          {
+            'URL' => 'https://daormar.github.io/thot/',
+            'Links' => [
+                         'https://github.com/daormar/thot/archive/master.zip'
+                       ],
+            'Summary' => 'Thot is an open source <b>software</b> toolkit for statistical <b>machine translation</b> (SMT). Originally, ... <b>Download</b>. Daniel Ortiz-Martínez, "Advances in Fully-Automatic and Interactive Phrase-Based Statistical <b>Machine Translation</b>". PhD Thesis.'
+          },
+          {
+            'Summary' => 'README.markdown mtbrew. Homebrew formulae for <b>machine translation</b> <b>software</b>. Just run: $ brew tap query/mtbrew $ brew install moses # or whatever you feel like',
+            'Links' => [
+                         'https://github.com/query/homebrew-mtbrew/archive/master.zip'
+                       ],
+            'URL' => 'https://github.com/query/homebrew-mtbrew'
+          },
+          {
+            'URL' => 'https://termcoord.wordpress.com/2011/11/18/freeopen-source-machine-translation-software/',
+            'Links' => [
+                         'http://kheafield.com/code/filter.tar.gz',
+                         'http://kheafield.com/code/scoring.tar.gz',
+                         'http://kheafield.com/code/memt.tar.gz'
+                       ],
+            'Summary' => 'Article by Mikel L. Forcada appeared on Computing.dcu.ie Here\'s a non-exhaustive list of links to existing free/open-source <b>machine translation</b> systems ...'
+          },
+          {
+            'URL' => 'https://www.nist.gov/multimodal-information-group/metrics-machine-translation-evaluation',
+            'Links' => [
+                         'ftp://jaguar.ncsl.nist.gov/outgoing/MATR/MetricsMaTr10Results_110412.tar.gz',
+                         'ftp://jaguar.ncsl.nist.gov/outgoing/MATR/MetricsMaTr08Results_081117.tar.gz'
+                       ],
+            'Summary' => 'Metrics for <b>Machine Translation</b> Evaluation (MetricsMaTr) NIST coordinates MetricsMaTr, a series of research challenge events for <b>machine translation</b> (MT) metrology, promoting the development of innovative, even revolutionary, MT metrics.'
+          },
+          {
+            'Summary' => "<b>Download</b> translators, ... <b>Download</b> translation <b>software</b>. ... PROMT Office \x{2014} <b>machine translation</b> system for home/small office translation use.",
+            'Links' => [
+                         'http://download.softkey.com.ua/proling/ProLing%20Office%20Std/ProLingOfficeStd.zip',
+                         'http://www.smartlinkcorp.com/download/imtrans.exe',
+                         'http://smartlinkcorp.com/download/imtranslatorie3.exe'
+                       ],
+            'URL' => 'http://transdict.com/download/index.html'
+          },
+          {
+            'Links' => [
+                         'http://www.translate.com/Language_Tech_Center/Tools/content/ENLASOTools.zip',
+                         'http://www.opentag.com/Waikoloa.zip'
+                       ],
+            'Summary' => 'Translation Memory Tools, Computer Aided Translation, ... <b>Download</b> a trial version of Transparent Language\'s <b>machine translation</b> ... Localization <b>Software</b>: <b>Download</b> ...',
+            'URL' => 'http://translatum.gr/dics/translation-memory.htm'
+          },
+          {
+            'URL' => 'http://www.microsoft.com/en-us/translator/mt.aspx',
+            'Links' => [
+                         'https://github.com/MicrosoftTranslator/DocumentTranslator/archive/V1.3.3U.zip',
+                         'https://github.com/MicrosoftTranslator/DocumentTranslator/archive/V1.3.3U.tar.gz',
+                         'https://github.com/MicrosoftTranslator/DocumentTranslator/archive/V1.3.2U.zip',
+                         'https://github.com/MicrosoftTranslator/DocumentTranslator/archive/V1.3.2U.tar.gz',
+                         'https://github.com/MicrosoftTranslator/DocumentTranslator/archive/V1.3.1U.zip',
+                         'https://github.com/MicrosoftTranslator/DocumentTranslator/archive/V1.3.1U.tar.gz',
+                         'https://github.com/MicrosoftTranslator/DocumentTranslator/archive/V1.3U.zip',
+                         'https://github.com/MicrosoftTranslator/DocumentTranslator/archive/V1.3U.tar.gz',
+                         'https://github.com/MicrosoftTranslator/DocumentTranslator/archive/V1.2U.zip',
+                         'https://github.com/MicrosoftTranslator/DocumentTranslator/archive/V1.2U.tar.gz',
+                         'https://github.com/MicrosoftTranslator/DocumentTranslator/archive/V0.1.1.1u.zip',
+                         'https://github.com/MicrosoftTranslator/DocumentTranslator/archive/V0.1.1.1u.tar.gz',
+                         'https://github.com/MicrosoftTranslator/DocumentTranslator/archive/V0.1.1.0u.zip',
+                         'https://github.com/MicrosoftTranslator/DocumentTranslator/archive/V0.1.1.0u.tar.gz',
+                         'https://github.com/MicrosoftTranslator/DocumentTranslator/archive/V0.1.0.2.zip',
+                         'https://github.com/MicrosoftTranslator/DocumentTranslator/archive/V0.1.0.2.tar.gz'
+                       ],
+            'Summary' => 'Microsoft Translator is an automatic translation (a.k.a. <b>machine translation</b>) system that translates quickly and effieciently text between languages.'
+          }
+        ];

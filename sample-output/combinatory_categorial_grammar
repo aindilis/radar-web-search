@@ -1,0 +1,99 @@
+$VAR1 = [
+          {
+            'Summary' => 'Downloadable NLG systems. From ACL Wiki. Jump to: navigation, ... The natural language generation systems listed below are available for <b>download</b> over the web. ... OpenCCG, the OpenNLP CCG Library (formerly Grok), is both a parser and a realizer for <b>Combinatory Categorial Grammar</b>.',
+            'URL' => 'http://aclweb.org/aclwiki/index.php?title=Downloadable_NLG_systems',
+            'Links' => [
+                         'ftp://ftp.cs.bgu.ac.il/pub/fuf/fuf5.3.tar.gz',
+                         'http://www.cs.bgu.ac.il/~elhadad/cfuf.zip',
+                         'http://www.aueb.gr/users/ion/software/NaturalOWL1.1.tar.gz',
+                         'http://www.suregen.de/ftp/standalone1.zip',
+                         'http://www.suregen.de/ftp/selfrunningdemo.zip'
+                       ]
+          },
+          {
+            'Links' => [
+                         'http://www.dfki.de/~neumann/resources/RTE3_DE_V1.2_2013-12-02.zip',
+                         'https://sites.google.com/site/excitementproject/results/RTE3-ITA_V1_2012-10-04.zip',
+                         'http://www.cs.biu.ac.il/~nlp/files/RTE_2006_Aligned.zip',
+                         'http://art.uniroma2.it/zanzotto/resources/WIKI_FINAL_CORPUS_v1.zip'
+                       ],
+            'URL' => 'http://aclweb.org/aclwiki/index.php?title=Textual_Entailment_Resource_Pool',
+            'Summary' => '... shared task community initiated a new activity for building this Textual Entailment Resource Pool. ... Edit Distance Textual Entailment Suite (open source <b>software</b> developed by Human Language Technology (HLT) ... C&amp;C parser for <b>Combinatory Categorial Grammar</b>;'
+          },
+          {
+            'URL' => 'http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-5-147',
+            'Summary' => '... identified 31 errors. Thus, the language model based on the GENIA corpus was used for all subsequent analyses. CASS <b>software</b> ... BMC Bioinformatics ... Kim HS, Kim JJ: Bidirectional incremental parsing for automatic pathway identification with <b>combinatory categorial grammar</b>. Pac ...',
+            'Links' => [
+                         'https://static-content.springer.com/esm/art%3A10.1186%2F1471-2105-5-147/MediaObjects/12859_2004_263_MOESM1_ESM.bz2',
+                         'https://static-content.springer.com/esm/art%3A10.1186%2F1471-2105-5-147/MediaObjects/12859_2004_263_MOESM2_ESM.bz2',
+                         'https://static-content.springer.com/esm/art%3A10.1186%2F1471-2105-5-147/MediaObjects/12859_2004_263_MOESM5_ESM.bz2'
+                       ]
+          },
+          {
+            'URL' => 'http://groups.inf.ed.ac.uk/ccg/corpora.html',
+            'Links' => [
+                         'http://www.iccs.informatics.ed.ac.uk/~jbos/ccg2sem/wsj00.sentence.drs.gz',
+                         'http://www.iccs.informatics.ed.ac.uk/~jbos/ccg2sem/wsj00.discourse.udrs.gz',
+                         'http://www.iccs.informatics.ed.ac.uk/~jbos/ccg2sem/wsj01.sentence.drs.gz',
+                         'http://www.iccs.informatics.ed.ac.uk/~jbos/ccg2sem/wsj01.discourse.udrs.gz'
+                       ],
+            'Summary' => 'The <b>Combinatory Categorial Grammar</b> Site Home Publications <b>Software</b> Corpora People. Bible Corpus (A multilingual parallel corpus containing 100 translations of the ...'
+          },
+          {
+            'Summary' => '<b>Combinatory categorial grammar</b> ... is a grammar formalism used for natural ... <b>software</b> All <b>Software</b> latest This Just In Old School Emulation MS-DOS Games Historical ...',
+            'URL' => 'https://archive.org/details/arxiv-1108.5567',
+            'Links' => [
+                         'https://archive.org/download/arxiv-1108.5567/1108.5567_abbyy.gz',
+                         'https://archive.org/download/arxiv-1108.5567/1108.5567_daisy.zip',
+                         'https://archive.org/download/arxiv-1108.5567/1108.5567_jp2.zip'
+                       ]
+          },
+          {
+            'URL' => 'https://github.com/jkkummerfeld/berkeley-ccg2pst',
+            'Summary' => 'This <b>software</b> converts <b>Combinatory Categorial Grammar</b> ... <b>Download</b> .zip; ... //github.com/jkkummerfeld/berkeley-ccg2pst.git;',
+            'Links' => [
+                         'https://github.com/jkkummerfeld/berkeley-ccg2pst/archive/v1.0.zip',
+                         'https://github.com/jkkummerfeld/berkeley-ccg2pst/archive/v1.0.tar.gz',
+                         'https://github.com/jkkummerfeld/berkeley-ccg2pst/archive/master.zip'
+                       ]
+          },
+          {
+            'Summary' => 'syllog1sm / ccg. Code. Issues 2. ... <b>Download</b> ZIP Find file Branch: ... Manipulate <b>Combinatory Categorial Grammar</b> categories and derivations, ...',
+            'Links' => [
+                         'https://github.com/syllog1sm/ccg/archive/master.zip'
+                       ],
+            'URL' => 'https://github.com/syllog1sm/ccg'
+          },
+          {
+            'Summary' => 'Which package can be used to write BNF grammars? ... http://www.karsten-brodmann.de/<b>downloads</b>/Rail.zip. ... <b>Combinatory Categorial Grammar</b> style. 3.',
+            'URL' => 'https://tex.stackexchange.com/questions/24886/which-package-can-be-used-to-write-bnf-grammars',
+            'Links' => [
+                         'http://www.karsten-brodmann.de/downloads/Rail.zip'
+                       ]
+          },
+          {
+            'Links' => [
+                         'http://tedlab.mit.edu/%7Edr/Tgrep2/tgrep2.tgz'
+                       ],
+            'Summary' => 'TGrep2 is mostly backward compatible ... Simply <b>download</b> the tar file and unpack it with "tar ... Added a mode for working with <b>Combinatory Categorial Grammar</b> ...',
+            'URL' => 'http://tedlab.mit.edu/%7Edr/Tgrep2/'
+          },
+          {
+            'Links' => [
+                         'http://www.kr.tuwien.ac.at/staff/former_staff/ps/aspccgtk/files/aspccgtk-0.4.tar.gz',
+                         'http://www.kr.tuwien.ac.at/staff/former_staff/ps/aspccgtk/files/aspccgtk-0.3.tar.gz',
+                         'http://www.kr.tuwien.ac.at/staff/former_staff/ps/aspccgtk/files/aspccgtk-0.2.tar.gz',
+                         'http://www.kr.tuwien.ac.at/staff/former_staff/ps/aspccgtk/files/aspccgtk-0.1.tar.gz'
+                       ],
+            'URL' => 'http://www.kr.tuwien.ac.at/staff/former_staff/ps/aspccgtk/',
+            'Summary' => '... the Answer Set Programming <b>Combinatory Categorial Grammar</b> Toolkit. AspCcgTk is a ... <b>Combinatory Categorial Grammar</b> ... AspCcgTk, please <b>download</b> the ...'
+          },
+          {
+            'Summary' => '... <b>Combinatory Categorial Grammar</b> Toolkit. AspCcgTk is a parser based on <b>Combinatory Categorial Grammar</b> ... Party <b>Software</b> Used; Authors; <b>Download</b> ...',
+            'URL' => 'http://www.kr.tuwien.ac.at/staff/ps/aspccgtk/',
+            'Links' => [
+                         'http://www.kr.tuwien.ac.at/staff/ps/aspccgtk/files/aspccgtk-0.2.tar.gz',
+                         'http://www.kr.tuwien.ac.at/staff/ps/aspccgtk/files/aspccgtk-0.1.tar.gz'
+                       ]
+          }
+        ];

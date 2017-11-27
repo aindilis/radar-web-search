@@ -1,0 +1,10 @@
+$VAR1 = [
+          {
+            'Links' => [
+                         'http://www.cs.cityu.edu.hk/~liuwy/publications/MA_JASIS.zip',
+                         'http://www.cs.cityu.edu.hk/~liuwy/publications/Image-Search-JASIST.zip'
+                       ],
+            'URL' => 'http://www.cs.cityu.edu.hk/~liuwy/cv.htm',
+            'Summary' => '... , its end-user version has more than 50,000 <b>downloads</b> at http://<b>download</b>.cnet.com ... Liu Wenyin and Dov Dori, " A ... , "<b>Automatic Text Annotation</b> for ...'
+          }
+        ];

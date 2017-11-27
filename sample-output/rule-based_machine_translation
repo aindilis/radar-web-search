@@ -1,0 +1,93 @@
+$VAR1 = [
+          {
+            'Summary' => 'Vertalen met behulp van CAT-<b>software</b>. ... we onderscheiden tegenwoordig onder meer: <b>rule-based machine translation</b> (RBMT), statistical machine translation (SMT), example-based machine translation (EBMT) en hybrid machine translation ... <b>Download</b> de Nederlandse Wordfast-handleiding ...',
+            'Links' => [
+                         'http://www.eloquo.nl/wordfast/WF_NL5.zip'
+                       ],
+            'URL' => 'http://eloquo.nl/computer-aided-translation.html'
+          },
+          {
+            'Summary' => 'Free/open-source machine translation <b>software</b>. ... Matxin, a free/open-source <b>rule-based machine translation</b> system for Basque. OpenLogos, ...',
+            'Links' => [
+                         'http://kheafield.com/code/filter.tar.gz',
+                         'http://kheafield.com/code/scoring.tar.gz',
+                         'http://kheafield.com/code/memt.tar.gz'
+                       ],
+            'URL' => 'http://fosmt.org/'
+          },
+          {
+            'URL' => 'http://internationalwriters.com/toolkit/current.html',
+            'Links' => [
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading-memoQ-translator-pro?download=~/Kilgray/media/Download/memoQ%208.1/memoQ-8-1-Setup-04.exe',
+                         'https://www.memoq.com/Kilgray/media/Download/memoQ%208.0/memoQ-8-Setup-33.exe',
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading-memoQ-translator-pro-2015?download=~/Kilgray/media/Download/memoQ-2015-Setup-166.exe',
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading-memoQ-translator-pro-2014-R2?download=~/Kilgray/media/Download/memoQ-2014-R2-Setup-68.exe',
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading-memoQ-translator-pro-2014?download=~/Kilgray/media/Download/memoQ-2014-Setup-75.exe',
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading-memoQ-translator-pro?download=/Kilgray/media/Download/memoQ-2013-R2-Setup-65.exe',
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading-memoQ-translator-pro?download=/Kilgray/media/Download/memoQ-2013-Setup-22.exe',
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading-memoQ-translator-pro?download=/Kilgray/media/Download/memoQSetup-6-2-25.exe',
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading-memoQ-translator-pro?download=/Kilgray/media/Download/memoQSetup-6-0-67.exe',
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading-memoQ-translator-pro?download=/Kilgray/media/Download/memoQSetup-5-0-67.exe',
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading-memoQ-translator-pro?download=/Kilgray/media/Download/memoQSetup-4-5-78.exe',
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading-memoQ-translator-pro?download=/Kilgray/media/Download/memoQSetup-4-2-23.exe',
+                         'https://www.memoq.com/Kilgray/media/Download/memoQ%208.1/memoQ-8-1-Setup-04.exe',
+                         'https://www.memoq.com/Kilgray/media/Download/memoQ-2015-Setup-166.exe',
+                         'https://www.memoq.com/Kilgray/media/Download/memoQ-2014-R2-Setup-64.exe',
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading-memoQ-Server-Adriatic?download=~/Kilgray/media/Download/memoQ%208.0/memoQ-8-ServerSetup-33.exe',
+                         'https://www.memoq.com/Kilgray/media/Download/memoQ-2014-R2-ServerSetup-68.exe',
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading-memoQ-Server?download=/Kilgray/media/Download/memoQ-2013-R2-ServerSetup-64.exe',
+                         'https://www.memoq.com/Kilgray/media/Download/Tools%20and%20utilities/memoQPluginInstaller-1-0.exe',
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading?download=/Kilgray/media/Download/Tools%20and%20utilities/memoQ_template_sample_scripts.zip'
+                       ],
+            'Summary' => 'www.memoq.com/<b>downloads</b> . 1. ... as I had spent the previous 15 years building and refining a <b>rule-based machine translation</b> system for that language pair.'
+          },
+          {
+            'Summary' => 'Free/open-source machine translation <b>software</b>. ... Here\'s a non-exhaustive list of links to existing free/open-source machine translation systems, ... Apertium, a free/open-source <b>rule-based machine translation</b> platform. Matxin, ...',
+            'Links' => [
+                         'http://kheafield.com/code/filter.tar.gz',
+                         'http://kheafield.com/code/scoring.tar.gz',
+                         'http://kheafield.com/code/memt.tar.gz'
+                       ],
+            'URL' => 'https://termcoord.wordpress.com/2011/11/18/freeopen-source-machine-translation-software/'
+          },
+          {
+            'Summary' => "<b>Downloads</b> / Updates; Features. ... (MT)\x{2014}<b>rule-based machine translation</b> (RBMT), statistical machine translation (SMT), and example-based machine translation (EBMT).",
+            'Links' => [
+                         'https://www.crcpress.com/downloads/K14284/k14284-mt-dvd.zip'
+                       ],
+            'URL' => 'https://www.crcpress.com/Machine-Translation/Bhattacharyya/p/book/9781439897188'
+          },
+          {
+            'Summary' => 'Let\'s identify our upstream projects, ... Free <b>software</b>, <b>rule-based machine translation</b>; used by Translate, ContentTranslation and others. Soureforge ... <b>Download</b> as PDF; Printable version; Tools. What links here; Related changes; Special pages;',
+            'URL' => 'https://www.mediawiki.org/wiki/Upstream_projects',
+            'Links' => [
+                         'http://www.imagemagick.org/download/ImageMagick.tar.gz'
+                       ]
+          },
+          {
+            'Summary' => 'Learn more and <b>download</b> your free trial at linguali.com. 4. ... as I had spent the previous 15 years building and refining a <b>rule-based machine translation</b> system for that language pair. ... The Last Word on the Tool Box Journal.',
+            'URL' => 'http://www.internationalwriters.com/toolkit/current',
+            'Links' => [
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading-memoQ-translator-pro?download=~/Kilgray/media/Download/memoQ%208.1/memoQ-8-1-Setup-04.exe',
+                         'https://www.memoq.com/Kilgray/media/Download/memoQ%208.0/memoQ-8-Setup-33.exe',
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading-memoQ-translator-pro-2015?download=~/Kilgray/media/Download/memoQ-2015-Setup-166.exe',
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading-memoQ-translator-pro-2014-R2?download=~/Kilgray/media/Download/memoQ-2014-R2-Setup-68.exe',
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading-memoQ-translator-pro-2014?download=~/Kilgray/media/Download/memoQ-2014-Setup-75.exe',
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading-memoQ-translator-pro?download=/Kilgray/media/Download/memoQ-2013-R2-Setup-65.exe',
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading-memoQ-translator-pro?download=/Kilgray/media/Download/memoQ-2013-Setup-22.exe',
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading-memoQ-translator-pro?download=/Kilgray/media/Download/memoQSetup-6-2-25.exe',
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading-memoQ-translator-pro?download=/Kilgray/media/Download/memoQSetup-6-0-67.exe',
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading-memoQ-translator-pro?download=/Kilgray/media/Download/memoQSetup-5-0-67.exe',
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading-memoQ-translator-pro?download=/Kilgray/media/Download/memoQSetup-4-5-78.exe',
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading-memoQ-translator-pro?download=/Kilgray/media/Download/memoQSetup-4-2-23.exe',
+                         'https://www.memoq.com/Kilgray/media/Download/memoQ%208.1/memoQ-8-1-Setup-04.exe',
+                         'https://www.memoq.com/Kilgray/media/Download/memoQ-2015-Setup-166.exe',
+                         'https://www.memoq.com/Kilgray/media/Download/memoQ-2014-R2-Setup-64.exe',
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading-memoQ-Server-Adriatic?download=~/Kilgray/media/Download/memoQ%208.0/memoQ-8-ServerSetup-33.exe',
+                         'https://www.memoq.com/Kilgray/media/Download/memoQ-2014-R2-ServerSetup-68.exe',
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading-memoQ-Server?download=/Kilgray/media/Download/memoQ-2013-R2-ServerSetup-64.exe',
+                         'https://www.memoq.com/Kilgray/media/Download/Tools%20and%20utilities/memoQPluginInstaller-1-0.exe',
+                         'https://www.memoq.com/en-US/Forms/Thank-you-for-downloading?download=/Kilgray/media/Download/Tools%20and%20utilities/memoQ_template_sample_scripts.zip'
+                       ]
+          }
+        ];

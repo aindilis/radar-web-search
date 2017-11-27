@@ -1,0 +1,71 @@
+$VAR1 = [
+          {
+            'Links' => [
+                         'https://archive.org/download/arxiv-cmp-lg9407007/cmp-lg9407007_abbyy.gz',
+                         'https://archive.org/download/arxiv-cmp-lg9407007/cmp-lg9407007_daisy.zip',
+                         'https://archive.org/download/arxiv-cmp-lg9407007/cmp-lg9407007_jp2.zip'
+                       ],
+            'URL' => 'https://archive.org/details/arxiv-cmp-lg9407007',
+            'Summary' => 'Gemini is a <b>natural language understanding</b> system developed for spoken language applications. ... <b>software</b> All <b>Software</b> latest This Just In Old School Emulation MS-DOS Games Historical <b>Software</b> Classic PC Games <b>Software</b> Library. ... SINGLE PAGE PROCESSED JP2 ZIP <b>download</b>. <b>download</b> 1 file ...'
+          },
+          {
+            'Links' => [
+                         'https://archive.org/download/DTIC_ADA056838/DTIC_ADA056838_abbyy.gz',
+                         'https://archive.org/download/DTIC_ADA056838/DTIC_ADA056838_daisy.zip',
+                         'https://archive.org/download/DTIC_ADA056838/DTIC_ADA056838_jp2.zip'
+                       ],
+            'Summary' => '<b>software</b> All <b>Software</b> latest This Just In Old School Emulation MS-DOS Games Historical <b>Software</b> Classic PC Games <b>Software</b> Library. ... This problem is approached as a <b>natural language understanding</b> problem, ... <b>DOWNLOAD</b> OPTIONS',
+            'URL' => 'https://archive.org/details/DTIC_ADA056838'
+          },
+          {
+            'Links' => [
+                         'https://www.codeproject.com/KB/recipes/DigitalConceptBuilder/DigitalConceptBuilderSources.zip',
+                         'https://www.codeproject.com/KB/recipes/DigitalConceptBuilder/DigitalConceptBuilderExecuteable.zip',
+                         'https://www.codeproject.com/KB/recipes/DigitalConceptBuilder/FullDictionary.zip'
+                       ],
+            'Summary' => '2.8K <b>downloads</b>. 115 bookmarked. ... Only then the limitations that we have endured until today related to <b>natural language understanding</b> and processing will start to ...',
+            'URL' => 'https://www.codeproject.com/articles/51026/true-natural-language-understanding-through-a-conc'
+          },
+          {
+            'URL' => 'https://www.codeproject.com/Articles/6589/Natural-Language-Search-Engine',
+            'Summary' => 'Some would call it a "natural language search engine". ... 1.1K <b>downloads</b>. ... True <b>Natural Language Understanding</b> through a Conceptual Language Understanding Engine.',
+            'Links' => [
+                         'https://www.codeproject.com/KB/vbscript/Natural_Language_Search/NaturalLanguageSearch.zip'
+                       ]
+          },
+          {
+            'Links' => [
+                         'https://github.com/cloudfoundry/cli/archive/v6.27.0.zip',
+                         'https://github.com/cloudfoundry/cli/archive/v6.27.0.tar.gz',
+                         'https://github.com/cloudfoundry/cli/archive/v6.26.0.zip',
+                         'https://github.com/cloudfoundry/cli/archive/v6.26.0.tar.gz',
+                         'https://github.com/cloudfoundry/cli/archive/v6.25.0.zip',
+                         'https://github.com/cloudfoundry/cli/archive/v6.25.0.tar.gz',
+                         'https://github.com/cloudfoundry/cli/archive/v6.24.0.zip',
+                         'https://github.com/cloudfoundry/cli/archive/v6.24.0.tar.gz',
+                         'https://github.com/cloudfoundry/cli/archive/v6.23.1.zip',
+                         'https://github.com/cloudfoundry/cli/archive/v6.23.1.tar.gz',
+                         'https://github.com/cloudfoundry/cli/archive/v6.23.0.zip',
+                         'https://github.com/cloudfoundry/cli/archive/v6.23.0.tar.gz',
+                         'https://github.com/cloudfoundry/cli/archive/v6.22.2.zip',
+                         'https://github.com/cloudfoundry/cli/archive/v6.22.2.tar.gz',
+                         'https://github.com/cloudfoundry/cli/archive/v6.22.1.zip',
+                         'https://github.com/cloudfoundry/cli/archive/v6.22.1.tar.gz',
+                         'https://github.com/cloudfoundry/cli/archive/v6.22.0.zip',
+                         'https://github.com/cloudfoundry/cli/archive/v6.22.0.tar.gz',
+                         'https://github.com/cloudfoundry/cli/archive/v6.21.1.zip',
+                         'https://github.com/cloudfoundry/cli/archive/v6.21.1.tar.gz'
+                       ],
+            'URL' => 'https://www.ibm.com/developerworks/library/cc-watson-chatbot-conversation-nlu/index.html',
+            'Summary' => 'Learn how to integrate the Watson Conversation service with another Watson service, ... free <b>downloads</b>, ... To create a <b>Natural Language Understanding</b> service ...'
+          },
+          {
+            'Links' => [
+                         'http://nitroflare.com/view/581B444780F19FD/k4phq.OR.B.P.f.N.L.U.w.S.part1.rar',
+                         'http://nitroflare.com/view/4CEFE949113B94B/k4phq.OR.B.P.f.N.L.U.w.S.part2.rar',
+                         'http://nitroflare.com/view/BE2BDA4CAF80D89/k4phq.OR.B.P.f.N.L.U.w.S.part3.rar'
+                       ],
+            'Summary' => '... Building Pipelines for <b>Natural Language Understanding</b> with Spark ... Machine Learning Applications for Statistical <b>Natural Language Understanding</b> at Scale 3.',
+            'URL' => 'http://www.akadownloads.com/tutorials/896294-oreilly-building-pipelines-for-natural-language-understanding-with-spark.html'
+          }
+        ];

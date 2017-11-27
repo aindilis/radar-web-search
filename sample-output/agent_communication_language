@@ -1,0 +1,9 @@
+$VAR1 = [
+          {
+            'Links' => [
+                         'http://www.fipa.org/specs/fipa1997.tar.gz'
+                       ],
+            'URL' => 'http://www.fipa.org/repository/fipa97.html',
+            'Summary' => 'The FIPA 97 set of specifications were the first specifications to be published by FIPA. These are available in one <b>download</b> file from here. ... OC00003 . FIPA 97 Part 2 Version 2.0: <b>Agent Communication Language</b> Specification OC00012 . FIPA 97 Part 3 Version 1.0: Agent <b>Software</b> Integration ...'
+          }
+        ];

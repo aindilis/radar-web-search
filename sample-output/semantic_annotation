@@ -1,0 +1,85 @@
+$VAR1 = [
+          {
+            'Links' => [
+                         'http://airwiki.elet.polimi.it/images/6/62/Salinux.zip',
+                         'http://airwiki.elet.polimi.it/images/5/56/Sawindow.zip',
+                         'http://airwiki.elet.polimi.it/images/0/01/Joseki-config.zip'
+                       ],
+            'URL' => 'http://airwiki.elet.polimi.it/index.php/Firefox_Extension_for_Semantic_Annotation',
+            'Summary' => 'Firefox Extension for <b>Semantic Annotation</b>. Corresponding Proposal: A firefox extension for semantic annotations: ... <b>Downloads</b> PDF of the Report. Media:AIRLabReport.pdf;'
+          },
+          {
+            'Summary' => 'Open <b>semantic annotation</b> of scientific publications ... Our group has developed a useful shared <b>software</b> framework ... group document annotation, semantic ...',
+            'URL' => 'https://archive.org/details/pubmed-PMC3337259',
+            'Links' => [
+                         'https://archive.org/download/pubmed-PMC3337259/PMC3337259-2041-1480-3-S1-S1_abbyy.gz',
+                         'https://archive.org/download/pubmed-PMC3337259/PMC3337259-2041-1480-3-S1-S1_daisy.zip',
+                         'https://archive.org/download/pubmed-PMC3337259/PMC3337259-2041-1480-3-S1-S1_jp2.zip'
+                       ]
+          },
+          {
+            'Links' => [
+                         'http://standards.iso.org/ittf/PubliclyAvailableStandards/c035343_ISO_IEC_11179-1_2004(E).zip'
+                       ],
+            'URL' => 'https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-016-0164-9',
+            'Summary' => 'Methods. <b>Semantic annotation</b> of data elements can facilitate to identify matching data elements in different sources and thereby supports data integration.'
+          },
+          {
+            'Links' => [
+                         'https://dfzljdn9uc3pi.cloudfront.net/2014/524/1/all_training_data.zip'
+                       ],
+            'URL' => 'https://peerj.com/articles/524/',
+            'Summary' => 'Fast and accurate <b>semantic annotation</b> of bioassays exploiting a hybrid of machine learning and user confirmation'
+          },
+          {
+            'Summary' => 'Universal Conceptual Cognitive Annotation. UCCA is a linguistic framework for <b>semantic annotation</b>, whose details are available at the following paper:',
+            'URL' => 'https://pypi.python.org/pypi/UCCA/1.0.post3',
+            'Links' => [
+                         'https://pypi.python.org/packages/a0/24/e264b7730436c9902cbaef4b032040e5c0979f7f454ff52d1c64a84e1af3/UCCA-1.0.post3.tar.gz'
+                       ]
+          },
+          {
+            'Summary' => 'This page presents a real-time demonstration of the semantic space annotation system described in the following papers:',
+            'URL' => 'https://sites.google.com/a/pronobis.pro/andrzej/software/semantic-annotation-demo',
+            'Links' => [
+                         'http://data.pronobis.pro/semantic_annotation_demo-2010-03-24-i386.iso',
+                         'http://data.pronobis.pro/semantic_annotation_demo-2010-03-24-amd64.iso'
+                       ]
+          },
+          {
+            'Links' => [
+                         'https://testpypi.python.org/packages/8b/80/7c099498ec4ab5e7560961cd5566860a9217f0458568bd71a9ce1d66a646/UCCA-1.0.tar.gz'
+                       ],
+            'URL' => 'https://testpypi.python.org/pypi/UCCA/1.0',
+            'Summary' => 'Universal Conceptual Cognitive Annotation. UCCA is a linguistic framework for <b>semantic annotation</b>, whose details are available at the following paper:'
+          },
+          {
+            'URL' => 'https://www.learntechlib.org/p/50443/',
+            'Summary' => '<b>Semantic Annotation</b> of Video Fragments as Learning Objects: ... the problem from the educator\'s perspective is selecting and annotating existing content so that <b>software</b> applications can filter fragments that were previously marked as useful for particular learning needs. ... <b>Download</b> Citation ...',
+            'Links' => [
+                         'https://editlib-static.s3.amazonaws.com/css/site.css.gz',
+                         'https://editlib-static.s3.amazonaws.com/css/academicons.min.css.gz',
+                         'https://editlib-static.s3.amazonaws.com/css/abstract.css.gz'
+                       ]
+          },
+          {
+            'Summary' => 'Automating the <b>Semantic Annotation</b> of Papers . Background; Publications; Updates; <b>Software</b>; ... <b>Download</b> SAPIENTA for Firefox 3 or Firefox 4 and later. SSSplit ... Principal investigator for the SAPIENTA project',
+            'URL' => 'http://www.sapientaproject.com/',
+            'Links' => [
+                         'http://www.sapientaproject.com/wp-content/uploads/2016/05/consensus_annotated.zip'
+                       ]
+          },
+          {
+            'Links' => [
+                         'http://www.sapientaproject.com/wp-content/uploads/2016/08/summarisation_code.zip',
+                         'http://www.sapientaproject.com/wp-content/uploads/2011/11/sapientaF4-7.jar',
+                         'http://www.sapientaproject.com/wp-content/uploads/2011/11/sapientaF3.jar',
+                         'http://www.sapientaproject.com/wp-content/uploads/2010/11/SSSplit2.jar',
+                         'http://www.sapientaproject.com/wp-content/uploads/2010/11/example.zip',
+                         'http://sapientaproject.com/wp-content/uploads/2010/09/sapient.jar',
+                         'http://www.sapientaproject.com/wp-content/uploads/2012/10/sapient-source.tar.zip'
+                       ],
+            'Summary' => '<b>Software</b> The ART project produced a tool for manual sentence based <b>semantic annotation</b> of papers (SAPIENT). SAPIENT incorporates SSSplit, an XML aware sentence ...',
+            'URL' => 'http://www.sapientaproject.com/software'
+          }
+        ];

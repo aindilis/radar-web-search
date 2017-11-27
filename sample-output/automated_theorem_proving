@@ -1,0 +1,135 @@
+$VAR1 = [
+          {
+            'URL' => 'http://argo.matf.bg.ac.rs/?content=lav',
+            'Summary' => '<b>Downloads</b>; LAV. Overview ... LAV was presented at Fourth Workshop on Formal and <b>Automated Theorem Proving</b> and ... milena _at_ matf.bg.ac.rs Home; People; Research; ...',
+            'Links' => [
+                         'http://argo.matf.bg.ac.rs/lav/lav-source-v1.3.zip',
+                         'http://argo.matf.bg.ac.rs/lav/test_small_static_benchmark.zip',
+                         'http://argo.matf.bg.ac.rs/lav/test_if.zip',
+                         'http://argo.matf.bg.ac.rs/lav/ParallelExperiments.zip',
+                         'http://argo.matf.bg.ac.rs/lav/RegressionVerification.zip',
+                         'http://argo.matf.bg.ac.rs/lav/tests.zip',
+                         'http://argo.matf.bg.ac.rs/lav/clang-tools.zip',
+                         'http://argo.matf.bg.ac.rs/lav/corpus.zip',
+                         'http://argo.matf.bg.ac.rs/lav/similarity.zip'
+                       ]
+          },
+          {
+            'Summary' => '<b>Automated theorem proving</b> is a subfield of automated reasoning and mathematical logic dealing with proving mathematical ... You are here; Everything Explained.Today; A-Z Contents; A; AU; AUT; <b>Automated theorem proving</b>; <b>Automated theorem proving</b> explained. ... (Available for free <b>download</b>). 1986 ...',
+            'Links' => [
+                         'http://www.mathapplets.net/Programs/Meta%20Theorem/Meta%20Theorem.jar'
+                       ],
+            'URL' => 'http://everything.explained.today/Automated_theorem_proving/'
+          },
+          {
+            'Summary' => '185 <b>Downloads</b>; Part of the Lecture Notes in Computer Science book series (LNCS, volume 3839) ... We present a tool for <b>automated theorem proving</b> in Agda, ...',
+            'Links' => [
+                         'http://www.cs.chalmers.se/~frelindb/Agsy_examples.tgz'
+                       ],
+            'URL' => 'http://link.springer.com/chapter/10.1007%2F11617990_10'
+          },
+          {
+            'Links' => [
+                         'http://poincare.matf.bg.ac.rs/~janicic//gclc/linux-gclc.zip',
+                         'http://poincare.matf.bg.ac.rs/~janicic//gclc/windows-gclc.zip',
+                         'http://poincare.matf.bg.ac.rs/~janicic//gclc/wingclc.zip'
+                       ],
+            'Summary' => '<b>Downloads</b> (Free) GCLC (from "Geometry Constructions -&gt; LaTeX Converter") is a tool for visualizing geometry, ... flow control, <b>automated theorem proving</b>, ...',
+            'URL' => 'http://poincare.matf.bg.ac.rs/~janicic//gclc/'
+          },
+          {
+            'Summary' => 'The amount and complexity of <b>software</b> developed during the last few years ... <b>Automated Theorem Proving</b> in High-Quality ... and what automated theorem ...',
+            'Links' => [
+                         'https://archive.org/download/nasa_techdoc_20010084145/20010084145_abbyy.gz',
+                         'https://archive.org/download/nasa_techdoc_20010084145/20010084145_daisy.zip',
+                         'https://archive.org/download/nasa_techdoc_20010084145/20010084145_jp2.zip'
+                       ],
+            'URL' => 'https://archive.org/details/nasa_techdoc_20010084145'
+          },
+          {
+            'URL' => 'https://en.wikipedia.org/wiki/Automated_theorem_proving',
+            'Links' => [
+                         'http://www.mathapplets.net/Programs/Meta%20Theorem/Meta%20Theorem.jar'
+                       ],
+            'Summary' => '<b>Automated theorem proving</b> ... <b>software</b> researcher in tableau proof systems. ... (Available for free <b>download</b>). ...'
+          },
+          {
+            'Summary' => '... (MMP, code named elimino), is a group of <b>automated theorem proving</b> <b>software</b> based on an internal computer algebra system. ... <b>Downloads</b> <b>Download</b> ...',
+            'Links' => [
+                         'http://www.mmrc.iss.ac.cn/mmp/973soft/setup.exe',
+                         'http://www.mmrc.iss.ac.cn/mmp/973soft/MMP_Geometer.zip',
+                         'http://www.mmrc.iss.ac.cn/mmp/973soft/MMP_Blending.rar',
+                         'http://www.mmrc.iss.ac.cn/mmp/973soft/MMP_Robot.zip',
+                         'http://www.mmrc.iss.ac.cn/mmp/973soft/MMP_Linkage.zip',
+                         'http://www.mmrc.iss.ac.cn/~dwang/files/elim.zip'
+                       ],
+            'URL' => 'https://en.wikipedia.org/wiki/Mathematics_Mechanization_and_Automated_Reasoning_Platform'
+          },
+          {
+            'Summary' => '<b>Download</b> KeYmaera or KeYmaera X or Source: New Version: ... <b>Automated Theorem Proving</b> for Hybrid Systems. PhD Thesis, Department of Computing Science, ...',
+            'Links' => [
+                         'http://www.ls.cs.cmu.edu/KeYmaera/keymaera-installer.jar',
+                         'http://keymaerax.org/KeYmaeraI.jar',
+                         'http://www.ls.cs.cmu.edu/pub/acasx.zip',
+                         'http://symbolaris.com/pub/modelplex-study.zip',
+                         'http://symbolaris.com/pub/dccs-efficiency-examples.zip',
+                         'http://symbolaris.com/pub/robix-examples.zip',
+                         'http://symbolaris.com/pub/medrobot-examples.zip',
+                         'http://symbolaris.com/pub/game-KeYmaera-study.zip',
+                         'http://symbolaris.com/pub/trafficcenter-examples.zip',
+                         'http://symbolaris.com/pub/intersection-examples.zip',
+                         'http://symbolaris.com/pub/ETCS-examples.zip',
+                         'http://symbolaris.com/pub/RCAS-examples.zip',
+                         'http://symbolaris.com/info/pub/keymaera-smt2.zip',
+                         'http://csd.informatik.uni-oldenburg.de/~jdq/smt/keymaera-smt2.zip',
+                         'http://symbolaris.com/pub/cdifp-examples.zip',
+                         'http://symbolaris.com/pub/fpdi-examples.zip'
+                       ],
+            'URL' => 'http://symbolaris.com/info/KeYmaera.html'
+          },
+          {
+            'Links' => [
+                         'http://www.mathapplets.net/Programs/Meta%20Theorem/Meta%20Theorem.jar'
+                       ],
+            'Summary' => 'Commercial use of <b>automated theorem proving</b> is mostly concentrated in integrated circuit design and verification. ... Total yearly <b>downloads</b> amount to 900 million.',
+            'URL' => 'http://wikivisually.com/wiki/Automated_theorem_proving'
+          },
+          {
+            'URL' => 'http://www.cl.cam.ac.uk/~jrh13/atp/',
+            'Summary' => '... (<b>automated theorem proving</b>) ... by Emmanuel Fleury in European Studies in <b>Software</b> ... the Handbook of Practical Logic and Automated Reasoning has ...',
+            'Links' => [
+                         'http://www.cl.cam.ac.uk/~jrh13/atp/OCaml.tar.gz'
+                       ]
+          },
+          {
+            'Links' => [
+                         'http://www.cs.miami.edu/~tptp/TPTP/Distribution/TPTP-v6.4.0.tgz',
+                         'http://www.cs.miami.edu/~tptp/ServiceTools.tgz'
+                       ],
+            'Summary' => '... is a library of test problems for <b>automated theorem proving</b> ... TPTP-v6.4..tgz. <b>Download</b> ... Many people have written <b>software</b> for processing TPTP format ...',
+            'URL' => 'http://www.cs.miami.edu/~tptp/'
+          },
+          {
+            'Links' => [
+                         'http://www.emis.de/misc/software/gclc/wingclc.zip',
+                         'http://www.emis.de/misc/software/gclc/linux-gclc.zip',
+                         'http://www.emis.de/misc/software/gclc/SSGV2008.zip'
+                       ],
+            'Summary' => 'new: GCLC 9.0/WinGCLC 2009. (September 7, 2009) ... flow control, <b>automated theorem proving</b>, etc. ... <b>Downloads</b>. DOS/Windows: GCLC 9 ...',
+            'URL' => 'http://www.emis.de/misc/software/gclc/'
+          },
+          {
+            'URL' => 'http://www.mashpedia.com/Automated_theorem_proving',
+            'Summary' => '<b>Download</b> <b>Automated Theorem Proving</b> in <b>Software</b> Engineering Book. ... Theorem proving <b>software</b> systems. Name License type Web service Library ... Automated Theorem ...',
+            'Links' => [
+                         'http://www.mathapplets.net/Programs/Meta%20Theorem/Meta%20Theorem.jar'
+                       ]
+          },
+          {
+            'URL' => 'http://www.mcs.anl.gov/research/projects/AR/eqp/',
+            'Links' => [
+                         'ftp://info.mcs.anl.gov/pub/Otter/eqp-09d.tar.gz'
+                       ],
+            'Summary' => 'Equational Prover EQP is an <b>automated theorem proving</b> program for ... EQP is not as stable and polished as our main production theorem prover ... Automated Reasoning ...'
+          }
+        ];

@@ -1,0 +1,80 @@
+$VAR1 = [
+          {
+            'Summary' => 'Introduction . Welcome to the Fetch wiki, a documentation and development repository for the <b>Fact Extraction</b> Tool CHain, a tool chain for <b>software</b> analysis.',
+            'URL' => 'http://lore.ua.ac.be/fetchWiki/index.php/Main_Page',
+            'Links' => [
+                         'http://www.lore.ua.ac.be/Research/Artefacts/fetch/files/fetch-0.7.5.tar.gz',
+                         'http://www.lore.ua.ac.be/Research/Artefacts/fetch/files/fetch-0.7.4.tar.gz',
+                         'http://www.lore.ua.ac.be/Research/Artefacts/fetch/files/fetch-0.7.3.tar.gz',
+                         'http://www.lore.ua.ac.be/Research/Artefacts/fetch/files/fetch-0.7.2.tar.gz',
+                         'http://www.lore.ua.ac.be/Research/Artefacts/fetch/files/fetch-0.7.1.tar.gz',
+                         'http://www.lore.ua.ac.be/Research/Artefacts/fetch/files/fetch-0.7.tar.gz',
+                         'http://www.lore.ua.ac.be/Research/Artefacts/fetch/files/fetch-0.6.3.tar.gz',
+                         'http://www.lore.ua.ac.be/Research/Artefacts/fetch/files/fetch-0.6.2.tar.gz',
+                         'http://www.lore.ua.ac.be/Research/Artefacts/fetch/files/fetch-0.6.tar.gz',
+                         'http://www.lore.ua.ac.be/Research/Artefacts/fetch/files/fetch_0.5.tar.gz',
+                         'http://www.lore.ua.ac.be/Research/Artefacts/fetch/files/fetch-0.4.tar.gz',
+                         'http://www.lore.ua.ac.be/Research/Artefacts/fetch/files/fetch-0.3.tar.gz',
+                         'http://www.lore.ua.ac.be/Research/Artefacts/fetch/files/fetch-0.2.tar.gz',
+                         'http://www.lore.ua.ac.be/Research/Artefacts/fetch/files/fetch-0.1beta.tar.gz'
+                       ]
+          },
+          {
+            'Summary' => 'Open Global Health/ContentMine Fellowship Application. ... opened by ContentMining and the perspective of <b>fact extraction</b>. ... 1.2]info: All <b>downloads</b> ...',
+            'URL' => 'https://en.wikiversity.org/wiki/Open_Global_Health/ContentMine_Fellowship_Application',
+            'Links' => [
+                         'https://github.com/ContentMine/norma/releases/download/v0.2.26/norma-0.1-SNAPSHOT-bin.tar.gz',
+                         'https://github.com/ContentMine/ami/releases/download/v0.2.24/ami2-0.1-SNAPSHOT-bin.tar.gz'
+                       ]
+          },
+          {
+            'Links' => [
+                         'https://github.com/stil4m/elm-analyse/archive/0.9.3.zip',
+                         'https://github.com/stil4m/elm-analyse/archive/0.9.3.tar.gz',
+                         'https://github.com/stil4m/elm-analyse/archive/0.9.2.zip',
+                         'https://github.com/stil4m/elm-analyse/archive/0.9.2.tar.gz',
+                         'https://github.com/stil4m/elm-analyse/archive/0.9.1.zip',
+                         'https://github.com/stil4m/elm-analyse/archive/0.9.1.tar.gz',
+                         'https://github.com/stil4m/elm-analyse/archive/0.9.0.zip',
+                         'https://github.com/stil4m/elm-analyse/archive/0.9.0.tar.gz',
+                         'https://github.com/stil4m/elm-analyse/archive/0.8.0.zip',
+                         'https://github.com/stil4m/elm-analyse/archive/0.8.0.tar.gz',
+                         'https://github.com/stil4m/elm-analyse/archive/0.7.0.zip',
+                         'https://github.com/stil4m/elm-analyse/archive/0.7.0.tar.gz',
+                         'https://github.com/stil4m/elm-analyse/archive/0.6.0.zip',
+                         'https://github.com/stil4m/elm-analyse/archive/0.6.0.tar.gz',
+                         'https://github.com/stil4m/elm-analyse/archive/0.5.1.zip',
+                         'https://github.com/stil4m/elm-analyse/archive/0.5.1.tar.gz',
+                         'https://github.com/stil4m/elm-analyse/archive/0.5.0.zip',
+                         'https://github.com/stil4m/elm-analyse/archive/0.5.0.tar.gz',
+                         'https://github.com/stil4m/elm-analyse/archive/0.4.0.zip',
+                         'https://github.com/stil4m/elm-analyse/archive/0.4.0.tar.gz',
+                         'https://github.com/stil4m/elm-analyse/archive/master.zip'
+                       ],
+            'URL' => 'https://github.com/stil4m/elm-analyse',
+            'Summary' => 'stil4m / elm-analyse. Code. Issues 9. Pull requests 0. Projects 0. ... Print version of <b>software</b>. Supported Checks. Check Description; ... Utility functions for <b>fact extraction</b> on the AST. Analyser.Checks.*: All the checks that are performed;'
+          },
+          {
+            'Summary' => 'Some Ongoing KBS/Ontology Projects and Groups ... Probase - Large-scale ontology and <b>fact extraction</b> from the Web, including measures of certainty ...',
+            'URL' => 'http://www.cs.utexas.edu/users/mfkb/related.html',
+            'Links' => [
+                         'http://www-csli.stanford.edu/~arunm/roget_prolog.zip'
+                       ]
+          },
+          {
+            'URL' => 'http://www.swag.uwaterloo.ca/asx/quake/index.html',
+            'Summary' => 'SWAG: <b>Software</b> Architecture Group. SWAG &gt;&gt; ASX &gt;&gt; Quake <b>Fact Extraction</b>: Introduction If you intend to perform all of the steps involved in extracting facts from ...',
+            'Links' => [
+                         'http://www.swag.uwaterloo.ca/asx/quake/ioquake3.zip',
+                         'http://libsdl.org/release/SDL-devel-1.2.13-VC8.zip'
+                       ]
+          },
+          {
+            'Links' => [
+                         'http://www.swag.uwaterloo.ca/mysql/mysql-5.0.67.tar',
+                         'http://www.swag.uwaterloo.ca/mysql/source.zip'
+                       ],
+            'Summary' => 'MySQL <b>fact extraction</b> steps. The following are all of the steps needed to perform <b>fact extraction</b>, ... <b>Download</b> MySQL from http://dev.mysql.com/<b>downloads</b>, ...',
+            'URL' => 'http://www.swag.uwaterloo.ca/mysql/index.html'
+          }
+        ];

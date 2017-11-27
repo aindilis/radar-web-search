@@ -1,0 +1,20 @@
+$VAR1 = [
+          {
+            'Links' => [
+                         'https://github.com/WING-NUS/DefMiner/archive/master.zip',
+                         'https://github.com/WING-NUS/DefMiner/blob/master/W00_dataset.zip',
+                         'https://github.com/WING-NUS/DefMiner/blob/master/en-chunker.bin'
+                       ],
+            'URL' => 'https://github.com/WING-NUS/DefMiner',
+            'Summary' => 'DefMiner - Automatic <b>Definition Extraction</b> System ... Clone with HTTPS Use Git or checkout with SVN using the web URL.'
+          },
+          {
+            'Summary' => 'DefMiner - Automatic <b>Definition Extraction</b> System ... Clone with HTTPS Use Git or checkout with SVN using the web URL.',
+            'Links' => [
+                         'https://github.com/YipingNUS/DefMiner/archive/master.zip',
+                         'https://github.com/YipingNUS/DefMiner/blob/master/W00_dataset.zip',
+                         'https://github.com/YipingNUS/DefMiner/blob/master/en-chunker.bin'
+                       ],
+            'URL' => 'https://github.com/YipingNUS/DefMiner'
+          }
+        ];

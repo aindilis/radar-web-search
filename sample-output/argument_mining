@@ -1,0 +1,61 @@
+$VAR1 = [
+          {
+            'Links' => [
+                         'http://lia.deis.unibo.it/~pt/Software/AICOM2013.zip',
+                         'http://lia.deis.unibo.it/~pt/Software/NetARG-ESSA2013.zip'
+                       ],
+            'Summary' => '<b>Download</b> short bio. Short ... 2015: Context-independent <b>argument mining</b>. ... ISRN <b>Software</b> Engineering, member of the Editorial Board, until December 2013. Faculty Committees: Doctorate ...',
+            'URL' => 'http://lia.deis.unibo.it/~pt/CV.shtml'
+          },
+          {
+            'Links' => [
+                         'https://www.irit.fr/~Patrick.Saint-Dizier/publi_fichier/TextCoop%20V51.zip',
+                         'https://www.irit.fr/~Patrick.Saint-Dizier/publi_fichier/LELIE%20FR%20CC-BY%20NC.zip',
+                         'https://www.irit.fr/~Patrick.Saint-Dizier/publi_fichier/LELIE%20ENG%20CC%20BY%20NC.zip',
+                         'https://www.irit.fr/~Patrick.Saint-Dizier/publi_fichier/Aletheia-Hotels.zip'
+                       ],
+            'Summary' => 'discourse semantics analysis, <b>SOFTWARE</b> freely available (French and English), ... ALETHEIA Project on <b>argument mining</b> for opinion analysis. <b>SOFTWARE</b> freely available ... Main papers have a <b>download</b> link. 2017:',
+            'URL' => 'https://www.irit.fr/~Patrick.Saint-Dizier/'
+          },
+          {
+            'URL' => 'https://www.uni-weimar.de/en/media/chairs/computer-science-and-media/webis/research/activities-by-field/arguana-for-the-web/',
+            'Links' => [
+                         'http://www.arguana.com/fileadmin/Informatik/arguana/software/software_OverallArgumentation.zip',
+                         'http://www.arguana.com/fileadmin/Informatik/arguana/software/software_TheoryVsPractice.zip',
+                         'http://www.arguana.com/fileadmin/Informatik/arguana/software/annotations_TheoryVsPractice.zip',
+                         'http://www.arguana.com/fileadmin/Informatik/arguana/software/EssayScoring-software-and-ARFF.zip',
+                         'http://www.arguana.com/fileadmin/Informatik/arguana/software/software_SentimentFlow.zip',
+                         'http://www.arguana.com/fileadmin/Informatik/arguana/software/ArguAna-SourceCode.zip',
+                         'http://www.arguana.com/fileadmin/Informatik/arguana/software/ArguAna-FeatureFiles.zip',
+                         'http://homepages.uni-paderborn.de/henningw/IE-as-a-Filtering-Task.zip',
+                         'http://www.arguana.com/fileadmin/Informatik/AG-Engels/webdesign/arguana/online-adaptation-code.zip',
+                         'http://www.arguana.com/fileadmin/Informatik/AG-Engels/webdesign/arguana/pipeline-xps-code.zip',
+                         'http://www.cicling.org/2013/review/122-273424672657239674/cicling2013.zip'
+                       ],
+            'Summary' => 'by <b>Download</b>; by Topic; by Type; Corpora; Events. Overview; PAN 16; TIR 17; ... Previous research on <b>argument mining</b> tackles the identification and relation of arguments within a ... In Proceedings of the <b>Software</b> Demonstrations at the 15th Conference of the European Chapter of the Association ...'
+          },
+          {
+            'URL' => 'http://www.lrec-conf.org/proceedings/lrec2016/topics.html',
+            'Links' => [
+                         'http://www.lrec-conf.org/proceedings/lrec2016/LREC2016_Proceedings.zip'
+                       ],
+            'Summary' => '<b>Download</b> the proceedings; Search; Home Sessions. Day 1 - Oral; Day 1 - Poster; Day 2 - Oral; Day 2 - Poster; ... An Interoperable Generic <b>Software</b> Tool Set for Multi-layer Linguistic Corpora ... <b>Argument Mining</b>: ...'
+          },
+          {
+            'Summary' => 'Henning Wachsmuth, Martin Potthast, Khalid Al-Khatib, Yamen Ajjour, Jana Puschmann, ... In Proceedings of the Fourth Workshop on <b>Argument Mining</b> (ArgMining 17) (to appear ... In Proceedings of the <b>Software</b> Demonstrations at the 15th Conference of the European Chapter of the Association for ...',
+            'Links' => [
+                         'http://www.arguana.com/fileadmin/Informatik/arguana/software/software_OverallArgumentation.zip',
+                         'http://www.arguana.com/fileadmin/Informatik/arguana/software/software_TheoryVsPractice.zip',
+                         'http://www.arguana.com/fileadmin/Informatik/arguana/software/annotations_TheoryVsPractice.zip',
+                         'http://www.arguana.com/fileadmin/Informatik/arguana/software/EssayScoring-software-and-ARFF.zip',
+                         'http://www.arguana.com/fileadmin/Informatik/arguana/software/software_SentimentFlow.zip',
+                         'http://www.arguana.com/fileadmin/Informatik/arguana/software/ArguAna-SourceCode.zip',
+                         'http://www.arguana.com/fileadmin/Informatik/arguana/software/ArguAna-FeatureFiles.zip',
+                         'http://homepages.uni-paderborn.de/henningw/IE-as-a-Filtering-Task.zip',
+                         'http://www.arguana.com/fileadmin/Informatik/AG-Engels/webdesign/arguana/online-adaptation-code.zip',
+                         'http://www.arguana.com/fileadmin/Informatik/AG-Engels/webdesign/arguana/pipeline-xps-code.zip',
+                         'http://www.cicling.org/2013/review/122-273424672657239674/cicling2013.zip'
+                       ],
+            'URL' => 'http://www.uni-weimar.de/en/media/chairs/computer-science-and-media/webis/people/henning-wachsmuth/'
+          }
+        ];

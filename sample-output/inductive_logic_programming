@@ -1,0 +1,71 @@
+$VAR1 = [
+          {
+            'URL' => 'http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/publication.htm',
+            'Links' => [
+                         'http://www.iipl.fudan.edu.cn/~zhangjp/sourcecode/GSCD.rar',
+                         'http://parnec.nuaa.edu.cn/xtan/paper/SOMface_demo.rar'
+                       ],
+            'Summary' => 'Zhi-Hua Zhou\'s Publications Zhi ... Proceedings of the 25th International Conference on <b>Inductive Logic Programming</b> (ILP\'15), Kyoto, Japan, 2015.'
+          },
+          {
+            'URL' => 'http://kfo.ath.cx/windowmaker/2012_windowmaker.info/wiki/Inductive_logic_programming',
+            'Summary' => '<b>Inductive logic programming</b> ... Golem (ILP) (http://www.doc.ic.ac.uk/~shm/<b>Software</b>/golem) ... <b>Download</b> as PDF; Printable version; Languages.',
+            'Links' => [
+                         'http://www.doc.ic.ac.uk/~shm/Software/golem/src.tar',
+                         'http://www.doc.ic.ac.uk/~shm/Software/golem/src.tar.gz'
+                       ]
+          },
+          {
+            'Summary' => 'Community <b>Software</b> MS-DOS <b>Software</b> Sites APK Tucows <b>Software</b> Library Vintage <b>Software</b> ...',
+            'Links' => [
+                         'https://archive.org/download/arxiv-1003.2586/1003.2586_abbyy.gz',
+                         'https://archive.org/download/arxiv-1003.2586/1003.2586_daisy.zip',
+                         'https://archive.org/download/arxiv-1003.2586/1003.2586_jp2.zip'
+                       ],
+            'URL' => 'https://archive.org/details/arxiv-1003.2586'
+          },
+          {
+            'Summary' => '<b>Inductive logic programming</b> (ILP) ... Golem (ILP) (http://www.doc.ic.ac.uk/~shm/<b>Software</b>/golem) Imparo; Inthelex (INcremental THEory Learner from EXamples) ...',
+            'Links' => [
+                         'http://www.doc.ic.ac.uk/~shm/Software/golem/src.tar',
+                         'http://www.doc.ic.ac.uk/~shm/Software/golem/src.tar.gz'
+                       ],
+            'URL' => 'https://en.wikipedia.org/wiki/Inductive_logic_programming'
+          },
+          {
+            'URL' => 'https://infogalactic.com/info/Inductive_logic_programming',
+            'Links' => [
+                         'http://www.doc.ic.ac.uk/~shm/Software/golem/src.tar',
+                         'http://www.doc.ic.ac.uk/~shm/Software/golem/src.tar.gz'
+                       ],
+            'Summary' => '<b>Inductive logic programming</b> (ILP) is a subfield of machine learning which uses logic programming as a uniform representation for examples, background knowledge and ...'
+          },
+          {
+            'URL' => 'https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/amie/',
+            'Links' => [
+                         'http://resources.mpi-inf.mpg.de/yago-naga/amie/data/yago2/yago2core_facts.clean.notypes.tsv.7z',
+                         'http://resources.mpi-inf.mpg.de/yago-naga/amie/data/dbpedia/persondata_mappingbased_properties.decoded.compressed.noliterals.nordftypes.en.20.tsv.7z',
+                         'http://resources.mpi-inf.mpg.de/yago-naga/yago/download/yago/yagoFacts.tsv.7z',
+                         'http://resources.mpi-inf.mpg.de/yago-naga/amie/data/yago2/yagoFacts.decoded.compressed.ttl.7z',
+                         'http://downloads.dbpedia.org/2.0/persons.nt.bz2',
+                         'http://downloads.dbpedia.org/2.0/infoboxes.nt.bz2',
+                         'http://resources.mpi-inf.mpg.de/yago-naga/amie/allData.zip'
+                       ],
+            'Summary' => 'ALEPH is an ILP (<b>Inductive Logic Programming</b>) ... Predictiveness comparison between AMIE and ALEPH; <b>Downloads</b>. All input and output files can be downloaded here;'
+          },
+          {
+            'Summary' => '<b>Inductive logic programming</b> (ILP) is a subfield of machine learning which uses logic programming as a uniform representation for examples, background knowledge and ...',
+            'Links' => [
+                         'http://www.doc.ic.ac.uk/~shm/Software/golem/src.tar',
+                         'http://www.doc.ic.ac.uk/~shm/Software/golem/src.tar.gz'
+                       ],
+            'URL' => 'http://taggedwiki.zubiaga.org/new_content/4a1cdd6db7f1a67f730f0ac3e885f7b3'
+          },
+          {
+            'Links' => [
+                         'http://www.comlab.ox.ac.uk/oucl/research/areas/machlearn/Aleph/misc/examples.zip'
+                       ],
+            'Summary' => '#<b>Downloads</b> URL; 5: 0b5d6b47e413f728de40b136ea0a1909765cd9d1: 3: ... Aleph is an <b>Inductive Logic Programming</b> system developed by Ashwin Srinivasan:',
+            'URL' => 'http://www.swi-prolog.org/pack/list?p=aleph'
+          }
+        ];

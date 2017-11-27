@@ -1,0 +1,218 @@
+$VAR1 = [
+          {
+            'Links' => [
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-4.24.0.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-4.23.0.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-4.22.1.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-4.22.0.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-4.21.1.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-4.21.0.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-4.20.0.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-4.19.0.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-4.18.0.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-4.17.0.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-4.16.1.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-4.16.0.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-4.15.0.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-4.14.1.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-4.14.0.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-4.13.2.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-4.13.1.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-4.13.0.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-4.12.1.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-4.12.0.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-4.11.0.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-4.10.1.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-4.10.0.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-4.9.0.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-4.8.2.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-4.8.1.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-4.8.0.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-4.7.0.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-4.6.0.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-4.5.1.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-4.5.0.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-4.4.1.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-4.4.0.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-4.3.0.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=Facebook-35.0.0.48.273.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-4.2.0.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=Facebook-34.0.0.43.267.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-4.1.2.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=Facebook-33.0.0.45.19.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-4.1.1.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=Facebook-32.0.0.23.15.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-4.1.0.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-4.0.1.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=Facebook-29.0.0.23.13.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-4.0.0.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-3.23.1.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=Facebook-25.0.0.19.30.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-3.23.0.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-3.22.0.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=Facebook-23.0.0.22.14.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-3.21.1.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=Facebook-22.0.0.15.13.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-3.21.0.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-3.20.0.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=Facebook-20.0.0.25.15.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-3.19.1.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=Facebook-18.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-3.19.0.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-3.18.1.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=Facebook-16.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-3.18.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-3.17.2.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=Facebook-13.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-3.17.1.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-3.17.0.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-3.16.0.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=Facebook-11.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-3.15.0.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=Facebook-10.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-3.14.1.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-3.14.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-3.8.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-3.7.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-3.6.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-3.5.2.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-3.5.1.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-3.5.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-3.0.2.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-3.0.1.zip',
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-android-sdk-3.0.zip'
+                       ],
+            'URL' => 'https://developers.facebook.com/docs/android/downloads/',
+            'Summary' => '<b>Facebook</b> SDK for Android v4.x <b>Downloads</b> Maven (Preferred <b>Download</b> Method) Add this to Module-level /app/build.gradle before dependencies: repositories { // You can ...'
+          },
+          {
+            'Summary' => '<b>Downloads</b>; Deprecated . <b>Facebook</b> SDK for iOS Helps you build engaging social apps and get more installs. ... People can sign in to your app with their <b>Facebook</b> Login.',
+            'URL' => 'https://developers.facebook.com/docs/ios/',
+            'Links' => [
+                         'https://origincache.facebook.com/developers/resources/?id=facebook-ios-sdk-current.zip'
+                       ]
+          },
+          {
+            'Links' => [
+                         'https://origincache.facebook.com/developers/resources/?id=FacebookSDK-current.zip'
+                       ],
+            'URL' => 'https://developers.facebook.com/docs/unity/',
+            'Summary' => 'Unity Game Sample. A tutorial, walking you through an integration of the <b>Facebook</b> SDK for Unity into an existing Unity project is available. Porting From Mobile to Canvas'
+          },
+          {
+            'URL' => 'https://github.com/facebookarchive/facebook-php-sdk',
+            'Links' => [
+                         'https://github.com/facebookarchive/facebook-php-sdk/archive/v3.2.3.zip',
+                         'https://github.com/facebookarchive/facebook-php-sdk/archive/v3.2.3.tar.gz',
+                         'https://github.com/facebookarchive/facebook-php-sdk/archive/v3.2.2.zip',
+                         'https://github.com/facebookarchive/facebook-php-sdk/archive/v3.2.2.tar.gz',
+                         'https://github.com/facebookarchive/facebook-php-sdk/archive/v3.2.1.zip',
+                         'https://github.com/facebookarchive/facebook-php-sdk/archive/v3.2.1.tar.gz',
+                         'https://github.com/facebookarchive/facebook-php-sdk/archive/v3.2.0.zip',
+                         'https://github.com/facebookarchive/facebook-php-sdk/archive/v3.2.0.tar.gz',
+                         'https://github.com/facebookarchive/facebook-php-sdk/archive/v3.1.1.zip',
+                         'https://github.com/facebookarchive/facebook-php-sdk/archive/v3.1.1.tar.gz',
+                         'https://github.com/facebookarchive/facebook-php-sdk/archive/v3.1.0.zip',
+                         'https://github.com/facebookarchive/facebook-php-sdk/archive/v3.1.0.tar.gz',
+                         'https://github.com/facebookarchive/facebook-php-sdk/archive/v3.0.1.zip',
+                         'https://github.com/facebookarchive/facebook-php-sdk/archive/v3.0.1.tar.gz',
+                         'https://github.com/facebookarchive/facebook-php-sdk/archive/v3.0.0.zip',
+                         'https://github.com/facebookarchive/facebook-php-sdk/archive/v3.0.0.tar.gz',
+                         'https://github.com/facebookarchive/facebook-php-sdk/archive/v2.1.2.zip',
+                         'https://github.com/facebookarchive/facebook-php-sdk/archive/v2.1.2.tar.gz',
+                         'https://github.com/facebookarchive/facebook-php-sdk/archive/v2.1.1.zip',
+                         'https://github.com/facebookarchive/facebook-php-sdk/archive/v2.1.1.tar.gz',
+                         'https://github.com/facebookarchive/facebook-php-sdk/archive/master.zip'
+                       ],
+            'Summary' => 'We\'ve released version 4 of the <b>Facebook</b> SDK for PHP here: https://github.com/<b>facebook</b>/<b>facebook</b>-php-sdk-v4 Please use the new repository for new projects and ...'
+          },
+          {
+            'Summary' => '<b>Downloads</b>; Blog; Contact Us. Got questions about NuGet or the NuGet Gallery? Overview. NuGet is a Visual Studio extension that makes it easy to add, remove, and ...',
+            'URL' => 'https://www.nuget.org/stats/packages/Facebook.Client?groupby=Version',
+            'Links' => [
+                         'https://dist.nuget.org/win-x86-commandline/latest/nuget.exe'
+                       ]
+          },
+          {
+            'Summary' => 'Zoom unifies cloud video conferencing, simple online meetings, and cross platform group chat into one easy-to-use platform. Our solution offers the best video, audio ...',
+            'URL' => 'https://zoom.us/support/download',
+            'Links' => [
+                         'https://zoom.us/client/latest/ZoomInstaller.exe'
+                       ]
+          },
+          {
+            'Summary' => '<b>Download</b> for Phones/Tablets: Game <b>Client</b> <b>Downloads</b> Heroes of the Storm. Game Installer English (US) Available Languages.',
+            'URL' => 'http://us.battle.net/account/download/',
+            'Links' => [
+                         'http://dist.blizzard.com/downloads/blackthorne/5e1a0ce1d84e3ee3005dd26181e14a2f/Blackthorne-Setup.exe',
+                         'http://dist.blizzard.com/downloads/classics/9f8ba2a406416a70cfe1bc97ec5346ba/The_Lost_Vikings.zip',
+                         'http://dist.blizzard.com/downloads/classics/9f8ba2a406416a70cfe1bc97ec5346ba/Rock_n_Roll_Racing.zip'
+                       ]
+          },
+          {
+            'Links' => [
+                         'http://cdn.chitchat.org.uk/CCFFacebook-v1.6.exe',
+                         'http://file.chitchat.org.uk/CCFFacebook-v1.6.exe'
+                       ],
+            'URL' => 'http://www.chitchat.org.uk/',
+            'Summary' => 'Chit Chat for <b>Facebook</b> - Free <b>Facebook</b> chat messenger. Log in with Chit Chat and talk with your <b>Facebook</b> friends from your desktop.'
+          },
+          {
+            'Links' => [
+                         'http://www.nchsoftware.com/photoeditor/ppadsetup.exe',
+                         'http://www.nchsoftware.com/slideshow/pstagesetup.exe',
+                         'http://www.nchsoftware.com/imageconverter/pixpsetup.exe',
+                         'http://www.nch.com.au/components/wpsetup.exe',
+                         'http://www.nch.com.au/components/switchsetup.exe',
+                         'http://www.nch.com.au/components/rpsetup.exe',
+                         'http://www.nchsoftware.com/videopad/vppsetup.exe',
+                         'http://www.nchsoftware.com/capture/debutpsetup.exe',
+                         'http://www.nchsoftware.com/prism/prismpsetup.exe',
+                         'http://www.nchsoftware.com/zip/zipplus.exe',
+                         'http://www.nchsoftware.com/documentconvert/doxpsetup.exe',
+                         'http://www.nchsoftware.com/data-recovery/orionsetup.exe',
+                         'http://www.nch.com.au/components/burnsetup.exe',
+                         'http://www.nch.com.au/components/ripsetup.exe',
+                         'http://www.nchsoftware.com/cdlabeler/disketchpsetup.exe',
+                         'http://www.nchsoftware.com/invoice/eisetup.exe',
+                         'http://www.nchsoftware.com/accounting/easetup.exe',
+                         'http://www.nchsoftware.com/inventory/invsetup.exe',
+                         'http://www.nch.com.au/components/zulusetup.exe',
+                         'http://www.nch.com.au/components/mpsetup.exe',
+                         'http://www.nchsoftware.com/businesscard/cardworkspsetup.exe',
+                         'http://www.nchsoftware.com/design/designsetup.exe',
+                         'http://www.nchsoftware.com/personalfinance/mlsetup.exe',
+                         'http://www.nchsoftware.com/typingtutor/kbsetup.exe',
+                         'http://www.nch.com.au/components/grsetup.exe',
+                         'http://www.nch.com.au/components/crescendopsetup.exe',
+                         'http://www.nch.com.au/metronome/tpsetup.exe',
+                         'http://www.nch.com.au/components/ppsetup.exe',
+                         'http://www.nch.com.au/components/vxlsetup.exe',
+                         'http://www.nch.com.au/components/edsetup.exe',
+                         'http://www.nch.com.au/components/essetup.exe',
+                         'http://www.nch.com.au/components/ffsetup.exe',
+                         'http://www.nch.com.au/components/tnsetup.exe',
+                         'http://www.nch.com.au/components/stsetup.exe',
+                         'http://www.nchsoftware.com/fling/flingsetup.exe',
+                         'http://www.nchsoftware.com/chart/clickchartsetup.exe',
+                         'http://www.nchsoftware.com/flexi/fsrvsetup.exe',
+                         'http://www.nchsoftware.com/crm/refsetup.exe',
+                         'http://www.nchsoftware.com/animation/eanimatesetup.exe',
+                         'http://www.nchsoftware.com/drawpad/drawpadsetup.exe',
+                         'http://www.nchsoftware.com/meshmagic3d/meshmagic.exe',
+                         'http://www.nchsoftware.com/point-of-sale/possetup.exe',
+                         'http://www.nchsoftware.com/3dconverter/spin3d.exe',
+                         'http://www.nch.com.au/components/cftpsetup.exe',
+                         'http://www.nch.com.au/tageditor/stampsetup.exe'
+                       ],
+            'URL' => 'http://www.nchsoftware.com/select/index.html',
+            'Summary' => 'Browse and <b>download</b> a wide variety of award-winning video, audio, business, utility, or graphics <b>software</b> programs for both PC and Mac. Free <b>Downloads</b>.'
+          },
+          {
+            'Summary' => 'Wartune Mini <b>Client</b>, Wartune Play Free Brower Online Game, Wartune 2013 <b>Facebook</b> Staff Favorites MMORPG by publisher Proficient City',
+            'Links' => [
+                         'http://image.wartune.com/images/wartune/Wartune_Mini_Client.exe'
+                       ],
+            'URL' => 'http://www.wartune.com/New/124395.html'
+          }
+        ];

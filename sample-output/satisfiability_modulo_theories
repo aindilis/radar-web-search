@@ -1,0 +1,299 @@
+$VAR1 = [
+          {
+            'Links' => [
+                         'https://alt-ergo.ocamlpro.com/download_manager.php?target=alt-ergo-1.30.tar.gz',
+                         'https://alt-ergo.ocamlpro.com/download_manager.php?target=alt-ergo-1.30-win32.exe'
+                       ],
+            'Summary' => '',
+            'URL' => 'http://alt-ergo.ocamlpro.com/'
+          },
+          {
+            'Summary' => '',
+            'Links' => [
+                         'http://cl-informatik.uibk.ac.at/software/minismt/download/minismt-0.6.tar.gz',
+                         'http://cl-informatik.uibk.ac.at/software/minismt/download/minismt-0.4beta.tar.gz',
+                         'http://cl-informatik.uibk.ac.at/software/minismt/download/ttt2-1.08beta.tar.gz'
+                       ],
+            'URL' => 'http://cl-informatik.uibk.ac.at/software/minismt/'
+          },
+          {
+            'Summary' => '',
+            'Links' => [
+                         'http://cubicle.lri.fr/cubicle-1.1.1.tar.gz',
+                         'http://cubicle.lri.fr/cubicle-1.0.2-win32.exe'
+                       ],
+            'URL' => 'http://cubicle.lri.fr/'
+          },
+          {
+            'URL' => 'http://fmv.jku.at/boolector/',
+            'Links' => [
+                         'http://fmv.jku.at/boolector/boolector-2.4.1-with-lingeling-bbc.tar.bz2',
+                         'http://fmv.jku.at/boolector/boolector-2.4.0-with-lingeling-bbc.tar.bz2',
+                         'http://fmv.jku.at/boolector/boolector-2.3.1-with-lingeling-bbc.tar.bz2',
+                         'http://fmv.jku.at/boolector/boolector-2.2.0-with-lingeling-bal.tar.bz2',
+                         'http://fmv.jku.at/boolector/pboolector-0.1.tar.gz',
+                         'http://fmv.jku.at/boolector/boolector_debugger.tgz',
+                         'http://fmv.jku.at/boolector/boolector-2.3.1-with-lingeling-bal.tar.bz2',
+                         'http://fmv.jku.at/boolector/boolector-2.1.1-with-lingeling-b85.tar.bz2',
+                         'http://fmv.jku.at/boolector/boolector-2.0.7-with-lingeling-azd.tar.bz2',
+                         'http://fmv.jku.at/boolector/boolector-2.0.6-with-lingeling-azd.tar.bz2',
+                         'http://fmv.jku.at/boolector/boolector-2.0.5-with-lingeling-azd.tar.bz2',
+                         'http://fmv.jku.at/boolector/boolector-2.0.4-with-lingeling-azd.tar.bz2',
+                         'http://fmv.jku.at/boolector/boolector-2.0.1-with-lingeling-azd.tar.bz2',
+                         'http://fmv.jku.at/boolector/boolector-2.0.0-with-lingeling-azd.tar.bz2',
+                         'http://fmv.jku.at/boolector/boolector-1.6.0-with-sat-solvers.tar.gz',
+                         'http://fmv.jku.at/boolector/boolector-1.5.118-6b56be4-121013.tar.gz',
+                         'http://fmv.jku.at/boolector/boolector-1.5.116-eeaf10b-121004.tar.gz',
+                         'http://fmv.jku.at/boolector/boolector-1.5.115-5d546c8-120922.tar.gz',
+                         'http://fmv.jku.at/boolector/boolector-1.4.1-376e6b0-110304.tar.gz',
+                         'http://fmv.jku.at/boolector/boolector-1.4-ffc2089-100608.tar.gz',
+                         'http://fmv.jku.at/boolector/boolector-1.3-e71a070-100601.tar.gz',
+                         'http://fmv.jku.at/boolector/boolector-1.5.118-with-sat-solvers.tar.gz',
+                         'http://fmv.jku.at/boolector/boolector-1.5.116-with-sat-solvers.tar.gz',
+                         'http://fmv.jku.at/boolector/boolector-1.5.115-with-lingeling-al6.tar.bz2',
+                         'http://fmv.jku.at/boolector/boolector-1.1-IA-32.tar.bz2',
+                         'http://fmv.jku.at/boolector/boolector-1.0-IA-32.tar.bz2',
+                         'http://fmv.jku.at/boolector/boolector-0.7.tar.bz2',
+                         'http://fmv.jku.at/boolector/boolector-0.6.tar.bz2',
+                         'http://fmv.jku.at/boolector/boolector-0.5.tar.bz2',
+                         'http://fmv.jku.at/boolector/boolector-0.0.tar.bz2'
+                       ],
+            'Summary' => ''
+          },
+          {
+            'Links' => [
+                         'http://fmv.jku.at/boolector/boolector-2.4.1-with-lingeling-bbc.tar.bz2',
+                         'http://fmv.jku.at/boolector/boolector-2.4.0-with-lingeling-bbc.tar.bz2',
+                         'http://fmv.jku.at/boolector/boolector-2.3.1-with-lingeling-bbc.tar.bz2',
+                         'http://fmv.jku.at/boolector/boolector-2.2.0-with-lingeling-bal.tar.bz2',
+                         'http://fmv.jku.at/boolector/pboolector-0.1.tar.gz',
+                         'http://fmv.jku.at/boolector/boolector_debugger.tgz',
+                         'http://fmv.jku.at/boolector/boolector-2.3.1-with-lingeling-bal.tar.bz2',
+                         'http://fmv.jku.at/boolector/boolector-2.1.1-with-lingeling-b85.tar.bz2',
+                         'http://fmv.jku.at/boolector/boolector-2.0.7-with-lingeling-azd.tar.bz2',
+                         'http://fmv.jku.at/boolector/boolector-2.0.6-with-lingeling-azd.tar.bz2',
+                         'http://fmv.jku.at/boolector/boolector-2.0.5-with-lingeling-azd.tar.bz2',
+                         'http://fmv.jku.at/boolector/boolector-2.0.4-with-lingeling-azd.tar.bz2',
+                         'http://fmv.jku.at/boolector/boolector-2.0.1-with-lingeling-azd.tar.bz2',
+                         'http://fmv.jku.at/boolector/boolector-2.0.0-with-lingeling-azd.tar.bz2',
+                         'http://fmv.jku.at/boolector/boolector-1.6.0-with-sat-solvers.tar.gz',
+                         'http://fmv.jku.at/boolector/boolector-1.5.118-6b56be4-121013.tar.gz',
+                         'http://fmv.jku.at/boolector/boolector-1.5.116-eeaf10b-121004.tar.gz',
+                         'http://fmv.jku.at/boolector/boolector-1.5.115-5d546c8-120922.tar.gz',
+                         'http://fmv.jku.at/boolector/boolector-1.4.1-376e6b0-110304.tar.gz',
+                         'http://fmv.jku.at/boolector/boolector-1.4-ffc2089-100608.tar.gz',
+                         'http://fmv.jku.at/boolector/boolector-1.3-e71a070-100601.tar.gz',
+                         'http://fmv.jku.at/boolector/boolector-1.5.118-with-sat-solvers.tar.gz',
+                         'http://fmv.jku.at/boolector/boolector-1.5.116-with-sat-solvers.tar.gz',
+                         'http://fmv.jku.at/boolector/boolector-1.5.115-with-lingeling-al6.tar.bz2',
+                         'http://fmv.jku.at/boolector/boolector-1.1-IA-32.tar.bz2',
+                         'http://fmv.jku.at/boolector/boolector-1.0-IA-32.tar.bz2',
+                         'http://fmv.jku.at/boolector/boolector-0.7.tar.bz2',
+                         'http://fmv.jku.at/boolector/boolector-0.6.tar.bz2',
+                         'http://fmv.jku.at/boolector/boolector-0.5.tar.bz2',
+                         'http://fmv.jku.at/boolector/boolector-0.0.tar.bz2'
+                       ],
+            'Summary' => '',
+            'URL' => 'http://fmv.jku.at/boolector/index.html'
+          },
+          {
+            'URL' => 'http://research.microsoft.com/en-us/projects/specsharp/',
+            'Links' => [
+                         'https://www.microsoft.com/en-us/research/wp-content/uploads/2004/06/boogie-benchmarks-2006-10-06.zip'
+                       ],
+            'Summary' => ''
+          },
+          {
+            'Summary' => '',
+            'Links' => [
+                         'https://s3.amazonaws.com/s2e-demo-vm/s2e-demo-vmware.tar.bz2',
+                         'https://github.com/dslab-epfl/s2e/archive/stable-1.3.zip'
+                       ],
+            'URL' => 'http://s2e.epfl.ch/'
+          },
+          {
+            'URL' => 'https://github.com/smtrat/smtrat/wiki',
+            'Links' => [
+                         'https://github.com/smtrat/smtrat/files/306722/smtrat_linux64.zip',
+                         'https://github.com/smtrat/smtrat/files/306732/smtrat_macos64.zip',
+                         'https://github.com/smtrat/smtrat/archive/v2.1.zip',
+                         'https://github.com/smtrat/smtrat/archive/v2.1.tar.gz',
+                         'https://github.com/smtrat/smtrat/archive/v2.0.zip',
+                         'https://github.com/smtrat/smtrat/archive/v2.0.tar.gz',
+                         'https://github.com/smtrat/smtrat/archive/v0.3.0.zip',
+                         'https://github.com/smtrat/smtrat/archive/v0.3.0.tar.gz',
+                         'https://github.com/smtrat/smtrat/archive/v0.2.2.zip',
+                         'https://github.com/smtrat/smtrat/archive/v0.2.2.tar.gz'
+                       ],
+            'Summary' => ''
+          },
+          {
+            'URL' => 'https://github.com/Z3Prover/z3',
+            'Summary' => '',
+            'Links' => [
+                         'https://github.com/Z3Prover/z3/releases/download/z3-4.5.0/z3-4.5.0-x64-debian-8.5.zip',
+                         'https://github.com/Z3Prover/z3/releases/download/z3-4.5.0/z3-4.5.0-x64-freebsd-10.2.zip',
+                         'https://github.com/Z3Prover/z3/releases/download/z3-4.5.0/z3-4.5.0-x64-osx-10.11.6.zip',
+                         'https://github.com/Z3Prover/z3/releases/download/z3-4.5.0/z3-4.5.0-x64-ubuntu-14.04.zip',
+                         'https://github.com/Z3Prover/z3/releases/download/z3-4.5.0/z3-4.5.0-x64-win.zip',
+                         'https://github.com/Z3Prover/z3/releases/download/z3-4.5.0/z3-4.5.0-x86-ubuntu-14.04.zip',
+                         'https://github.com/Z3Prover/z3/releases/download/z3-4.5.0/z3-4.5.0-x86-win.zip',
+                         'https://github.com/Z3Prover/z3/archive/z3-4.5.0.zip',
+                         'https://github.com/Z3Prover/z3/archive/z3-4.5.0.tar.gz',
+                         'https://github.com/Z3Prover/z3/releases/download/z3-4.4.1/z3-4.4.1-x64-debian-8.2.zip',
+                         'https://github.com/Z3Prover/z3/releases/download/z3-4.4.1/z3-4.4.1-x64-freebsd-10.2.zip',
+                         'https://github.com/Z3Prover/z3/releases/download/z3-4.4.1/z3-4.4.1-x64-osx-10.11.zip',
+                         'https://github.com/Z3Prover/z3/releases/download/z3-4.4.1/z3-4.4.1-x64-ubuntu-14.04.zip',
+                         'https://github.com/Z3Prover/z3/releases/download/z3-4.4.1/z3-4.4.1-x64-win.zip',
+                         'https://github.com/Z3Prover/z3/releases/download/z3-4.4.1/z3-4.4.1-x86-ubuntu-14.04.zip',
+                         'https://github.com/Z3Prover/z3/releases/download/z3-4.4.1/z3-4.4.1-x86-win.zip',
+                         'https://github.com/Z3Prover/z3/archive/z3-4.4.1.zip',
+                         'https://github.com/Z3Prover/z3/archive/z3-4.4.1.tar.gz',
+                         'https://github.com/Z3Prover/z3/archive/last-pure-unstable.zip',
+                         'https://github.com/Z3Prover/z3/archive/last-pure-unstable.tar.gz',
+                         'https://github.com/Z3Prover/z3/archive/last-pure-pure.zip',
+                         'https://github.com/Z3Prover/z3/archive/last-pure-pure.tar.gz',
+                         'https://github.com/Z3Prover/z3/releases/download/z3-4.4.0/z3-4.4.0-x64-debian-7.8.zip',
+                         'https://github.com/Z3Prover/z3/releases/download/z3-4.4.0/z3-4.4.0-x64-freebsd-10.1.zip',
+                         'https://github.com/Z3Prover/z3/releases/download/z3-4.4.0/z3-4.4.0-x64-osx-10.10.3.zip',
+                         'https://github.com/Z3Prover/z3/releases/download/z3-4.4.0/z3-4.4.0-x64-ubuntu-14.04.zip',
+                         'https://github.com/Z3Prover/z3/releases/download/z3-4.4.0/z3-4.4.0-x64-win.zip',
+                         'https://github.com/Z3Prover/z3/releases/download/z3-4.4.0/z3-4.4.0-x86-ubuntu-14.04.zip',
+                         'https://github.com/Z3Prover/z3/releases/download/z3-4.4.0/z3-4.4.0-x86-win.zip',
+                         'https://github.com/Z3Prover/z3/archive/z3-4.4.0.zip',
+                         'https://github.com/Z3Prover/z3/archive/z3-4.4.0.tar.gz',
+                         'https://github.com/Z3Prover/z3/releases/download/z3-4.3.2/z3-4.3.2-x64-win.zip',
+                         'https://github.com/Z3Prover/z3/releases/download/z3-4.3.2/z3-4.3.2-x86-win.zip',
+                         'https://github.com/Z3Prover/z3/archive/z3-4.3.2.zip',
+                         'https://github.com/Z3Prover/z3/archive/z3-4.3.2.tar.gz',
+                         'https://github.com/Z3Prover/z3/archive/z3-4.3.1.zip',
+                         'https://github.com/Z3Prover/z3/archive/z3-4.3.1.tar.gz',
+                         'https://github.com/Z3Prover/z3/archive/z3-4.3.0.zip',
+                         'https://github.com/Z3Prover/z3/archive/z3-4.3.0.tar.gz',
+                         'https://github.com/Z3Prover/z3/archive/z3-4.1.1.zip',
+                         'https://github.com/Z3Prover/z3/archive/z3-4.1.1.tar.gz',
+                         'https://github.com/Z3Prover/z3/archive/master.zip'
+                       ]
+          },
+          {
+            'Summary' => '',
+            'Links' => [
+                         'https://hackage.haskell.org/package/sbv-7.0/sbv-7.0.tar.gz'
+                       ],
+            'URL' => 'https://hackage.haskell.org/package/sbv'
+          },
+          {
+            'URL' => 'https://triton.quarkslab.com',
+            'Summary' => '',
+            'Links' => [
+                         'https://github.com/JonathanSalwan/Triton/archive/master.zip'
+                       ]
+          },
+          {
+            'Summary' => '',
+            'Links' => [
+                         'http://old.easycrypt.info/easycrypt-0.2.tgz'
+                       ],
+            'URL' => 'https://www.easycrypt.info/'
+          },
+          {
+            'URL' => 'http://vlsi.colorado.edu/~hhkim/sateen/',
+            'Summary' => '',
+            'Links' => [
+                         'ftp://vlsi.colorado.edu/pub/CUSP/cusp-1.1.tar.gz',
+                         'http://vlsi.colorado.edu/~hhkim/sateen/sateen-3.5.tgz'
+                       ]
+          },
+          {
+            'Links' => [
+                         'https://gforge.inria.fr/frs/download.php/file/36398/why3-0.87.3.tar.gz',
+                         'http://krakatoa.lri.fr/ws/Simplify-1.5.5-13-06-07-binary.zip'
+                       ],
+            'Summary' => '',
+            'URL' => 'http://why3.lri.fr/'
+          },
+          {
+            'Summary' => '',
+            'Links' => [
+                         'http://www.comp.nus.edu.sg/~gregory/smchr/smchr-2.0-dev.tar.gz',
+                         'http://www.comp.nus.edu.sg/~gregory/smchr/smchr-2.0-dev.zip',
+                         'http://www.comp.nus.edu.sg/~gregory/smchr/smchr-2.0-dev-src.tar.gz',
+                         'http://www.comp.nus.edu.sg/~gregory/smchr/smchr-alpha-0.1.tar.gz'
+                       ],
+            'URL' => 'http://www.comp.nus.edu.sg/~gregory/smchr/'
+          },
+          {
+            'Links' => [
+                         'http://www.informatik.uni-bremen.de/agbs/florian/sonolar/sonolar-2014-12-04-i386-linux.tar.gz',
+                         'http://www.informatik.uni-bremen.de/agbs/florian/sonolar/sonolar-2014-12-04-x86_64-linux.tar.gz',
+                         'http://www.informatik.uni-bremen.de/agbs/florian/sonolar/sonolar-2014-12-04-i686-w64-mingw32.zip',
+                         'http://www.informatik.uni-bremen.de/agbs/florian/sonolar/sonolar-2014-12-04-x86_64-w64-mingw32.zip',
+                         'http://www.informatik.uni-bremen.de/agbs/florian/sonolar/sonolar-2014-07-03-i386-linux.tar.gz',
+                         'http://www.informatik.uni-bremen.de/agbs/florian/sonolar/sonolar-2014-07-03-x86_64-linux.tar.gz',
+                         'http://www.informatik.uni-bremen.de/agbs/florian/sonolar/sonolar-2014-07-03-i686-w64-mingw32.zip',
+                         'http://www.informatik.uni-bremen.de/agbs/florian/sonolar/sonolar-2014-07-03-x86_64-w64-mingw32.zip',
+                         'http://www.informatik.uni-bremen.de/agbs/florian/sonolar/sonolar-2013-05-15-i386-linux.tar.gz',
+                         'http://www.informatik.uni-bremen.de/agbs/florian/sonolar/sonolar-2013-05-15-x86_64-linux.tar.gz',
+                         'http://www.informatik.uni-bremen.de/agbs/florian/sonolar/sonolar-2013-05-15-i586-mingw32.zip',
+                         'http://www.informatik.uni-bremen.de/agbs/florian/sonolar/sonolar-2012-06-14-i386-linux.tar.gz',
+                         'http://www.informatik.uni-bremen.de/agbs/florian/sonolar/sonolar-2012-06-14-x86_64-linux.tar.gz',
+                         'http://www.informatik.uni-bremen.de/agbs/florian/sonolar/sonolar-2012-06-14-i586-mingw32.zip',
+                         'http://www.informatik.uni-bremen.de/agbs/florian/sonolar/sonolar-2011-10-11-i386-linux.tar.gz',
+                         'http://www.informatik.uni-bremen.de/agbs/florian/sonolar/sonolar-2011-10-11-x86_64-linux.tar.gz',
+                         'http://www.informatik.uni-bremen.de/agbs/florian/sonolar/sonolar-2011-10-11-i586-mingw32.zip',
+                         'http://www.informatik.uni-bremen.de/agbs/florian/sonolar/sonolar-2011-01-08-i386-linux.tar.gz',
+                         'http://www.informatik.uni-bremen.de/agbs/florian/sonolar/sonolar-2011-01-08-x86_64-linux.tar.gz',
+                         'http://www.informatik.uni-bremen.de/agbs/florian/sonolar/sonolar-2011-01-08-i686-mingw32.zip',
+                         'http://www.informatik.uni-bremen.de/agbs/florian/sonolar/sonolar-2010-10-07-i386-linux.tar.gz',
+                         'http://www.informatik.uni-bremen.de/agbs/florian/sonolar/sonolar-2010-10-07-x86_64-linux.tar.gz',
+                         'http://www.informatik.uni-bremen.de/agbs/florian/sonolar/sonolar-2010-10-07-i686-mingw32.zip'
+                       ],
+            'Summary' => '',
+            'URL' => 'http://www.informatik.uni-bremen.de/agbs/florian/sonolar/'
+          },
+          {
+            'Links' => [
+                         'http://www.informatik.uni-bremen.de/agra/doc/software/sword-1.1-32bit.tar.gz',
+                         'http://www.informatik.uni-bremen.de/agra/doc/software/sword-1.1-64bit.tar.gz',
+                         'http://www.informatik.uni-bremen.de/agra/doc/software/sword_v1.0.tgz',
+                         'http://www.informatik.uni-bremen.de/agra/doc/software/sword_v0.2.tgz'
+                       ],
+            'Summary' => '',
+            'URL' => 'http://www.informatik.uni-bremen.de/agra/eng/sword.php'
+          },
+          {
+            'URL' => 'http://www.jaist.ac.jp/~s1310007/raSAT/',
+            'Links' => [
+                         'http://www.jaist.ac.jp/~s1310007/raSAT/raSAT_files/raSAT-0.3/raSAT-0.3.tar.gz',
+                         'http://www.jaist.ac.jp/~s1310007/raSAT/raSAT_files/raSAT-0.3/precompiled/raSAT-0.3.tar.gz',
+                         'http://www.jaist.ac.jp/~s1310007/raSAT/raSAT_files/raSAT-0.2/raSAT-0.2.tar.gz',
+                         'http://www.jaist.ac.jp/~s1310007/raSAT/raSAT_files/raSAT-0.2/precompiled/raSAT-0.2.tar.gz',
+                         'http://www.jaist.ac.jp/~s1310007/raSAT/raSAT_files/raSAT-0.1/raSAT.rar'
+                       ],
+            'Summary' => ''
+          },
+          {
+            'Links' => [
+                         'http://www.verit-solver.org/distrib/veriT-stable2016.tar.gz',
+                         'http://www.verit-solver.org/distrib/setup-veriT-2016.1.exe',
+                         'http://www.verit-solver.org/distrib/deltasmt.tar.gz',
+                         'http://www.verit-solver.org/distrib/veriT_SAT_Matlab/veriT-SAT_MATLAB_2014_W7_64bits.zip',
+                         'http://www.verit-solver.org/distrib/veriT_SAT_Matlab/veriT-SAT_MATLAB_2014_W7_32bits.zip',
+                         'http://www.verit-solver.org/distrib/veriT_SAT_Matlab/veriT-SAT_MATLAB_2014_Linux_64bits.tar.gz',
+                         'http://www.verit-solver.org/distrib/veriT_SAT_Matlab/veriT-SAT_Octave_2014_package_Linux_64bits.tar.gz'
+                       ],
+            'Summary' => '',
+            'URL' => 'http://www.verit-solver.org/'
+          },
+          {
+            'Links' => [
+                         'http://yices.csl.sri.com/cgi-bin/yices2-newnewlicense.cgi?file=yices-2.5.2-src.tar.gz',
+                         'http://yices.csl.sri.com/cgi-bin/yices2-newnewlicense.cgi?file=yices-2.5.2-x86_64-unknown-linux-gnu-static-gmp.tar.gz',
+                         'http://yices.csl.sri.com/cgi-bin/yices2-newnewlicense.cgi?file=yices-2.5.2-x86_64-apple-darwin15.6.0-static-gmp.tar.gz',
+                         'http://yices.csl.sri.com/cgi-bin/yices2-newnewlicense.cgi?file=yices-2.5.2-x86_64-pc-mingw32-static-gmp.zip',
+                         'http://yices.csl.sri.com/cgi-bin/yices2-newnewlicense.cgi?file=yices-2.5.2-i686-pc-mingw32-static-gmp.zip'
+                       ],
+            'Summary' => '',
+            'URL' => 'http://yices.csl.sri.com/'
+          }
+        ];

@@ -1,0 +1,27 @@
+$VAR1 = [
+          {
+            'Summary' => 'In this paper we present refinement modal logic. ... to <b>software</b> verification and design ... and to <b>dynamic epistemic logic</b>. We further give detailed results on the complexity of satisfiability, and on succinctness. Identifier arxiv-1202.3538.',
+            'URL' => 'https://archive.org/details/arxiv-1202.3538',
+            'Links' => [
+                         'https://archive.org/download/arxiv-1202.3538/1202.3538_abbyy.gz',
+                         'https://archive.org/download/arxiv-1202.3538/1202.3538_daisy.zip',
+                         'https://archive.org/download/arxiv-1202.3538/1202.3538_jp2.zip'
+                       ]
+          },
+          {
+            'Links' => [
+                         'https://w4eg.de/malvin/illc/thesis/code.zip'
+                       ],
+            'URL' => 'https://w4eg.de/malvin/illc/thesis/',
+            'Summary' => 'Abstract. We present two variants of <b>Dynamic Epistemic Logic</b> based on a new formal representation of what it means to know a number. The Logic of Guessing Games GG ...'
+          },
+          {
+            'Summary' => '<b>Dynamic Epistemic Logic</b>; Comments (0) Information. Please Login or create a free account to leave comments. Latest Mini Game Releases. NEWEST GAME RELEASES ...',
+            'Links' => [
+                         'http://nitroflare.com/view/3ECC55608CD97DE/ck9ko.A.a.t.L.o.C.rar',
+                         'http://rapidgator.net/file/0346548d13bc2f717dd8187a4d9f3013/ck9ko.A.a.t.L.o.C.rar',
+                         'http://uploaded.net/file/7g3su0ve/ck9ko.A.a.t.L.o.C.rar'
+                       ],
+            'URL' => 'http://www.downturk.net/2511247-accuracy-and-the-laws-of-credence.html'
+          }
+        ];

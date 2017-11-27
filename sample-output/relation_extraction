@@ -1,0 +1,152 @@
+$VAR1 = [
+          {
+            'Links' => [
+                         'http://nlp.stanford.edu/software/stanford-english-kbp-corenlp-2017-06-09-models.jar'
+                       ],
+            'Summary' => '<b>Download</b> wikidict.tab.gz ... Fem|Gen|Sg 6 det _ _ 6 <b>Software</b> <b>Software</b> N NN Fem|Gen|Sg 4 gmod _ _ 7 auf auf PREP APPR Dat 12 pp _ _ 8 ... Differently from existing open <b>relation extraction</b> tools, which focus on the main relation expressed in a sentence, Graphene aims at ...',
+            'URL' => 'http://codegur.com/44643501/wikipedia-entity-annotator-not-working-in-stanford-corenlp'
+          },
+          {
+            'Links' => [
+                         'http://nitroflare.com/view/7F897983DC826AC/74c2n.OR.I.t.N.L.P.w.SC.tut2u.rar',
+                         'https://uploadgig.com/file/download/76c65685af5d1856/74c2n.OR.I.t.N.L.P.w.SC.tut2u.rar'
+                       ],
+            'Summary' => '... and provides you with the knowledge you need to extend spaCy for functional needs like sentiment models or <b>relation extraction</b>. ... <b>Download</b> link : ... <b>Software</b>; All soft; <b>Software</b> PC; <b>Software</b> MAC; <b>Software</b> Linux; <b>Software</b> Other; Portable; Plugins;',
+            'URL' => 'http://gfxhome.ws/593270-oreilly-introduction-to-natural-language-processing-with-spacy.html'
+          },
+          {
+            'Links' => [
+                         'http://ibi.imim.es/befree/euadr_corpus.tgz',
+                         'http://ibi.imim.es/befree/EUADR_Corpus_IBIgroup.tar.gz',
+                         'http://ibi.imim.es/befree/GAD_Corpus_IBIgroup.tar.gz'
+                       ],
+            'Summary' => 'BeFree is composed of a module for ... <b>Relation Extraction</b> ... These annotated relationships will be used to train and evaluate text-mining <b>software</b> to capture these ...',
+            'URL' => 'http://ibi.imim.es/befree/'
+          },
+          {
+            'Summary' => '<b>software</b>; teaching; local; <b>Software</b> &gt; Multi-instance Multi-label <b>Relation Extraction</b>. About. ... Multi-instance Multi-label Learning for <b>Relation Extraction</b>.',
+            'URL' => 'http://nlp.stanford.edu/software/mimlre.shtml',
+            'Links' => [
+                         'https://nlp.stanford.edu/software/mimlre-2012-11-27.tar.bz2',
+                         'https://nlp.stanford.edu/software/mimlre-2014-07-17-data.tar.gz'
+                       ]
+          },
+          {
+            'Summary' => 'MeInfoText 2.0: gene methylation and cancer <b>relation extraction</b> from biomedical literature. Item Preview',
+            'URL' => 'https://archive.org/details/pubmed-PMC3266364',
+            'Links' => [
+                         'https://archive.org/download/pubmed-PMC3266364/PMC3266364-1471-2105-12-471_abbyy.gz',
+                         'https://archive.org/download/pubmed-PMC3266364/PMC3266364-1471-2105-12-471_daisy.zip',
+                         'https://archive.org/download/pubmed-PMC3266364/PMC3266364-1471-2105-12-471_jp2.zip'
+                       ]
+          },
+          {
+            'Links' => [
+                         'https://archive.org/download/pubmed-PMC4103846/PMC4103846-journal.pone.0102039_abbyy.gz',
+                         'https://archive.org/download/pubmed-PMC4103846/PMC4103846-journal.pone.0102039_daisy.zip',
+                         'https://archive.org/download/pubmed-PMC4103846/PMC4103846-journal.pone.0102039_jp2.zip'
+                       ],
+            'URL' => 'https://archive.org/details/pubmed-PMC4103846',
+            'Summary' => '<b>software</b> All <b>Software</b> latest This Just ... An Unsupervised Text Mining Method for <b>Relation Extraction</b> from ... SINGLE PAGE PROCESSED JP2 ZIP <b>download</b>. <b>download</b> 1 ...'
+          },
+          {
+            'Summary' => 'Layout-aware text extraction from full-text PDF of ... and Semantic <b>Relation Extraction</b> ... 3 http://wing.comp.nus.edu.sg/<b>downloads</b>/keyphraseCorpus ...',
+            'URL' => 'http://scfbm.biomedcentral.com/articles/10.1186/1751-0473-7-7',
+            'Links' => [
+                         'http://wing.comp.nus.edu.sg/downloads/keyphraseCorpus/NUSkeyphraseCorpus.zip'
+                       ]
+          },
+          {
+            'Summary' => '<b>relation-extraction</b> ... Clone or <b>download</b>. Clone with HTTPS ... <b>Relation Extraction</b> <b>Software</b>. Extracts relations from text articles. Instructions.',
+            'URL' => 'https://github.com/crea-berkeley/relation-extraction',
+            'Links' => [
+                         'https://github.com/crea-berkeley/relation-extraction/archive/v1.0.zip',
+                         'https://github.com/crea-berkeley/relation-extraction/archive/v1.0.tar.gz',
+                         'https://github.com/crea-berkeley/relation-extraction/archive/master.zip'
+                       ]
+          },
+          {
+            'Links' => [
+                         'http://dl.dropbox.com/u/9060632/jsre-1.1.tgz'
+                       ],
+            'URL' => 'https://hlt-nlp.fbk.eu/technologies/jsre',
+            'Summary' => 'jSRE is a Java tool for <b>Relation Extraction</b>. It is based on a supervised machine learning approach which is applicable even when (deep) linguistic processing is not available or reliable.'
+          },
+          {
+            'Links' => [
+                         'http://www-bionet.sscc.ru/psd/andhcv/ANDVisio.i386.zip'
+                       ],
+            'URL' => 'https://omictools.com/associative-network-discovery-hcv-tool',
+            'Summary' => '<b>Relation extraction</b> . LOG IN ABOUT ... <b>Software</b> type: Standalone Restrictions to use: None ... <b>Download</b> Associative Network Discovery-HCV. AND-HCV support. Documentation Documentation: ...'
+          },
+          {
+            'Summary' => '<b>Software</b> type: Pipeline/Workflow ... <b>Download</b> miRTex. miRTex support. Documentation ... A Text Mining System for miRNA-Gene <b>Relation Extraction</b>. PLoS Comput Biol. PMID: 26407127 DOI: 10.1371/journal.pcbi.1004391; Institution(s) Department of ...',
+            'URL' => 'https://omictools.com/mirtex-tool',
+            'Links' => [
+                         'https://gist.github.com/leebird/c614c8e0a2a13e3dbc99c44fe59659bd/archive/a33ca3d680c9bd6f0db3f98d31d10be57e21f891.zip'
+                       ]
+          },
+          {
+            'URL' => 'https://stanfordnlp.github.io/CoreNLP/',
+            'Summary' => '<b>Download</b>. Stanford CoreNLP can ... (KBP) models jar contains extra resources needed to run <b>relation extraction</b> and ... but not its use in proprietary <b>software</b> ...',
+            'Links' => [
+                         'http://nlp.stanford.edu/software/stanford-corenlp-full-2017-06-09.zip',
+                         'http://nlp.stanford.edu/software/stanford-arabic-corenlp-2017-06-09-models.jar',
+                         'http://nlp.stanford.edu/software/stanford-chinese-corenlp-2017-06-09-models.jar',
+                         'http://nlp.stanford.edu/software/stanford-english-corenlp-2017-06-09-models.jar',
+                         'http://nlp.stanford.edu/software/stanford-english-kbp-corenlp-2017-06-09-models.jar',
+                         'http://nlp.stanford.edu/software/stanford-french-corenlp-2017-06-09-models.jar',
+                         'http://nlp.stanford.edu/software/stanford-german-corenlp-2017-06-09-models.jar',
+                         'http://nlp.stanford.edu/software/stanford-spanish-corenlp-2017-06-09-models.jar'
+                       ]
+          },
+          {
+            'URL' => 'https://www.lsv.uni-saarland.de/index.php?id=82',
+            'Summary' => '<b>Relation Extraction</b> in the Food Domain On this page, you find some information regarding the work on <b>relation extraction</b> in the food domain that is carried out at the Department for Spoken Language Systems at Saarland University.',
+            'Links' => [
+                         'https://www.lsv.uni-saarland.de/fileadmin/resources/data/foodRels.tgz',
+                         'https://www.lsv.uni-saarland.de/fileadmin/resources/data/healthy.tgz',
+                         'https://www.lsv.uni-saarland.de/fileadmin/resources/data/foodCategorization.tgz',
+                         'https://www.lsv.uni-saarland.de/fileadmin/resources/data/brandDetectionData.tgz',
+                         'https://www.lsv.uni-saarland.de/fileadmin/resources/data/dataReleaseNLDB2015.tgz'
+                       ]
+          },
+          {
+            'Links' => [
+                         'https://www.scientific.net/Downloads/GetTtpFile?name=Template_LaTeX.zip'
+                       ],
+            'URL' => 'https://www.scientific.net/AMR.225-226.1292',
+            'Summary' => 'Advanced Research on Automation, Communication, Architectonics and Materials: Research on the Entity <b>Relation Extraction</b> of Field Based on Semi-Supervised'
+          },
+          {
+            'Links' => [
+                         'https://www.scientific.net/Downloads/GetTtpFile?name=Template_LaTeX.zip'
+                       ],
+            'URL' => 'https://www.scientific.net/AMR.739.574',
+            'Summary' => 'Industrial Materials - Applications, Products, and Technologies: Research on Text Conceptual <b>Relation Extraction</b> Based on Domain Ontology'
+          },
+          {
+            'Links' => [
+                         'http://nitroflare.com/view/744123959C0E8B3/29qc2.OReilly..Introduction.to.Natural.Language.Processing.with.SpaCy.k5t8u.iji8f.rar'
+                       ],
+            'URL' => 'http://www.downduck.com/tutorials/3088966-oreilly-introduction-to-natural-language-processing-with-spacy.html',
+            'Summary' => 'Direct <b>Download</b> Free Movies Mp3\'s <b>Software</b> Programs Stock Images » TUTORIALS » O\'Reilly - Introduction to Natural Language Processing with SpaCy : ... and provides you with the knowledge you need to extend spaCy for functional needs like sentiment models or <b>relation extraction</b>. ...'
+          },
+          {
+            'Links' => [
+                         'http://www.hlt.utdallas.edu/~jld082000/spatial-relations/spelementex.zip',
+                         'http://www.hlt.utdallas.edu/~jld082000/spatial-relations/spatialrelex.zip'
+                       ],
+            'URL' => 'http://www.hlt.utdallas.edu/~jld082000/spatial-relations/',
+            'Summary' => 'Spatial <b>relation extraction</b> is the task of determining whether a given set of spatial elements are in a qualitative spatial relation (QSLINK), an orientation relation (OLINK), or ... <b>Download</b>. This <b>software</b> provides code for two components:'
+          },
+          {
+            'Links' => [
+                         'http://nitroflare.com/view/744123959C0E8B3/29qc2.OReilly..Introduction.to.Natural.Language.Processing.with.SpaCy.k5t8u.iji8f.rar',
+                         'http://www.rodoved.org/file/go.php?mod=fast&mirror=1&filename=OReilly_Introduction_to_Natural_Language_Processing_with_SpaCy.part01.zip',
+                         'http://www.rodoved.org/file/go.php?mod=highspeed&mirror=2&filename=OReilly_Introduction_to_Natural_Language_Processing_with_SpaCy.part02.zip'
+                       ],
+            'Summary' => '... and provides you with the knowledge you need to extend spaCy for functional needs like sentiment models or <b>relation extraction</b>. ... Introduction to Natural Language Processing with SpaCy Fast <b>Download</b> via Rapidshare Hotfile Fileserve ... <b>Software</b>; Game; Movie; Music; TV Show; E-Book ...',
+            'URL' => 'http://www.rodoved.org/tutorial/967894-oreilly-introduction-to-natural-language-processing-with-spacy.html'
+          }
+        ];

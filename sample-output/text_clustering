@@ -1,0 +1,54 @@
+$VAR1 = [
+          {
+            'Links' => [
+                         'https://archive.org/download/arxiv-cs0606069/cs0606069_abbyy.gz',
+                         'https://archive.org/download/arxiv-cs0606069/cs0606069_daisy.zip',
+                         'https://archive.org/download/arxiv-cs0606069/cs0606069_jp2.zip'
+                       ],
+            'URL' => 'https://archive.org/details/arxiv-cs0606069',
+            'Summary' => '<b>software</b> All <b>Software</b> latest This Just In Old School Emulation MS-DOS Games Historical <b>Software</b> Classic PC Games <b>Software</b> Library. ... Inference and Evaluation of the Multinomial Mixture Model for <b>Text Clustering</b> ... SINGLE PAGE PROCESSED JP2 ZIP <b>download</b>. <b>download</b> 1 file ...'
+          },
+          {
+            'URL' => 'https://github.com/jacoxu/STC2',
+            'Summary' => 'jacoxu / STC2. Code. Issues 0. Pull requests 0. ... Here are instructions of the demo dataset&amp;software for the paper [Self-Taught Convolutional Neural Networks for Short <b>Text Clustering</b>] Usage: Please <b>download</b> the <b>software</b> and dataset packages, ...',
+            'Links' => [
+                         'https://github.com/jacoxu/STC2/archive/master.zip'
+                       ]
+          },
+          {
+            'Links' => [
+                         'https://cpan.metacpan.org/authors/id/S/SY/SYP/Text-Fingerprint-0.006.tar.gz'
+                       ],
+            'Summary' => 'perform simple <b>text clustering</b> by key collision. Home ; Recent ... Text::Fingerprint - perform simple <b>text clustering</b> by key collision. VERSION. version 0.006. SYNOPSIS ... This is free <b>software</b>; ...',
+            'URL' => 'https://metacpan.org/pod/Text::Fingerprint'
+          },
+          {
+            'URL' => 'https://www.codeproject.com/articles/439890/text-documents-clustering-using-k-means-algorithm',
+            'Summary' => 'Text documents clustering using K-Means clustering ... 12.8K <b>downloads</b>. ... algorithm using a set of points in n-dimensional vector space for <b>text clustering</b>.',
+            'Links' => [
+                         'https://www.codeproject.com/KB/recipes/439890/TextClustering.zip',
+                         'http://www.maxqda.com/download/stoplists-eng.zip'
+                       ]
+          },
+          {
+            'Links' => [
+                         'https://www.jstatsoft.org/index.php/jss/article/downloadSuppFile/v025i05/tm_0.3.tar.gz'
+                       ],
+            'URL' => 'https://www.jstatsoft.org/article/view/v025i05',
+            'Summary' => 'Text Mining Infrastructure in R. ... <b>text clustering</b>, text classification and string kernels. Article Tools. ... (<b>Downloads</b>: 6650; 569KB)'
+          },
+          {
+            'URL' => 'http://www.ecsdn.com/d-20Ie.html',
+            'Summary' => "wawatextcluster \x{86d9}\x{86d9}Chinese <b>text clustering</b>, the main use of k-means algorithm. wawa s text cluster using C#.",
+            'Links' => [
+                         'http://www.ecsdn.com/search.php?keyword=WawaTextCluster.zip'
+                       ]
+          },
+          {
+            'URL' => 'http://www.scientific.net/KEM.474-476.2071',
+            'Summary' => 'Many existing <b>text clustering</b> algorithms overlook the semantic information between words and so they possess a lower accuracy of text similarity computation.',
+            'Links' => [
+                         'https://www.scientific.net/Downloads/GetTtpFile?name=Template_LaTeX.zip'
+                       ]
+          }
+        ];

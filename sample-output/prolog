@@ -1,0 +1,313 @@
+$VAR1 = [
+          {
+            'URL' => 'http://gprolog.org/',
+            'Summary' => 'This compiler accepts <b>Prolog</b> + constraint programs and produces native binaries. The obtained executable is subsequently stand-alone. The size of this executable can ...',
+            'Links' => [
+                         'http://gprolog.org/manual/gprolog.html.tar.gz',
+                         'http://gprolog.org/manual/gprolog.html_node.tar.gz',
+                         'http://gprolog.org/manual/gprolog.dvi.tar.gz',
+                         'http://gprolog.org/gprolog-1.4.4.tar.gz',
+                         'http://gprolog.org/gprolog-1.4.4.pkg.zip',
+                         'http://gprolog.org/setup-gprolog-1.4.4-msvc-x86.exe',
+                         'http://gprolog.org/setup-gprolog-1.4.4-mingw-x86.exe',
+                         'http://gprolog.org/setup-gprolog-1.4.4-msvc-x64.exe',
+                         'http://gprolog.org/setup-gprolog-1.4.4-mingw-x64.exe'
+                       ]
+          },
+          {
+            'Summary' => 'Bahasa Pemprograman <b>PROLOG</b> + <b>Software</b> SWI-<b>Prolog</b> (Open Source) Home Site : Apa itu <b>Prolog</b>? ... <b>Download</b> SWI-<b>Prolog</b> Untuk Windows. (Versi 5.10.1) tahap instalasi : Untuk tahap kedua, adalah pilihan komponen yang akan diinstalasi :',
+            'URL' => 'http://im-balance.blogspot.com/2010/10/bahasa-pemprograman-prolog-software-swi.html',
+            'Links' => [
+                         'http://www.swi-prolog.org/download/stable/bin/w32pl5101.exe'
+                       ]
+          },
+          {
+            'Summary' => '<b>Download</b>. <b>Download</b> version 6.6.6 (stable) released on 28 May 2014 ... bugs@swi-<b>prolog</b>.org: <b>Software</b> prerequisites. Kind Description; Weak prerequisite: gmp: ... Any <b>software</b> or copyright-licenses or other similar notices described in this text has its own copyright notice and license, ...',
+            'URL' => 'https://directory.fsf.org/wiki/Swi-prolog',
+            'Links' => [
+                         'http://www.swi-prolog.org/download/stable/src/pl-6.6.6.tar.gz'
+                       ]
+          },
+          {
+            'Links' => [
+                         'https://downloads.sourceforge.net/portableapps/SWI-PrologPortable_7.4.2_English.paf.exe'
+                       ],
+            'Summary' => '<b>Prolog</b> programming environment. SWI-<b>Prolog</b> offers a comprehensive Free <b>Software</b> <b>Prolog</b> environment. <b>Prolog</b> is a general purpose logic programming language often used for artificial intelligence and computational linguistics.',
+            'URL' => 'https://portableapps.com/apps/development/swi-prolog_portable'
+          },
+          {
+            'Summary' => 'NOTE: SICStus <b>Prolog</b> is proprietary <b>software</b> and you need a valid license in order to use it. If you do not already have such, visit our ordering page for information.',
+            'Links' => [
+                         'https://sicstus.sics.se/sicstus/products4/sicstus/4.3.5/binaries/win32/InstallSICStus-4.3.5-VC14.exe',
+                         'https://sicstus.sics.se/sicstus/products4/sicstus/4.3.5/binaries/win32/InstallSICStus-4.3.5-x64-VC14.exe',
+                         'https://sicstus.sics.se/sicstus/products4/sicstus/4.3.5/binaries/win32/InstallSICStus-4.3.5-VC12.exe',
+                         'https://sicstus.sics.se/sicstus/products4/sicstus/4.3.5/binaries/win32/InstallSICStus-4.3.5-x64-VC12.exe',
+                         'https://sicstus.sics.se/sicstus/products4/sicstus/4.3.5/binaries/win32/InstallSICStus-4.3.5-VC11.exe',
+                         'https://sicstus.sics.se/sicstus/products4/sicstus/4.3.5/binaries/win32/InstallSICStus-4.3.5-x64-VC11.exe',
+                         'https://sicstus.sics.se/sicstus/products4/sicstus/4.3.5/binaries/win32/InstallSICStus-4.3.5-VC10.exe',
+                         'https://sicstus.sics.se/sicstus/products4/sicstus/4.3.5/binaries/win32/InstallSICStus-4.3.5-x64-VC10.exe',
+                         'https://sicstus.sics.se/sicstus/products4/sicstus/4.3.5/binaries/win32/InstallSICStus-4.3.5-VC9.exe',
+                         'https://sicstus.sics.se/sicstus/products4/sicstus/4.3.5/binaries/win32/InstallSICStus-4.3.5-x64-VC9.exe',
+                         'https://sicstus.sics.se/sicstus/products4/sicstus/4.3.5/binaries/linux/sp-4.3.5-x86_64-linux-glibc2.17.tar.gz',
+                         'https://sicstus.sics.se/sicstus/products4/sicstus/4.3.5/binaries/linux/sp-4.3.5-powerpcle64-linux-glibc2.17.tar.gz',
+                         'https://sicstus.sics.se/sicstus/products4/sicstus/4.3.5/binaries/linux/sp-4.3.5-x86-linux-glibc2.12.tar.gz',
+                         'https://sicstus.sics.se/sicstus/products4/sicstus/4.3.5/binaries/linux/sp-4.3.5-x86_64-linux-glibc2.12.tar.gz',
+                         'https://sicstus.sics.se/sicstus/products4/sicstus/4.3.2/binaries/linux/sp-4.3.2-powerpc64-linux-glibc2.12.tar.gz',
+                         'https://sicstus.sics.se/sicstus/products4/sicstus/4.3.5/binaries/linux/sp-4.3.5-x86-linux-glibc2.5.tar.gz',
+                         'https://sicstus.sics.se/sicstus/products4/sicstus/4.3.5/binaries/linux/sp-4.3.5-x86_64-linux-glibc2.5.tar.gz',
+                         'https://sicstus.sics.se/sicstus/products4/sicstus/4.3.5/binaries/solaris/sp-4.3.5-i386-solaris-5.10.tar.gz',
+                         'https://sicstus.sics.se/sicstus/products4/sicstus/4.3.5/binaries/solaris/sp-4.3.5-amd64-solaris-5.10.tar.gz',
+                         'https://sicstus.sics.se/sicstus/products4/sicstus/4.3.5/binaries/solaris/sp-4.3.5-sparc-solaris-5.10.tar.gz',
+                         'https://sicstus.sics.se/sicstus/products4/sicstus/4.3.5/binaries/solaris/sp-4.3.5-sparc64-solaris-5.10.tar.gz',
+                         'https://sicstus.sics.se/sicstus/products4/sicstus/4.3.5/binaries/darwin/sp-4.3.5-x86_64-darwin-16.0.0.tar.gz',
+                         'https://sicstus.sics.se/sicstus/products4/sicstus/4.3.5/binaries/darwin/sp-4.3.5-x86_64-darwin-14.0.0.tar.gz',
+                         'https://sicstus.sics.se/sicstus/products4/sicstus/4.3.5/binaries/darwin/sp-4.3.5-x86_64-darwin-13.0.0.tar.gz',
+                         'https://sicstus.sics.se/sicstus/products4/sicstus/4.3.5/binaries/darwin/sp-4.3.5-x86_64-darwin-12.0.0.tar.gz',
+                         'https://sicstus.sics.se/sicstus/products4/sicstus/4.3.5/binaries/darwin/sp-4.3.5-x86_64-darwin-11.0.0.tar.gz',
+                         'https://sicstus.sics.se/sicstus/products4/sicstus/4.3.5/binaries/darwin/sp-4.3.5-i386-darwin-11.0.0.tar.gz'
+                       ],
+            'URL' => 'https://sicstus.sics.se/download4.html'
+          },
+          {
+            'Links' => [
+                         'https://www.codeproject.com/KB/dotnet/PrologNET/PSharpFarmerGoat.zip'
+                       ],
+            'URL' => 'https://www.codeproject.com/articles/17073/prolog-for-net-developers',
+            'Summary' => '<b>Download</b> demo project with <b>Prolog</b> source- 317 Kb ; Introduction. In November 2006, Sacha Barber posted an interesting article on Code Project which used the classic ...'
+          },
+          {
+            'Summary' => 'Description <b>Prolog</b> programming environment. SWI-<b>Prolog</b> offers a comprehensive Free <b>Software</b> <b>Prolog</b> environment. <b>Prolog</b> is a general purpose logic programming language often used for artificial intelligence and computational linguistics.',
+            'Links' => [
+                         'http://nchc.dl.sourceforge.net/project/portableapps/SWI-Prolog%20Portable/SWI-PrologPortable_7.2.3_English.paf.exe'
+                       ],
+            'URL' => 'https://www.driverwindows.com/download/developer-tools-swi-prolog-portable'
+          },
+          {
+            'Links' => [
+                         'http://comdialmanuals.com/files/Free%20HEB%20Prolog%20Viewer%20/Demo/ProLogDemoHC.zip'
+                       ],
+            'URL' => 'https://www.hebusa.com/prolog/',
+            'Summary' => '<b>Prolog</b> - Call Accounting <b>Software</b>. <b>Prolog</b> will allow you and your customers to collect many years of detailed call records on a variety of phone systems.'
+          },
+          {
+            'Links' => [
+                         'https://dist.nuget.org/win-x86-commandline/latest/nuget.exe'
+                       ],
+            'Summary' => 'Average <b>downloads</b> per day. 2012-10-16. ... A .NET-base implementation of <b>Prolog</b> based on the Warren Abstract Machine ... Install-Package <b>Prolog</b>.NET -Version 1.0.2',
+            'URL' => 'https://www.nuget.org/packages/Prolog.NET'
+          },
+          {
+            'URL' => 'https://www.prologsystem.com/support/download.htm',
+            'Summary' => 'This area of the <b>ProLog</b> website provides our customers with files that support the operation of the <b>ProLog</b> system. Some file Some files, like the CallMaster ...',
+            'Links' => [
+                         'https://www.prologsystem.com/support/UD_V8107C.exe',
+                         'https://www.prologsystem.com/support/UD_HELP_009.exe',
+                         'https://www.prologsystem.com/support/UD_LOTW_1706.exe',
+                         'https://www.prologsystem.com/support/UD_CMDB_1705-1.exe',
+                         'https://www.prologsystem.com/support/UD_CMDB_1704-2.exe',
+                         'https://www.prologsystem.com/support/UD_CMDB_1703-3.exe',
+                         'https://www.prologsystem.com/support/UD_CMDB_1702-4.exe',
+                         'https://www.prologsystem.com/support/UD_CMDB_1701-5.exe',
+                         'https://www.prologsystem.com/support/UD_CMDB_1612-6.exe',
+                         'https://www.prologsystem.com/support/ProLogUpdater.exe'
+                       ]
+          },
+          {
+            'URL' => 'http://www.amzi.com/AmziOpenSource/',
+            'Links' => [
+                         'http://www.amzi.com/distribution/amzi2_download.php?file=amzi_apls_win32_10-0-04b.zip',
+                         'http://www.amzi.com/distribution/amzi2_download.php?file=amzi_apls_win64_10-0-05.zip',
+                         'http://www.amzi.com/distribution/amzi2_download.php?file=amzi_apls_mac_10-0-04b.zip',
+                         'http://www.amzi.com/distribution/amzi2_download.php?file=amzi_eclipse_plugin_4.5.10004.zip',
+                         'http://www.amzi.com/distribution/amzi2_download.php?file=knowledgewright_4-1-21_win.zip',
+                         'http://www.amzi.com/distribution/amzi2_download.php?file=arules_5-10-3.zip'
+                       ],
+            'Summary' => 'Amzi! <b>Prolog</b> + Logic Server. There are fun, relatively easy enhancements that can be made to the system. Amzi! uses a virtual machine architecture that is designed to ...'
+          },
+          {
+            'Links' => [
+                         'http://www.amzi.com/distribution/amzi2_download.php?file=amzi_apls_win32_10-0-04b.zip',
+                         'http://www.amzi.com/distribution/amzi2_download.php?file=amzi_apls_win64_10-0-05.zip',
+                         'http://www.amzi.com/distribution/amzi2_download.php?file=amzi_apls_mac_10-0-04b.zip',
+                         'http://www.amzi.com/distribution/amzi2_download.php?file=amzi_eclipse_plugin_4.5.10004.zip',
+                         'http://www.amzi.com/distribution/amzi2_download.php?file=knowledgewright_4-1-21_win.zip',
+                         'http://www.amzi.com/distribution/amzi2_download.php?file=arules_5-10-3.zip'
+                       ],
+            'URL' => 'http://www.amzi.com/AmziOpenSource/downloads.php',
+            'Summary' => '<b>Download</b> Amzi! <b>Prolog</b> + Logic Server. Run free version, or purchase individual or enterprise licenses.'
+          },
+          {
+            'Summary' => 'A multi-language AI system that contains <b>Prolog</b>, Common Lisp, ML and POP-11 implementation.',
+            'Links' => [
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/contrib.zip',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/src.systems/iris-src.tar.gz',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/src.systems/S.vaxvms.tar.gz',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/contrib.tar.gz',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/packages/contrib.zip',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/unstripped-docs.tar.gz',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/docs.tar.gz',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/popracer.tar.gz',
+                         'http://www.math.uni.wroc.pl/~p-wyk4/thinkCS/thinkCSpop11_0.7.1-19.tar.gz',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/eliza.tar.gz',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/popvision.tar.gz',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/new/solaris1553.tar.gz',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/new/alphaunix-15.53.tar.gz',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/new/pcsolaris1552.tar.gz',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/new/alphaunix1550.tar.gz',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/new/powaix-15.52.tar.gz',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/new/pcwin15.5.zip',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/new/pcwin-15.5.tar.gz',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/new/pcwin-15.5.tar',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/new/pcwnt-sources.tar.gz',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/winpop/pop15-53.zip',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/bhamteach.zip',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/emacs.tar.gz',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/docdirs.tar.gz',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/setup.tar.gz',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/sysdoc.tar.gz',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/pophtmlprimer.tar.gz',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/primer.gz',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/primer.tex.gz',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/packages/screamer.tar.gz',
+                         'ftp://ftp.ecn.purdue.edu/qobi/screamer.tar.Z',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/rclib.tar.gz',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/rcmenu.tar.gz',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/newkit.tar.gz',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/oldprb.tar.gz',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/oldsim.tar.gz',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/neural.tar.gz',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/simworld.tar.gz',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/Scheme.tar.gz',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/Scheme.zip',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/paradigms.tar.gz',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/nonlin/nonlin-2002-11-28.zip',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/xml-dist.tar.gz',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/pattern.tar.gz',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/ved_latex.tar.gz',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/vedgn.tar.gz',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/vedmail.tar.gz',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/gospl_1_2_0.tar.gz',
+                         'http://www.cs.bham.ac.uk/research/projects/poplog/.ls-lrt.gz'
+                       ],
+            'URL' => 'http://www.cs.bham.ac.uk/research/projects/poplog/freepoplog.html'
+          },
+          {
+            'Summary' => '<b>Downloads</b>; Documentation; Packages; Applications:- Stable Version. ... The chr, clpqr, and chr packages are shared with SWI-<b>Prolog</b> and need to be obtained separately.',
+            'URL' => 'http://www.dcc.fc.up.pt/%7Evsc/Yap/downloads.html',
+            'Links' => [
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/yap-6.2.2.tar.gz',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/yap-6.2.2-installer.exe',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/yap-6.2.2-tabling-installer.exe',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/yap-6.2.2-xp-installer.exe',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/yap64-6.2.2-installer.exe',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/yap-6.2.2-cygwin.tar.gz',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/yap-6.3.3.tar.gz',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/yap-6.3.3-installer.exe',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/yap64-6.3.3-installer.exe',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/yap-6.3.3-osx.tar.gz',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/current/Yap-5.1.3.tar.gz',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/current/yap-5.1.3-installer.exe',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/current/Yap-5.1.3-cygwin.tar.gz',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/yap-6.0.6.tar.gz',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/yap-6.0.6-installer.exe',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/yap64-6.0.5.zip',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/yap-6.0.5-snow-leopard.mpkg.zip',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/yap-6.0.5-tabling-installer.exe',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/yap-6.0.4.tar.gz',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/yap-6.0.4-installer.exe',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/yap-6.0.3.tar.gz',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/yap-6.0.3-installer.exe',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/yap-6.0.2.tar.gz',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/yap-6.0.2-installer.exe',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/yap-6.0.1.tar.gz',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/yap-6.0.1-installer.exe',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/yap-6.0.0.tar.gz',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/yap-6.0.0-installer.exe',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/current/Yap-5.1.1.tar.gz',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/current/Yap-5.1.1-small.tar.gz',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/current/Yap-5.1.1-static.x86_64.tar.gz',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/current/Yap-5.1.1-static.tar.gz',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/current/Yap-5.1.1.alpha.tar.gz',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/current/Yap-5.1.1.sun.tar.gz',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/current/Yap-5.1.1-macos.ppc.tar.gz',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/current/Yap-5.1.1-linuxppc.tar.gz',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/current/Yap-5.1.1.exe',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/current/Yap-5.1.1.zip',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/current/Yap-5.0.1.tar.gz',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/current/Yap-5.0.1-small.tar.gz',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/current/Yap-5.0.1-static.x86_64.tar.gz',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/current/Yap-5.0.1-static.tar.gz',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/current/Yap-5.0.1.alpha.tar.gz',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/current/Yap-5.0.1.sun.tar.gz',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/current/Yap-5.0.1.exe',
+                         'http://www.dcc.fc.up.pt/%7Evsc/Yap/current/Yap-5.0.1.zip'
+                       ]
+          },
+          {
+            'Summary' => 'Strawberry <b>Prolog</b> version 3.0 Beta 4. Open source <b>Prolog</b> compiler under the AntiGNU license. This beta version is released on 10 of December, 2013.',
+            'URL' => 'http://www.dobrev.com/',
+            'Links' => [
+                         'http://www.dobrev.com/software/Metro_v2_0.zip',
+                         'http://www.dobrev.com/loops_ps.zip'
+                       ]
+          },
+          {
+            'Links' => [
+                         'http://www.swi-prolog.org/download/devel/bin/swipl-w64-7332.exe'
+                       ],
+            'URL' => 'http://www.efilehorse.com/2016/12/swi-prolog-free-download-for-windows.html',
+            'Summary' => 'SWI-<b>Prolog</b> Free <b>Download</b> | SWI-<b>Prolog</b> gives you with an extensive as well as durable development atmosphere for the <b>Prolog</b> logic programming language, which is meant for computational grammars as well as expert system applications. Counting on a <b>Prolog</b> digital device to define directions, SWI-<b>Prolog</b>'
+          },
+          {
+            'Summary' => 'Turbo <b>Prolog</b> is a quite old <b>Prolog</b> system that only works with MS-DOS. This implies serious memory limitations. Also, it uses a special <b>Prolog</b> dialect with typed variables and some other restrictions that does not comply with the ...',
+            'URL' => 'http://www.fraber.de/university/prolog/tprolog.html',
+            'Links' => [
+                         'http://www.fraber.de/download/tprolog.zip'
+                       ]
+          },
+          {
+            'Links' => [
+                         'http://www.lakewood.com/files/2259022/uploaded/Prolog-Ver-2-226.exe'
+                       ],
+            'Summary' => '<b>Prolog</b> <b>Software</b>. Please feel free to update your purchased <b>software</b> to the latest version of <b>Prolog</b>. If you have not previously purchased <b>Prolog</b> and do not have a username and password this <b>download</b> will expire after 30 days. Please contact Lakewood Systems Ltd. for ordering information, ...',
+            'URL' => 'http://www.lakewood.com/page/1312356'
+          },
+          {
+            'URL' => 'http://www.lpa.co.uk/dow_fre.htm',
+            'Summary' => 'Free Usage <b>Software</b>. From this page, you can <b>download</b> a fully-working copy of <b>PROLOG</b> Professional, LPA\'s first ever <b>Prolog</b> compiler, provided it is used only for ...',
+            'Links' => [
+                         'http://www.lpa.co.uk/ftp/prof_383.zip'
+                       ]
+          },
+          {
+            'URL' => 'http://www.swi-prolog.org/Download.html',
+            'Summary' => 'SWI-<b>Prolog</b> <b>downloads</b>: Home; <b>DOWNLOAD</b> SWI-<b>Prolog</b>; Sources/building; ... Available SWI-<b>Prolog</b> versions; Information on Linux packages and building on Linux;',
+            'Links' => [
+                         'http://www.swi-prolog.org/download/daily/bin/swipl-w64-2017-06-25.exe',
+                         'http://www.swi-prolog.org/download/daily/bin/swipl-w32-2017-06-25.exe',
+                         'http://www.swi-prolog.org/download/daily/bin/swipl-w64-2017-06-24.exe',
+                         'http://www.swi-prolog.org/download/daily/bin/swipl-w32-2017-06-24.exe',
+                         'http://www.swi-prolog.org/download/daily/bin/swipl-w64-2017-06-23.exe',
+                         'http://www.swi-prolog.org/download/daily/bin/swipl-w32-2017-06-23.exe',
+                         'http://www.swi-prolog.org/download/daily/bin/swipl-w64-2017-06-22.exe',
+                         'http://www.swi-prolog.org/download/daily/bin/swipl-w32-2017-06-22.exe',
+                         'http://www.swi-prolog.org/download/daily/bin/swipl-w64-2017-06-21.exe',
+                         'http://www.swi-prolog.org/download/daily/bin/swipl-w32-2017-06-21.exe',
+                         'http://www.swi-prolog.org/download/daily/bin/swipl-w64-2017-06-20.exe',
+                         'http://www.swi-prolog.org/download/daily/bin/swipl-w32-2017-06-20.exe',
+                         'http://www.swi-prolog.org/download/daily/bin/swipl-w64-2017-06-19.exe',
+                         'http://www.swi-prolog.org/download/daily/bin/swipl-w32-2017-06-19.exe',
+                         'http://www.swi-prolog.org/download/daily/bin/swipl-w64-2017-06-18.exe',
+                         'http://www.swi-prolog.org/download/daily/bin/swipl-w32-2017-06-18.exe'
+                       ]
+          },
+          {
+            'Summary' => '<b>Download</b> SWI-<b>Prolog</b> stable versions: Home; <b>DOWNLOAD</b> SWI-<b>Prolog</b>; Sources/building; Add-ons; Browse GIT; DOCUMENTATION Manual; Packages; FAQ; Command line; PlDoc;',
+            'Links' => [
+                         'http://www.swi-prolog.org/download/stable/bin/swipl-w64-742.exe',
+                         'http://www.swi-prolog.org/download/stable/bin/swipl-w32-742.exe',
+                         'http://www.swi-prolog.org/download/stable/src/swipl-7.4.2.tar.gz'
+                       ],
+            'URL' => 'http://www.swi-prolog.org/download/stable'
+          }
+        ];

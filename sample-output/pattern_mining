@@ -1,0 +1,22 @@
+$VAR1 = [
+          {
+            'URL' => 'http://adrem.ua.ac.be/~goethals/software/',
+            'Summary' => 'Frequent <b>Pattern Mining</b> Implementations The Apriori, DIC, Eclat and Fp-growth algorithms generate all frequent itemsets for a given minimal support threshold.',
+            'Links' => [
+                         'http://www.adrem.ua.ac.be/~goethals/software/files/eclat.tgz',
+                         'http://www.adrem.ua.ac.be/~goethals/software/files/fpgrowth.tgz',
+                         'http://www.adrem.ua.ac.be/~goethals/software/files/apriori.tgz',
+                         'http://www.adrem.ua.ac.be/~goethals/software/files/ndi.tgz',
+                         'http://www.adrem.ua.ac.be/~goethals/software/files/dic.tgz',
+                         'http://www.adrem.ua.ac.be/~goethals/software/files/rules.tgz',
+                         'http://www.adrem.ua.ac.be/~goethals/software/files/pairmining.tgz'
+                       ]
+          },
+          {
+            'Links' => [
+                         'https://www.scientific.net/Downloads/GetTtpFile?name=Template_LaTeX.zip'
+                       ],
+            'URL' => 'http://www.scientific.net/AMM.490-491.1361',
+            'Summary' => 'Mechanical Design and Power Engineering: Trajectory <b>Pattern Mining</b>: Methods and Applications'
+          }
+        ];

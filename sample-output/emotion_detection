@@ -1,0 +1,52 @@
+$VAR1 = [
+          {
+            'URL' => 'https://archive.org/details/pubmed-PMC3871074',
+            'Links' => [
+                         'https://archive.org/download/pubmed-PMC3871074/PMC3871074-s131115549_abbyy.gz',
+                         'https://archive.org/download/pubmed-PMC3871074/PMC3871074-s131115549_daisy.zip',
+                         'https://archive.org/download/pubmed-PMC3871074/PMC3871074-s131115549_jp2.zip'
+                       ],
+            'Summary' => '<b>software</b> All <b>Software</b> latest This Just In Old School Emulation MS-DOS Games Historical ... A Multimodal <b>Emotion Detection</b> System during Human-Robot ... <b>DOWNLOAD</b> OPTIONS'
+          },
+          {
+            'Links' => [
+                         'https://github.com/mihaelacr/pydeeplearn/archive/epic.zip',
+                         'https://github.com/mihaelacr/pydeeplearn/archive/epic.tar.gz',
+                         'https://github.com/mihaelacr/pydeeplearn/archive/th.zip',
+                         'https://github.com/mihaelacr/pydeeplearn/archive/th.tar.gz',
+                         'https://github.com/mihaelacr/pydeeplearn/archive/dropgood.zip',
+                         'https://github.com/mihaelacr/pydeeplearn/archive/dropgood.tar.gz',
+                         'https://github.com/mihaelacr/pydeeplearn/archive/master.zip'
+                       ],
+            'Summary' => 'pydeeplearn - Deep learning API with emotion recognition application. ... <b>Download</b> ZIP Find file ... Provides code and a demo for live <b>emotion detection</b> from the ...',
+            'URL' => 'https://github.com/mihaelacr/pydeeplearn'
+          },
+          {
+            'URL' => 'https://software.intel.com/en-us/articles/intel-realsense-sdk-code-samples',
+            'Links' => [
+                         'https://software.intel.com/sites/default/files/managed/48/85/RealSense_BrazilLab_CodeSamples_1.3.zip'
+                       ],
+            'Summary' => '<b>Download</b> PDF. <b>Download</b> SDK Code Sample ... <b>Emotion Detection</b>; Detection via SenseManager; Intensity and Evidence; PXCMEmotion; Emotion with Callback. ... João is a <b>Software</b> Analyst Intern in the Developers Relations Division Brazil.'
+          },
+          {
+            'Links' => [
+                         'https://www.codeproject.com/KB/GDI-plus/HumanEmotionDetection/EmotionDetection.zip'
+                       ],
+            'Summary' => '<b>Download</b> source - 2.46 MB; Introduction. This code can detect human emotion from image. First, it takes an image, then by skin color segmentation, it detects human ...',
+            'URL' => 'https://www.codeproject.com/articles/110805/human-emotion-detection-from-image'
+          },
+          {
+            'Summary' => 'Advanced Research on Industry, Information System and Material Engineering, IISME2012: <b>Emotion Detection</b> System Based on Speech and Facial Signals',
+            'Links' => [
+                         'https://www.scientific.net/Downloads/GetTtpFile?name=Template_LaTeX.zip'
+                       ],
+            'URL' => 'https://www.scientific.net/AMR.459.483'
+          },
+          {
+            'Links' => [
+                         'http://download.advanceduninstaller.com/soft/uninstaller/Advanced_Uninstaller11.exe'
+                       ],
+            'Summary' => "Disclaimer The text above is not a recommendation to uninstall Intel\x{ae} RealSense\x{2122} SDK 2014 Runtime (x86): <b>Emotion Detection</b> by Intel Corporation from your computer, we are not saying that Intel\x{ae} RealSense\x{2122} SDK 2014 Runtime (x86): <b>Emotion Detection</b> by Intel Corporation is not a good <b>software</b> ...",
+            'URL' => 'http://www.advanceduninstaller.com/Intel-RealSense-SDK-2014-Runtime-x86-Emotion-Detection-60c8424026a79d9d6a7bf3e3392b1c49-application.htm'
+          }
+        ];

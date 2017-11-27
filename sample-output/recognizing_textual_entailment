@@ -1,0 +1,121 @@
+$VAR1 = [
+          {
+            'Links' => [
+                         'http://www.dfki.de/~neumann/resources/RTE3_DE_V1.2_2013-12-02.zip',
+                         'https://sites.google.com/site/excitementproject/results/RTE3-ITA_V1_2012-10-04.zip',
+                         'http://www.cs.biu.ac.il/~nlp/files/RTE_2006_Aligned.zip',
+                         'http://art.uniroma2.it/zanzotto/resources/WIKI_FINAL_CORPUS_v1.zip'
+                       ],
+            'URL' => 'http://aclweb.org/aclwiki/index.php?title=Textual_Entailment_Resource_Pool',
+            'Summary' => '... the <b>Recognizing Textual Entailment</b> ... initiated a new activity for building this Textual Entailment Resource ... for <b>download</b>) Entailment Demo ...'
+          },
+          {
+            'Links' => [
+                         'http://www.iba.t.u-tokyo.ac.jp/~danushka/data/MetaAna.tgz'
+                       ],
+            'Summary' => 'Interpreting metaphor is a hard but important problem in natural language processing that has numerous applications. ... and <b>recognizing textual entailment</b> ... We <b>download</b> the top ranked search results returned by a Web search engine, ...',
+            'URL' => 'http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0074304'
+          },
+          {
+            'Links' => [
+                         'http://www.cs.uic.edu/~liub/FBS/opinion-lexicon-English.rar',
+                         'http://www.cs.uic.edu/~liub/FBS/CustomerReviewData.zip',
+                         'http://www.cs.uic.edu/~liub/FBS/Reviews-9-products.rar',
+                         'http://www.cs.uic.edu/~liub/FBS/data.tar.gz',
+                         'http://www.cs.uic.edu/~liub/FBS/data-1.tar.gz',
+                         'http://www.cs.uic.edu/~liub/FBS/blog-gender-dataset.rar'
+                       ],
+            'Summary' => '... why hasn\'t NLP escaped a backdrop of impractical artificial intelligence <b>software</b> ... <b>Recognizing Textual Entailment</b> has been proposed as a generic task that captures major semantic inference needs across many natural ... The basic <b>download</b> contains two trained tagger models ...',
+            'URL' => 'http://kechnology.blogspot.com/'
+          },
+          {
+            'Links' => [
+                         'https://nlp.stanford.edu/projects/snli/snli_1.0.zip'
+                       ],
+            'URL' => 'http://nlp.stanford.edu/projects/snli/',
+            'Summary' => '<b>software</b>; teaching; ... also known as <b>recognizing textual entailment</b> ... The Stanford Natural Language Inference Corpus by The Stanford NLP Group is licensed under a ...'
+          },
+          {
+            'Links' => [
+                         'https://nlp.stanford.edu/software/stanford-manual-annotation-tool-2004-05-16.tar.gz'
+                       ],
+            'Summary' => 'The Stanford NLP Group makes some of our Natural Language Processing <b>software</b> ... (NLI), also known as <b>recognizing textual entailment</b> ... Click to <b>download</b> ...',
+            'URL' => 'http://nlp.stanford.edu/software/'
+          },
+          {
+            'Summary' => 'Publications for areas marked with a * are ... Description and <b>Downloads</b> ... for automatic text summarization and <b>recognizing textual entailment</b>, ...',
+            'URL' => 'http://saifmohammad.com/WebPages/ResearchInterests.html',
+            'Links' => [
+                         'http://saifmohammad.com/WebDocs/ElectoralTweetsData.zip',
+                         'http://saifmohammad.com/WebDocs/Jan9-2012-tweets-clean.txt.zip',
+                         'http://saifmohammad.com/WebDocs/LoveHateSuicide.tar.gz',
+                         'http://saifmohammad.com/WebDocs/SentimentAfterTranslation-Data.zip',
+                         'http://saifmohammad.com/../WebDocs/NRC-Hashtag-Sentiment-Lexicon-v0.1.zip',
+                         'http://saifmohammad.com/../WebDocs/Sentiment140-Lexicon-v0.1.zip',
+                         'http://saifmohammad.com/Release/AntonymsLexicon-OppCats.gz',
+                         'http://saifmohammad.com/Release/AntonymsLexicon-Affixes.gz',
+                         'http://saifmohammad.com/Release/AntonymsLexicon-OppCats-Affixes.gz'
+                       ]
+          },
+          {
+            'Summary' => '... //github.com/emsrc/algraeph e.marsi@gmail.com ... The corpus algraeph_RTE2_dev-dep-SUM.xml is derived from 200 text-hypothesis pairs from the second Pascal Challenge on <b>Recognizing Textual Entailment</b> ... - the Graphviz graph visualization <b>software</b> (http://www ...',
+            'URL' => 'https://github.com/emsrc/algraeph',
+            'Links' => [
+                         'https://github.com/emsrc/algraeph/archive/master.zip'
+                       ]
+          },
+          {
+            'Summary' => 'In order to run most part of this <b>software</b>, ... //github.com/mynlp/ccg2lambda.git cd ccg2lambda ... We have been using them so far for <b>recognizing textual entailment</b>.',
+            'URL' => 'https://github.com/mynlp/ccg2lambda',
+            'Links' => [
+                         'https://github.com/mynlp/ccg2lambda/archive/fracas.zip',
+                         'https://github.com/mynlp/ccg2lambda/archive/fracas.tar.gz',
+                         'https://github.com/mynlp/ccg2lambda/archive/emnlp2015.zip',
+                         'https://github.com/mynlp/ccg2lambda/archive/emnlp2015.tar.gz',
+                         'https://github.com/mynlp/ccg2lambda/archive/master.zip'
+                       ]
+          },
+          {
+            'Links' => [
+                         'http://s3.amazonaws.com/dbpedia-data/dbpedia_load.tar.gz',
+                         'http://downloads.dbpedia.org/3.2/en/types-mappingbased.nt.bz2'
+                       ],
+            'URL' => 'https://sourceforge.net/p/dbpedia/mailman/dbpedia-discussion/?viewmonth=200901',
+            'Summary' => '... Mailing list: tac-kbp@... * <b>Recognizing Textual Entailment</b> (RTE) Track Coordinators: Danilo ... · International Conference on <b>Software</b> Engineering Theory and Practice ... but not so efficient, I &gt; guess... <b>Download</b> this one: http://<b>downloads</b>.dbpedia.org/3.2/en/types ...'
+          },
+          {
+            'Links' => [
+                         'http://www.pheme.eu/wp-content/uploads/2016/04/pheme_rte_datasets_2016.zip'
+                       ],
+            'Summary' => '<b>Software</b> &amp; Data <b>Downloads</b> Graph visualisation. ... we have built a new <b>Recognizing Textual Entailment</b> (RTE) resource from Twitter data.',
+            'URL' => 'https://www.pheme.eu/software-downloads/'
+          },
+          {
+            'Summary' => 'Peter Clark - Working Notes ... How question-answering in a textbook-derived knowledge-based system and the <b>Recognizing Textual Entailment</b> (RTE) challenge are closely related. ... employing ideas from Batory\'s GenVoca approach to <b>software</b> composition. 5. KI Revisited (1995). (Postscript, PDF).',
+            'URL' => 'http://www.cs.utexas.edu/users/pclark/working_notes/',
+            'Links' => [
+                         'http://www.cs.utexas.edu/users/pclark/working_notes/builder.tar.Z'
+                       ]
+          },
+          {
+            'Links' => [
+                         'http://www.dfki.de/~neumann/resources/RTE3_DE_V1.2_2013-12-02.zip'
+                       ],
+            'Summary' => '... is an open source <b>software</b> platform containing state-of-the-art algorithms for ... we have developed TIE, which is a lightweight tool for <b>recognizing textual entailment</b> based on the Maximum Entropy Modeling framework ... online demonstration, and <b>download</b> links can be find here. Web ...',
+            'URL' => 'http://www.dfki.de/~neumann/resources.html'
+          },
+          {
+            'Links' => [
+                         'http://www.mesh-ip.eu/upload/MESH_vision.zip'
+                       ],
+            'Summary' => '<b>Downloads</b>: The MESH Brochure : 3 ... MESH Publications 2008 Conferences ... <b>Recognizing Textual Entailment</b> with Temporal Expressions in Natural Language Texts, ...',
+            'URL' => 'http://www.mesh-ip.eu/?page=publications2008'
+          },
+          {
+            'Links' => [
+                         'http://www.iba.t.u-tokyo.ac.jp/~danushka/data/MetaAna.tgz'
+                       ],
+            'Summary' => 'Media <b>Downloads</b>; Guidelines for Comments; ... <b>Recognizing Textual Entailment</b> ... Using a large set of marginally representative lexical patterns for extracting ...',
+            'URL' => 'http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0074304'
+          }
+        ];

@@ -1,0 +1,10 @@
+$VAR1 = [
+          {
+            'Summary' => 'Publications are listed in ... (2007) Soft Pattern Matching Models for <b>Definitional Question Answering</b>, ... [ .pdf ] [ Slides (.htm) ] [ <b>Download</b> the ...',
+            'Links' => [
+                         'http://www.comp.nus.edu.sg/~kanmy/software/dicomer-v120415.zip',
+                         'http://www.comp.nus.edu.sg/~kanmy/papers/resources.tex.gz'
+                       ],
+            'URL' => 'http://www.comp.nus.edu.sg/~kanmy/pubs.html'
+          }
+        ];

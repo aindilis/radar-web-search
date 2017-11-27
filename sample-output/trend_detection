@@ -1,0 +1,91 @@
+$VAR1 = [
+          {
+            'Links' => [
+                         'http://nhsbig.inhs.uiuc.edu/populations/bandops.zip',
+                         'http://nhsbig.inhs.uiuc.edu/populations/banddata.zip',
+                         'http://nhsbig.inhs.uiuc.edu/populations/bio-dap.zip',
+                         'http://nhsbig.inhs.uiuc.edu/populations/biotools.zip',
+                         'http://nhsbig.inhs.uiuc.edu/populations/brownie.zip',
+                         'http://nhsbig.inhs.uiuc.edu/populations/capture.zip',
+                         'http://nhsbig.inhs.uiuc.edu/populations/cas5demo.zip',
+                         'http://nhsbig.inhs.uiuc.edu/populations/comm.zip',
+                         'http://nhsbig.inhs.uiuc.edu/populations/contrast.zip',
+                         'http://nhsbig.inhs.uiuc.edu/populations/estimate.zip',
+                         'http://nhsbig.inhs.uiuc.edu/populations/jolly.zip',
+                         'http://nhsbig.inhs.uiuc.edu/populations/jollyage.zip',
+                         'http://nhsbig.inhs.uiuc.edu/populations/monitr62.zip',
+                         'ftp://nhsbig.inhs.uiuc.edu/pub/wes/pop34r.exe',
+                         'ftp://nhsbig.inhs.uiuc.edu/pub/wes/pop34p.exe',
+                         'http://nhsbig.inhs.uiuc.edu/populations/puma10.zip',
+                         'http://nhsbig.inhs.uiuc.edu/populations/release.zip',
+                         'http://nhsbig.inhs.uiuc.edu/populations/surge.zip',
+                         'http://nhsbig.inhs.uiuc.edu/populations/uindex4s.zip'
+                       ],
+            'URL' => 'http://nhsbig.inhs.uiuc.edu/wes/populations.html',
+            'Summary' => 'Populations <b>Software</b>. Program: Suburban Deer Model Author(s): ... the significance level associated with <b>trend detection</b>,and several other factors.'
+          },
+          {
+            'URL' => 'https://archive.epa.gov/nheerl/arm/web/html/trenddetect.html',
+            'Links' => [
+                         'https://archive.epa.gov/nheerl/arm/web/zip/spsurvey_2.4.zip',
+                         'https://archive.epa.gov/nheerl/arm/web/zip/sp_0.9-99.zip',
+                         'https://archive.epa.gov/nheerl/arm/web/exe/r-2.15.1-win.exe',
+                         'https://archive.epa.gov/nheerl/arm/web/exe/tinn-r_2.3.7.1_setup.exe',
+                         'https://archive.epa.gov/nheerl/arm/web/zip/micromap_1.9.zip',
+                         'https://archive.epa.gov/nheerl/arm/web/zip/micromap_amaab_workshop_march_2015.zip',
+                         'https://archive.epa.gov/nheerl/arm/web/zip/lakedesign.zip',
+                         'https://archive.epa.gov/nheerl/arm/web/zip/streamdesign.zip',
+                         'https://archive.epa.gov/nheerl/arm/web/zip/ecoregiondesign.zip',
+                         'https://archive.epa.gov/nheerl/arm/web/zip/estuarydesign.zip',
+                         'https://archive.epa.gov/nheerl/arm/web/zip/lakeanalysis.r.zip',
+                         'https://archive.epa.gov/nheerl/arm/web/zip/streamanalysis.r.zip',
+                         'https://archive.epa.gov/nheerl/arm/web/zip/estuaryanalysis.r.zip',
+                         'https://archive.epa.gov/nheerl/arm/web/zip/psurvey.analysis_2.12.s-plus_6_7.zip',
+                         'https://archive.epa.gov/nheerl/arm/web/zip/psurvey.analysis_2.12.s-plus_2000.zip',
+                         'https://archive.epa.gov/nheerl/arm/web/zip/lakeanalysis.s-plus.zip',
+                         'https://archive.epa.gov/nheerl/arm/web/zip/streamanalysis.s-plus.zip',
+                         'https://archive.epa.gov/nheerl/arm/web/zip/estuaryanalysis.s-plus.zip'
+                       ],
+            'Summary' => '<b>Trend Detection</b>; <b>Trend Detection</b> for Stream Physical Habitat Elements: Washington/Oregon. Linear <b>Trend Detection</b>. Hypothesis test: Slope = 0; Power: If a trend is present, ... <b>Download</b> <b>Software</b>; Aquatic Resources; Estuaries; Lakes; Streams;'
+          },
+          {
+            'URL' => 'https://archive.epa.gov/nheerl/arm/web/html/trendvar.html',
+            'Links' => [
+                         'https://archive.epa.gov/nheerl/arm/web/zip/spsurvey_2.4.zip',
+                         'https://archive.epa.gov/nheerl/arm/web/zip/sp_0.9-99.zip',
+                         'https://archive.epa.gov/nheerl/arm/web/exe/r-2.15.1-win.exe',
+                         'https://archive.epa.gov/nheerl/arm/web/exe/tinn-r_2.3.7.1_setup.exe',
+                         'https://archive.epa.gov/nheerl/arm/web/zip/micromap_1.9.zip',
+                         'https://archive.epa.gov/nheerl/arm/web/zip/micromap_amaab_workshop_march_2015.zip',
+                         'https://archive.epa.gov/nheerl/arm/web/zip/lakedesign.zip',
+                         'https://archive.epa.gov/nheerl/arm/web/zip/streamdesign.zip',
+                         'https://archive.epa.gov/nheerl/arm/web/zip/ecoregiondesign.zip',
+                         'https://archive.epa.gov/nheerl/arm/web/zip/estuarydesign.zip',
+                         'https://archive.epa.gov/nheerl/arm/web/zip/lakeanalysis.r.zip',
+                         'https://archive.epa.gov/nheerl/arm/web/zip/streamanalysis.r.zip',
+                         'https://archive.epa.gov/nheerl/arm/web/zip/estuaryanalysis.r.zip',
+                         'https://archive.epa.gov/nheerl/arm/web/zip/psurvey.analysis_2.12.s-plus_6_7.zip',
+                         'https://archive.epa.gov/nheerl/arm/web/zip/psurvey.analysis_2.12.s-plus_2000.zip',
+                         'https://archive.epa.gov/nheerl/arm/web/zip/lakeanalysis.s-plus.zip',
+                         'https://archive.epa.gov/nheerl/arm/web/zip/streamanalysis.s-plus.zip',
+                         'https://archive.epa.gov/nheerl/arm/web/zip/estuaryanalysis.s-plus.zip'
+                       ],
+            'Summary' => 'Back to <b>Trend Detection</b> Example. Local Navigation. Aquatic Resource Monitoring; Site Map; Recent Additions; Introduction; Design &amp; Analysis; Process Overview; Design: How to; GRTS Designs; Analysis: How to; <b>Download</b> <b>Software</b>; Aquatic Resources; Estuaries; Lakes; Streams ; Wetlands; Great ...'
+          },
+          {
+            'Links' => [
+                         'http://www.profsoftware.com/trend/utmc14c.exe',
+                         'http://www.profsoftware.com/trend/utts14b.exe',
+                         'http://www.profsoftware.com/download/utrs13f.zip'
+                       ],
+            'URL' => 'http://www.profsoftware.com/trend/dl.htm',
+            'Summary' => 'Universal <b>Trend Detection</b> System (UNITRDES) <b>Download</b> by Professional <b>Software</b> Solutions'
+          },
+          {
+            'Summary' => 'This is the homepage for the book Statistical Methods for <b>Trend Detection</b> and Analysis in the Environmental Sciences by Richard Chandler and Marian Scott, published ...',
+            'URL' => 'http://www.wiley.com/go/trend_detection',
+            'Links' => [
+                         'http://higheredbcs.wiley.com/legacy/college/chandler/0470015438/software/smtda.zip'
+                       ]
+          }
+        ];

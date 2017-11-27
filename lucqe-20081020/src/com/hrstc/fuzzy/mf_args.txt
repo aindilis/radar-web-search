@@ -1,0 +1,12 @@
+[Input<t1>]
+Name='tf<t2>'
+Range=[0 1]
+NumMFs=1
+MF1='high':'trimf',[0 1 2]
+
+[Input<t3>]
+Name='idf<t2>'
+Range=[0 1]
+NumMFs=1
+MF1='high':'trimf',[0 1 1]
+

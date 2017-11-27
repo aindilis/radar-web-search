@@ -1,0 +1,68 @@
+$VAR1 = [
+          {
+            'URL' => 'http://cran.mtu.edu/web/packages/tm/index.html',
+            'Summary' => '... <b>Text Mining</b> Package. A framework for <b>text mining</b> applications within R. ... <b>Downloads</b>: Reference manual: tm ... Extensions Introduction to the tm Package: Package ...',
+            'Links' => [
+                         'http://cran.mtu.edu/src/contrib/tm_0.6-2.tar.gz',
+                         'http://cran.mtu.edu/bin/windows/contrib/3.3/tm_0.6-2.zip',
+                         'http://cran.mtu.edu/bin/windows/contrib/3.2/tm_0.6-2.zip',
+                         'http://cran.mtu.edu/bin/windows/contrib/3.1/tm_0.6-2.zip',
+                         'http://cran.mtu.edu/bin/macosx/contrib/3.2/tm_0.6-2.tgz',
+                         'http://cran.mtu.edu/bin/macosx/contrib/3.1/tm_0.6-1.tgz',
+                         'http://cran.mtu.edu/bin/macosx/mavericks/contrib/3.2/tm_0.6-2.tgz'
+                       ]
+          },
+          {
+            'Summary' => 'Users can create a free account, or <b>download</b> the ASP.NET tool suite to run independently. Website: http://cat.ucsur ... Content Analysis &amp; <b>Text Mining</b> <b>Software</b>. ... WordStat combines content analysis method by using dictionary approach and many algorithms exploration or various <b>text mining</b> ...',
+            'Links' => [
+                         'http://people.csail.mit.edu/mcollins/PARSER.tar.gz'
+                       ],
+            'URL' => 'http://dirtdirectory.org/categories/text-mining'
+          },
+          {
+            'Links' => [
+                         'https://cran.r-project.org/src/contrib/tm_0.7-1.tar.gz',
+                         'https://cran.r-project.org/bin/windows/contrib/3.5/tm_0.7-1.zip',
+                         'https://cran.r-project.org/bin/windows/contrib/3.4/tm_0.7-1.zip',
+                         'https://cran.r-project.org/bin/windows/contrib/3.3/tm_0.7-1.zip',
+                         'https://cran.r-project.org/bin/macosx/el-capitan/contrib/3.4/tm_0.7-1.tgz',
+                         'https://cran.r-project.org/bin/macosx/mavericks/contrib/3.3/tm_0.7-1.tgz'
+                       ],
+            'Summary' => '... <b>Text Mining</b> Package. A framework for <b>text mining</b> applications within R. Version: 0.7-1: ... <b>Downloads</b>: Reference manual: tm.pdf : Vignettes:',
+            'URL' => 'https://cran.r-project.org/web/packages/tm/index.html'
+          },
+          {
+            'URL' => 'https://cran.rstudio.com/web/packages/textmining/index.html',
+            'Summary' => 'textmining: Integration of <b>Text Mining</b> and Topic Modeling Packages. A framework for <b>text mining</b> and topic modelling. It provides an easy interface for using different ...',
+            'Links' => [
+                         'https://cran.rstudio.com/src/contrib/textmining_0.0.1.tar.gz',
+                         'https://cran.rstudio.com/bin/windows/contrib/3.5/textmining_0.0.1.zip',
+                         'https://cran.rstudio.com/bin/windows/contrib/3.4/textmining_0.0.1.zip',
+                         'https://cran.rstudio.com/bin/windows/contrib/3.3/textmining_0.0.1.zip',
+                         'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.4/textmining_0.0.1.tgz',
+                         'https://cran.rstudio.com/bin/macosx/mavericks/contrib/3.3/textmining_0.0.1.tgz'
+                       ]
+          },
+          {
+            'URL' => 'https://pypi.python.org/pypi/textmining/1.0',
+            'Summary' => 'textmining 1.0. <b>Download</b> textmining-1.0.zip. Python <b>Text Mining</b> Utilities. This package contains a variety of useful functions for <b>text mining</b> in Python.',
+            'Links' => [
+                         'https://pypi.python.org/packages/f7/ca/3fb84b7fc0f5e51c4f8d4e6ba5bb5cc833410700bcec22594eefe072febe/textmining-1.0.zip'
+                       ]
+          },
+          {
+            'URL' => 'https://tedunderwood.com/2012/08/14/where-to-start-with-text-mining/',
+            'Links' => [
+                         'https://dl.dropbox.com/u/4713959/JDH%20article/19cTexts.zip',
+                         'https://dl.dropbox.com/u/4713959/Neuchatel/UnderwoodWordCounts.txt.zip'
+                       ],
+            'Summary' => 'In the morning I\'ll give a few examples of concrete literary results produced by <b>text mining</b>. I\'ll start the afternoon workshop ... It\'s not easy, but it\'s also not professional <b>software</b> development. So if you want to do it ... the R script won\'t work until you <b>download</b> R and open it ...'
+          },
+          {
+            'Links' => [
+                         'https://www.jstatsoft.org/index.php/jss/article/downloadSuppFile/v025i05/tm_0.3.tar.gz'
+                       ],
+            'Summary' => '<b>Text Mining</b> Infrastructure in R. ... We give a survey on <b>text mining</b> facilities in R and explain how typical application tasks can be carried ... (<b>Downloads</b>: 11343; ...',
+            'URL' => 'https://www.jstatsoft.org/article/view/v025i05'
+          }
+        ];

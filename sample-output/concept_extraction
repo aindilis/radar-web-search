@@ -1,0 +1,70 @@
+$VAR1 = [
+          {
+            'Links' => [
+                         'http://diego.asu.edu/downloads/publications/ADRMine/download_tweets.zip'
+                       ],
+            'URL' => 'http://diego.asu.edu/Publications/ADRMine.html',
+            'Summary' => 'Pharmacovigilance from social media: mining adverse drug reaction mentions using ... a machine learning-based <b>concept extraction</b> system that uses ... <b>Downloads</b> ...'
+          },
+          {
+            'Summary' => 'Users can create a free account, or <b>download</b> the ASP.NET tool suite to run independently. Website: http://cat.ucsur.pitt.edu/ Last updated: 9 May 2015. AntWordProfiler. ... <b>Concept Extraction</b>, Sentiment Analysis, and Text Categorisation. Website: ... Content Analysis &amp; Text Mining <b>Software</b>.',
+            'URL' => 'http://dirtdirectory.org/categories/text-mining',
+            'Links' => [
+                         'http://people.csail.mit.edu/mcollins/PARSER.tar.gz'
+                       ]
+          },
+          {
+            'Summary' => 'Notes on extracting NVM topics Raw. NMV.md ... Complement <b>concept extraction</b> with keyword extraction. ... , demo, lead, screen, call, reliability, consultant, multi-tenant, multi tenant, platform, backup, <b>software</b>, training, storage room, interrogation, investment, DDR, officer, US media ...',
+            'URL' => 'https://gist.github.com/tgalery/6e9a2ae47829d3062c7b',
+            'Links' => [
+                         'https://gist.github.com/tgalery/6e9a2ae47829d3062c7b/archive/fd0afe2dd7447b3f27ff0530187551ca3e7f5101.zip'
+                       ]
+          },
+          {
+            'Links' => [
+                         'https://github.com/Georgetown-IR-Lab/QuickUMLS/archive/1.2.zip',
+                         'https://github.com/Georgetown-IR-Lab/QuickUMLS/archive/1.2.tar.gz',
+                         'https://github.com/Georgetown-IR-Lab/QuickUMLS/archive/1.1.2.zip',
+                         'https://github.com/Georgetown-IR-Lab/QuickUMLS/archive/1.1.2.tar.gz',
+                         'https://github.com/Georgetown-IR-Lab/QuickUMLS/archive/1.1.1.zip',
+                         'https://github.com/Georgetown-IR-Lab/QuickUMLS/archive/1.1.1.tar.gz',
+                         'https://github.com/Georgetown-IR-Lab/QuickUMLS/archive/1.1.zip',
+                         'https://github.com/Georgetown-IR-Lab/QuickUMLS/archive/1.1.tar.gz',
+                         'https://github.com/Georgetown-IR-Lab/QuickUMLS/archive/master.zip'
+                       ],
+            'Summary' => 'We recommend to <b>download</b> the latest tested version from the releases section. NEW: v.1.2 now includes client/server support! Start a QuickUMLS server once, avoid ...',
+            'URL' => 'https://github.com/Georgetown-IR-Lab/QuickUMLS'
+          },
+          {
+            'Links' => [
+                         'ftp://ftp.cs.utexas.edu/pub/mooney/bio-data/interactions.tar.gz'
+                       ],
+            'Summary' => 'Pooling annotated corpora for clinical <b>concept extraction</b>. Kavishwar B Wagholikar 1 Email author, ... programs in Mallet machine learning <b>software</b> suite for sequence tagging and clinical corpora from the i2b2/VA challenge, ... <b>Download</b> PDF. <b>Download</b> ePub. Export citations. Citations &amp; References ...',
+            'URL' => 'https://jbiomedsem.biomedcentral.com/articles/10.1186/2041-1480-4-3'
+          },
+          {
+            'Links' => [
+                         'https://downloads.wordpress.org/plugin/blobinator.1.3.1.zip'
+                       ],
+            'Summary' => 'Our free Blobinator cognitive content analyzer plugin for WordPress provides deep text analysis of your posts, ... <b>Concept extraction</b> and discovery; Cognitive tagging: ... "Cognitive Content Analyzer" is open source <b>software</b>. The following people have contributed to this plugin. Contributors.',
+            'URL' => 'https://wordpress.org/plugins/blobinator/'
+          },
+          {
+            'Summary' => 'Automatic Medical <b>Concept Extraction</b> from Free Text Clinical Reports, ... The International Journal of Computers is an open access journal. ... <b>Software</b> Engineering, Data Structures, File Structures and Design, ...',
+            'URL' => 'http://www.iaras.org/iaras/journals/ijc',
+            'Links' => [
+                         'http://www.iaras.org/iaras/filedownloads/pdf/latex.zip'
+                       ]
+          },
+          {
+            'Links' => [
+                         'http://www.kozareva.com/data/kozareva_taxonomy_data.zip',
+                         'http://www.kozareva.com/data/kozareva-emnlp09-annotation.zip',
+                         'http://www.kozareva.com/data/kozareva_gold_data_acl08.zip',
+                         'http://www.d.umn.edu/~tpederse/Data/cicling2006-data.zip',
+                         'http://www.d.umn.edu/~tpederse/Data/cicling2006-stoplists.zip'
+                       ],
+            'Summary' => '<b>Downloads</b>. Data sets I have ... Reference: Zornitsa Kozareva and Eduard Hovy, ... Toward Completeness in <b>Concept Extraction</b> and Classification. in Proceedings of ...',
+            'URL' => 'http://www.kozareva.com/downloads.html'
+          }
+        ];

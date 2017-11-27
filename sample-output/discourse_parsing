@@ -1,0 +1,96 @@
+$VAR1 = [
+          {
+            'Summary' => 'arne-cl / rst_discourse_parser. Code. Issues 0. ... * The overall <b>software</b> work flow is similar to the one described in our paper ... and after <b>discourse parsing</b>.',
+            'URL' => 'https://github.com/arne-cl/rst_discourse_parser',
+            'Links' => [
+                         'http://www.cs.toronto.edu/~weifeng/software/discourse_parse-2.01.tar.gz',
+                         'http://www.cs.toronto.edu/~weifeng/software/discourse_parse-1.01.tar.gz',
+                         'https://github.com/arne-cl/rst_discourse_parser/archive/master.zip'
+                       ]
+          },
+          {
+            'URL' => 'https://github.com/irit-melodi/attelo',
+            'Summary' => 'Clone or <b>download</b>. Clone with HTTPS ... Attelo is a <b>discourse parsing</b> library. ... Any Licensee who may distribute a Modified <b>Software</b> hereby expressly agrees to:',
+            'Links' => [
+                         'https://github.com/irit-melodi/attelo/archive/master.zip'
+                       ]
+          },
+          {
+            'Summary' => '<b>Discourse parsing</b>. <b>Discourse parsing</b> is ... we developed a text-level discourse parser, <b>download</b> here ... My research focus is on using special features coming from ...',
+            'URL' => 'http://www.cs.toronto.edu/~weifeng/research.html',
+            'Links' => [
+                         'http://www.cs.toronto.edu/~weifeng/software/discourse_parse-2.01.tar.gz',
+                         'http://www.cs.toronto.edu/~weifeng/software/discourse_parse-1.01.tar.gz'
+                       ]
+          },
+          {
+            'Links' => [
+                         'http://www.nilc.icmc.usp.br/nilc/download/NLE498.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/CadernosComp2.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/REIC.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/RT_0304_final.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/CL2003Lacio.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/../download/pap_058_Alu.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/ASAICaseli03.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/ENIACaseli03.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/WTDIACaseli.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/Propor98DicUW.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/CL2003Val.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/MacPropor.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/Martins_Rino_Nunes_&_Oliveira_2002.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/NLPRS2001-CMartinsRino.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/Interlingua.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/Final.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/Propor98Deco.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/Nunesfinal.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/Artigo.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/criticalanalysis.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/SoaresNunes.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/ivworkcomp.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/NILC-TR-01-8.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/TR_Tagger.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/NILC004doc.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/../download/NILC-TR-06-09.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/NILC-TR-05-09.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/NILC-TR-05-09_en.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/NILC-TR-02-19.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/NILC-TR-02-09.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/NILC-TR-02-07.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/NILCTR0710-DiasDaSilvaEtAl_pdf.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/NILC-TR-01-4.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/NILC-TR-00-11.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/NILCTR02-8.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/NILC00-5doc.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/NILC00-7doc.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/nilc-tr-02-26.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/NILC-TR-02-10.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/NILCTR0201-CMartinsRino.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/NILC-TR-01-5.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/NILCTR0211-CMartinsRino.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/rt-dc-002-2001.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/NILC-TR-00-1.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/NILC-TR-98-1.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/NILC-TR-97-1.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/NILC-TR-00-9.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/reltec1.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/ND38.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/NILC00-8doc.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/NILC-TR-01-3.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/NILCTR0202-Pardo.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/NILC00-3doc.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/NILC-TR-01-6.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/NILC-TR-97-2.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/NILC-TR-01-9.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/NILCTR0212-SpeciaRino.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/TR0204-SpeciaRino.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/../download/relatoriotecnico.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/Diss-Lucas_pdf.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/AGBmestrado.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/TeseFinalBonfante.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/JMPtese.zip',
+                         'http://www.nilc.icmc.usp.br/nilc/download/Alex.zip'
+                       ],
+            'Summary' => '<b>download</b>. Amancio, D. R ... De Oliveira, M.C.F.; Garcia Neto, A.; Maseiro, P.C.; Oliveira Jr., O.N.; Writing tools and a <b>software</b> architecture to assist writing in a foreign ... Pardo, T.A.S. (2015). Adaptation of <b>Discourse Parsing</b> Models for Portuguese Language. In the Proceedings of the 4th ...',
+            'URL' => 'http://www.nilc.icmc.usp.br/nilc/index.php/publications'
+          }
+        ];

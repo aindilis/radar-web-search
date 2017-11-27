@@ -1,0 +1,115 @@
+$VAR1 = [
+          {
+            'URL' => 'http://cs.stanford.edu/people/karpathy/convnetjs/started.html',
+            'Summary' => '<b>Deep Learning</b> in your browser. Intro. Deep ... you can also choose to <b>download</b> the latest release of the library from Github.The file you are probably most ...',
+            'Links' => [
+                         'https://github.com/karpathy/convnetjs/releases/download/2014.08.31/convnetjs_release.zip',
+                         'https://github.com/karpathy/convnetjs/archive/2014.08.31.zip',
+                         'https://github.com/karpathy/convnetjs/archive/2014.08.31.tar.gz'
+                       ]
+          },
+          {
+            'Links' => [
+                         'http://www.cs.toronto.edu/~ranzato/publications/factored3wayRBM/code/factored3wayBM_04May2010.zip',
+                         'http://www.cs.toronto.edu/~ranzato/publications/mcRBM/code/mcRBM_04May2010.zip'
+                       ],
+            'Summary' => '<b>Software</b> links. Theano - CPU/GPU symbolic expression compiler in python ... MXNet - MXNet is a <b>deep learning</b> framework designed for both efficiency and flexibility.',
+            'URL' => 'http://deeplearning.net/software_links/'
+          },
+          {
+            'Summary' => 'Getting Started ¶ These tutorials do ... What\'s exciting about <b>Deep Learning</b> is largely the use of unsupervised learning of deep networks.',
+            'URL' => 'http://deeplearning.net/tutorial/gettingstarted.html',
+            'Links' => [
+                         'http://deeplearning.net/data/mnist/mnist.pkl.gz'
+                       ]
+          },
+          {
+            'URL' => 'http://hidl.cse.ohio-state.edu/downloads/',
+            'Summary' => 'High-Performance <b>Deep Learning</b> (HiDL) Network-Based Computing Laboratory. OSU-Caffe 0.9 . The OSU-Caffe library is distributed under the BSD License.',
+            'Links' => [
+                         'http://hidl.cse.ohio-state.edu/download/hidl/osu-caffe/0.9/mofed3.2/osu-caffe-0.9-cuda7.5-gnu-el7.centos.tgz',
+                         'http://hidl.cse.ohio-state.edu/download/hidl/osu-caffe/0.9/mofed3.2/osu-caffe-0.9-cuda7.5-intel-el7.centos.tgz',
+                         'http://hidl.cse.ohio-state.edu/download/hidl/osu-caffe/0.9/mofed3.2/osu-caffe-0.9-cuda7.5-gnu-el6.tgz',
+                         'http://hidl.cse.ohio-state.edu/download/hidl/osu-caffe/0.9/mofed3.2/osu-caffe-0.9-cuda7.5-intel-el6.tgz'
+                       ]
+          },
+          {
+            'URL' => 'http://nlp.stanford.edu/courses/NAACL2013/',
+            'Summary' => '<b>Deep Learning</b> for Natural Language Processing (without Magic) A tutorial given at NAACL HLT 2013. Based on an earlier tutorial given at ACL 2012 by Richard Socher, Yoshua Bengio, and Christopher Manning.',
+            'Links' => [
+                         'http://nlp.stanford.edu/~socherr/pa4-ner.zip',
+                         'http://nlp.stanford.edu/~socherr/sparseae_exercise.zip'
+                       ]
+          },
+          {
+            'URL' => 'https://01.org/intel-deep-learning-framework/downloads',
+            'Summary' => 'Intel® <b>Deep Learning</b> Framework. Home; <b>Downloads</b>; Git Repo; Share. Share. Github Repo; Share. Share. Home; <b>Downloads</b>; Filter by keyword: by type: by version:',
+            'Links' => [
+                         'https://01.org/sites/default/files/downloads/intel-deep-learning-framework/weightscaffenet.zip'
+                       ]
+          },
+          {
+            'URL' => 'https://medium.com/towards-data-science/ubuntu-deep-learning-software-installation-guide-fdae09f79903',
+            'Summary' => 'I recently built a <b>deep learning</b> machine after enrolling in Udacity\'s Self-Driving Car Engineer Nanodegree. You can read about my build here: Build a <b>Deep Learning</b> ...',
+            'Links' => [
+                         'https://repo.continuum.io/archive/Anaconda3-4.4.0-Windows-x86_64.exe',
+                         'https://repo.continuum.io/archive/Anaconda3-4.4.0-Windows-x86.exe',
+                         'https://repo.continuum.io/archive/Anaconda2-4.4.0-Windows-x86_64.exe',
+                         'https://repo.continuum.io/archive/Anaconda2-4.4.0-Windows-x86.exe'
+                       ]
+          },
+          {
+            'URL' => 'https://rapidminer.com/resource/the-hype-deep-learning/',
+            'Summary' => '<b>Deep Learning</b> is certainly all the rage but is it worth all the hype? Will it send your organization rocketing past competitors in an AI-fueled space jet?',
+            'Links' => [
+                         'https://1xltkxylmzx3z8gd647akcdvov-wpengine.netdna-ssl.com/wp-content/uploads/2016/11/deep-learning-processes.zip'
+                       ]
+          },
+          {
+            'URL' => 'https://www.h2o.ai/download/',
+            'Summary' => '<b>Deep learning</b> detects patterns in fraud and money laundering activities and ... <b>Download</b> Sparkling Water 2.1 <b>Download</b> ... the killer app for Spark. Seamlessly transition back and forth between Spark and H2O. Open Source <b>Software</b>, Apache 2.0 licensed. Use Scala or Python to build models. Power of ...',
+            'Links' => [
+                         'http://s3.amazonaws.com/h2o-deepwater/public/nightly/latest/h2o.jar',
+                         'http://s3.amazonaws.com/h2o-deepwater/public/nightly/latest/h2o_3.11.0.tar.gz'
+                       ]
+          },
+          {
+            'URL' => 'https://www.reddit.com/r/megalinks/comments/4qtrc1/software_crazy_stone_deep_learning_the_first/',
+            'Summary' => 'MEGA links found on other sites cannot be reposted directly here, please <b>download</b> the file(s) ... [<b>SOFTWARE</b>] Crazy Stone <b>Deep Learning</b> -The First Edition- submitted 11 months ago by badukRodent. 1 comment; share; all 1 comments. sorted by:',
+            'Links' => [
+                         'https://megatools.megous.com/builds/megatools-1.9.98-win32.zip'
+                       ]
+          },
+          {
+            'Summary' => 'DeepBind NBT Code &amp; Data <b>Download</b> The code and data on this page were used to the models in the following paper: B. Alipanahi, A. Delong, M. T. Weirauch, and B. J. Frey. Predicting the sequence specificities of DNA- and RNA-binding proteins by <b>deep learning</b>.',
+            'URL' => 'http://tools.genes.toronto.edu/deepbind/nbtcode/',
+            'Links' => [
+                         'http://tools.genes.toronto.edu/deepbind/nbtcode/nbt3300-supplementary-software.zip'
+                       ]
+          },
+          {
+            'Links' => [
+                         'http://www.uta.edu/faculty/manry/Software/MOLF_ADAPT_VERSION2.rar',
+                         'http://www.uta.edu/faculty/manry/Software/DL_CODE.rar',
+                         'http://www.uta.edu/faculty/manry/Software/MOLF_ADAPT.zip',
+                         'http://www.uta.edu/faculty/manry/Software/MOLF_ADAPT_MERGE.zip',
+                         'http://www.uta.edu/faculty/manry/Software/HWO_MOLF.zip',
+                         'http://www.uta.edu/faculty/manry/Software/RBF_MKM.zip',
+                         'http://www.uta.edu/faculty/manry/Software/owo_newton.zip',
+                         'http://www.uta.edu/faculty/manry/Software/CG.zip',
+                         'http://www.uta.edu/faculty/manry/Software/OLFBP3.zip',
+                         'http://www.uta.edu/faculty/manry/Software/Free-MLP/MLP-MAP.zip',
+                         'http://www.uta.edu/faculty/manry/Software/Free-MLP/MLP-CLASS.zip',
+                         'http://www.uta.edu/faculty/manry/Software/OWO_BP_MATLAB.zip',
+                         'https://github.com/rohitrawat/stats_tool/archive/master.zip',
+                         'http://www.uta.edu/faculty/manry/Software/dependency_det/DependencyDetectorSoftware.zip',
+                         'http://www.uta.edu/faculty/manry/Software/BGC/BGC.zip',
+                         'http://www.uta.edu/faculty/manry/Software/mailseg/MailSegmentation.zip',
+                         'http://www-ee.uta.edu/eeweb/IP/Software/Mapping/NuMap71.zip',
+                         'http://www-ee.uta.edu/eeweb/IP/Software/Classification/NuClass71.zip',
+                         'http://www-ee.uta.edu/eeweb/IP/Software/GIGO-Setup.zip'
+                       ],
+            'Summary' => 'IPNNL <b>Software</b>. IPNNL produces neural net related <b>software</b>, ... <b>Download</b> Read Me: <b>DEEP LEARNING</b>(MATLAB) Added on 11/14/2016 . <b>Software</b> for Designing <b>Deep Learning</b> Networks: <b>Download</b> Read Me: MOLF-ADAPT (MATLAB version) Compiled 08/24/2015 .',
+            'URL' => 'http://www.uta.edu/faculty/manry/new_software.html'
+          }
+        ];

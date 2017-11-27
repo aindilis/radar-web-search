@@ -1,0 +1,138 @@
+$VAR1 = [
+          {
+            'URL' => 'http://event-pad.com/',
+            'Summary' => 'Elegant Support For <b>Hypothesis Generation</b> and Testing Eventpad has won a ... <b>Download</b>. Linux. ... Together they combine their knowledge in the area of <b>software</b> ...',
+            'Links' => [
+                         'http://www.bramcappers.nl/files/Eventpad.zip',
+                         'http://www.bramcappers.nl/files/EventpadMac.zip',
+                         'http://www.bramcappers.nl/files/EventpadLinux.zip'
+                       ]
+          },
+          {
+            'URL' => 'http://megraw.cgrb.oregonstate.edu/software/indecut',
+            'Links' => [
+                         'https://www.python.org/ftp/python/3.6.1/Python-3.6.1.tar.xz',
+                         'https://www.python.org/ftp/python/2.7.13/Python-2.7.13.tar.xz',
+                         'https://www.python.org/ftp/python/3.6.1/python-3.6.1.exe',
+                         'http://megraw.cgrb.oregonstate.edu/sites/default/files/files/indecut.zip'
+                       ],
+            'Summary' => 'This concept is a widely-used <b>hypothesis generation</b> tool to identify cases in which a small genetic sub ... IndeCut is open source <b>software</b>. ... <b>Download</b> indecut.zip.'
+          },
+          {
+            'URL' => 'https://archive.org/details/DTIC_ADA060786',
+            'Summary' => 'A <b>hypothesis generation</b> model is described which consists of two sub-processes. Hypotheses are retrieved from memory using several data as retrieval cues in...',
+            'Links' => [
+                         'https://archive.org/download/DTIC_ADA060786/DTIC_ADA060786_abbyy.gz',
+                         'https://archive.org/download/DTIC_ADA060786/DTIC_ADA060786_daisy.zip',
+                         'https://archive.org/download/DTIC_ADA060786/DTIC_ADA060786_jp2.zip'
+                       ]
+          },
+          {
+            'URL' => 'https://archive.org/details/DTIC_ADA072753',
+            'Summary' => 'Three experiments were performed to provide evidence that the generation of hypotheses in response to multiple data involves two independent cognitive...',
+            'Links' => [
+                         'https://archive.org/download/DTIC_ADA072753/DTIC_ADA072753_abbyy.gz',
+                         'https://archive.org/download/DTIC_ADA072753/DTIC_ADA072753_daisy.zip',
+                         'https://archive.org/download/DTIC_ADA072753/DTIC_ADA072753_jp2.zip'
+                       ]
+          },
+          {
+            'Summary' => 'BioGraph: unsupervised biomedical knowledge discovery via automated ... automated <b>hypothesis generation</b> platform is ... edu:8080/miR2Disease/<b>download</b> ...',
+            'Links' => [
+                         'http://ctd.mdibl.org/reports/CTD_chem_gene_ixns.tsv.gz',
+                         'http://ctd.mdibl.org/reports/CTD_chem_disease_relations.tsv.gz',
+                         'http://ctd.mdibl.org/reports/CTD_gene_disease_relations.tsv.gz',
+                         'ftp://ftp.ebi.ac.uk/pub/databases/GO/goa/HUMAN/gene_association.goa_human.gz',
+                         'ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/taxonomic_divisions/uniprot_sprot_human.dat.gz',
+                         'ftp://ftp.ebi.ac.uk/pub/databases/interpro/interpro.xml.gz',
+                         'ftp://ftp.ncbi.nih.gov/repository/OMIM/ARCHIVE/omim.txt.Z',
+                         'http://diana.cslab.ece.ntua.gr/data/public/TarBase_V5.0.rar'
+                       ],
+            'URL' => 'https://genomebiology.biomedcentral.com/articles/10.1186/gb-2011-12-6-r57'
+          },
+          {
+            'URL' => 'https://github.com/tomazas/opencv-lane-vehicle-track',
+            'Links' => [
+                         'https://github.com/tomazas/opencv-lane-vehicle-track/archive/master.zip',
+                         'https://github.com/tomazas/opencv-lane-vehicle-track/blob/master/bin/flowdemo.exe'
+                       ],
+            'Summary' => 'Join GitHub today. GitHub is home to ... manage projects, and build <b>software</b> together. Sign up. ... Haar features for vehicle detection (<b>hypothesis generation</b>) [2]'
+          },
+          {
+            'Summary' => 'Join GitHub today. GitHub is home to over 20 million developers working together to host and review code, manage projects, and build <b>software</b> together.',
+            'Links' => [
+                         'https://github.com/zhreshold/opencv-lane-vehicle-track/archive/master.zip',
+                         'https://github.com/zhreshold/opencv-lane-vehicle-track/blob/master/bin/flowdemo.exe'
+                       ],
+            'URL' => 'https://github.com/zhreshold/opencv-lane-vehicle-track'
+          },
+          {
+            'Summary' => 'Homepage of Ilya Safro. Ilya Safro. ... Automatic Biomedical <b>Hypothesis Generation</b> System <b>download</b>. ... Optimization Methods and <b>Software</b> ...',
+            'Links' => [
+                         'https://people.cs.clemson.edu/~isafro/mlsvm/mlsvm.tar.gz',
+                         'https://people.cs.clemson.edu/~isafro/minlasolver.tar.gz'
+                       ],
+            'URL' => 'https://people.cs.clemson.edu/~isafro/'
+          },
+          {
+            'Links' => [
+                         'https://people.cs.clemson.edu/~isafro/mlsvm/mlsvm.tar.gz',
+                         'https://people.cs.clemson.edu/~isafro/minlasolver.tar.gz'
+                       ],
+            'Summary' => 'MOLIERE: Automatic Biomedical <b>Hypothesis Generation</b>. <b>Download</b> knowledge network; Implementation (&gt; code will be available soon ) Access the system',
+            'URL' => 'https://people.cs.clemson.edu/~isafro/software.html'
+          },
+          {
+            'URL' => 'https://pypi.python.org/pypi/crosstalk-correction/1.0.5',
+            'Links' => [
+                         'https://pypi.python.org/packages/2c/a2/19426793401eafb2cfcc19ed3a5131e6e7c23b244a75b40e8f1800f866ff/crosstalk-correction-1.0.5.tar.gz'
+                       ],
+            'Summary' => '<b>Download</b> crosstalk -correction-1.0.5 ... The crosstalk correction method is used in the PathCORE-T <b>software</b>, a <b>hypothesis generation</b> tool that identifies co-occurring ...'
+          },
+          {
+            'URL' => 'https://ritchielab.psu.edu/software/phewas-view-download',
+            'Links' => [
+                         'https://ritchielab.psu.edu/files/RL_software/phewas-view-sup.tgz'
+                       ],
+            'Summary' => 'BioBin <b>Download</b> ; Biofilter <b>Download</b> ... What is PheWAS-View? We have developed the <b>software</b> PheWAS-View for visually ... and foster <b>hypothesis generation</b> ...'
+          },
+          {
+            'Links' => [
+                         'https://s3.amazonaws.com/content.schrodinger.com/Resources/GlideDownloads/Schrodinger_1KLigandDecoys_Epik.zip'
+                       ],
+            'Summary' => 'Glide offers the full ... ö "Energetic analysis of fragment docking and application to structure-based pharmacophore <b>hypothesis generation</b> ... <b>Download</b> <b>Software</b> ...',
+            'URL' => 'https://www.schrodinger.com/Glide/'
+          },
+          {
+            'URL' => 'http://www.compcog.com/software.html',
+            'Summary' => 'CCL <b>Software</b> and Code. Resources ... The CC Lab is leading a project within Neurosynth to build lexical concept discovery algorithms into the <b>hypothesis generation</b> ...',
+            'Links' => [
+                         'http://www.indiana.edu/~clcl/holoword/Site/__files/holoword_GUI.zip'
+                       ]
+          },
+          {
+            'URL' => 'http://www.cs.umd.edu/hcil/hce/power/power.html',
+            'Summary' => 'An Interactive Power Analysis Tool for Microarray Hypothesis Testing and ... and <b>hypothesis generation</b>. ... integrated into our public domain HCE 3.5 <b>software</b> ...',
+            'Links' => [
+                         'http://www.cs.umd.edu/hcil/hce/power/spinal-cord.zip',
+                         'http://www.cs.umd.edu/hcil/hce/power/HCE3.5.zip'
+                       ]
+          },
+          {
+            'URL' => 'http://www.ericsayre.com/vwuo-md.htm',
+            'Summary' => 'Dr. Eric C. Sayre, PhD is a scientist, author &amp; programmer. Try for free! VWUO-MD is data mining <b>software</b> for <b>hypothesis generation</b>.',
+            'Links' => [
+                         'http://www.ericsayre.com/downloads/VWUO-MD%20Version%201.12(TRIAL).zip'
+                       ]
+          },
+          {
+            'URL' => 'http://www.genomics.jhu.edu/modules.html',
+            'Links' => [
+                         'http://download.virtualbox.org/virtualbox/5.1.22/VirtualBox-5.1.22-115126-Win.exe',
+                         'http://download.virtualbox.org/virtualbox/5.1.22/VirtualBox-5.1.22-115126-SunOS.tar.gz',
+                         'http://download.virtualbox.org/virtualbox/5.1.22/VirtualBoxSDK-5.1.22-115126.zip',
+                         'http://download.virtualbox.org/virtualbox/5.1.22/VirtualBox-5.1.22.tar.bz2'
+                       ],
+            'Summary' => 'Short Courses and Workshops. ... Statistics and Data Analysis Using R is a hands-on introduction to the R statistical <b>software</b> ... <b>Hypothesis generation</b> and ...'
+          }
+        ];

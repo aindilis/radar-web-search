@@ -1,0 +1,103 @@
+$VAR1 = [
+          {
+            'Links' => [
+                         'http://code.msdn.microsoft.com/Getting-Started-with-91a65652/file/114474/1/MvcMovieRTM.zip'
+                       ],
+            'Summary' => '<b>Downloads</b>; Community . Overview; Community Spotlight; Articles of the Day; What\'s new; ... Broken <b>Link Detection</b> [Answered] RSS. 1 reply Last post Aug 13, 2008 08 ...',
+            'URL' => 'http://forums.asp.net/t/1305152.aspx?Broken+Link+Detection'
+          },
+          {
+            'Links' => [
+                         'http://haiola.org/haiola.zip',
+                         'http://haiola.org/setuphaiola.exe'
+                       ],
+            'Summary' => 'Haiola <b>Downloads</b>. You may <b>download</b> the current version of Haiola here: File name: Description: ... Corrected setup bug affecting reference <b>link detection</b> feature.',
+            'URL' => 'http://haiola.org/download.htm'
+          },
+          {
+            'Summary' => 'feed-crawl: Utility for fetching feeds with redirect info and HTML <b>link detection</b> The feed-crawl package ... <b>Downloads</b>: 536 total (13 in the last 30 days) Votes: 0 []',
+            'Links' => [
+                         'https://hackage.haskell.org/package/text-1.2.2.2/text-1.2.2.2.tar.gz',
+                         'https://hackage.haskell.org/package/feed-crawl-0.1.2.0/feed-crawl-0.1.2.0.tar.gz'
+                       ],
+            'URL' => 'https://hackage.haskell.org/package/feed-crawl'
+          },
+          {
+            'URL' => 'https://kb.netgear.com/app/answers/detail/a_id/29880',
+            'Links' => [
+                         'http://www.downloads.netgear.com/files/GDC/FVS336Gv2/fvs336gv2_v4.3.3-6.zip'
+                       ],
+            'Summary' => '<b>Link detection</b> processes are seen for WAN3 and WAN4 also but device is having only WAN1 and ... http://www.<b>downloads</b>.netgear.com/files/GDC/FVS336Gv2/fvs336gv2_v4.3.3 ...'
+          },
+          {
+            'Summary' => '<b>Link detection</b> processes are seen for WAN3 and WAN4 also but device is having only WAN1 and ... http://www.<b>downloads</b>.netgear.com/files/GDC/FVS318GV2/FVS318Gv2_V4.3.4 ...',
+            'Links' => [
+                         'http://www.downloads.netgear.com/files/GDC/FVS318GV2/FVS318Gv2_V4.3.4-2.zip'
+                       ],
+            'URL' => 'https://kb.netgear.com/app/answers/detail/a_id/31413'
+          },
+          {
+            'Summary' => 'The utility comes with unique features like an integrated tabbed browser with auto-<b>link detection</b>, ... Simply The Best Ever Automated Downloader For Popular Free File-Hosters; Get Your Free ... Great <b>software</b>. <b>download</b> is a little bit slow.. but no hassle from captcha.When using IDM I ...',
+            'Links' => [
+                         'http://www.mipony.net/downloads/Mipony-Installer.exe'
+                       ],
+            'URL' => 'https://www.megaleecher.net/MiPony'
+          },
+          {
+            'URL' => 'https://www.poweradmin.com/help/',
+            'Links' => [
+                         'https://www.poweradmin.com/watchdisk/wdsk32.exe'
+                       ],
+            'Summary' => 'Help and Documentation Frequently Asked ... Symbolic <b>Link Detection</b>; ... Products PA Server Monitor; PA Storage Monitor; PA File Sight; PA WatchDISK; <b>Downloads</b>; Docs ...'
+          },
+          {
+            'URL' => 'http://www.downloadpipe.com/free-trial/Reciprocal-Link-Checker-download88340.html',
+            'Summary' => 'Reciprocal Link Checker free <b>download</b>. ... Version 2.0 contains much more accurate reciprocal <b>link detection</b> and advanced automation options to integrate with your existing website ... Our Reciprocal Link Checker <b>software</b> gives you the ability to spider entire websites in order to find and ...',
+            'Links' => [
+                         'http://www.rebrandsoftware.com/programs/consumer/ReciprocalLinkCheckerSetup.exe'
+                       ]
+          },
+          {
+            'URL' => 'http://www.raymarine.com/knowledgebase/index.cfm?view=3761',
+            'Summary' => 'Improved STHS <b>Link Detection</b> (2-amber blinks if the SeatalkHS is totally unplugged). Improved STHS MFD Detection ...',
+            'Links' => [
+                         'https://flir.box.com/shared/static/68ksrit1o7ap3lrjzb0q.zip',
+                         'https://flir.box.com/shared/static/qgaj1btmjlezv7n8zqji.zip',
+                         'https://flir.box.com/shared/static/xsk4dk4jp11umb633qu2.zip',
+                         'https://flir.box.com/shared/static/erguoiev24zp96x3dufk.zip',
+                         'https://flir.box.com/shared/static/gaa23inedeol9l2uq1qa.zip',
+                         'https://flir.box.com/shared/static/m48nve9ywm6izfrniiif.zip',
+                         'https://flir.box.com/shared/static/1uovcx0b8zkv6jxjh1nm.zip',
+                         'https://flir.box.com/shared/static/lh57u0tn0xphj7hb1a5u.zip',
+                         'https://raymarine.box.com/shared/static/jxx7mas2g8d87w34eqi6ohvyg1k7mkwk.zip',
+                         'https://raymarine.box.com/shared/static/td43zgq3mqucn629h104clao2pouiacc.zip',
+                         'https://raymarine.box.com/shared/static/j7xv9evp9vcizi1hqbugek1zaag5p82w.zip',
+                         'https://raymarine.box.com/shared/static/i4vk0xyf8w7tqtki8et8jafj7c163f48.zip',
+                         'https://raymarine.box.com/shared/static/i5h3u9txt63kd7anmr4j6jjdfmhpjjdf.zip',
+                         'https://raymarine.box.com/shared/static/dckq71hzhx3snhtv0r43l4tpj76h1ary.zip',
+                         'https://raymarine.box.com/shared/static/b9m42j89dvo75jrssd5l8y3kjauk7c26.zip',
+                         'https://raymarine.box.com/shared/static/9aeomxh13rhmqzv7kvwk1bmscy25fjl2.zip'
+                       ]
+          },
+          {
+            'Summary' => '<b>Software</b> Update: DSM30/300/300G. Explore FLIR. For Your Life; For Your Work ... Improved STHS <b>Link Detection</b> (2-amber blinks if the SeatalkHS is totally unplugged).',
+            'Links' => [
+                         'https://raymarine.box.com/shared/static/jxx7mas2g8d87w34eqi6ohvyg1k7mkwk.zip',
+                         'https://raymarine.box.com/shared/static/td43zgq3mqucn629h104clao2pouiacc.zip',
+                         'https://raymarine.box.com/shared/static/j7xv9evp9vcizi1hqbugek1zaag5p82w.zip',
+                         'https://raymarine.box.com/shared/static/i4vk0xyf8w7tqtki8et8jafj7c163f48.zip',
+                         'https://raymarine.box.com/shared/static/i5h3u9txt63kd7anmr4j6jjdfmhpjjdf.zip',
+                         'https://raymarine.box.com/shared/static/dckq71hzhx3snhtv0r43l4tpj76h1ary.zip',
+                         'https://raymarine.box.com/shared/static/b9m42j89dvo75jrssd5l8y3kjauk7c26.zip',
+                         'https://raymarine.box.com/shared/static/9aeomxh13rhmqzv7kvwk1bmscy25fjl2.zip'
+                       ],
+            'URL' => 'http://www.raymarine.com/view/?id=3761'
+          },
+          {
+            'URL' => 'http://www.ticalc.org/archives/files/fileinfo/115/11567.html',
+            'Links' => [
+                         'http://www.ticalc.org/pub/85/basic/programs/link.zip'
+                       ],
+            'Summary' => 'Filename link.zip Title <b>Link Detection</b> System Description A simple, small BASIC program that tests whether the link between two TI-85 calculators is working.'
+          }
+        ];

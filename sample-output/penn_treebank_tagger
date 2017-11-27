@@ -1,0 +1,48 @@
+$VAR1 = [
+          {
+            'Links' => [
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.24.1.2402/ActivePerl-5.24.1.2402-MSWin32-x86-64int-401627.exe',
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.24.1.2402/ActivePerl-5.24.1.2402-MSWin32-x64-401627.exe',
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.24.1.2402/ActivePerl-5.24.1.2402-x86_64-linux-glibc-2.15-401614.tar.gz',
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.22.3.2204/ActivePerl-5.22.3.2204-MSWin32-x86-64int-401627.exe',
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.22.3.2204/ActivePerl-5.22.3.2204-MSWin32-x64-401627.exe',
+                         'https://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.22.3.2204/ActivePerl-5.22.3.2204-x86_64-linux-glibc-2.15-401614.tar.gz',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/2.7.13.2715/ActivePython-2.7.13.2715-win64-x64-402859.exe',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/2.7.13.2715/ActivePython-2.7.13.2715-linux-x86_64-glibc-2.12-402695.tar.gz',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.5.3.3505/ActivePython-3.5.3.3505-win64-x64-402859.exe',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.5.3.3505/ActivePython-3.5.3.3505-linux-x86_64-glibc-2.12-402696.tar.gz',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.6.0.3600/ActivePython-3.6.0.3600-win64-x64-401834.exe',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.6.0.3600/ActivePython-3.6.0.3600-linux-x86_64-glibc-2.3.6-401834.tar.gz',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.6.0.3600/ActivePython-3.6.0.3600-win32-x86-401834.exe',
+                         'https://www.activestate.com/activepython/downloads/thank-you?dl=http://downloads.activestate.com/ActivePython/releases/3.6.0.3600/ActivePython-3.6.0.3600-linux-x86-glibc-2.3.6-401834.tar.gz',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.4.1/ActiveTcl8.6.4.1.299124-win32-ix86-threaded.exe',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.4.1/ActiveTcl8.6.4.1.299124-win32-x86_64-threaded.exe',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.4.1/ActiveTcl8.6.4.1.299124-linux-ix86-threaded.tar.gz',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.4.1/ActiveTcl8.6.4.1.299124-linux-x86_64-threaded.tar.gz',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.6.8606/ActiveTcl-8.6.6.8606-MSWin32-x64-401995.exe',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.6.8606/ActiveTcl-8.6.6.8606-x86_64-linux-glibc-2.5-401948.tar.gz',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.5.18.0/ActiveTcl8.5.18.0.298892-win32-ix86-threaded.exe',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.5.18.0/ActiveTcl8.5.18.0.298892-win32-x86_64-threaded.exe',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.5.18.0/ActiveTcl8.5.18.0.298892-linux-ix86-threaded.tar.gz',
+                         'https://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.5.18.0/ActiveTcl8.5.18.0.298892-linux-x86_64-threaded.tar.gz',
+                         'https://www.activestate.com/komodo-ide/downloads/ide/thank-you?dl=http://downloads.activestate.com/Komodo/releases/10.2.2/Komodo-IDE-10.2.2-89895-linux-x86.tar.gz',
+                         'https://www.activestate.com/komodo-ide/downloads/ide/thank-you?dl=http://downloads.activestate.com/Komodo/releases/10.2.2/Komodo-IDE-10.2.2-89895-linux-x86_64.tar.gz'
+                       ],
+            'URL' => 'https://code.activestate.com/pypm/collective.classification/',
+            'Summary' => '[PyPM Index] collective.classification ... Community | Code | Docs | <b>Downloads</b> ... a <b>Penn TreeBank tagger</b> and a trigram tagger.'
+          },
+          {
+            'Links' => [
+                         'https://pypi.python.org/packages/d4/ac/01daac825201b5ad5656ba927394367c0990fcb8a0a37142b147c6d340c5/collective.classification-0.1b1.zip'
+                       ],
+            'URL' => 'https://pypi.python.org/pypi/collective.classification/0.1b1',
+            'Summary' => '... a <b>Penn TreeBank tagger</b> and a trigram tagger. Both can be trained with some other language than english which is what we do here. ... http://github.org/ggozad/collective.classification; <b>Download</b> URL: ... Python <b>Software</b> Foundation Terms of Use ...'
+          },
+          {
+            'Summary' => 'Two are provided at the moment, a <b>Penn TreeBank tagger</b> and a trigram tagger. ... Home Page: http://github.org/ggozad/collective.classification; <b>Download</b> URL: ... Python <b>Software</b> Foundation Terms of Use ...',
+            'URL' => 'https://pypi.python.org/pypi/collective.classification/0.1b2',
+            'Links' => [
+                         'https://pypi.python.org/packages/e9/9a/d1da0ed1bf2f40220ae5cb7f1446888b5ee09283389e58d556261e4acc2f/collective.classification-0.1b2.zip'
+                       ]
+          }
+        ];

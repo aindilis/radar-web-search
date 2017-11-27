@@ -1,0 +1,58 @@
+$VAR1 = [
+          {
+            'Links' => [
+                         'http://www.nitroflare.com/view/3CE92D04DDAB59E/cbKPeSi60_32b.rar',
+                         'http://www.nitroflare.com/view/9184256E2C1F406/cbKPeSi60_64b.rar',
+                         'http://k2s.cc/file/7496d9fd1f8de/cbKPeSi60_32b.rar',
+                         'http://k2s.cc/file/ea42f8f324aa2/cbKPeSi60_64b.rar'
+                       ],
+            'URL' => 'https://avxhm.se/software/KBC_Petro_SIM_Suite_6_0.html',
+            'Summary' => '<b>KBC</b> Petro-SIM Suite 6.0 | 1.4 GbKBC Advanced Technologies plc ("<b>KBC</b>"), a leading consultancy and <b>software</b> provider to the upstream, midstream, downstream and petrochemical hydrocarbon industries is pleased to announce the launch of new versions of its Engineering <b>Software</b> Petro-SIM.'
+          },
+          {
+            'URL' => 'https://www.drivereasy.com/kbc/software-knowledge/',
+            'Links' => [
+                         'https://www.drivereasy.com/DriverEasy_Setup.exe'
+                       ],
+            'Summary' => '<b>Download</b>; Buy Now; Knowledge Base; Support ... What is Driver Easy Professional (Speed Limited)? How to Fix "DriverEasy has stopped working ...'
+          },
+          {
+            'Links' => [
+                         'https://www.rahulsingla.com/sites/default/files/content/project/kbc/KBC.zip'
+                       ],
+            'URL' => 'https://www.rahulsingla.com/projects/kbc-%28kaun-banega-crorepati%29',
+            'Summary' => '<b>KBC</b> is a DOS based game based on the popular Game Show, Kaun Banega Crorepati (hosted by Mr. Amitabh Bachhan and Mr. Shahrukh Khan in succession).'
+          },
+          {
+            'URL' => 'http://www.thekirankumar.com/blog/about/mywork/kaun-banega-crorepati-2-flash-game/',
+            'Links' => [
+                         'http://www.thekirankumar.com/blog/wp-content/plugins/download-monitor/download.php?id=KBC.zip',
+                         'http://www.thekirankumar.com/blog/wp-content/plugins/download-monitor/download.php?id=SMS-API.zip',
+                         'http://www.thekirankumar.com/blog/wp-content/plugins/download-monitor/download.php?id=SMS-API2.0.zip',
+                         'http://www.thekirankumar.com/blog/wp-content/plugins/download-monitor/download.php?id=multiple-registration-forms-plugin.zip',
+                         'http://www.thekirankumar.com/blog/wp-content/plugins/download-monitor/download.php?id=cbjls_regroup.zip',
+                         'http://www.thekirankumar.com/blog/wp-content/plugins/download-monitor/download.php?id=iphone.zip'
+                       ],
+            'Summary' => '<b>Download</b> Kaun Banega Crorepati flash game. Get <b>KBC</b> game for desktop, play <b>kbc</b> game for PC with full Amitabh audio support, <b>download</b> <b>kbc</b> now.'
+          },
+          {
+            'Links' => [
+                         'http://www.thekirankumar.com/blog/wp-content/plugins/download-monitor/download.php?id=KBC.zip',
+                         'http://www.thekirankumar.com/blog/wp-content/plugins/download-monitor/download.php?id=SMS-API.zip',
+                         'http://www.thekirankumar.com/blog/wp-content/plugins/download-monitor/download.php?id=SMS-API2.0.zip',
+                         'http://www.thekirankumar.com/blog/wp-content/plugins/download-monitor/download.php?id=multiple-registration-forms-plugin.zip',
+                         'http://www.thekirankumar.com/blog/wp-content/plugins/download-monitor/download.php?id=cbjls_regroup.zip',
+                         'http://www.thekirankumar.com/blog/wp-content/plugins/download-monitor/download.php?id=iphone.zip'
+                       ],
+            'URL' => 'http://www.thekirankumar.com/blog/about/mywork/kaun-banega-crorepati-2-flash-game/play/',
+            'Summary' => 'Win <b>KBC</b> game by playing online <b>KBC</b> 7 web game. This is an web game for TV show Kaun Banega Crorepati (<b>KBC</b> 7) hosted by Amitabh Bhacchan. Win 5 crores by answering 13 ...'
+          },
+          {
+            'Summary' => '<b>Download</b> Play <b>KBC</b> 2013 for PC free, Kaun Banega Crorepati is a loved reality show in India. Play <b>KBC</b> 2013 is an application which is based on it. The application ...',
+            'URL' => 'http://www.updownload.com/play-kbc-2013-pc/',
+            'Links' => [
+                         'http://cdndownloadplm.com/dl/?z=2373&name=Play+KBC+2013+for+PC&file=http%3A%2F%2Fcdn.bluestacks.com%2Fpublic%2Fbeta-1%2FBlueStacks-SplitInstaller_native.exe',
+                         'http://cdndownloadplm.com/dl/?z=1156&name=Play+KBC+2013+for+PC&file=http%3A%2F%2Fcdn.bluestacks.com%2Fpublic%2Fbeta-1%2FBlueStacks-SplitInstaller_native.exe'
+                       ]
+          }
+        ];

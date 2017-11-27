@@ -1,0 +1,102 @@
+$VAR1 = [
+          {
+            'Summary' => '<b>Ontology Learning</b>; Features; Screenshots; Tools using DL-Learner; <b>Download</b>; Docs. Manual; ... One page introduction. DL-Learner. The DL-Learner <b>software</b> learns concepts in Description Logics (DLs) from examples. Equivalently, ...',
+            'Links' => [
+                         'https://github.com/AKSW/DL-Learner/releases/download/1.3.0/dllearner-1.3.0.tar.gz',
+                         'https://github.com/AKSW/DL-Learner/releases/download/1.3.0/dllearner-1.3.0.zip',
+                         'https://github.com/AKSW/DL-Learner/releases/download/1.3.0/dllearner-ext-1.3.0.tar.gz',
+                         'https://github.com/AKSW/DL-Learner/releases/download/1.3.0/dllearner-ext-1.3.0.zip',
+                         'https://github.com/AKSW/DL-Learner/archive/1.3.0.zip',
+                         'https://github.com/AKSW/DL-Learner/archive/1.3.0.tar.gz',
+                         'https://github.com/AKSW/DL-Learner/releases/download/1.2/dllearner-1.2.tar.gz',
+                         'https://github.com/AKSW/DL-Learner/releases/download/1.2/dllearner-1.2.zip',
+                         'https://github.com/AKSW/DL-Learner/archive/1.2.zip',
+                         'https://github.com/AKSW/DL-Learner/archive/1.2.tar.gz',
+                         'https://github.com/AKSW/DL-Learner/releases/download/1.1/dllearner-1.1.tar.gz',
+                         'https://github.com/AKSW/DL-Learner/releases/download/1.1/dllearner-1.1.zip',
+                         'https://github.com/AKSW/DL-Learner/archive/1.1.zip',
+                         'https://github.com/AKSW/DL-Learner/archive/1.1.tar.gz',
+                         'https://github.com/AKSW/DL-Learner/releases/download/v1.0/dllearner-1.0.tar.gz',
+                         'https://github.com/AKSW/DL-Learner/releases/download/v1.0/dllearner-1.0.zip',
+                         'https://github.com/AKSW/DL-Learner/archive/v1.0.zip',
+                         'https://github.com/AKSW/DL-Learner/archive/v1.0.tar.gz',
+                         'https://github.com/AKSW/DL-Learner/releases/download/v1.0-beta.3/dllearner-1.0-beta-3.tar.gz',
+                         'https://github.com/AKSW/DL-Learner/releases/download/v1.0-beta.3/dllearner-1.0-beta-3.zip',
+                         'https://github.com/AKSW/DL-Learner/archive/v1.0-beta.3.zip',
+                         'https://github.com/AKSW/DL-Learner/archive/v1.0-beta.3.tar.gz',
+                         'https://github.com/AKSW/DL-Learner/releases/download/v1.0-beta.2/dllearner-1.0-beta-2.tar.gz',
+                         'https://github.com/AKSW/DL-Learner/releases/download/v1.0-beta.2/dllearner-1.0-beta-2.zip',
+                         'https://github.com/AKSW/DL-Learner/archive/v1.0-beta.2.zip',
+                         'https://github.com/AKSW/DL-Learner/archive/v1.0-beta.2.tar.gz',
+                         'https://github.com/AKSW/DL-Learner/releases/download/v1.0-beta.1/dllearner-1.0-beta-1.tar.gz',
+                         'https://github.com/AKSW/DL-Learner/releases/download/v1.0-beta.1/dllearner-1.0-beta-1.zip',
+                         'https://github.com/AKSW/DL-Learner/archive/v1.0-beta.1.zip',
+                         'https://github.com/AKSW/DL-Learner/archive/v1.0-beta.1.tar.gz',
+                         'https://github.com/AKSW/DL-Learner/releases/download/v1.0-alpha.2/dllearner-1.0-alpha-2.tar.gz',
+                         'https://github.com/AKSW/DL-Learner/releases/download/v1.0-alpha.2/dllearner-1.0-alpha-2.zip',
+                         'https://github.com/AKSW/DL-Learner/archive/v1.0-alpha.2.zip',
+                         'https://github.com/AKSW/DL-Learner/archive/v1.0-alpha.2.tar.gz',
+                         'https://github.com/AKSW/DL-Learner/releases/download/v1.0-alpha.1/dllearner-1.0-alpha-1.tar.gz',
+                         'https://github.com/AKSW/DL-Learner/archive/v1.0-alpha.1.zip',
+                         'https://github.com/AKSW/DL-Learner/archive/v1.0-alpha.1.tar.gz',
+                         'https://github.com/AKSW/DL-Learner/releases/download/premaven/dllearner-2010-08-07.tar.gz',
+                         'https://github.com/AKSW/DL-Learner/archive/premaven.zip',
+                         'https://github.com/AKSW/DL-Learner/archive/premaven.tar.gz'
+                       ],
+            'URL' => 'http://dl-learner.org/one-page-introduction/'
+          },
+          {
+            'Summary' => 'ECAI-2004 Workshop on <b>Ontology Learning</b> and Population Towards Evaluation of Text-based Methods in the Semantic Web and Knowledge Discovery Life Cycle',
+            'Links' => [
+                         'http://olp.dfki.de/ecai04/OLP-Proceedings.zip',
+                         'http://olp.dfki.de/ecai04/OLP-Presentations.zip',
+                         'http://olp.dfki.de/ecai04/Navigli.zip',
+                         'http://olp.dfki.de/ecai04/Malaka.zip',
+                         'http://olp.dfki.de/ecai04/Choi.zip',
+                         'http://olp.dfki.de/ecai04/Reinberger.zip',
+                         'http://olp.dfki.de/ecai04/Cimiano.zip',
+                         'http://olp.dfki.de/ecai04/Sabou.zip',
+                         'http://olp.dfki.de/ecai04/Collier.zip'
+                       ],
+            'URL' => 'http://olp.dfki.de/ecai04/cfp.htm'
+          },
+          {
+            'Links' => [
+                         'http://pole-dl.cs.manchester.ac.uk/PMIDs/SB_PMIDs.zip',
+                         'http://pole-dl.cs.manchester.ac.uk/PMIDs/14M_PMIDs.zip'
+                       ],
+            'Summary' => 'For PubMed SB and 14M, ... To replicate datasets: <b>download</b> the MEDLINE/PubMed baseline files for 2015 and also the update files up to 8th June 2016. SB dataset. A subset of 301,201 PubMed publications (titles and abstracts) ... <b>Software</b>. Protégé. An open ...',
+            'URL' => 'http://pole-dl.cs.manchester.ac.uk/experiments.html'
+          },
+          {
+            'URL' => 'https://peerj.com/articles/cs-77/',
+            'Links' => [
+                         'https://dfzljdn9uc3pi.cloudfront.net/2016/cs-77/1/model.zip'
+                       ],
+            'Summary' => 'The ubiquity of uncertainty across application domains generates a need for principled support for ... implementation and evaluation. Existing <b>software</b> and systems engineering processes ... or through some automatic process, called <b>ontology learning</b>; (2) evaluation, in order to validate ...'
+          },
+          {
+            'Summary' => 'Table of Contents: Semantic Web Methods, ... (green/yellow) Applications ? Conclusion Ontologies and Semantic Technologies Ontology Engineering <b>Ontology Learning</b>, Mapping Applications Hands-on session: Hands on exercises: Semantic Web Methods, Tools and Applications Required <b>Software</b> ...',
+            'Links' => [
+                         'http://videolectures.net/site/normal_dl/tag=636245/14498729322076746466630550374351548106.zip',
+                         'http://videolectures.net/site/normal_dl/tag=636246/16136427943868058812408703618279117369.zip',
+                         'http://videolectures.net/site/normal_dl/tag=636248/169352147440041409051406656493795474895.zip',
+                         'http://videolectures.net/site/normal_dl/tag=636247/50239202361661855856375703752401607593.zip'
+                       ],
+            'URL' => 'http://videolectures.net/rease_vrandecic_swmta/'
+          },
+          {
+            'Summary' => 'Some Ongoing KBS/Ontology Projects and Groups ... Also see a good survey of <b>ontology learning</b> methods and techniques (OntoWeb deliverable 1.5, A. Gomez-Perez, ...',
+            'Links' => [
+                         'http://www-csli.stanford.edu/~arunm/roget_prolog.zip'
+                       ],
+            'URL' => 'http://www.cs.utexas.edu/users/mfkb/related.html'
+          },
+          {
+            'URL' => 'http://www.scientific.net/keyword/Ontology_Learning',
+            'Links' => [
+                         'https://www.scientific.net/Downloads/GetTtpFile?name=Template_LaTeX.zip'
+                       ],
+            'Summary' => 'Abstract:<b>Ontology learning</b> is a series method and technology of semi-automatic ontology construction, which uses various data sources to create or...'
+          }
+        ];

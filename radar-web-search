@@ -1,0 +1,492 @@
+#!/usr/bin/perl -w
+
+use BOSS::Config;
+use Capability::Tokenize;
+use Capability::QueryExpansion;
+use Capability::WebSearch::API::Rival::Yahoo::Search;
+use Capability::WebSearch::API::Rival::Yahoo::Search::AsList;
+use Manager::Dialog qw(SubsetSelect);
+use PerlLib::Util;
+use PerlLib::SwissArmyKnife;
+# use Rival::Yahoo::Search;
+
+use Cache::FileCache;
+use Data::Dumper;
+use File::Slurp;
+use File::Stat;
+use POSIX;
+use WWW::Mechanize::Cached;
+
+$specification = q(
+	--urls <file>	File containing just a list of the urls themselves to look into
+
+	-l		List existing searches
+
+	-n <number>	Number or results to include in search
+	-i		Include non-html documents
+	-D		Include additional search parameters for software download
+	-q		Perform query expansion
+
+	-a <stuff>	Additional stuff for the query
+	--or		Split the topic into a bunch of tokens ORed together
+	-o		Overwrite cached result
+
+	-p		Prompt for download of systems
+	-d		Download all the results and store into a place for analysis
+
+	-r		Use refinement
+	-R		Use reduced refinement
+
+	--links		Do link analysis
+	--list-sites	List sites that probably are homepages for software...
+
+	--mt		Multi-threaded search (enabled by default)
+	--st		Multi-threaded search
+
+	--skip-scoring	Don't bother to score results, get them all
+	--brute		Search then get, extract and build all results
+	--ul <file>	Just use this url list file instead
+
+	-s		Simulate
+
+	-Q		Strip quotes
+
+	<search>...	Searches to be acted upon
+	-t <file>	File containing topics, 1 per line
+);
+
+my $config =
+  BOSS::Config->new
+  (Spec => $specification);
+my $conf = $config->CLIConfig;
+$conf->{'-a'} = "software download";
+$UNIVERSAL::systemdir = "/var/lib/myfrdcsa/codebases/minor/software-finder";
+
+if (! exists $conf->{'--st'}) {
+  $conf->{'--mt'} = 1;
+}
+
+my $timeout = 15;
+my $timeout2 = 10 * 24 * 60 * 60;
+
+my $cacheobj = new Cache::FileCache
+  ({
+    namespace => 'software-finder',
+    default_expires_in => "2 years",
+    cache_root => "$UNIVERSAL::systemdir/data/FileCache",
+   });
+
+my $cacher = WWW::Mechanize::Cached->new
+  (
+   cache => $cacheobj,
+   timeout => $timeout,
+  );
+
+my $seen = {};
+
+my @alllinks;
+
+
+my @topics;
+if (exists $conf->{'<search>'}) {
+  push @topics, @{$conf->{'<search>'}};
+}
+if (exists $conf->{'-t'}) {
+  my $file = $conf->{'-t'};
+  if (-f $file) {
+    my $c = `cat "$file"`;
+    push @topics, split /\n/, $c;
+  }
+}
+
+my $datadir = "$UNIVERSAL::systemdir/data";
+mkdir($datadir) if ! -d $datadir;
+my $originalsearchdir = "$datadir/searches";
+mkdir($originalsearchdir) if ! -d $originalsearchdir;
+my $mtsearchdir = "$datadir/mt-searches";
+mkdir($mtsearchdir) if ! -d $mtsearchdir;
+
+my $searchdir;
+if ($conf->{'--mt'}) {
+  $searchdir = $mtsearchdir;
+} else {
+  $searchdir = $originalsearchdir;
+}
+
+if ($conf->{'-l'}) {
+  foreach my $entry 
+    (SubsetSelect
+     (Set => [split /\n/, `ls -1 $searchdir`])) {
+    $entry =~ s/_/ /g;
+    push @topics, $entry;
+  }
+}
+
+my $scores = {};
+foreach my $line (split /\n/, `cat $UNIVERSAL::systemdir/search/la-2/scores.txt`) {
+  # 7.10230367827613	download.php	22	33	84
+  my ($score,$token) = split(/\t/,$line);
+  $scores->{lc($token)} = $score;
+}
+
+foreach my $topic (@topics) {
+  Search($topic);
+  if ($conf->{'--links'}) {
+    my $OUT;
+    open(OUT,">$UNIVERSAL::systemdir/search/link-analysis/alllinks.pl") or die "no alllinks.pl\n";
+    print OUT Dumper(\@alllinks);
+    close(OUT);
+  }
+}
+
+sub Search {
+  my $topic = shift;
+  return unless $topic;
+  my $topic2 = $topic;
+  $topic2 =~ s/\s+/_/g;
+  $topic2 =~ s/(\w)/\l$1/g;
+  my $file = "$originalsearchdir/$topic2";
+  my $dir = "$mtsearchdir/$topic2";
+  mkdir $dir if ! -d $dir;
+  # my $downloaddir = "$datadir/download";
+  my $downloaddir = "/var/lib/myfrdcsa/datasets/software-finder";
+  mkdir($downloaddir) if ! -d $downloaddir;
+  my $downloadtopicdir = "$downloaddir/$topic2";
+  mkdir($downloadtopicdir) if ! -d $downloadtopicdir;
+  my $timestampsdir = "$datadir/timestamps";
+  mkdir($timestampsdir) if ! -d $timestampsdir;
+  my $timestampstopicdir = "$timestampsdir/$topic2";
+  mkdir($timestampstopicdir) if ! -d $timestampstopicdir;
+  if (-f $file and ! exists $conf->{'-o'}) {
+
+  } else {
+    # attempt refinement of the search topic
+    my $refinement = "";
+    if (exists $conf->{'-R'}) {
+      $refinement = `$UNIVERSAL::systemdir/software-name-recognizer/gen-query.pl 10`;
+    } elsif (exists $conf->{'-r'}) {
+      $refinement = `$UNIVERSAL::systemdir/software-name-recognizer/gen-query.pl`;
+    }
+    my $additional = "";
+    if (exists $conf->{'-a'}) {
+      $additional .= $conf->{'-a'};
+    }
+    my $expansion = "";
+    if (exists $conf->{'-q'}) {
+      print "Performing query expansion of: $topic\n";
+      my $h = QueryExpansion(Query => $topic);
+      my @sorted = sort {$h->{$b} <=> $h->{$a}} keys %$h;
+      $expansion = join(" OR ",splice @sorted,0,10);
+      $expansion = join(" ",splice @sorted,0,10);
+      print "EXPANSION: $expansion\n";
+    }
+    my $mytopic;
+    if (exists $conf->{'--or'}) {
+      $mytopic = "(".join (" OR ",split /\s+/, tokenize_treebank($topic)).")";
+      $mytopic = "(".join (" ",split /\s+/, tokenize_treebank($topic)).")";
+    } else {
+      if ($conf->{'-Q'}) {
+	$mytopic = $topic;
+      } else {
+	$mytopic = "\"$topic\"";
+      }
+    }
+    my $query = "$mytopic $additional $expansion $refinement";
+    # my $query = "$mytopic";
+    $query =~ s/\s*$//;
+    print "QUERY: ".$query."\n";
+    exit(0) if exists $conf->{'-s'};
+    my $number = $conf->{'-n'} || 50;
+    # my $count = 50;
+    my $count = $conf->{'-n'} || 50;
+    my @Results;
+    my $urllist = [];
+    if (exists $conf->{'--urls'}) {
+      my $fn = $conf->{'--urls'};
+      print $fn."\n";
+      if (-f $fn) {
+	my $c = read_file($fn);
+	$urllist = [split /\n/, $c];
+      } else {
+	die "File not found: $fn\n";
+      }
+      print Dumper({URLList => $urllist});
+      push @Results,
+	Capability::WebSearch::API::Rival::Yahoo::Search::AsList->Results
+	  (URLList => $urllist);
+      print Dumper({Results => \@results});
+    } elsif (exists $conf->{'--ul'}) {
+      my $c = read_file($conf->{'--ul'});
+      my $data = DeDumper($c);
+      @Results = @$data;
+    } else {
+      for (my $start = 0; $start < $number; $start += $count) {
+	push @Results,
+	  Capability::WebSearch::API::Rival::Yahoo::Search->Results(Doc => $query,
+								    AppId => "Software-Finder",
+								    # The following args are optional.
+								    # (Values shown are package defaults).
+								    Mode         => 'all', # all words
+								    Start        => $start,
+								    Count        => $count,
+								    Type         => exists $conf->{'-i'} ? 'any' : 'html',
+								    AllowAdult   => 0, # no porn, please
+								    AllowSimilar => 0, # no dups, please
+								    Language     => undef,
+								   );
+	warn $@ if $@;		# report any errors
+      }
+    }
+    print Dumper({Results => \@Results});
+    my @all;
+    my @sites;
+    my $actualcount = scalar @Results;
+    foreach my $i (0..$#Results) {
+      my $amchild = 1;
+      if (exists $conf->{'--mt'}) {
+	defined($pids[$i] = fork()) or die "Cannot fork()!\n";
+	# now what do we want here
+	$amchild = ! $pids[$i];
+      }
+      if ($amchild) {
+	my $Result = $Results[$i];
+	my $entry;
+	if (ref $Result eq "Rival::Yahoo::Search::Result") {
+	  printf "I: #%d\n",	   $i + 1;
+	  printf "Result: #%d\n",  $Result->I + 1;
+	  printf "Url:%s\n",       $Result->Url;
+	  printf "%s\n",           $Result->ClickUrl;
+	  printf "Summary: %s\n",  $Result->Summary;
+	  printf "Title: %s\n",    $Result->Title;
+	  # printf "In Cache: %s\n", $Result->CacheUrl;
+	  $entry = Retrieve(Result => $Result);
+	} else {
+	  $entry = Retrieve(URL => $Result);
+	}
+	my $url;
+	if (exists $conf->{'--ul'}) {
+	  $url = $Result;
+	} else {
+	  $url = $Result->Url;
+	}
+	my $res = $entry->{Links};
+	if (exists $conf->{'--mt'}) {
+	  $url =~ s/\W/_/g;
+	  if (scalar @$res) {
+	    my $OUT;
+	    open(OUT,">$dir/$url") or die "can't open\n";
+	    print OUT Dumper($entry);
+	    close(OUT);
+	  } else {
+	    system "touch \"$dir/$url\"";
+	  }
+	  exit(0);
+	} else {
+	  if (scalar @$res) {
+	    push @all, $entry;
+	    if (exists $conf->{'--list-sites'}) {
+	      push @sites, $url;
+	    }
+	  }
+	}
+      }
+    }
+    my $time = time;
+
+    if (exists $conf->{'--mt'}) {
+      my $size;
+      my $continue = 1;
+      do {
+	$size = `ls -1 "$dir" | wc -l`;
+	chomp $size;
+	sleep 1;
+	$continue = ((time - $time) < ($timeout * 1.5));
+      } while ($size < $actualcount and $continue);
+      # okay supposedly we are done
+      if (! $continue) {
+	print "Timeout!\n";
+      }
+    }
+
+    print "Done!\n";
+
+    if (exists $conf->{'--list-sites'}) {
+      print Dumper({Sites => \@sites});
+      exit(0);
+    }
+
+    # now there should be plenty of entries here hopefully
+    # now remove all zero size files, concatenate the results, and
+    my $result;
+    if (exists $conf->{'--mt'}) {
+      my $data;
+      foreach my $f1 (split /\n/, `ls $dir`) {
+	my $stat = File::Stat->new("$dir/$f1");
+	if ($stat->size > 0) {
+	  my $c = `cat "$dir/$f1"`;
+	  push @$data, DeDumper($c);
+	}
+      }
+      $result = Dumper($data);
+    } else {
+      $result = Dumper(\@all);
+    }
+    my $OUT;
+    open(OUT,">$file") or die "can't open\n";
+    print OUT $result;
+    close(OUT);
+  }
+
+  my $contents = `cat "$file"`;
+  print "Contents:\n";
+  print "$contents\n";
+  $VAR1 = undef;
+  eval $contents;
+  my $data = $VAR1;
+  $VAR1 = undef;
+
+  if (exists $conf->{'-d'}) {
+    # we want to take
+    my $links = {};
+    foreach my $entry (@$data) {
+      foreach my $link (@{$entry->{Links}}) {
+	$links->{$link} = 1;
+      }
+    }
+    my @links = keys %$links;
+    mkdir($downloadtopicdir);
+    mkdir($downloaddir);
+    if (exists $conf->{'--mt'}) {
+      my $actualcount2 = scalar @links;
+      foreach my $i (0..$#links) {
+	my $amchild2 = 1;
+	defined($pids2[$i] = fork()) or die "Cannot fork()!\n";
+	$amchild2 = ! $pids2[$i];
+	if ($amchild2) {
+	  my $link = $links[$i];
+	  my $c = "wget -N -P $downloaddir -x \"$link\"";
+	  print "$c\n";
+	  system $c;
+	  my $timestamp = $link;
+	  my $timestampfile = $timestamp;
+	  $timestampfile =~ s/\W/_/g;
+	  $timestampfile .= ".timestamp";
+	  my $finaltimestampfile = ConcatDir($timestampstopicdir,$timestampfile);
+	  my $OUT;
+	  open(OUT,">$finaltimestampfile") or die "can't open $finaltimestampfile\n";
+	  print OUT $link;
+	  close(OUT);
+	  # system "touch ".shell_quote();
+	  exit(0);
+	}
+      }
+
+      my $time2 = time;
+      my $size2;
+      my $continue2 = 1;
+      my $timestampstopicdirquoted = shell_quote($timestampstopicdir);
+      do {
+	$size2 = `ls -1 $timestampstopicdirquoted | wc -l`;
+	chomp $size2;
+	sleep 10;
+	$continue2 = ((time - $time2) < ($timeout2 * 1.5));
+      } while ($size2 < $actualcount2 and $continue2);
+      # okay supposedly we are done
+      if (! $continue2) {
+	print "Timeout 2!\n";
+      }
+    } else {
+      foreach my $link (@links) {
+	my $c = "wget -N -P $downloaddir -x \"$link\"";
+	print "$c\n";
+	system $c;
+      }
+    }
+    print "Done Downloading!\n";
+  } elsif ($conf->{'-p'}) {
+    foreach my $col 
+      (SubsetSelect
+       (
+	Set => $data,
+	Processor => sub {Dumper($_)},
+       )) {
+      foreach my $item 
+	(SubsetSelect
+	 (
+	  Set => $col->{Links},
+	 )) {
+	system "radar -m URL \"$item\"";
+      }
+    }
+  }
+}
+
+sub Retrieve {
+  my %args = @_;
+  my $result = $args{Result};
+  my $url = $args{URL} || $result->Url;
+  return [] unless $url !~ /\.(doc|ps|pdf|rtf|txt|ps.gz|ps.Z|ppt)$/i;
+  $cacher->get( $url );
+  my @links;
+  foreach my $link ($cacher->links) {
+    my $item = $link->URI->abs->as_string;
+    # print "\t$item\n";
+    if (
+	$item =~
+	/\.(tar.z|tar.gz|tar.bz2|tbz2|zip|gz|bz2|tgz|exe|sit|bin|tar|rar|jar|ace|iso|Z|7z|xz)$/i and
+	$item !~
+	/\.(ps.gz|ps.Z|ps.zip|pdf.gz|pdf.Z|pdf.zip)/i
+       ) {
+      next if $seen->{$item};
+      $seen->{$item} = 1;
+      push @links, $item;
+      if ($conf->{'--links'}) {
+	if (exists $link->attrs->{title}) {
+	  push @alllinks, [$url, $item, $link->attrs->{title}];
+	} else {
+	  push @alllinks, [$url, $item, ''];
+	}
+      }
+
+    } else {
+      # attempt to give the links a score
+      my $thing = $item;
+      $thing =~ s/\#.*//;
+      my $token = lc([split /\//, $thing]->[-1]);
+      # print "$token ";
+      if ($conf->{'--skip-scoring'} or (exists $scores->{$token} and $scores->{$token} > 2.0)) {
+	# go after this one
+	print "getting $item with score ".$scores->{$token}."\n";
+	$cacher->get( $item );
+	foreach my $link2 ($cacher->links) {
+	  my $item2 = $link2->URI->abs->as_string;
+	  # print "$item2\n";
+	  if (
+	      $item2 =~
+	      /\.(tar.z|tar.gz|tar.bz2|tbz2|zip|gz|bz2|tgz|exe|sit|bin|tar|rar|jar|ace|iso|Z|7z|xz)$/i and
+	      $item2 !~
+	      /\.(ps.gz|ps.Z|ps.zip|pdf.gz|pdf.Z|pdf.zip)/i
+	     ) {
+	    next if $seen->{$item2};
+	    $seen->{$item2} = 1;
+	    push @links, $item2;
+	    if ($conf->{'--links'}) {
+	      if (exists $link->attrs->{title}) {
+		push @alllinks, [$url, $item2, $link->attrs->{title}];
+	      } else {
+		push @alllinks, [$url, $item2, ''];
+	      }
+	    }
+
+	  }
+	}
+      }
+    }
+  }
+  print Dumper({Links => \@links});
+  return {
+	  URL => $args{URL} || $result->Url,
+	  Summary => $args{URL} || $result->Summary,
+	  Links => \@links,
+	 };
+}

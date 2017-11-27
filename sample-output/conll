@@ -1,0 +1,280 @@
+$VAR1 = [
+          {
+            'URL' => 'http://bart-anaphora.org/',
+            'Links' => [
+                         'http://bart-anaphora.org/release/bart-2.0.tar.gz',
+                         'http://www.sfs.uni-tuebingen.de/~versley/BART/BART-snapshot.tgz'
+                       ],
+            'Summary' => 'grab the latest tarball from the <b>Downloads</b> section below ... of the Joint Conference on EMNLP and <b>CoNLL</b> ... for feature selection in anaphora resolution.'
+          },
+          {
+            'Links' => [
+                         'http://www.cemantix.org/download/ontonotes/beta/ontonotes-db-tool-v0.999b.tar.gz',
+                         'http://conll.cemantix.org/download/reference-coreference-scorers.v8.01.tar.gz',
+                         'http://conll.cemantix.org/2011/download/conll.trial.tar.gz',
+                         'http://conll.cemantix.org/2011/download/conll-2011-train.v2.tar.gz',
+                         'http://conll.cemantix.org/2011/download/conll-2011-dev.v2.tar.gz',
+                         'http://conll.cemantix.org/2011/download/test/conll-2011-test-official.v5.tar.gz',
+                         'http://conll.cemantix.org/2011/download/test/conll-2011-test-supplementary.v5.tar.gz',
+                         'http://conll.cemantix.org/2011/download/test/conll-2011-test-key.tar.gz',
+                         'http://conll.cemantix.org/2011/download/submission/conll-2011-submissions.tar.gz',
+                         'http://conll.cemantix.org/2011/download/conll-2011-scripts.v2.tar.gz',
+                         'http://conll.cemantix.org/2011/download/gender.data.gz',
+                         'http://conll.cemantix.org/2011/download/WordNet-3.0.tar.gz',
+                         'http://conll.cemantix.org/2011/download/sense-inventories.v4.01.tar.gz'
+                       ],
+            'Summary' => 'Official page of the <b>CoNLL</b>-2011 shared task on coreference using the ... Trial Data. The trail data can ... The OntoNotes <b>download</b> from LDC consists of four .tgz ...',
+            'URL' => 'http://conll.cemantix.org/2011/data.html'
+          },
+          {
+            'URL' => 'http://conll.cemantix.org/2012/software.html',
+            'Links' => [
+                         'http://www.cemantix.org/download/ontonotes/beta/ontonotes-db-tool-v0.999b.tar.gz',
+                         'http://conll.cemantix.org/download/reference-coreference-scorers.v8.01.tar.gz'
+                       ],
+            'Summary' => '<b>CoNLL</b>-2012 Shared Task: Modeling Multilingual Unrestricted Coreference in OntoNotes'
+          },
+          {
+            'Links' => [
+                         'http://nlp.cs.berkeley.edu/downloads/berkeleycoref-1.1.tgz',
+                         'http://nlp.cs.berkeley.edu/downloads/berkeleycoref-1.0-models.tgz',
+                         'http://nlp.cs.berkeley.edu/downloads/berkeleycoref-1.0.tgz',
+                         'http://nlp.cs.berkeley.edu/downloads/berkeleycoref-0.9.tgz',
+                         'http://nlp.cs.berkeley.edu/downloads/berkeleycoref-0.9-models.tgz'
+                       ],
+            'Summary' => 'The Berkeley Coreference Resolution System is a state-of-the-art English coreference ... It takes as input text with annotations in the <b>CoNLL</b> ... <b>Downloads</b>. The ...',
+            'URL' => 'http://nlp.cs.berkeley.edu/projects/coref.shtml'
+          },
+          {
+            'URL' => 'http://nlp.stanford.edu/software/mimlre.shtml',
+            'Links' => [
+                         'https://nlp.stanford.edu/software/mimlre-2012-11-27.tar.bz2',
+                         'https://nlp.stanford.edu/software/mimlre-2014-07-17-data.tar.gz'
+                       ],
+            'Summary' => '<b>Software</b> &gt; Multi-instance Multi-label Relation Extraction. ... (EMNLP-<b>CoNLL</b>), 2012. Gabor ... <b>Downloads</b>. Source Code and Data ...'
+          },
+          {
+            'URL' => 'https://archive.org/details/arxiv-cs0009008',
+            'Links' => [
+                         'https://archive.org/download/arxiv-cs0009008/cs0009008_abbyy.gz',
+                         'https://archive.org/download/arxiv-cs0009008/cs0009008_daisy.zip',
+                         'https://archive.org/download/arxiv-cs0009008/cs0009008_jp2.zip'
+                       ],
+            'Summary' => 'We describe the <b>CoNLL</b>-2000 shared task: dividing text into syntactically related non-overlapping groups of words, so-called text chunking. We give background...'
+          },
+          {
+            'Summary' => 'We describe the <b>CoNLL</b>-2003 shared task: language-independent named entity recognition. We give background information on the data sets (English and German) and...',
+            'Links' => [
+                         'https://archive.org/download/arxiv-cs0306050/cs0306050_abbyy.gz',
+                         'https://archive.org/download/arxiv-cs0306050/cs0306050_daisy.zip',
+                         'https://archive.org/download/arxiv-cs0306050/cs0306050_jp2.zip'
+                       ],
+            'URL' => 'https://archive.org/details/arxiv-cs0306050'
+          },
+          {
+            'URL' => 'https://github.com/danieldk/conllx-utils',
+            'Summary' => '<b>CoNLL</b>-X Utilities Introduction. This is a set of utilities to modify files in the <b>CoNLL</b>-X tabular files. ... <b>Downloads</b> are available on the release page. Usage.',
+            'Links' => [
+                         'https://github.com/danieldk/conllx-utils/releases/download/v0.2.1/conllx-utils-0.2.1-darwin-x86_64.tar.gz',
+                         'https://github.com/danieldk/conllx-utils/releases/download/v0.2.1/conllx-utils-0.2.1-linux-x86_64.tar.gz',
+                         'https://github.com/danieldk/conllx-utils/archive/v0.2.1.zip',
+                         'https://github.com/danieldk/conllx-utils/archive/v0.2.1.tar.gz',
+                         'https://github.com/danieldk/conllx-utils/releases/download/v0.2.0/conllx-utils-0.2.0-darwin-x86_64.tar.gz',
+                         'https://github.com/danieldk/conllx-utils/releases/download/v0.2.0/conllx-utils-0.2.0-linux-x86_64.tar.gz',
+                         'https://github.com/danieldk/conllx-utils/archive/v0.2.0.zip',
+                         'https://github.com/danieldk/conllx-utils/archive/v0.2.0.tar.gz',
+                         'https://github.com/danieldk/conllx-utils/releases/download/v0.1.0/conllx-utils-0.1.0-darwin-x86_64.tar.gz',
+                         'https://github.com/danieldk/conllx-utils/releases/download/v0.1.0/conllx-utils-0.1.0-linux-x86_64.tar.gz',
+                         'https://github.com/danieldk/conllx-utils/archive/v0.1.0.zip',
+                         'https://github.com/danieldk/conllx-utils/archive/v0.1.0.tar.gz',
+                         'https://github.com/danieldk/conllx-utils/archive/master.zip'
+                       ]
+          },
+          {
+            'URL' => 'https://github.com/weblicht/conll-utils',
+            'Summary' => 'README.md <b>CoNLL</b>-X Utilities Introduction. This is a set of utilities to modify files in the <b>CoNLL</b>-X tabular files. The focus of this package is interoperability with ...',
+            'Links' => [
+                         'https://github.com/weblicht/conll-utils/releases/download/conllutils-1.2.0/conllutils-1.2.0-bin.tar.gz',
+                         'https://github.com/weblicht/conll-utils/releases/download/conllutils-1.2.0/conllutils-1.2.0-bin.zip',
+                         'https://github.com/weblicht/conll-utils/archive/conllutils-1.2.0.zip',
+                         'https://github.com/weblicht/conll-utils/archive/conllutils-1.2.0.tar.gz',
+                         'https://github.com/weblicht/conll-utils/releases/download/conllutils-1.0.0/conllutils-1.0.0-bin.tar.gz',
+                         'https://github.com/weblicht/conll-utils/releases/download/conllutils-1.0.0/conllutils-1.0.0-bin.zip',
+                         'https://github.com/weblicht/conll-utils/archive/conllutils-1.0.0.zip',
+                         'https://github.com/weblicht/conll-utils/archive/conllutils-1.0.0.tar.gz',
+                         'https://github.com/weblicht/conll-utils/archive/master.zip'
+                       ]
+          },
+          {
+            'Summary' => 'The concrete-haskell package [Tags:gpl, library, program] ... <b>Downloads</b>: 322 total (88 in the last 30 days) ... Data.Concrete.Parsers.<b>CONLL</b>;',
+            'Links' => [
+                         'https://hackage.haskell.org/package/text-1.2.2.2/text-1.2.2.2.tar.gz',
+                         'https://hackage.haskell.org/package/concrete-haskell-0.1.0.8/concrete-haskell-0.1.0.8.tar.gz'
+                       ],
+            'URL' => 'https://hackage.haskell.org/package/concrete-haskell'
+          },
+          {
+            'URL' => 'https://mailman.stanford.edu/pipermail/java-nlp-user/2013-March/003268.html',
+            'Links' => [
+                         'http://conll.cemantix.org/2011/download/test/conll-2011-test-official.v5.tar.gz',
+                         'http://conll.cemantix.org/2011/download/test/conll-2011-test-key.tar.gz',
+                         'http://conll.cemantix.org/2011/download/gender.data.gz'
+                       ],
+            'Summary' => 'Hi Anders, I recently replicated the <b>conll</b> 2011 results myself and it seemed to work fine. Here are some twists: -The results may vary from the task evaluation as the ...'
+          },
+          {
+            'Links' => [
+                         'http://conll.cemantix.org/2011/download/test/conll-2011-test-official.v5.tar.gz',
+                         'http://conll.cemantix.org/2011/download/test/conll-2011-test-key.tar.gz'
+                       ],
+            'Summary' => '... This system was the top ranked system at the <b>CoNLL</b>-2011 shared ... Please <b>download</b> the entire suite from ... This <b>software</b> is now fully incorporated in ...',
+            'URL' => 'https://nlp.stanford.edu/software/dcoref.shtml'
+          },
+          {
+            'URL' => 'https://pypi.python.org/pypi/conll_df/0.0.1',
+            'Summary' => '<b>CONLL</b>-U to Pandas DataFrame ... File Type Py Version Uploaded on Size; conll_df-..1.tar.gz Source 2017-03-17',
+            'Links' => [
+                         'https://pypi.python.org/packages/0f/d8/267d0d79fa9d77bcd7c572a38ecf0780bb165c843695955b5acab1d286d0/conll_df-0.0.1.tar.gz'
+                       ]
+          },
+          {
+            'Links' => [
+                         'https://ryanmcd.github.io/MSTParser/MSTParser.tar.gz'
+                       ],
+            'Summary' => '<b>Downloads</b>. <b>Download</b> parser; View the README file; FAQ. ... However, I have include some easy to use python scripts to convert between <b>CoNLL</b> and MSTParser formats.',
+            'URL' => 'https://ryanmcd.github.io/MSTParser/MSTParser.html'
+          },
+          {
+            'URL' => 'https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/aida/downloads/',
+            'Links' => [
+                         'http://download.mpi-inf.mpg.de/d5/aida/aidalight.zip',
+                         'http://resources.mpi-inf.mpg.de/yago-naga/aida/download/entity-repository/AIDA_entity_repository_2010-08-17v10.sql.bz2',
+                         'http://resources.mpi-inf.mpg.de/yago-naga/aida/download/entity-repository/AIDA_entity_repository_2014-01-02v10.sql.bz2',
+                         'http://resources.mpi-inf.mpg.de/yago-naga/aida/download/entity-repository/AIDA_entity_repository_2014-01-02v10_dmap.tar.bz2',
+                         'http://resources.mpi-inf.mpg.de/yago-naga/aida/download/entity-repository/edrak_en20150112_ar20141218.sql.bz2',
+                         'http://resources.mpi-inf.mpg.de/yago-naga/aida/download/aida-yago2-dataset.zip',
+                         'http://resources.mpi-inf.mpg.de/yago-naga/aida/download/aida_means.tsv.bz2',
+                         'http://resources.mpi-inf.mpg.de/yago-naga/aida/download/AIDA-EE.tar.gz',
+                         'http://resources.mpi-inf.mpg.de/yago-naga/aida/download/KORE_entity_relatedness.tar.gz',
+                         'http://resources.mpi-inf.mpg.de/yago-naga/aida/download/KORE50.tar.gz'
+                       ],
+            'Summary' => 'It contains assignments of entities to the mentions of named entities annotated for the original <b>CoNLL</b> 2003 entity ... go to the YAGO2 <b>downloads</b> for decoding ...'
+          },
+          {
+            'Links' => [
+                         'http://irsrv2.cs.biu.ac.il/downloads/context2vec/context2vec.ukwac.model.package.tar.gz',
+                         'http://irsrv2.cs.biu.ac.il/downloads/context2vec/context2vec.mscc.model.package.tar.gz',
+                         'http://irsrv2.cs.biu.ac.il/downloads/context2vec/awe.ukwac.model.package.tar.gz',
+                         'http://irsrv2.cs.biu.ac.il/downloads/context2vec/awe.mscc.model.package.tar.gz'
+                       ],
+            'Summary' => '<b>Downloads</b>. A Probabilistic ... context2vec is a toolkit that represents sentential contexts of target words, ... <b>CoNLL</b>, 2016 . The source code is available .',
+            'URL' => 'http://u.cs.biu.ac.il/~nlp/resources/downloads/context2vec/'
+          },
+          {
+            'URL' => 'http://www.anc.org/data/masc/downloads/tool-downloads/',
+            'Links' => [
+                         'http://www.anc.org/tools/ANC.zip',
+                         'http://www.anc.org/tools/org.xces.graf.uima-utils-1.0.0.jar'
+                       ],
+            'Summary' => 'Tool <b>Downloads</b>. The ANC project has ... For XML-aware tools and applications, BNC\'s XIARA, concordancing <b>software</b> such as MonoConc, and <b>CoNLL</b> IOB format, ...'
+          },
+          {
+            'Summary' => 'Language-Independent Named Entity Recognition (I) Named entities are phrases that contain the names of persons, organizations, locations, times and quantities.',
+            'Links' => [
+                         'http://www.cnts.ua.ac.be/conll2002/ner.tgz',
+                         'http://www.cnts.ua.ac.be/conll2002/ner/results/black.tgz',
+                         'http://www.cnts.ua.ac.be/conll2002/ner/results/burger.tgz',
+                         'http://www.cnts.ua.ac.be/conll2002/ner/results/carreras.tgz',
+                         'http://www.cnts.ua.ac.be/conll2002/ner/results/cucerzan.tgz',
+                         'http://www.cnts.ua.ac.be/conll2002/ner/results/florian.tgz',
+                         'http://www.cnts.ua.ac.be/conll2002/ner/results/jansche.tgz',
+                         'http://www.cnts.ua.ac.be/conll2002/ner/results/malouf.tgz',
+                         'http://www.cnts.ua.ac.be/conll2002/ner/results/mcnamee.tgz',
+                         'http://www.cnts.ua.ac.be/conll2002/ner/results/patrick.tgz',
+                         'http://www.cnts.ua.ac.be/conll2002/ner/results/tjong.tgz',
+                         'http://www.cnts.ua.ac.be/conll2002/ner/results/tsukamoto.tgz',
+                         'http://www.cnts.ua.ac.be/conll2002/ner/results/wu.tgz'
+                       ],
+            'URL' => 'http://www.cnts.ua.ac.be/conll2002/ner/'
+          },
+          {
+            'Links' => [
+                         'http://www.cnts.ua.ac.be/conll2003/ner.tgz',
+                         'http://www.cnts.ua.ac.be/conll2003/eng.raw.tar',
+                         'http://www.cnts.ua.ac.be/conll2003/deu.raw.tar',
+                         'http://www.cnts.ua.ac.be/conll2003/ner/results/bender.tgz',
+                         'http://www.cnts.ua.ac.be/conll2003/ner/results/carrerasa.tgz',
+                         'http://www.cnts.ua.ac.be/conll2003/ner/results/carrerasb.tgz',
+                         'http://www.cnts.ua.ac.be/conll2003/ner/results/chieu.tgz',
+                         'http://www.cnts.ua.ac.be/conll2003/ner/results/curran.tgz',
+                         'http://www.cnts.ua.ac.be/conll2003/ner/results/demeulder.tgz',
+                         'http://www.cnts.ua.ac.be/conll2003/ner/results/florian.tgz',
+                         'http://www.cnts.ua.ac.be/conll2003/ner/results/hammerton.tgz',
+                         'http://www.cnts.ua.ac.be/conll2003/ner/results/hendrickx.tgz',
+                         'http://www.cnts.ua.ac.be/conll2003/ner/results/klein.tgz',
+                         'http://www.cnts.ua.ac.be/conll2003/ner/results/mayfield.tgz',
+                         'http://www.cnts.ua.ac.be/conll2003/ner/results/mccallum.tgz',
+                         'http://www.cnts.ua.ac.be/conll2003/ner/results/munro.tgz',
+                         'http://www.cnts.ua.ac.be/conll2003/ner/results/whitelaw.tgz',
+                         'http://www.cnts.ua.ac.be/conll2003/ner/results/wu.tgz',
+                         'http://www.cnts.ua.ac.be/conll2003/ner/results/zhang.tgz'
+                       ],
+            'Summary' => 'The shared task of <b>CoNLL</b>-2002 dealt with language-independent named entity recognition as well (for ... http://ilk.kub.nl/<b>downloads</b>/pub/papers/ilk.0002.ps.gz',
+            'URL' => 'http://www.cnts.ua.ac.be/conll2003/ner/'
+          },
+          {
+            'URL' => 'http://www.cs.upc.edu/~srlconll/soft.html',
+            'Links' => [
+                         'http://www.cs.upc.edu/~srlconll/conll05st-release.tar.gz',
+                         'http://www.cs.upc.edu/~srlconll/conll05st-release-props.tar.gz',
+                         'http://www.cs.upc.edu/~srlconll/conll05st-release-synt.upc.tar.gz',
+                         'http://www.cs.upc.edu/~srlconll/conll05st-release-synt.col2.tar.gz',
+                         'http://www.cs.upc.edu/~srlconll/conll05st-release-synt.col2h.tar.gz',
+                         'http://www.cs.upc.edu/~srlconll/conll05st-release-synt.cha.tar.gz',
+                         'http://www.cs.upc.edu/~srlconll/conll05st-release-ne.tar.gz',
+                         'http://www.cs.upc.edu/~srlconll/conll05st-release-senses.tar.gz',
+                         'http://www.cs.upc.edu/~srlconll/conll05st-tests.tar.gz',
+                         'http://www.cs.upc.edu/~srlconll/conll05st-prerelease.tar.gz',
+                         'http://www.cs.upc.edu/~srlconll/srlconll-1.1.tgz',
+                         'http://www.cs.upc.edu/~srlconll/srlconll-1.0.tgz',
+                         'http://www.cs.upc.edu/~srlconll/resources/pb-frames.tar.gz'
+                       ],
+            'Summary' => '<b>Software</b> If you find bugs in the distributed <b>software</b>, please get in touch asap with the organizers at srlconll &lt;at&gt; lsi.upc.edu. srl-eval The srl-eval.pl program is ...'
+          },
+          {
+            'Links' => [
+                         'http://static.general-ebooks.com/download/GeBReader.exe'
+                       ],
+            'Summary' => '1 books found for query "introduction to the <b>conll</b> 2001 shared task ... Herve Dejean Year published: 2001 Language: English 1 <b>downloads</b> in the last month <b>Download</b> ...',
+            'URL' => 'http://www.general-ebooks.com/search/introduction-to-the-conll-2001-shared-task-clause-identification'
+          },
+          {
+            'Summary' => 'Semantic Role Labeling. Introduction F.A.Q. References <b>CoNLL</b> Conferences. <b>CoNLL</b> ... The data and <b>software</b> of <b>CoNLL</b>-2005 is available at the Data&amp;Software page.',
+            'Links' => [
+                         'http://www.lsi.upc.edu/~srlconll/conll05st-release.tar.gz',
+                         'http://www.lsi.upc.edu/~srlconll/conll05st-release-props.tar.gz',
+                         'http://www.lsi.upc.edu/~srlconll/conll05st-release-synt.upc.tar.gz',
+                         'http://www.lsi.upc.edu/~srlconll/conll05st-release-synt.col2.tar.gz',
+                         'http://www.lsi.upc.edu/~srlconll/conll05st-release-synt.col2h.tar.gz',
+                         'http://www.lsi.upc.edu/~srlconll/conll05st-release-synt.cha.tar.gz',
+                         'http://www.lsi.upc.edu/~srlconll/conll05st-release-ne.tar.gz',
+                         'http://www.lsi.upc.edu/~srlconll/conll05st-release-senses.tar.gz',
+                         'http://www.lsi.upc.edu/~srlconll/conll05st-tests.tar.gz',
+                         'http://www.lsi.upc.edu/~srlconll/conll05st-prerelease.tar.gz',
+                         'http://www.lsi.upc.edu/~srlconll/srlconll-1.1.tgz',
+                         'http://www.lsi.upc.edu/~srlconll/srlconll-1.0.tgz',
+                         'http://www.lsi.upc.edu/~srlconll/resources/pb-frames.tar.gz'
+                       ],
+            'URL' => 'http://www.lsi.upc.edu/~srlconll/'
+          },
+          {
+            'URL' => 'http://www.nactem.ac.uk/tsujii/GENIA/ERtask/report.html',
+            'Links' => [
+                         'http://www.nactem.ac.uk/tsujii/GENIA/ERtask/Genia4ERtraining.tar.gz',
+                         'http://www.nactem.ac.uk/tsujii/GENIA/ERtask/Genia4ERtest.tar.gz',
+                         'http://www.nactem.ac.uk/tsujii/GENIA/ERtask/Genia4ERanswers.tar.gz',
+                         'http://www.nactem.ac.uk/tsujii/GENIA/ERtask/JNLPBA2004_eval.tar.gz'
+                       ],
+            'Summary' => 'Bio-Entity Recognition Task at BioNLP/NLPBA 2004. ... Results are given as F-scores using a modifies version of the <b>CoNLL</b> evaluation script and are ... <b>Downloads</b> ...'
+          }
+        ];

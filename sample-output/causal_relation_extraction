@@ -1,0 +1,10 @@
+$VAR1 = [
+          {
+            'URL' => 'https://github.com/yyxfeng/CausalRelationExtraction',
+            'Links' => [
+                         'https://github.com/yyxfeng/CausalRelationExtraction/archive/master.zip',
+                         'https://github.com/yyxfeng/CausalRelationExtraction/blob/master/MLRE.zip'
+                       ],
+            'Summary' => 'yyxfeng / CausalRelationExtraction. Code. Issues 1. ... Clone or <b>download</b>. ... data and code for <b>causal relation extraction</b>.'
+          }
+        ];

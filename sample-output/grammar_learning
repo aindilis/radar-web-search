@@ -1,0 +1,44 @@
+$VAR1 = [
+          {
+            'Summary' => 'ESSENTIAL ENGLISH GRAMMAR (learning English in ... <b>software</b> All <b>Software</b> latest This Just In Old School Emulation MS-DOS Games Historical <b>Software</b> ... <b>DOWNLOAD</b> OPTIONS',
+            'URL' => 'https://archive.org/details/EssentialEnglishGrammarlearningEnglishInTibetan',
+            'Links' => [
+                         'https://archive.org/download/EssentialEnglishGrammarlearningEnglishInTibetan/EssentialEnglishGrammarlearningEnglishInTibetan_abbyy.gz',
+                         'https://archive.org/download/EssentialEnglishGrammarlearningEnglishInTibetan/EssentialEnglishGrammarlearningEnglishInTibetan_daisy.zip',
+                         'https://archive.org/download/EssentialEnglishGrammarlearningEnglishInTibetan/EssentialEnglishGrammarlearningEnglishInTibetan_jp2.zip'
+                       ]
+          },
+          {
+            'Summary' => 'Buy Spanish Uno Premium - How to Learn Spanish - premium course',
+            'URL' => 'http://spanishuno.com/premium.asp',
+            'Links' => [
+                         'http://www.spanishuno.com/download/SpanishUno.SpanishUno.com.eng.exe'
+                       ]
+          },
+          {
+            'Links' => [
+                         'https://editlib-static.s3.amazonaws.com/css/site.css.gz',
+                         'https://editlib-static.s3.amazonaws.com/css/academicons.min.css.gz',
+                         'https://editlib-static.s3.amazonaws.com/css/abstract.css.gz'
+                       ],
+            'Summary' => 'Power Point Presentations with Sound: an Effective Tool for Managing Individual Differences in <b>Grammar Learning</b> in the English Second Language (ESL) Classroom PROCEEDINGS',
+            'URL' => 'https://www.learntechlib.org/p/20447/'
+          },
+          {
+            'URL' => 'https://www.learntechlib.org/p/23355/',
+            'Summary' => 'Previous <b>grammar learning</b> environments have made limited use of both theoretical and technological advances to date. This paper presents e-Grammar, a prototype of an assessment-based learning environment, which provides a variety of additional adaptive ... <b>download</b> Adobe Acrobat Reader. ...',
+            'Links' => [
+                         'https://editlib-static.s3.amazonaws.com/css/site.css.gz',
+                         'https://editlib-static.s3.amazonaws.com/css/academicons.min.css.gz',
+                         'https://editlib-static.s3.amazonaws.com/css/abstract.css.gz'
+                       ]
+          },
+          {
+            'URL' => 'https://www.top4download.com/learn-chinese-characters-volume-1a/download-zjmlfxrf.html',
+            'Summary' => '<b>Download</b> Learn Chinese Characters Volume 1A 1.0 free - Top4Download.com offers free <b>software</b> <b>downloads</b> for Windows, Mac, iOS and Android computers and mobile devices.',
+            'Links' => [
+                         'https://www.top4download.com/rd.html?url=http%3A%2F%2Fwww.GeorgeKung.com%2Fimages%2FLcc01A.exe',
+                         'https://www.top4download.com/rd.html?url=http%3A%2F%2Fwww.GeorgeKung.com%2Fimages%2FLcc01A.zip'
+                       ]
+          }
+        ];

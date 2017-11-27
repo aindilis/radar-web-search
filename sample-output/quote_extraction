@@ -1,0 +1,54 @@
+$VAR1 = [
+          {
+            'URL' => 'http://forum.doom9.org/showthread.php?t=170828&amp;page=31',
+            'Links' => [
+                         'http://download.videohelp.com/r0lZ/BD3D2AVS/BD3D2MK3D.7z',
+                         'http://download.videohelp.com/r0lZ/BD3D2AVS/BD3D2AVS.7z'
+                       ],
+            'Summary' => 'Page 31- BD3D2MK3D v1.2: Convert 3D BDs or MKV to 3D SBS, T&amp;B or Frame-sequential MKV (HD) DVD &amp; Blu-ray authoring'
+          },
+          {
+            'Summary' => 'This forum uses cookies. Click X button to hide this message. What is stored?',
+            'URL' => 'http://ghisler.ch/board/viewtopic.php?p=238728',
+            'Links' => [
+                         'http://bluesoft.hu/software/others/7Zip_lng_HUN.zip',
+                         'https://rapidshare.com/files/2304902422/7Zip_lng_HUN.zip'
+                       ]
+          },
+          {
+            'Links' => [
+                         'http://mkweb.bcgsc.ca/intranet/sapj/tpj/issues/vol5_3/cworkshop.zip',
+                         'http://hgdownload.cse.ucsc.edu/goldenPath/hg19/chromosomes/chr1.fa.gz',
+                         'ftp://ftp.ncbi.nih.gov/pub/taxonomy/taxdump.tar.gz'
+                       ],
+            'URL' => 'http://mkweb.bcgsc.ca/intranet/sapj/tpj/issues/vol5_3/tpj0503-0007.html',
+            'Summary' => 'For simple HTML <b>quote extraction</b>, ... Use its principles to inform how to choose from among the options offered by your <b>software</b>. ... <b>Download</b> the full list.'
+          },
+          {
+            'Links' => [
+                         'http://www.cs.biu.ac.il/~nlp/RTE1/Datasets/annotated_test.zip'
+                       ],
+            'URL' => 'https://lingpipe-blog.com/category/carps-blog/page/29/',
+            'Summary' => 'It\'s what we in the <b>software</b> business call a ... as it really has nothing to do with the <b>quote extraction</b> problem ... You can also <b>download</b> Ido Dagan et al.\'s ...'
+          },
+          {
+            'URL' => 'http://stream-recorder.com/forum/printthread.php?t=319&amp;page=9&amp;pp=10',
+            'Links' => [
+                         'http://rapidshare.com/files/181814252/2009-01-10_FairUse4WM_DRM_Fix-milOtis.zip',
+                         'http://pessoal.onda.com.br/rjamorim/FU4WMver13.zip',
+                         'http://www.webalice.it/f.corriga/misc/FU4WMver13.zip',
+                         'http://www.ex0.biz/uploads/1106/1163043340.zip'
+                       ],
+            'Summary' => '<b>Download</b> FairUse4WM ... So if people say their unDRM <b>software</b> has stopped working recently and their IBX is the 11..6000.6324 version, ...'
+          },
+          {
+            'Summary' => '<b>Download</b> FairUse4WM ... When downloading <b>software</b> from unknown sources make sure to check your <b>downloads</b> with a reliable antivirus <b>software</b> like Kaspersky Anti-Virus ...',
+            'URL' => 'http://www.stream-recorder.com/forum/printthread.php?t=319&amp;pp=40',
+            'Links' => [
+                         'http://rapidshare.com/files/181814252/2009-01-10_FairUse4WM_DRM_Fix-milOtis.zip',
+                         'http://pessoal.onda.com.br/rjamorim/FU4WMver13.zip',
+                         'http://www.webalice.it/f.corriga/misc/FU4WMver13.zip',
+                         'http://www.ex0.biz/uploads/1106/1163043340.zip'
+                       ]
+          }
+        ];

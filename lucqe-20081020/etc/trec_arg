@@ -1,0 +1,13 @@
+# Trec_Eval; Robust_Eval
+# This is the small script that perform evaluation
+# usually I name tests something like 't1'
+# then I can just pass in 't1' as argument and program will execute all the necessary commands
+# @author Neil O. Rouben
+
+/mnt/hgfs/thesis/trec_eval/trec_eval.7.0beta_linux/trec_eval -q qrels.robust2004.txt $1.result > $1.trec_eval.out
+
+/usr/java/jre1.5.0_01/bin/java -Xmx256m -cp /mnt/hgfs/thesis/lucene/aditional_src/bin com.hrstcs.trec.StatsParser $1.trec_eval.out $1.robust_eval.in
+
+/usr/java/jre1.5.0_01/bin/java -Xmx256m -cp /mnt/hgfs/thesis/lucene/aditional_src/bin com.hrstcs.trec.RobustEvalFix /mnt/hgfs/tdata/original/robust2004_eval.pl $1.result
+
+./robust2004_eval.pl $1.robust_eval.in > $1.robust_eval.out

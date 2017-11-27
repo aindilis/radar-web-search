@@ -1,0 +1,108 @@
+$VAR1 = [
+          {
+            'Summary' => 'The goal of the SERF project is to develop a generic infrastructure for <b>Entity Resolution</b> (ER). ER (also known as deduplication, or record linkage) ... <b>Software</b>. Our ...',
+            'URL' => 'http://infolab.stanford.edu/serf/',
+            'Links' => [
+                         'http://infolab.stanford.edu/serf/serf.zip'
+                       ]
+          },
+          {
+            'Summary' => 'The Berkeley NLP Group. Overview Publications <b>Software</b> Tutorials Members Comics. Berkeley <b>Entity Resolution</b> System Overview. The Berkeley <b>Entity Resolution</b> System is a system for coreference resolution, ... <b>Download</b> the models here (~1GB tgz) ...',
+            'URL' => 'http://nlp.cs.berkeley.edu/projects/entity.shtml',
+            'Links' => [
+                         'http://nlp.cs.berkeley.edu/downloads/berkeley-entity-models.tgz'
+                       ]
+          },
+          {
+            'Summary' => 'Datasources for <b>entity resolution</b> with company names ... US Patent data for 1976-2006 and assignee match to Compustat are now available on the <b>downloads</b> page.',
+            'Links' => [
+                         'http://www.nber.org/~jbessen/pdpcohdr.dta.zip',
+                         'http://www.nber.org/~jbessen/pdpcohdr.dat.zip',
+                         'http://www.nber.org/~jbessen/dynass.dta.zip',
+                         'http://www.nber.org/~jbessen/dynass.dat.zip',
+                         'http://www.nber.org/~jbessen/assignee.dta.zip',
+                         'http://www.nber.org/~jbessen/assignee.asc.zip',
+                         'http://www.nber.org/~jbessen/patassg.dta.zip',
+                         'http://www.nber.org/~jbessen/patassg.dat.zip',
+                         'http://www.nber.org/~jbessen/pat76_06_assg.dta.zip',
+                         'http://www.nber.org/~jbessen/pat76_06_assgasc.zip',
+                         'http://www.nber.org/~jbessen/pat76_06_ipc.dta.zip',
+                         'http://www.nber.org/~jbessen/pat76_06_ipcasc.zip',
+                         'http://elsa.berkeley.edu/~bhhall/pat/cite76_06.zip',
+                         'http://elsa.berkeley.edu/~bhhall/pat/orig_gen_76_06.zip'
+                       ],
+            'URL' => 'http://rawpatentdata.blogspot.com/2013/02/datasources-for-entity-resolution-with.html'
+          },
+          {
+            'Links' => [
+                         'https://archive.org/download/arxiv-1108.1631/1108.1631_abbyy.gz',
+                         'https://archive.org/download/arxiv-1108.1631/1108.1631_daisy.zip',
+                         'https://archive.org/download/arxiv-1108.1631/1108.1631_jp2.zip'
+                       ],
+            'URL' => 'https://archive.org/details/arxiv-1108.1631',
+            'Summary' => '<b>software</b> All <b>Software</b> latest This Just In Old School ... For the complex problem of <b>entity resolution</b>, ... SINGLE PAGE PROCESSED JP2 ZIP <b>download</b>. <b>download</b> 1 ...'
+          },
+          {
+            'Links' => [
+                         'https://archive.org/download/arxiv-1108.6016/1108.6016_abbyy.gz',
+                         'https://archive.org/download/arxiv-1108.6016/1108.6016_daisy.zip',
+                         'https://archive.org/download/arxiv-1108.6016/1108.6016_jp2.zip'
+                       ],
+            'URL' => 'https://archive.org/details/arxiv-1108.6016',
+            'Summary' => '<b>software</b> All <b>Software</b> latest This Just In Old School Emulation MS-DOS Games Historical <b>Software</b> Classic PC Games <b>Software</b> ... Improving <b>Entity Resolution</b> with Global Constraints ... The presented techniques are now being used in the back-end <b>entity resolution</b> system at a major Internet search ...'
+          },
+          {
+            'Links' => [
+                         'https://github.com/gregdurrett/berkeley-entity/archive/master.zip',
+                         'https://github.com/gregdurrett/berkeley-entity/blob/master/berkeley-entity-1.0.jar',
+                         'http://www.cs.utexas.edu/~gdurrett/data/gender.data.tgz',
+                         'http://people.csail.mit.edu/maestro/papers/bllip-clusters.gz'
+                       ],
+            'URL' => 'https://github.com/gregdurrett/berkeley-entity',
+            'Summary' => 'berkeley-entity - The Berkeley <b>Entity Resolution</b> System jointly solves the problems of named entity recognition, coreference resolution, and entity linking with a ...'
+          },
+          {
+            'Summary' => 'elasticsearch-<b>entity-resolution</b> - Elasticsearch <b>entity resolution</b> plugin based on Duke. Skip to content. ... <b>Downloads</b>. Source code (zip) Source code (tar.gz) ...',
+            'URL' => 'https://github.com/YannBrrd/elasticsearch-entity-resolution/releases/tag/0.3',
+            'Links' => [
+                         'https://github.com/YannBrrd/elasticsearch-entity-resolution/archive/0.5.zip',
+                         'https://github.com/YannBrrd/elasticsearch-entity-resolution/archive/0.5.tar.gz',
+                         'https://github.com/YannBrrd/elasticsearch-entity-resolution/archive/0.4.zip',
+                         'https://github.com/YannBrrd/elasticsearch-entity-resolution/archive/0.4.tar.gz',
+                         'https://github.com/YannBrrd/elasticsearch-entity-resolution/archive/0.3.zip',
+                         'https://github.com/YannBrrd/elasticsearch-entity-resolution/archive/0.3.tar.gz',
+                         'https://github.com/YannBrrd/elasticsearch-entity-resolution/archive/0.2.zip',
+                         'https://github.com/YannBrrd/elasticsearch-entity-resolution/archive/0.2.tar.gz',
+                         'https://github.com/YannBrrd/elasticsearch-entity-resolution/archive/0.1.zip',
+                         'https://github.com/YannBrrd/elasticsearch-entity-resolution/archive/0.1.tar.gz'
+                       ]
+          },
+          {
+            'Summary' => '<b>Downloads</b>. 0. <b>Downloads</b> of v 1..-beta-13. 5. Average <b>downloads</b> per day. ... Added support for new <b>Entity Resolution</b> capabilities. Thanks Steven! Owners ...',
+            'URL' => 'https://www.nuget.org/packages/Alexa.NET/1.0.0-beta-13',
+            'Links' => [
+                         'https://dist.nuget.org/win-x86-commandline/latest/nuget.exe'
+                       ]
+          },
+          {
+            'Summary' => '<b>Download</b> here. (Apologies, the publication itself if firewalled.) The export defaults to 800 x 800 resolution. ... Interesting pairing of Duke (<b>entity resolution</b>/record linkage <b>software</b> by Lars Marius Garshol) with ElasticSearch.',
+            'Links' => [
+                         'http://www.searchbox.com/named-entity-recognition-ner-in-solr/?dl=http%3A%2F%2Fcdn.searchbox.com%2Fwp-content%2Fuploads%2F2013%2F07%2Fcom-searchbox-ner-demo.zip'
+                       ],
+            'URL' => 'http://tm.durusau.net/?cat=146'
+          },
+          {
+            'Summary' => '<b>Software</b> wasn\'t available when that post was written but it is now, along with work on a GUI for the <b>software</b>. Oyster <b>Entity Resolution</b> (SourceForge). BTW, the "complete" <b>download</b> does not include the GUI.',
+            'Links' => [
+                         'http://www.searchbox.com/named-entity-recognition-ner-in-solr/?dl=http%3A%2F%2Fcdn.searchbox.com%2Fwp-content%2Fuploads%2F2013%2F07%2Fcom-searchbox-ner-demo.zip'
+                       ],
+            'URL' => 'http://tm.durusau.net/?cat=146&amp;paged=2'
+          },
+          {
+            'Links' => [
+                         'http://www.openisbn.com/download/0123819725.zip'
+                       ],
+            'URL' => 'http://www.openisbn.com/isbn/0123819725/',
+            'Summary' => 'Book information and reviews for ISBN:0123819725,<b>Entity Resolution</b> And Information Quality by John R. Talburt.'
+          }
+        ];

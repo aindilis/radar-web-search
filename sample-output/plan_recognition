@@ -1,0 +1,71 @@
+$VAR1 = [
+          {
+            'Links' => [
+                         'http://domination.sourceforge.net/maps/bigeurope.zip'
+                       ],
+            'Summary' => '21.09.2015 - New version of Domination for PC/Mac is out! ... 11.04.2013 - Jibran Khan has created a fork of Domination to focus on <b>Plan Recognition</b>, ...',
+            'URL' => 'http://domination.sourceforge.net/'
+          },
+          {
+            'Links' => [
+                         'https://archive.org/download/arxiv-cs9904009/cs9904009_abbyy.gz',
+                         'https://archive.org/download/arxiv-cs9904009/cs9904009_daisy.zip',
+                         'https://archive.org/download/arxiv-cs9904009/cs9904009_jp2.zip'
+                       ],
+            'URL' => 'https://archive.org/details/arxiv-cs9904009',
+            'Summary' => '<b>software</b> All <b>Software</b> latest This Just In Old School Emulation MS-DOS Games Historical <b>Software</b> Classic PC Games ... An ascription-based approach to speech acts ... limited by a reliance upon relatively simplistic belief modelling techniques and their relationship to planning and <b>plan recognition</b>.'
+          },
+          {
+            'Summary' => 'awesome-autonomous-vehicles ... [2014] Modeling Human <b>Plan Recognition</b> Using Bayesian Theory of Mind. ... [2007] <b>Software</b> &amp; Systems Engineering Process and Tools for the Development of Autonomous Driving Intelligence ; Human-Machine Interaction',
+            'URL' => 'https://github.com/takeitallsource/awesome-autonomous-vehicles',
+            'Links' => [
+                         'https://github.com/takeitallsource/awesome-autonomous-vehicles/archive/master.zip'
+                       ]
+          },
+          {
+            'URL' => 'http://www.cs.rochester.edu/research/epilog/',
+            'Summary' => 'Episodic Logic is a knowledge representation developed for use as a semantic theory for natural language ... More general, more effective methods of planning (and <b>plan recognition</b>); ... (The <b>software</b> for translating English to EL has been partially developed but not been connected to ...',
+            'Links' => [
+                         'http://www.cs.rochester.edu/research/epilog/EPILOG-2005-JUN-22.tgz',
+                         'ftp://ftp.cs.rochester.edu/pub/packages/knowledge-tools/tg-ii-1.tar.gz'
+                       ]
+          },
+          {
+            'Links' => [
+                         'https://www.scientific.net/Downloads/GetTtpFile?name=Template_LaTeX.zip'
+                       ],
+            'URL' => 'http://www.scientific.net/keyword/Plan_Recognition',
+            'Summary' => '<b>Downloads</b> Distributors ... <b>Plan recognition</b> is an important problem to address in order to enhance the capabilities of battlefield surveillance systems.'
+          },
+          {
+            'Links' => [
+                         'http://www.prologmoo.com/packs/logicmoo_base/release/logicmoo_base-0.0.1.tgz',
+                         'http://www.prologmoo.com/packs/logicmoo_base/release/logicmoo_base-0.0.2.tgz',
+                         'http://www.prologmoo.com/packs/logicmoo_base/release/logicmoo_base-0.0.3.tgz',
+                         'http://www.prologmoo.com/packs/logicmoo_base/release/logicmoo_base-0.0.4.tgz',
+                         'http://www.prologmoo.com/packs/logicmoo_base/release/logicmoo_base-0.0.5.tgz',
+                         'http://www.prologmoo.com/packs/logicmoo_base/release/logicmoo_base-0.0.6.tgz',
+                         'http://www.prologmoo.com/packs/logicmoo_base/release/logicmoo_base-0.0.7.tgz',
+                         'http://www.prologmoo.com/packs/logicmoo_base/release/logicmoo_base-0.0.8.tgz',
+                         'http://www.prologmoo.com/packs/logicmoo_base/release/logicmoo_base-0.0.9.tgz',
+                         'http://www.prologmoo.com/packs/logicmoo_base/release/logicmoo_base-0.0.10.tgz',
+                         'http://www.prologmoo.com/packs/logicmoo_base/release/logicmoo_base-0.0.11.tgz',
+                         'http://www.prologmoo.com/packs/logicmoo_base/release/logicmoo_base-0.0.12.tgz',
+                         'http://www.prologmoo.com/packs/logicmoo_base/release/logicmoo_base-0.0.13.tgz',
+                         'http://www.prologmoo.com/packs/logicmoo_base/release/logicmoo_base-0.0.14.tgz',
+                         'http://www.prologmoo.com/packs/logicmoo_base/release/logicmoo_base-0.0.15.tgz',
+                         'http://www.prologmoo.com/packs/logicmoo_base/release/logicmoo_base-0.0.16.tgz',
+                         'http://www.prologmoo.com/packs/logicmoo_base/release/logicmoo_base-1.0.1.tgz',
+                         'http://www.prologmoo.com/packs/logicmoo_base/release/logicmoo_base-1.1.1.tgz'
+                       ],
+            'Summary' => 'LogicMOO - Extends Prolog ... #<b>Downloads</b> URL; 0.0.1: b38820f0b4508998d1ed06584293453fff66238b: 1: ... a <b>plan recognition</b> system or a modules for NL reference ...',
+            'URL' => 'http://www.swi-prolog.org/pack/list?p=logicmoo_base'
+          },
+          {
+            'URL' => 'http://www.wowebook.pw/book/plan-activity-intent-recognition/',
+            'Summary' => '<b>Plan recognition</b>, activity recognition, ... Plan, Activity, and Intent Recognition explains the crucial role of these techniques in a wide variety of applications including: personal agent assistants; ... <b>Download</b> [19.9 MiB] You may also like... 0. 3. 0. 0. 0.',
+            'Links' => [
+                         'http://www.wowebook.pw/download/http://prefiles.com/ifjw5o5n8mq5/MK.Plan.Activity.and.Intent.Recognition.Feb.2014.rar'
+                       ]
+          }
+        ];

@@ -1,0 +1,161 @@
+$VAR1 = [
+          {
+            'Summary' => 'Within the field of <b>record linkage</b>, numerous data cleaning and standardisation techniques are employed to ensure the highest quality of links. While these facilities are common in <b>record linkage</b> <b>software</b> packages and are regularly deployed across <b>record linkage</b> units, little work has been published',
+            'URL' => 'http://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/1472-6947-13-64',
+            'Links' => [
+                         'https://static-content.springer.com/esm/art%3A10.1186%2F1472-6947-13-64/MediaObjects/12911_2013_681_MOESM1_ESM.zip'
+                       ]
+          },
+          {
+            'URL' => 'http://fril.sourceforge.net/',
+            'Links' => [
+                         'http://fril.sourceforge.net/FRIL-v2.1.5.zip'
+                       ],
+            'Summary' => 'FRIL is FREE open source tool that enables fast and easy <b>record linkage</b>. The tool extends traditional <b>record linkage</b> tools with a richer set of parameters.'
+          },
+          {
+            'Summary' => 'FRIL was developed as a part of joint project between Emory University and Centers for Disease Control ... <b>Download</b> source distribution of version 2.1.5 here ...',
+            'URL' => 'http://fril.sourceforge.net/download.html',
+            'Links' => [
+                         'http://fril.sourceforge.net/FRIL-v2.1.5.zip',
+                         'http://fril.sourceforge.net/FRIL-v2.1.5-src.zip',
+                         'http://fril.sourceforge.net/FRIL-v2.1.4.zip',
+                         'http://fril.sourceforge.net/FRIL-v2.1.4-src.zip',
+                         'http://fril.sourceforge.net/FRIL-v2.1.3.zip',
+                         'http://fril.sourceforge.net/FRIL-v2.1.3-src.zip',
+                         'http://fril.sourceforge.net/FRIL-v2.1.2.zip',
+                         'http://fril.sourceforge.net/FRIL-v2.1.2-src.zip',
+                         'http://fril.sourceforge.net/FRIL-v2.1.1.zip',
+                         'http://fril.sourceforge.net/FRIL-v2.1.1-src.zip',
+                         'http://fril.sourceforge.net/FRIL-v2.1.zip',
+                         'http://fril.sourceforge.net/FRIL-v2.1-src.zip',
+                         'http://fril.sourceforge.net/FRIL-v2.0.zip',
+                         'http://fril.sourceforge.net/FRIL-v2.0-src.zip',
+                         'http://fril.sourceforge.net/FRIL-v1.0-patch7.zip',
+                         'http://fril.sourceforge.net/FRIL-v1.0-patch7-src.zip',
+                         'http://fril.sourceforge.net/FRIL-v1.0-patch6.zip',
+                         'http://fril.sourceforge.net/FRIL-v1.0-patch6-src.zip',
+                         'http://fril.sourceforge.net/FRIL-v1.0-patch5.zip',
+                         'http://fril.sourceforge.net/FRIL-v1.0-patch5-src.zip',
+                         'http://fril.sourceforge.net/FRIL-v1.0-patch4.zip',
+                         'http://fril.sourceforge.net/FRIL-v1.0-patch4-src.zip',
+                         'http://fril.sourceforge.net/FRIL-v1.0-patch3.zip',
+                         'http://fril.sourceforge.net/FRIL-v1.0-patch3-src.zip',
+                         'http://fril.sourceforge.net/FRIL-v1.0-patch2.zip',
+                         'http://fril.sourceforge.net/FRIL-v1.0-patch2-src.zip',
+                         'http://fril.sourceforge.net/FRIL-v1.0-patch1.zip',
+                         'http://fril.sourceforge.net/FRIL-v1.0-patch1-src.zip',
+                         'http://fril.sourceforge.net/FRIL-v1.0.zip',
+                         'http://fril.sourceforge.net/FRIL-v1.0-src.zip'
+                       ]
+          },
+          {
+            'Links' => [
+                         'https://archive.org/download/arxiv-1205.3217/1205.3217_abbyy.gz',
+                         'https://archive.org/download/arxiv-1205.3217/1205.3217_daisy.zip',
+                         'https://archive.org/download/arxiv-1205.3217/1205.3217_jp2.zip'
+                       ],
+            'URL' => 'https://archive.org/details/arxiv-1205.3217',
+            'Summary' => '<b>software</b> All <b>Software</b> latest This Just In Old School Emulation MS-DOS Games Historical <b>Software</b> Classic PC Games <b>Software</b> Library. ... A Generalized Fellegi-Sunter Framework for Multiple <b>Record Linkage</b> With Application to Homicide Record Systems . by Mauricio Sadinle; ... <b>DOWNLOAD</b> OPTIONS ...'
+          },
+          {
+            'URL' => 'https://archive.org/details/pubmed-PMC4041350',
+            'Links' => [
+                         'https://archive.org/download/pubmed-PMC4041350/PMC4041350-1471-2288-14-71_abbyy.gz',
+                         'https://archive.org/download/pubmed-PMC4041350/PMC4041350-1471-2288-14-71_daisy.zip',
+                         'https://archive.org/download/pubmed-PMC4041350/PMC4041350-1471-2288-14-71_jp2.zip'
+                       ],
+            'Summary' => '<b>software</b> All <b>Software</b> latest This Just In Old School Emulation MS-DOS Games Historical <b>Software</b> Classic PC Games <b>Software</b> Library. Internet Arcade ...'
+          },
+          {
+            'Summary' => 'RecordLinkage: <b>Record Linkage</b> in R. Provides functions for linking and de-duplicating data sets. Methods based on a stochastic approach are implemented as well as ...',
+            'Links' => [
+                         'https://cran.r-project.org/src/contrib/RecordLinkage_0.4-10.tar.gz',
+                         'https://cran.r-project.org/bin/windows/contrib/3.5/RecordLinkage_0.4-10.zip',
+                         'https://cran.r-project.org/bin/windows/contrib/3.4/RecordLinkage_0.4-10.zip',
+                         'https://cran.r-project.org/bin/windows/contrib/3.3/RecordLinkage_0.4-10.zip',
+                         'https://cran.r-project.org/bin/macosx/el-capitan/contrib/3.4/RecordLinkage_0.4-10.tgz',
+                         'https://cran.r-project.org/bin/macosx/mavericks/contrib/3.3/RecordLinkage_0.4-10.tgz'
+                       ],
+            'URL' => 'https://cran.r-project.org/package=RecordLinkage'
+          },
+          {
+            'Summary' => 'BigMatch is a <b>record linkage</b> <b>software</b> that was developed for the US Census Bureau. BigMatch is a matching engine without a graphical user interface (GUI).',
+            'URL' => 'https://github.com/chapinhall/bigmatch_utilities',
+            'Links' => [
+                         'https://github.com/chapinhall/bigmatch_utilities/archive/master.zip'
+                       ]
+          },
+          {
+            'URL' => 'https://github.com/dedupeio/dedupe/releases/tag/v0.5.0.1',
+            'Links' => [
+                         'https://github.com/dedupeio/dedupe/archive/v1.6.15.zip',
+                         'https://github.com/dedupeio/dedupe/archive/v1.6.15.tar.gz',
+                         'https://github.com/dedupeio/dedupe/archive/v1.6.15_manylinux.zip',
+                         'https://github.com/dedupeio/dedupe/archive/v1.6.15_manylinux.tar.gz',
+                         'https://github.com/dedupeio/dedupe/archive/v1.6.14-freal.zip',
+                         'https://github.com/dedupeio/dedupe/archive/v1.6.14-freal.tar.gz',
+                         'https://github.com/dedupeio/dedupe/archive/v1.6.14.zip',
+                         'https://github.com/dedupeio/dedupe/archive/v1.6.14.tar.gz',
+                         'https://github.com/dedupeio/dedupe/archive/v1.6.13.zip',
+                         'https://github.com/dedupeio/dedupe/archive/v1.6.13.tar.gz',
+                         'https://github.com/dedupeio/dedupe/archive/v1.6.12.zip',
+                         'https://github.com/dedupeio/dedupe/archive/v1.6.12.tar.gz',
+                         'https://github.com/dedupeio/dedupe/archive/v1.6.11.zip',
+                         'https://github.com/dedupeio/dedupe/archive/v1.6.11.tar.gz',
+                         'https://github.com/dedupeio/dedupe/archive/v1.6.11-forreal.zip',
+                         'https://github.com/dedupeio/dedupe/archive/v1.6.11-forreal.tar.gz',
+                         'https://github.com/dedupeio/dedupe/archive/v1.6.10.zip',
+                         'https://github.com/dedupeio/dedupe/archive/v1.6.10.tar.gz',
+                         'https://github.com/dedupeio/dedupe/archive/v1.6.10-manylinux.zip',
+                         'https://github.com/dedupeio/dedupe/archive/v1.6.10-manylinux.tar.gz',
+                         'https://github.com/dedupeio/dedupe/archive/v0.5.0.1.zip',
+                         'https://github.com/dedupeio/dedupe/archive/v0.5.0.1.tar.gz'
+                       ],
+            'Summary' => '<b>Record Linkage</b> and Multiprocessing Support. <b>Downloads</b>. Source code (zip) Source code (tar.gz) Contact GitHub; API; Training; Shop; Blog; About ...'
+          },
+          {
+            'Summary' => 'Data <b>Downloads</b>. Jeremy Atack. GO. Home; ... I am currently working on a nominal <b>record linkage</b> program that will ultimately create an unbalanced panel of individual ...',
+            'URL' => 'https://my.vanderbilt.edu/jeremyatack/data-downloads/',
+            'Links' => [
+                         'https://my.vanderbilt.edu/jeremyatack/files/2016/05/RR1826-1911Modified0509161.zip',
+                         'https://my.vanderbilt.edu/jeremyatack/files/2016/02/SteamboatNavigatedRiverContigUSAprojection.zip',
+                         'https://s3.amazonaws.com/vu-my/wp-content/uploads/sites/133/2017/03/16103326/19thC_Canals_March2017.zip'
+                       ]
+          },
+          {
+            'Summary' => 'A tool to link or deduplicate small or medium sized datasets. Latest Version: 0.8.1 This <b>Record Linkage</b> Toolkit is a library to link records in or between data ...',
+            'Links' => [
+                         'https://pypi.python.org/packages/c4/98/9794d59be27c2ccc07b0f4c51369c73813784875d97ef8083fc6ee0bd0bd/recordlinkage-0.2.tar.gz'
+                       ],
+            'URL' => 'https://pypi.python.org/pypi/recordlinkage/0.2'
+          },
+          {
+            'Links' => [
+                         'https://www.scientific.net/Downloads/GetTtpFile?name=Template_LaTeX.zip'
+                       ],
+            'URL' => 'https://www.scientific.net/AMR.753-755.3018',
+            'Summary' => 'Materials Processing and Manufacturing III: A Practical Approach for Scalable <b>Record Linkage</b> on Hadoop'
+          },
+          {
+            'Links' => [
+                         'http://the-link-king.com/user_manual.zip',
+                         'http://the-link-king.com/SAMHSA.zip',
+                         'http://the-link-king.com/saspgms.zip',
+                         'http://the-link-king.com/LK_Screensaver.exe',
+                         'http://the-link-king.com/SAS_double_metaphone.zip',
+                         'http://the-link-king.com/sounds/Link_King_Demo_video.zip',
+                         'http://the-link-king.com/Install_Link_King_w_updater.exe',
+                         'http://the-link-king.com/Link_King_8_updates.zip'
+                       ],
+            'URL' => 'http://the-link-king.com/download.html',
+            'Summary' => 'Official <b>download</b> site for The Link King\'s integrated deterministic / probabilistic application for <b>record linkage</b> and unduplication.'
+          },
+          {
+            'Summary' => 'In the realm of <b>record linkage</b> and unduplication <b>software</b> (aka. dedupe <b>software</b>), The Link King reigns supreme. The Link King has fashioned a',
+            'Links' => [
+                         'http://www.the-link-king.com/sounds/Link_King_Demo_video.zip'
+                       ],
+            'URL' => 'http://www.the-link-king.com/'
+          }
+        ];
